@@ -45,27 +45,27 @@
 	</string>
 	
 	<string id="sidorovich_questlines_about_dialog_0">
-		<text>I heard you promising adventure, fame and cash. Can you help me find the Wish Granter?</text>
+		<text>당신이 모험, 명성 그리고 돈에 대해 말했지. 소원을 들어주는 자를 찾는 것 좀 도와주겠어?</text>
 	</string>
 	<string id="sidorovich_questlines_about_dialog_1">
-		<text>Sure, easy, it's up in Chernobyl. The next bus leaves in twenty minutes, hehe...
-		\nListen stalker, many people before you have come here looking to find the Wish Granter. You know what they all have in common today? They're all worm food... except maybe Strelok. In any case, the Wish Granter is just a legend, a myth. But the money I offer is real. Work hard, play smart and you'll be rich in no time.</text>
+		<text>그래, 진정해. 소원을 들어주는 자는 체르노빌에 있어. 다음 버스는 20분 후에 있다고, 헤헤...
+		\n스토커, 네가 여기 오기 전 소원을 들어주는 자를 찾기 위해 수많은 사람들이 왔었지. 지금 그들이 어떻게 되었는지 알고 있나? 모두 벌레 먹이가 되었지... 아마 스트렐록은 빼고. 어쨌든, 소원을 들어주는 자는 전설이고 신화일 뿐이다. 하지만 내가 주는 돈은 진짜야. 열심히 일하고 똑똑하게만 군다면 금방 부자가 될 거야.</text>
 	</string>
 	
 	<string id="drx_sl_esc_m_trader_game_start_dialog_1_0">
-		<text>Alright, so how do I get rich?</text>
+		<text>좋아, 그럼 어떻게 하면 부자가 될 수 있지?</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_game_start_dialog_1_1">
-		<text>Here, give me your PDA...there. If you ever find yourself struggling for work, or just want to make a little extra, go see these contacts. They pay well, and you'll make good connections along the way. It's honest work, or at least as honest as it gets in the Zone. Don't disappoint me.</text>
+		<text>여기 PDA 이리 줘봐. 만약 네가 하는 일이 잘 안 풀리거나 돈을 더 벌고 싶다면 이곳으로 가봐. 돈도 잘 주고 좋은 인맥을 만들어 줄 거야. 정직한 일이야. 아니면 적어도 존에서만큼은 정직하지. 날 실망시키지 마.</text>
 	</string>
 	
 	<!--string id="drx_sl_esc_m_trader_game_start_dialog_1_1">
-		<text>Sure easy, it's up in Chernobyl, the next bus leaves in twenty minutes, hehe... Listen stalker, there have been many people before you that have come here looking to find the Wish Granter, you know what they all have in common? They are all feeding the worms right now. The Wish Granter is just a legend, it doesn't exist. Even if it did exist do you know what your wish would be if you found it? That you never went looking for it in the first place. You want to get rich, is that it? You don't need to wish for your fortune. Someone like you can make plenty of money here in the Zone if you are smart. Here is what I will do for you; show me your PDA... Ah, there, I've loaded in a list of contacts, people here in the Zone who I know are looking to have work done. Go visit them when you are ready, some of them pay well. In the meantime, ask around camp, there is plenty of work here, heck, I even have some jobs I need done from time to time. It's an honest living, at least as honest as it gets here in the Zone.</text>
+		<text>그래, 진정해. 소원을 들어주는 자는 체르노빌에 있어. 다음 버스는 20분 후에 있다고, 헤헤... 스토커, 네가 여기 오기 전 소원을 들어주는 자를 찾기 위해 수많은 사람들이 왔었지. 지금 그들이 어떻게 되었는지 알고 있나? 모두 벌레 먹이가 되었지. 소원을 들어주는 자는 전설일 뿐이다. 존재하지 않아. 만약 존재한다고 해도 소원을 들어주는 자를 찾았을 때 네 소원이 무엇인지 말할 수는 있나? 부자가 되고 싶은 거지? 고작 그런 걸로 소원은 필요 없어. 너 같은 부류는 똑똑하게만 군다면 존에서 많은 돈을 벌 수 있지. 내가 도와주지. PDA 좀 보여줘... 아, 저기, 연락처 등록해 뒀어. 내가 알고 있는 존에 있는 사람들 중 일손이 필요한 자들이야. 준비되면 찾아가 봐, 그들 중 몇몇은 돈을 많이 줄 거야. 이곳에도 일거리가 많으니 캠프 주변 사람들에게 물어봐. 나한테 물어봐도 좋아, 나도 가끔 일손이 필요하다고. 적어도 존에서만큼은 정직하게 사는 거지.</text>
 	</string-->
 
 	<!-- SIDOROVICH STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_esc_m_trader_start_game_1_endgame_1">
-		<text>You've made quite a name for yourself around here, stalker. Wolf says some of the rookies are even whispering your tales over the campfire - haha! Thank you for all your help, and try not to die to anything stupid now.</text>
+		<text>이 근처에서 이름좀 날리셨군 스토커. 울프가 그러길 몇몇 신입들이 캠프파이어에서 네 이야기를 하고 있다고 하더군 - 하하! 네 모든 도움에 감사하지, 바보 같은 짓을 하다 죽지만 말라고.</text>
 	</string>
 
 
