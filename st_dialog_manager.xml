@@ -432,147 +432,147 @@
 		<text>도와줘, 제발... 난 죽어가고 있어...</text>
 	</string>
 	<string id="dm_help_2">
-		<text>Help me out, bro... Oh, God, it hurts!</text>
+		<text>도와줘, 형제... 오, 세상에, 아파!</text>
 	</string>
 	<string id="dm_help_3">
-		<text>Friend, medkit... Give me a medkit...</text>
+		<text>친구, 메드킷... 메드킷을 줘...</text>
 	</string>
 	<string id="dm_help_4">
-		<text>Bro... Bro, save me!</text>
+		<text>형제... 형제, 살려줘!</text>
 	</string>
 	<string id="dm_help_5">
-		<text>Friend, the first aid kit... The kit!</text>
+		<text>친구, 구급상자... 키트!</text>
 	</string>
 	<string id="dm_help_6">
-		<text>Stalker, help me... Give me a medkit...</text>
+		<text>스토커, 도와줘... 메드킷을 줘...</text>
 	</string>
 	<string id="dm_help_7">
-		<text>I'm hurt... Help!</text>
+		<text>나 다쳤어... 도와줘!</text>
 	</string>
 	<string id="dm_help_8">
-		<text>Screw this place!</text>
+		<text>제기랄!</text>
 	</string>
 	<string id="dm_help_9">
-		<text>Medkit!</text>
+		<text>메드킷!</text>
 	</string>
 	<string id="dm_help_10">
-		<text>Help, dude!</text>
+		<text>도와줘, 친구!</text>
 	</string>
 	<string id="dm_help_11">
-		<text>Medkit! Quick!</text>
+		<text>메드킷! 빨리!</text>
 	</string>
 	<string id="dm_help_12">
-		<text>Help! I'm dying!</text>
+		<text>도와줘! 죽겠어!</text>
 	</string>
 	<string id="dm_help_13">
-		<text>I need first aid, guys! Hurry up!</text>
+		<text>응급처치가 필요해, 애들아! 서둘러!</text>
 	</string>
 	<string id="dm_help_14">
-		<text>I need a medkit! Help!</text>
+		<text>구급상자가 필요해! 도와줘!</text>
 	</string>
 	<string id="dm_help_15">
-		<text>Medic!</text>
+		<text>의무병!</text>
 	</string>
 	<string id="dm_help_16">
-		<text>Hey, bro, can you share your first aid kit?</text>
+		<text>이봐, 형제, 구급상자 좀 나눠줄 수 있어?</text>
 	</string>
 	<string id="dm_help_17">
-		<text>Get me a damn doctor! Urgh, have you got a medkit? Please! I need it!</text>
+		<text>빌어먹을 의사 좀 불러와! 으으, 메드킷 있어? 제발! 난 그게 필요해!</text>
 	</string>
 
 	<!-- Anomalies -->
 	<string id="dm_anomalies_general_1">
-		<text>What do you know about anomalies or artefacts?</text>
+		<text>이상현상이나 아티팩트에 대해 무엇을 알고 있지?</text>
 	</string>
 	<string id="dm_anomalies_general_2">
-		<text>You know anything about anomalies or artefacts?</text>
+		<text>이상현상이나 아티팩트에 대해 아는 게 있나?</text>
 	</string>
 	<string id="dm_anomalies_general_3">
-		<text>What can you tell me about anomalies or artefacts?</text>
+		<text>이상현상나 아티팩트에 대해 말해 줄 수 있나?</text>
 	</string>
 	<string id="dm_anomalies_0">
-		<text>I don't feel comfortable telling you anything.</text>
+		<text>너에게 어떤 말이라도 하고 싶은 기분이 아니야.</text>
 	</string>
 	<string id="dm_anomalies_1">
-		<text>Ever seen a Burner? Even in daylight it's a faint haze. Step in it though and you'll be flame grilled before you can say "shoulda tossed a bolt".</text>
+		<text>화구를 본 적 있어? 심지어 낮인데도 희미한 연무가 낄 정도지. 그 안으로 들어가면 "볼트를 던졌어야 했는데"라고 말하기도 전에 화염에 휩싸일 거야.</text>
 	</string>
 	<string id="dm_anomalies_2">
-		<text>Comets aren't always in the night sky. The other day I saw a giant fecking fireball blazing about one of the thermal anomalies - as if thermals aren't a pain in the ass already.</text>
+		<text>혜성이 항상 밤하늘에만 있는 것은 아니야. 요전 날 나는 열 이상현상들 중 하나에서 거대한 불덩어리가 활활 타오르는 것을 보았어. 엉덩이에 닿는 열기로 인한 고통이 안 느껴질 정도로 놀라웠지.</text>
 	</string>
 	<string id="dm_anomalies_3">
-		<text>You ever seen a Vortex, man? They're damned near invisible, but one foot too close, and they'll pull you in and splatter you all over the place.</text>
+		<text>소용돌이를 본 적 있어? 가까이 있어도 보이지 눈에 보이지 않을 정도인데 한쪽 발을 가까이 넣은 것만으로도 너를 끌어당겨서 산산조각 낼 거야.</text>
 	</string>
 	<string id="dm_anomalies_4">
-		<text>If you hear humming, stop right there. It could be a Springboard - a ball of gravity ready to explode in your face if you touch it. Nasty things are just about everywhere, so keep your bolts handy.</text>
+		<text>윙윙거리는 소리가 들리면 거기서 멈춰. 그것은 도약판일 수 있어 - 만지는 순간 네 얼굴을 날려버릴 중력공이지. 위험한 것들이 도처에 널려 있으니 볼트를 항상 쥐고 있으라고.</text>
 	</string>
 	<string id="dm_anomalies_5">
-		<text>Dirt and leaves blowing about? Might not be the wind. Whirligigs are nasty gravitational anomalies, and if you get caught in one, it'll spin you round and around...until the force tears you apart.</text>
+		<text>흙과 나뭇잎이 날아다닌다고? 바람이 아닐지도 몰라. 회오리바람은 위험한 중력 이상현상이지. 만약 너가 그중 하나에 걸리면, 너를 빙글빙글 사정없이 돌게 할 거야. 그 힘이 너를 찢어지게 할 때까지</text>
 	</string>
 	<string id="dm_anomalies_6">
-		<text>The "Fruit Punch" anomaly isn't as delicious as it sounds. It'll melt your damn face off if you get too close without proper chemical protection.</text>
+		<text>"과일 화채" 이상현상은 말처럼 맛있지 않아. 제대로 된 화학 물질 보호 장치 없이 너무 가까이 다가가면 네 얼굴이 녹아버릴 거야.</text>
 	</string>
 	<string id="dm_anomalies_7">
-		<text>Don't trust the moss or vines around here, stalker. Locals call it "Burnt Fuzz" for a reason - touch it and you'll get perforated by microscopic spores.</text>
+		<text>이 근처에 있는 이끼나 덩굴은 믿지 마, 스토커. 지역 사람들은 그것을 "불탄 솜털" 이라고 부르는데, 그 이유는 그것을 만지면 미세한 포자에 의해 구멍이 뚫릴 수 있기 때문이지.</text>
 	</string>
 	<string id="dm_anomalies_8">
-		<text>Look out for green Gas anomalies floating and wandering over the ground. It's acidic, and if you end up taking a stroll into the stuff, it'll start eating away at your legs.</text>
+		<text>지상에서 떠다니는 녹색 가스 이상현상을 조심해. 산성이기 때문에, 만약 너가 그 안으로 들어가게 되면, 너의 다리를 먹어 치우기 시작할거야.</text>
 	</string>
 	<string id="dm_anomalies_9">
-		<text>Keep your eyes peeled for Gas Cloud anomalies. If you see a flying ball of acid darting around, go around or under that thing, or you'll wind up looking like a flesh.</text>
+		<text>가스 구름 이상현상한테서 눈을 떼지마. 만약 날아다니는 산 덩어리를 보게 되면, 돌아가거나 그 밑으로 지나가. 그렇지 않으면 네 피부가 고기처럼 보이게 될 거야.</text>
 	</string>
 	<string id="dm_anomalies_10">
-		<text>Scientists say that electrical anomalies take time to rebuild their charge after they go off. If you time it right, this would mean you could pass through one safely after triggering it with your bolt.</text>
+		<text>과학자들은 전기 이상현상이 일어난 후에 전하를 재충전하는 데 시간이 걸린다고 말해. 타이밍을 잘 맞추면 볼트로 발동시킨 후 안전하게 통과할 수 있어.</text>
 	</string>
 	<string id="dm_anomalies_11">
-		<text>A few days ago, I saw this giant ball of electricity - the professors at Jupiter named it the "Tesla Anomaly" after an old inventor. It travels in a set pattern, so time your movements right and it can't hurt you.</text>
+		<text>며칠 전, 나는 주피터의 교수들이 오래된 발명가의 이름을 따서 "테슬라 이상현상" 이라고 부르는 거대한 전기공을 봤어. 정해진 패턴으로 움직이기 때문에 타이밍을 잘 맞추면 다치지 않을거야.</text>
 	</string>
 	<string id="dm_anomalies_12">
-		<text>Stay away from Space Anomalies, man. It's a coin toss whether they'll teleport you somewhere useful or leave you to starve in some limbo. You'd have to be batshit crazy to take that sort of risk.</text>
+		<text>공간 이상현상을 가까이 하지마. 너를 유용한 곳으로 보낼 수도 있고 아니면 어정쩡한 곳에서 굶어 죽게 만들 수도 있어. 동전 던지기나 마찬가지야. 미치지 않고서야 그런 위험을 감수할 필요 없지.</text>
 	</string>
 	<string id="dm_anomalies_13">
-		<text>Clear Sky must've had some serious voodoo shit going on back in 2011. The way I hear it, Space Anomalies kept appearing to help them close in on this guy they were chasing. That weird or what?</text>
+		<text>클리어 스카이는 2011년에 심각할 정도로 부두교에 심취했음이 틀림없어. 내가 듣기로는, 공간 이상현싱들이 계속 나타나서 그들이 쫓고 있는 사람 가까이 근접하도록 도와줬다고 해. 이상하지 않아?</text>
 	</string>
 	<string id="dm_anomalies_14">
-		<text>Brave enough for the Red Forest? Heard the "Symbiont" anomaly field in that hellhole is practically a goldmine for artefacts. You can tell you've found it by the jagged rocks and warped trees around it. </text>
+		<text>용감하지 않으면 레드포레스트는 꿈도 꾸지 말라고? 그 지옥같은 곳에서 "공생균주" 이상현상은 사실상 아티팩트를 위한 금광이나 다름없다고 들었어. 주변의 들쭉날쭉한 바위와 뒤틀린 나무들을 보고 그 이상현상을 발견했다는 것을 알아차릴 수 있지.</text>
 	</string>
 	<string id="dm_anomalies_15">
-		<text>You know, we don't really get earthquakes in this part of the world. And then you see the aftermath of a "Fault" anomaly...a giant crack in the ground, filled with Burners or weird gravity fields. Unnerving.</text>
+		<text>알다시피, 이곳에서는 지진이 일어나지 않아. 그런데 땅에 거대한 균열이 만들고 화구와 중력장이 가득차게하는 "단층" 이상현상은 무시무시한 경험이 될거야.</text>
 	</string>
 	<string id="dm_anomalies_16">
-		<text>I pity the fools who brag about the artefacts they find over the Network. They're lucky some vile opportunist hasn't hunted them down for their loot yet.</text>
+		<text>난 방송망에서 발견한 아티팩트에 대해 자랑하는 바보들을 가엽게 생각해. 그들은 비열한 기회 주의자들에게 약탈 당하지 않은걸 행운으로 생각해야 할 거야.</text>
 	</string>
 	<string id="dm_anomalies_17">
-		<text>Gravitational anomalies - Whirligigs and the like - are absolute hell, but you can sometimes escape one if you're light enough on your feet. Just sprint and jump out like your life depends on it - it probably does.</text>
+		<text>중력 이상현상 - 회오리바람과 같은 현상들은 지옥이나 다름 없지만, 만약 네가 충분히 가볍다면 가끔 피할 수 있어. 네 목숨이 달려 있다 생각하고 전력 질주하면서 높이 뛰어. 아마 그럴 수 밖에 없겠지만.</text>
 	</string>
 	<string id="dm_anomalies_18">
-		<text>Ever heard of a Gravi? Looks like a metallic dog turd, but scientists will pay through the nose for it because of its anti-gravity effects - effects most stalkers rather wouldn't part with.</text>
+		<text>그래비라고 들어봤어? 금속 개똥처럼 생겼지만, 과학자들은 아주 비싼 값으로 사갈 거야. 왜냐하면 반중력 효과를 지니고 있기 때문이지. 스토커들은 별로 중요하게 생각하지 않거든.</text>
 	</string>
 	<string id="dm_anomalies_19">
-		<text>Always, always, ALWAYS have something on you to deal with radiation. I'm sick of watching rookies waste away because they forgot their meds, or couldn't reach a doctor...</text>
+		<text>항상, 항상, 항상, 방사능 수치를 조절 할 수 있는 무언가를 가지고 있어야해. 신참들이 약 챙기는걸 잊었거나 의사한테 가지 못해서 죽어나가는 걸 보는 게 지겨울 정도야.</text>
 	</string>
 	<string id="dm_anomalies_20">
-		<text>Apparently all those new belt devices are based off of scientific artefact studies. Still, the money for more artefacts never ends, and they don't care whether the effect is good or bad - only that it's powerful...</text>
+		<text>보아하니 이 모든 새로운 벨트 장치들은 과학적인 연구에 바탕을 두고 있는 것 같아. 과학자들의 아티팩트를 위한 지불은 계속될 거고, 그들은 부가 효과가 좋은지 나쁜지 상관하지 않아. 오직 강력한 놈을 원할 뿐이지.</text>
 	</string>
 	<string id="dm_anomalies_21">
-		<text>I've heard of rare artefacts capable of healing even fatal wounds, or of scabbing a gash up before your very eyes. If you ever find one, along with an AAM or something, it'd be best to keep it.</text>
+		<text>치명적인 상처를 치유할 수 있다던가, 눈앞에서 깊은 상처를 아물게 할 수 있는 희귀한 아티팩트가 있다는 걸 들어본 적이 있어. 만약 하나라도 찾는다면, AAM과 같은 용기에 넣어 가지고 있는 것이 가장 좋을거야.</text>
 	</string>
 	<string id="dm_anomalies_22">
-		<text>I keep hearing stories about some legendary artefact known as the "Compass". People say that if you have one, then no anomaly can touch you, let alone hurt you. I wonder if that's true?</text>
+		<text>나는 "콤파스" 라고 알려진 어떤 전설적인 아티팩트에 대한 이야기를 계속 듣고 있어. 사람들이 그러길 만약 네가 그 아티팩트를 가지고 있다면, 어떤 이상 현상도 너를 다치게 할 수 없을 거라고 해. 그게 사실일까?</text>
 	</string>
 	<string id="dm_anomalies_23">
-		<text>Just talk to the more experienced stalkers you see sitting around campfires. You'll learn everything you need to soon enough.</text>
+		<text>캠프파이어에 둘러앉아 있는 경험 많은 스토커들과 이야기해봐. 너는 필요한 모든 정보를 금방 얻게 될 거야.</text>
 	</string>
 	<string id="dm_anomalies_24">
-		<text>You want my advice? Stay away from artefacts. They're like the sweet nectar of a Venus Fly-Trap. They lure you in, then suddenly you find you're stuck in an anomaly field with no way out.</text>
+		<text>내 조언을 듣고 싶어? 아티팩트를 멀리하라. 아티팩트는 파리지옥풀의 달콤한 꿀과 같지. 너를 유인한 다음, 갑자기 탈출구도 없는 이상현상 속에 갇히게 만들거야.</text>
 	</string>
 	<string id="dm_anomalies_25">
-		<text>All I can really say is gear yourself up properly. Make sure you have enough LLCs, make sure your respirator is working, that you brought the right meds. Can't sell your treasures if you're dead now, can you?</text>
+		<text>내가 할 수 있는 말은 제대로 준비하라는 것뿐이야. 충분한 LLC를 가지고 있는지, 호흡기가 제대로 작동하는지, 적절한 약을 가지고 있는지 확인해. 죽어버린다면 보물을 팔 수 없겠지?</text>
 	</string>
 	<string id="dm_anomalies_26">
-		<text>The hardest thing about artefact hunting is starting. Once you have adequate protection and medication, all it asks for is patience, a decent detector, and lots and lots of practice.</text>
+		<text>아티팩트 사냥에서 가장 어려운 것은 시작이야. 일단 적절한 보호구와 약물을 갖추게 되면, 인내심과 좋은 탐지기, 그리고 많은 연습이 필요하게되지.</text>
 	</string>
 	<string id="dm_anomalies_27">
-		<text>Get lots of rest and take care of yourself, man. Anomalies aren't always easy to spot, so you gotta make sure you can be alert. How can you expect to evade a field of Vortexes after a night of vodka abuse?</text>
+		<text>푹 쉬고 몸조심해. 이상현상은 발견하기 쉬운 것은 아니니까 항상 경계하고 있어야 돼. 보드카를 들이 마신 후 어떻게 소용돌이 지역을 피할 수 있겠어?</text>
 	</string>
 	<string id="dm_anomalies_28">
 		<text>Do you hear the whispers? That's the Zone, talking to you. Closer to the centre, or during an emission, there are places where its voice becomes overpowering. Without psychic protection, you'll zombify for sure.</text>
