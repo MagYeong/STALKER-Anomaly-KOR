@@ -26,7 +26,7 @@
 	<!-- Sakharov (Ecologist) Default Storyline Task -->
 
 	<string id="drx_sl_yan_stalker_sakharov_default_task_name">
-		<text>다음 임무를 가져라.</text>
+		<text>다음 임무를 받기.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_default_task_text">
 		<text>당신의 다음 임무를 받아라.</text>
@@ -73,7 +73,7 @@
 		<text>사하로프 교수가 당신에게 비정상적인 이상현상 측정을 도와주는것을 물었다.\n $item_1 의 기록 결과와 함께 그에게 복귀하라.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_2_about">
-		<text>아! 난 자네가 올걸 예상했었네. 우리의 스캐너가 특정한 이상현상에서 흥미로운 판독값을 보여줘서 말일세. 그곳에 가서 좀더 자세히 조사할 경험있는 스토커가 내게 필요하네. 젊은이, 자네에게 딱맞는 장치가 내게 있네. 행운을 비네.</text>
+		<text>아! 난 자네가 올걸 예상했었네. 우리의 스캐너가 특정한 이상현상에서 흥미로운 판독값을 보여줘서 말일세. 그곳에 가서 좀더 자세히 조사할 경험있는 스토커가 내게 필요하네. 젊은이, 자네에게 딱맞는 장치가 내게 있네. 행운을 빌지.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_2_finish">
 		<text>그래, 좋았어! 고맙네 스토커, 이제야 내 연구를 시작할수 있겠어! 정말 잘했네.</text>
@@ -100,31 +100,41 @@
 
 	<string id="drx_sl_yan_stalker_sakharov_task_4_name">
 		<text>Plant the Scanner Near the Symbiont Anomaly</text>
+		심비온트 이상현상 근처에 스캐너 설치
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_text">
 		<text>Professor Sakharov wants the anomaly scanner to be planted near the Symbiont anomaly in Red Forest.</text>
+		사하로프 교수가 붉은숲 의 심비온트 이상현상 근처에다 이상현상 스캐너를 설치하길 원한다.
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_text0">
 		<text>Professor Sakharov wants the anomaly scanner to be planted near the Symbiont anomaly in Red Forest.\nGet an anomalous scanner first.</text>
+		사하로프 교수가 붉은숲 의 심비온트 이상현상 근처에다 이상현상 스캐너를 설치하길 원한다.\n먼저 이상현상 스캐너를 얻어라. 
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_text1_0">
 		<text>Professor Sakharov wants the anomaly scanner to be planted near the Symbiont anomaly in Red Forest.\nTake the scanner to the anomalous field.</text>
+		사하로프 교수가 붉은숲 의 심비온트 이상현상 근처에다 이상현상 스캐너를 설치하길 원한다.\n이상현상 지역으로 스캐너를 가져가라.
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_text1_1">
 		<text>Professor Sakharov wants the anomaly scanner to be planted near the Symbiont anomaly in Red Forest.\nTake the scanner to the anomalous field.</text>
+		사하로프 교수가 붉은숲 의 심비온트 이상현상 근처에다 이상현상 스캐너를 설치하길 원한다.\n이상현상 지역으로 스캐너를 가져가라.
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_text2">
 		<text>Professor Sakharov wants the anomaly scanner to be planted near the Symbiont anomaly in Red Forest.\nPlace the scanner.</text>
+		사하로프 교수가 붉은숲 의 심비온트 이상현상 근처에다 이상현상 스캐너를 설치하길 원한다.\n스캐너를 설치하라.
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_text3">
 		<text>Professor Sakharov wants the anomaly scanner to be planted near the Symbiont anomaly in Red Forest.\nReport on the implementation.</text>
+		사하로프 교수가 붉은숲 의 심비온트 이상현상 근처에다 이상현상 스캐너를 설치하길 원한다.\n성과 를 보고하라.
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_about">
 		<text>Splendid! Please take a look at this new scanner. We use these devices to scan anomalous acitivites during our scientific expeditions. One of the most interesting anomalies in the Zone is the Symbiont Anomaly, found deep inside the Red Forest. We want this scanner to be installed near that anomaly. It will help us to learn more about it's activity.
 		\nThe location is dangerous, but hopefully it won't be an issue for a capable stalker like you. Please install it there for me, I will gladly compensate you for your trouble.</text>
+		훌륭하군! 이 새로운 스캐너를 한번 보게. 우린 이 장치를 이용해 과학적 탐험을 위한 이상현상 활동을 조사할걸세. 그중 존에서 가장 흥미로운 이상현상들이 바로 붉은 숲 깊은 곳에서 발견된 심비온트 이상현상 이지. 우린 이 스캐너를 그 이상현상 근처에 설치하길 원하네. 그럼 그 활동으로 부터 우리가 연구하는데 도움을 줄수 있겠지.
+		그 장소는 위험하지만, 바라건대 자네같이 걸맞은 스토커에겐 큰 문제가 아니겠지. 부디 날 위해 그걸 설치해주게, 그럼 자네에게 들어간 수고를 내 기꺼이 보상해주겠네.
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_finish">
 		<text>Thank you! Now we can study that phenomenon!</text>
+		고맙네! 이제 우리가 그 현상을 연구할수 있겠어!
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
