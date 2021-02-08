@@ -214,19 +214,19 @@
 
 	<!-- SULTAN STORYLINE START GAME 1 DIALOG -->
 	<string id="drx_sl_start_msg_bandit">
-		<text>Let me remind you that we're running a business in this place. If you wanna stick your ass around, you'll work for me. Come over here to spoil you the details.</text>
+		<text>우리는 이곳에서 사업을 하고 있지. 여기서 빈둥거리지말고 날 위해 일하게. 이리로 오면 자세한 이야기를 해주지.</text>
 	</string>
 	
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_game_start_dialog_1_0">
-		<text>You want me to work for you? What's in it for me?</text>
+		<text>당신을 위해 일해라고? 난 무엇을 얻을 수 있지?</text>
 	</string>
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_game_start_dialog_1_1">
-		<text>There are people here in the Zone who need things done for them. Some of these things cannot be done, shall we say; inside of regular channels. So they come to me. I arrange to take care of business for them and in return I expect them to pay me a very hefty sum. I will give you a list of these people. Go to them, do what they ask, and collect the payment. All I require is you give me 20 percent of what they pay when you are finished. Any money you make on the side while you're out there is yours to keep. Good deal, yes? It's more money than you would make pick-pocketing and looting stashes and sticking up rookies I guarantee. Just don't double-cross me, understand? I know everyone in this place, and they can be very motivated to make examples of anyone who tries to rip me off. Now get out of my sight. I have some important business to attend to.</text>
+		<text>존에는 일손이 필요한 사람들이 있다. 이런 일들 중 일부는 일반적인 방법으로 이루어질 수 없지. 그래서 그들은 나에게 온다. 나는 그들을 위해 일을 처리할 것을 약속하고 그 대가로 나에게 매우 많은 돈을 지불하지. 이 사람들의 명단을 주겠다. 그들에게 가서 요구를 들어주고 보수를 받아라. 내가 요구하는 것은 네가 일을 마치면 그들이 지불하는 것의 20퍼센트를 내게 주는 것이다. 밖에 나가 있는 동안 부업으로 버는 돈은 모두 네 것이다. 좋은 거래지 않나, 그렇지? 내가 보증하건대 풋내기를 경호하거나, 소매치기, 약탈하는 것보다 더 많은 돈을 벌 수 있어. 날 배신하지만 마, 알겠지? 나는 이곳에 있는 모든 사람들을 알고 있어. 그리고 그들은 나를 속이려는 사람이 어떻게 되는지 사례를 만들기 위해 혈안이 될거야. 이제 내 눈앞에서 사라져. 다른 중요한 볼일이 있어.</text>
 	</string>
 
 	<!-- SULTAN STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_zat_b7_bandit_boss_sultan_start_game_1_endgame_1">
-		<text>Wadda you want? .. *hic* .. Oh, itz you .. *hic* .. I know you. Hey, didja do that thing I wanted for ya to do? Ahhh, I knew you wouldn't let me down buddy, you're always buddy .. *hic* .. Here, join me inna drink.. inna.. where'z my bottle? .. *hic* .. It'z a celelelebration! Cus I'm gonna be rizssh! .. *hic* .. See, I just found out something that nobody else knows, but shzzh, you gotta keep it quiet, ok? Cuz if anyone elses knowz then they might beat me to it. See, now that the Brain Szzcortcher .. *hic* .. has been deactivated the path to the Wizzsh Granter is open. All I gotta do is fight my way through a few Monolith pricks and then it's the sweet life for me. I'm gonna wish for all kindsa money, and booze, and guns, and booze, and puzzzshh .. *hic* .. eey. Ya know what it mean, hehe .. *hic* .. So lizzen, just don't go tellin' no one what I juz been tellin' you about, okee? Cuz I'm gonna get there first and I'm gonna be rizssh bizssh!!</text>
+		<text>원하는게 뭐야? 어, 너는.. *딸꾹*.. 난 너를 알지. 어이, 내가 하라는 대로 했어? 날 실망시키지 않을 줄 알았어. 넌 동료니까. *딸꾹*.. 자, 나랑 같이 적시자. 내 병이 어디로 갔지? 축하할 일이야! 왜냐면 난 부자가 될 거기 때문이지! *딸꾹*.. 아무도 모르는 걸 방금 알아낸게 있지. 쉬쉬, 조용히 해, 알았지? 다른 사람이 알면 날 패버릴지도 모르니까. 브레인 스코처... *딸꾹*.. 비활성화되었지. 소원들 들어주는 자로 가는 길이 열렸다. 내가 해야 할 일은 몇몇의 모노리스 멍철이들을 지나 내 길을 가는 것 뿐이고 그리고 그일은 아주 달콤한 인생이 될거야. 난 소원으로 모든 종류의 돈, 술, 총, 술, 그리고 여자를 달라 할거야.  *딸꾹*.. 무슨 뜻인지 알지, 헤헤.. *딸꾹*.. 내가 너한테 한 말 아무한테도 말하지 마, 알았어? 왜냐면 내가 먼저 도착해서 부자가 될거니까!!</text>
 	</string>
 
 
