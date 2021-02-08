@@ -15,27 +15,27 @@
 
 	<!-- ACTOR:  Meets honcho after being sent by another honcho: -->
 	<string id="st_drx_sl_meet_honcho">
-		<text>I've come to see you.</text>
+		<text>당신을 만나러 왔어.</text>
 	</string>
 
 	<!-- ACTOR:  Accepts storyline task from honcho: -->
 	<string id="st_drx_sl_accept_task">
-		<text>Very well.</text>
+		<text>좋아.</text>
 	</string>
 
 	<!-- HONCHO:  Affirmation of task acceptance: -->
 	<string id="st_drx_sl_task_accepted">
-		<text>Good luck stalker.</text>
+		<text>행운을 비네 스토커.</text>
 	</string>
 
 	<!-- ACTOR:  Leaves honcho: -->
 	<string id="st_drx_sl_actor_exit">
-		<text>Thanks.</text>
+		<text>고마워.</text>
 	</string>
 
 	<!-- DEFAULT END GAME TEXT: -->
 	<string id="drx_sl_default_endgame">
-		<text>The Wish Granter is calling you, and your time is nearing its end. Go to it, and you'll be given what you deserve.</text>
+		<text>소원을 들어주는 자가 당신을 부르고 있고 당신의 시간은 거의 끝나가고 있습니다. 가세요, 당신의 자격에 맞는 것을 받게 될 것입니다.</text>
 	</string>
 
 
@@ -71,26 +71,26 @@
 
 	<!-- PETRENKO STORYLINE START GAME 1 DIALOG -->
 	<string id="drx_sl_start_msg_dolg">
-		<text>An important task is available. I need brave volunteers to report to Colonel Petrenko and receive further orders.</text>
+		<text>중요한 임무가 있다. 페트렌코 대령에게 보고하고 추가 지시를 받아올 용감한 지원자가 필요하다.</text>
 	</string>
 	
 	<string id="petrenko_questlines_about_dialog_0">
-		<text>Ready and able, Sir. What are your orders?</text>
+		<text>준비됐습니다. 임무는 무엇입니까?</text>
 	</string>
 	<string id="petrenko_questlines_about_dialog_1">
-		<text>Duty's current priorities are twofold. Firstly, we need volunteers to carry out a list of important missions and fulfil our obligation to aid those who count on our assistance. Secondly, we have reason to believe an influential stalker has returned, and the General wants brave men to track him down. You can speak to me for details about our first priority, and to General Voronin about our second one.</text>
+		<text>듀티의 현재 우선순위는 두 가지이다. 첫째, 중요한 임무를 수행하고 우리에게 의지하는 사람들을 도울 의무를 이행할 지원자를 선발하는 것. 둘째, 영향력 있는 스토커가 돌아왔고 보로닌 장군이 그를 추적하기를 원한다는 것. 첫 번째 우선순위에 대한 자세한 내용은 나한테 들을 수 있고 두 번째 우선순위에 대해서는 보로닌 장군에게 들을 수 있다.</text>
 	</string>
 	
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_game_start_dialog_1_0">
-		<text>I'm ready to help fulfil Duty's obligations. Who needs our help?</text>
+		<text>저는 듀티의 의무를 이행하는 것을 도울 준비가 되어 있습니다. 저의 도움이 필요한 곳은 어디입니까?</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_game_start_dialog_1_1">
-		<text>I will transfer all relevant info to your PDA. You have our faith, soldier. You have shouldered a great responsibility. Bear it well.</text>
+		<text>모든 관련 정보를 PDA로 전송하겠다. 우리는 너를 믿고 있다. 너는 큰 책임을 짊어졌다. 잘 이겨내라.</text>
 	</string>
 
 	<!-- PETRENKO STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_start_game_1_endgame_1">
-		<text>Your stalwart fulfilment of your duties is admirable. However, while we are stemming the tide of the Zone's horrors, we're still far away from making it disappear for good. For now, continue to protect the innocent from the Zone as you see fit. When the opportunity to end the Zone entirely presents itself, I trust you won't hesitate in making the right choice.</text>
+		<text>그대가 맡은 바 임무를 충실히 이행한 것에 대해 존경을 표한다. 우리가 존의 공포를 저지하고 있지만, 존이 영원히 사라지게 하기 위해서는 여전히 갈 길이 멀다. 당장은 존으로부터 무고한 사람들을 계속 보호해라. 존을 끝낼 수 있는 기회가 자신에게 주어졌을 때, 나는 그대가 올바른 선택을 하는데 주저하지 않을 것이라고 믿는다.</text>
 	</string>
 
 
