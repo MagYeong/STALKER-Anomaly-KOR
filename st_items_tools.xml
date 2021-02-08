@@ -13,13 +13,13 @@
 		<text>Basic tools</text>
 	</string>
 	<string id="st_itm_basickit_descr">
-		<text>A basic repair toolkit. Unlikely to be suitable for advanced maintenance, but they could be useful in the hands of a thrifty technician. Contains different types and sizes of pliers, screws, adhesives and assorted fasteners. With enough knowledge and experience, this kit can be used for the creation of basic equipment.\n \n
-		%c[ui_gray_3]NOTES:\n
-		%c[0,250,250,0] � %c[ui_gray_2] A technician could use these to fully modify weapons and armour.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_purple] � %c[ui_gray_2] usable on mechanic's workshop for crafting\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_red] � %c[ui_gray_2] requires suitable materials\n</text>
+		<text>기본 수리작업용 도구입니다. 고급 기술을 요구하는 수리 작업에는 적합하지 않지만, 당장 쓸만한 도구가 없는 기술자의 손에 들어가면 유용하게 쓰일 것입니다. 다양한 종류와 크기의 펜치, 드라이버, 접착제와 분류된 조임쇠들로 구성되어 있습니다. 충분한 지식과 경험이 있다면, 이 키트는 기본적인 도구들을 만드는 데 사용할 수 있습니다.\n \n
+		%c[ui_gray_3]특이사항:\n
+		%c[0,250,250,0] • %c[ui_gray_2]기술자가 무기와 방어구를 완전히 개조하기 위해 사용 가능함.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_purple] • %c[ui_gray_2]기술자의 작업장에서 제작하는 데 사용함\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_red] • %c[ui_gray_2] 알맞은 재료가 필요함\n</text>
 	</string>
 
 	<string id="st_itm_repairkit_tier_2_name">
@@ -29,13 +29,13 @@
 		<text>Advanced tools</text>
 	</string>
 	<string id="st_itm_advancedkit_descr">
-		<text>A decent set of old tools, but despite their age they appear to be in good condition. Contains a handful set of small pliers, tipped tweezers, probe and pick set. With enough knowledge and experience, this kit can be used for the creation of better equipment.\n \n
-		%c[ui_gray_3]NOTES:\n
-		%c[0,250,250,0] � %c[ui_gray_2] A technician could use these to fully modify weapons and armour.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_purple] � %c[ui_gray_2] usable on mechanic's workshop for crafting\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_red] � %c[ui_gray_2] requires suitable materials\n</text>
+		<text>일반적인 오래된 도구 한 세트이나, 그럼에도 상당히 좋은 상태로 남아 있습니다. 작은 펜치, 뾰족한 핀섹, 탐침과 뾰족한 막대기 등의 유용한 도구 세트가 포함되어 있습니다. 충분한 지식과 경험이 있다면, 이 키트는 좋은 장비를 만드는 데 사용할 수 있습니다.\n \n
+		%c[ui_gray_3]특이사항:\n
+		%c[0,250,250,0] • %c[ui_gray_2]기술자가 무기와 방어구를 완전히 개조하기 위해 사용 가능함.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_purple] • %c[ui_gray_2]기술자의 작업장에서 제작하는 데 사용함\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_red] • %c[ui_gray_2] 알맞은 재료가 필요함\n</text>
 	</string>
 	
 	<string id="st_itm_repairkit_tier_3_name">
@@ -45,107 +45,107 @@
 		<text>Expert tools</text>
 	</string>
 	<string id="st_itm_expertkit_descr">
-		<text>A professional set of high quality tools for fine-tuning equipment. Contains drill bit set, precision tweezers, soldiering iron, 4 mm Screwdriver bits and a multimeter. With enough knowledge and experience, this kit can be used for the creation of advanced equipment.\n \n
-		%c[ui_gray_3]NOTES:\n
-		%c[0,250,250,0] � %c[ui_gray_2] A technician could use these to fully modify weapons and armour.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_purple] � %c[ui_gray_2] usable on mechanic's workshop for crafting\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_red] � %c[ui_gray_2] requires suitable materials\n</text>
+		<text>장비를 정밀하게 튜닝하는 데 사용하는 고급 도구들로 이루어진 전문가용 작업 도구입니다. 드릴 날 세트, 정밀한 집게, 납땜용 인두, 4mm 스크류드라이버 날과 전류 측정기로 구성되어 있습니다. 충분한 지식과 경험이 있으면, 고급 장비들을 만들어내는데 사용할 수 있습니다.\n \n
+		%c[ui_gray_3]특이사항:\n
+		%c[0,250,250,0] • %c[ui_gray_2]기술자가 무기와 방어구를 완전히 개조하기 위해 사용 가능함.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_purple] • %c[ui_gray_2]기술자의 작업장에서 제작하는 데 사용함\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_red] • %c[ui_gray_2] 알맞은 재료가 필요함\n</text>
 	</string>
 	
 	<string id="st_itm_drugkit">
 		<text>Drug-making kit</text>
 	</string>
 	<string id="st_itm_drugkit_descr">
-		<text>Small cases and various metal objects constitute a kit for managing and producing drugs. Contains some plastic packages, tablets and ampoules.\n \n
-		%c[ui_gray_3]NOTES:\n
-		%c[0,250,250,0] � %c[ui_gray_2] A medic could use these in making drugs and medicine.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_purple] � %c[ui_gray_2] usable on mechanic's workshop for crafting\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_red] � %c[ui_gray_2] requires suitable materials\n</text>
+		<text>약물을 관리하거나 만들어내는 작은 상자와 다양한 금속 부품들로 만들어진 키트입니다. 몇 개의 플라스틱 패키지, 정제와 앰플로 구성되어 있습니다.\n \n
+		%c[ui_gray_3]특이 사항:\n
+		%c[0,250,250,0] • %c[ui_gray_2] 의사가 약물이나 약품을 만드는 데 사용 가능함.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_purple] • %c[ui_gray_2]기술자의 작업장에서 제작하는 데 사용함\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_red] • %c[ui_gray_2] 알맞은 재료가 필요함\n</text>
 	</string>
 	
 	<string id="st_itm_ammokit">
 		<text>Gunsmithing tools</text>
 	</string>
 	<string id="st_itm_ammokit_descr">
-		<text>A decent set of old gunsmithing tools and accessories. Contains a pin punch set, wheeler hammer, press tool and a black powder measure kit. With enough knowledge and experience, this kit can be used for recycling damaged ammunition and the creation of better variants.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_purple] � %c[ui_gray_2] usable on mechanic's workshop for crafting\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_red] � %c[ui_gray_2] requires suitable materials\n</text>
+		<text>낡은 총기제조 도구들과 부속품들로 구성된 일반적인 도구 한 세트입니다. 핀을 밀어내는 도구 세트, 휠러 해머, 압착 도구와 화약 측정 키트로 구성되어 있습니다. 충분한 지식과 경험이 있으면, 이 키트는 파손된 탄약을 재활용하여 더 나은 탄종을 만들어내는 데 사용할 수 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_purple] • %c[ui_gray_2]기술자의 작업장에서 제작하는 데 사용함\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_red] • %c[ui_gray_2] 알맞은 재료가 필요함\n</text>
 	</string>
 	
 	<string id="st_binocular_name">
 		<text>Military binoculars</text>
 	</string>
 	<string id="st_binocular_descr">
-		<text>Standard Ukrainian-issue military binoculars. Useful in the Zone in that they allow its owner to observe things from a distance. Very durable.\n</text>
+		<text>우크라이나 군대의 제식 쌍안경입니다. 존에서 먼 곳에 있는 사물을 관찰하는 데 유용합니다. 매우 튼튼합니다.</text>
 	</string>
 	
 	<string id="st_con_checker_name">
 		<text>Paper of equipment condition</text>
 	</string>
 	<string id="st_con_checker_descr">
-		<text>A scrap of paper with your equipment condition written on it.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_orange] � %c[ui_gray_2] usable for: %c[ui_gray_1] equipment condition assessment\n</text>
+		<text>장비의 상태가 적혀 있는 종이 쪽지입니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 일상 용품\n
+		%c[d_orange] • %c[ui_gray_2] 용도: %c[ui_gray_1] 장비 상태 확인\n</text>
 	</string>
 	
 	<string id="st_container_tool_name">
 		<text>Artefact handling tool</text>
 	</string>
 	<string id="st_container_tool_descr">
-		<text>Tongs made from hardened steel, intended exclusively for handling artefacts. Due to specific mechanics of operation, there is no other way of removing an artefact from containers. The tongs will also let you avoid burns that normally follow touching an artefact with bare hands; they will not, however, protect you from effects of artefacts on your psyche and neural system. No true artefact hunter in the Zone ever leaves the base without a similar tool.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[ui_white] � %c[ui_gray_2] usable for handling artefacts\n
-		%c[ui_white] � %c[ui_gray_2] essential for manipulating contents of artefact storage devices\n</text>
+		<text>튼튼한 강철로 만들어진 집게로, 아티팩트를 집어올리기 위해 만들어졌습니다. 특수한 작동 방법을 채택했기 때문에, 컨테이너에서 아티팩트를 꺼낼 수 있는 다른 방법은 없습니다. 집게는 아티팩트를 맨손으로 잡을 때 화상입는 것을 피하게 만들어주기도 하지만, 아티팩트로 인한 정신 및 신경계의 영향은 막아주지 않습니다. 존에서 돌아다니는 진정한 아티팩트 사냥꾼들이 이와 유사한 도구 없이 거점에서 떠나는 경우는 거의 없습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[ui_white] • %c[ui_gray_2] 아티팩트를 집어드는 데 사용함\n
+		%c[ui_white] • %c[ui_gray_2] 아티팩트 저장 장치의 내용물을 꺼내는 데 필수적임\n</text>
 	</string>
 	
 	<string id="st_lead_box_name">
 		<text>Lead-lined metal container (empty)</text>
 	</string>
 	<string id="st_lead_box_descr">
-		<text>The lead-lined metal container (LLMC) is a simple metal box with thick walls and foam inserts as well as a heavy lid with pressure-sealing mechanism. Specifically designed for transporting radioactive materials, in the Zone LLMC is most commonly employed as artefact storage and transportation device. It stops all radiation from leaking, thus ensuring safety of the user when in possession of artefacts. However, the device cannot be attached to the belt, which means that both positive and negative properties of artefacts won't apply.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[ui_white] � %c[ui_gray_2] artefact storage device\n
-		%c[ui_white] � %c[ui_gray_2] capacity: %c[ui_gray_1] 1\n
-		%c[ui_white] � %c[ui_gray_2] state: %c[ui_gray_1] empty\n \n
-		%c[d_red]WARNING:\n \n
-		%c[default]You have to remove artefacts from the container prior to selling them.\n</text>
+		<text>납 내장식 금속 컨테이너 (LLMC)는 두꺼운 외벽과 압축 코팅 방식을 사용한 무거운 뚜껑과 함께 거품식 완충 구조로 되어 있는 단순한 금속 상자입니다. 방사능 물질을 운반하기 위한 특수한 설계를 바탕으로, 존에서 LLMC는 아티팩트 저장 및 운반 장비들 중 가장 흔하게 채용됩니다. 이 물건은 방사능이 새는 것을 모두 막아주기 때문에, 아티팩트를 가지고 다녀도 사용자가 방사능 및 으로부터 안전해지는 것을 보장해 줍니다. 하지만, 이 장치는 벨트에 장착할 수 없으므로, 아티팩트로 인한 긍정적인 효과나 부정적인 효과들은 모두 적용되지 않습니다. 내용물들은 아티팩트 집게로 다룰 수 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[ui_white] • %c[ui_gray_2] 아티팩트 저장 장치\n
+		%c[ui_white] • %c[ui_gray_2] 용량: %c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] 상태: %c[ui_gray_1] 비어있음\n \n
+		%c[d_red]경고:\n \n
+		%c[default]물건을 팔기 전에 컨테이너로부터 아티팩트를 꺼내야 합니다.\n</text>
 	</string>
 	
 	<string id="st_lead_box_half_name">
 		<text>Lead-lined metal container (half-filled)</text>
 	</string>
 	<string id="st_lead_box_half_descr">
-		<text>The lead-lined metal container (LLMC) is a simple metal box with thick walls and foam inserts as well as a heavy lid with pressure-sealing mechanism. Specifically designed for transporting radioactive materials, in the Zone LLMC is most commonly employed as artefact storage and transportation device. It stops all radiation from leaking, thus ensuring safety of the user when in possession of artefacts. However, the device cannot be attached to the belt, which means that both positive and negative properties of artefacts won't apply.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[ui_white] � %c[ui_gray_2] artefact storage device\n
-		%c[ui_white] � %c[ui_gray_2] capacity: %c[ui_gray_1] 1\n
-		%c[ui_white] � %c[ui_gray_2] state: %c[ui_gray_1] 50% full\n \n
-		%c[d_red]WARNING:\n \n
-		%c[default]You have to remove artefacts from the container prior to selling them.\n</text>
+		<text>납 내장식 금속 컨테이너 (LLMC)는 두꺼운 외벽과 압축 코팅 방식을 사용한 무거운 뚜껑과 함께 거품식 완충 구조로 되어 있는 단순한 금속 상자입니다. 방사능 물질을 운반하기 위한 특수한 설계를 바탕으로, 존에서 LLMC는 아티팩트 저장 및 운반 장비들 중 가장 흔하게 채용됩니다. 이 물건은 방사능이 새는 것을 모두 막아주기 때문에, 아티팩트를 가지고 다녀도 사용자가 방사능 및 으로부터 안전해지는 것을 보장해 줍니다. 하지만, 이 장치는 벨트에 장착할 수 없으므로, 아티팩트로 인한 긍정적인 효과나 부정적인 효과들은 모두 적용되지 않습니다. 내용물들은 아티팩트 집게로 다룰 수 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[ui_white] • %c[ui_gray_2] 아티팩트 저장 장치\n
+		%c[ui_white] • %c[ui_gray_2] 용량: %c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] 상태: %c[ui_gray_1] 50% 참\n \n
+		%c[d_red]경고:\n \n
+		%c[default]물건을 팔기 전에 컨테이너로부터 아티팩트를 꺼내야 합니다.\n</text>
 	</string>
 	
 	<string id="st_lead_box_closed_name">
 		<text>Lead-lined metal container (full)</text>
 	</string>
 	<string id="st_lead_box_closed_descr">
-		<text>The lead-lined metal container (LLMC) is a simple metal box with thick walls and foam inserts as well as a heavy lid with pressure-sealing mechanism. Specifically designed for transporting radioactive materials, in the Zone LLMC is most commonly employed as artefact storage and transportation device. It stops all radiation from leaking, thus ensuring safety of the user when in possession of artefacts. However, the device cannot be attached to the belt, which means that both positive and negative properties of artefacts won't apply.\n \n
+		<text>납 내장식 금속 컨테이너 (LLMC)는 두꺼운 외벽과 압축 코팅 방식을 사용한 무거운 뚜껑과 함께 거품식 완충 구조로 되어 있는 단순한 금속 상자입니다. 방사능 물질을 운반하기 위한 특수한 설계를 바탕으로, 존에서 LLMC는 아티팩트 저장 및 운반 장비들 중 가장 흔하게 채용됩니다. 이 물건은 방사능이 새는 것을 모두 막아주기 때문에, 아티팩트를 가지고 다녀도 사용자가 방사능 및 으로부터 안전해지는 것을 보장해 줍니다. 하지만, 이 장치는 벨트에 장착할 수 없으므로, 아티팩트로 인한 긍정적인 효과나 부정적인 효과들은 모두 적용되지 않습니다. 내용물들은 아티팩트 집게로 다룰 수 있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[ui_white] � %c[ui_gray_2] artefact storage device\n
-		%c[ui_white] � %c[ui_gray_2] capacity: %c[ui_gray_1] 1\n
-		%c[ui_white] � %c[ui_gray_2] state: %c[ui_gray_1] full\n \n
+		%c[d_blue] • %c[ui_gray_2] technological item\n
+		%c[ui_white] • %c[ui_gray_2] artefact storage device\n
+		%c[ui_white] • %c[ui_gray_2] capacity: %c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] state: %c[ui_gray_1] full\n \n
 		%c[d_red]WARNING:\n \n
 		%c[default]You have to remove artefacts from the container prior to selling them.\n</text>
 	</string>
@@ -156,8 +156,8 @@
 	<string id="st_crowbar_descr">
 		<text>The best tool for opening locks and unhinging doors. A common find in industrial areas. Some stalkers for reasons unknown keep it in their inventories in spite of its heavy weight. Low value. There was a famous Stalker who carried around a unique crowbar with the inscription saying "Property of Black Mesa". It is sought after to such an extent that some stalkers are searching for it as if they were looking for rare and valuable artefacts.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_orange] � %c[ui_gray_2] unlimited usages</text>
+		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[d_orange] • %c[ui_gray_2] unlimited usages</text>
 	</string>
 	
 	<string id="st_bolts_pack">
@@ -166,8 +166,8 @@
 	<string id="st_bolts_pack_descr">
 		<text>Because bolts are cheap and common, they are used as a cheap alternative for anomalies navigation. Small packs that contains a handful amount of bolts and empty bullets can always be found at traders and merchants.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_orange] � %c[ui_gray_2] contains 20 to 30 bolts\n</text>
+		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[d_orange] • %c[ui_gray_2] contains 20 to 30 bolts\n</text>
 	</string>
 	
 	
@@ -177,8 +177,8 @@
 	<string id="st_swiss_descr">
 		<text>Want to open cans of food, keep your mechanical gear tight, cut ropes or sharpen your best bullets? Use the universal and elegant Swiss knife. Packed in a small box. Commonly found in the Zone, so it is of little value. However, it can be utilised as a supportive material in both weapon and outfit repairs.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_purple] � %c[ui_gray_2] disassembling tool\n
+		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[d_purple] • %c[ui_gray_2] disassembling tool\n
 		</text>
 	</string>
 	
@@ -188,8 +188,8 @@
 	<string id="st_grooming_descr">
 		<text>Grooming kit that packs a ballistic nylon travel case with a beard and moustache comb and detail facial scissors, featuring man-sized finger rings, ultra-sharp cutting blades of stainless steel, non-slip rubberised grip, and a precision trimming tip.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_purple] � %c[ui_gray_2] disassembling tool\n
+		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[d_purple] • %c[ui_gray_2] disassembling tool\n
 		</text>
 	</string>
 	
@@ -199,9 +199,9 @@
 	<string id="st_drugs_kit_descr">
 		<text>Small cases and various metal objects constitute a kit for managing and producing drugs. Some plastic bags contain pills and herbs.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_red] � %c[ui_gray_2] unusable\n</text>
+		%c[d_blue] • %c[ui_gray_2] technological item\n
+		%c[d_blue] • %c[ui_gray_2] valuable\n
+		%c[d_red] • %c[ui_gray_2] unusable\n</text>
 	</string>
 	
 	<string id="st_itm_sleepbag_name">
@@ -212,9 +212,9 @@
 		%c[d_cyan]WARNING:\n \n
 		%c[ui_gray_1]Sleeping in the open may attract predators. Does not protect from radiation.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] sets up portable bed\n
-		%c[d_blue] � %c[ui_gray_2] infinite usages\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n</text>
+		%c[d_blue] • %c[ui_gray_2] sets up portable bed\n
+		%c[d_blue] • %c[ui_gray_2] infinite usages\n
+		%c[d_blue] • %c[ui_gray_2] everyday item\n</text>
 	</string>
 	
 	<string id="st_compression_bag">
@@ -223,8 +223,8 @@
 	<string id="st_compression_bag_descr">
 		<text>Holds a small sleeping bag or a small number of clothes\n \n
 		%c[ui_gray_2] PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] use near unrolled sleeping bag to pack it up\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n</text>
+		%c[d_blue] • %c[ui_gray_2] use near unrolled sleeping bag to pack it up\n
+		%c[d_blue] • %c[ui_gray_2] everyday item\n</text>
 	</string>
 	
 	<string id="st_itm_tent_bag">
@@ -233,9 +233,9 @@
 	<string id="st_itm_tent_bag_descr">
 		<text>A bag, intended for the storage and transportation of a camping tent. Disassembly and packing takes some time.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_orange] � %c[ui_gray_2] used for packing a tent\n
-		%c[d_blue] � %c[ui_gray_2] unlimited usages\n</text>
+		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[d_orange] • %c[ui_gray_2] used for packing a tent\n
+		%c[d_blue] • %c[ui_gray_2] unlimited usages\n</text>
 	</string>
 
 	<string id="st_itm_tent_name">
@@ -244,9 +244,9 @@
 	<string id="st_itm_tent_descr">
 		<text>A bag containing a tent for camping, sheltering from rain and wind. Assembly and installation takes some time. In the Zone, it is best deployed in a place with escape routes in case of danger.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_orange] � %c[ui_gray_2] used for deploying tent\n
-		%c[d_blue] � %c[ui_gray_2] unlimited usages\n</text>
+		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[d_orange] • %c[ui_gray_2] used for deploying tent\n
+		%c[d_blue] • %c[ui_gray_2] unlimited usages\n</text>
 	</string>
 	
 	<string id="st_lighter">
@@ -255,13 +255,13 @@
 	<string id="st_lighter_descr">
 		<text>A reliable, water-proof source of fire in the Zone is essential not only for cooking meals, but also for lighting a smoke or something stronger before - knock on wood - a fight with a controller. This durable and robust metal gas lighter is a perfect choice in light of the Zone's toxic and harmful environment.\n \n
 		%c[ui_gray_3]PROPERTIES: \n
-		%c[d_orange] � %c[ui_gray_2] usable for: %c[ui_gray_1] cooking, smoking\n</text>
+		%c[d_orange] • %c[ui_gray_2] usable for: %c[ui_gray_1] cooking, smoking\n</text>
 	</string>
 	
 	<string id="st_lighter_refillers_descr">
 		<text>There is almost no point in carrying a lighter if you can't use it to light anything. Experienced stalkers always remember to fill their lighters with fuel before departing on longer excursions deep into the Zone. Commonly available "Carcinoleum" lighter fuel is relatively cheap and serves the purpose sufficiently well.\n \n
 		%c[ui_gray_3]PROPERTIES:\n 
-		%c[d_orange] � %c[ui_gray_2] usable for: %c[ui_gray_1] fuelling lighters (+100%)\n</text>
+		%c[d_orange] • %c[ui_gray_2] usable for: %c[ui_gray_1] fuelling lighters (+100%)\n</text>
 	</string>
 	
 	<string id="st_lighter_refiller5">
@@ -286,8 +286,8 @@
 	<string id="st_itm_mapkit_descr">
 		<text>An untitled document that contains some hand-written sheets of paper, personal pictures and few worn paragraphs. Nothing really special except for one big printed map with some marked locations. Apparently the owner was an artefact hunter.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
-		%c[d_green] � %c[ui_gray_2] informative\n
+		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		%c[d_green] • %c[ui_gray_2] informative\n
 		</text>
 	</string>
 	<string id="st_itm_mapkit_1">
@@ -324,7 +324,7 @@
 	<string id="st_ammo_box_descr">
 		<text>Every stalker is aware of the importance of reliable weaponry. That's the reason a daily and thorough examination of your shooter is vital to your survival. Stalkers often count their ammo and clean it to minimise the risk of a weapon jam in the heat of battle.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
+		%c[d_blue] • %c[ui_gray_2] everyday item\n
 		</text>
 	</string>
 	
