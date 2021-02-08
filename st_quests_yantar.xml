@@ -48,7 +48,7 @@
 		<text>사하로프 란 교수의 연구 논문이 돌연변이 공격으로 인해 그의 연구원 동료들이 도망치다가 떨어트렸다. 문서를 확보하고 사하로브 에게 돌려줘라.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_1_about">
-		<text>좋아, 자네가 와서 기쁘네. 내 연구원 중 한명이 현장에서 막 돌아왔는데, 그가 거기서 돌연변이 의 공격을 받을때 그 공책을 놓쳐버렸다네. 그는 거기에 돌아가길 두려워 하고 있고. 난 그 연구 자료가 필요하네 스토커. 내게 다시 가져와주게, 그럼 자네에게 들어간 수고를 내 기꺼이 보상해주겠네.</text>
+		<text>자네가 와서 기쁘네. 내 연구원 중 한명이 현장에서 막 돌아왔는데, 그가 거기서 돌연변이 의 공격을 받을때 그 공책을 놓쳐버렸다네. 그는 거기에 돌아가길 두려워 하고 있고. 난 그 연구 자료가 필요하네 스토커. 내게 다시 가져와주게, 그럼 자네에게 들어간 수고를 내 기꺼이 보상해주겠네.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_1_finish">
 		<text>고맙네 스토커! 여기, 자네의 몫 받아가게.</text>
@@ -73,10 +73,10 @@
 		<text>사하로프 교수가 당신에게 비정상적인 이상현상 측정을 도와주는것을 물었다.\n $item_1 의 기록 결과와 함께 그에게 복귀하라.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_2_about">
-		<text>아! 난 자네가 올걸 예상했었네. 우리의 스캐너가 특정한 이상현상에서 흥미로운 판독값을 보여줘서 말일세. 그곳에 가서 좀더 자세히 조사할 경험있는 스토커가 내게 필요하네. 젊은이, 자네에게 딱맞는 장치가 내게 있네. 행운을 빌지.</text>
+		<text>아! 자네가 올줄 알았네. 우리의 스캐너가 특정한 이상현상에서 흥미로운 판독값을 보여줘서 말일세. 그곳에 가서 좀더 자세히 조사할 경험있는 스토커가 내게 필요하네. 젊은이, 자네에게 딱맞는 장치가 내게 있네. 행운을 빌지.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_2_finish">
-		<text>그래, 좋았어! 고맙네 스토커, 이제야 내 연구를 시작할수 있겠어! 정말 잘했네.</text>
+		<text>좋았어! 고맙네 스토커, 이제야 내 연구를 시작할수 있겠어! 정말 잘했네.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -89,7 +89,7 @@
 		<text>사하로프 교수가 검은계곡 의 X-18 연구소 에 있는 연구 문서를 필요로 한다.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_3_about">
-		<text>오, 좋아! 자네에게 중요한 일이 있네. X-18 연구소에서 중요한 연구가 실시되었다만, 우리가 분석할려고 접근할수가 없네. 우릴 위해 자네가 그걸 찾아올수 있겠나? 가능한다면 내가 보상을 후하게 주겠네.</text>
+		<text>자네에게 중요한 일이 있네. X-18 연구소에서 중요한 연구가 실시되었다만, 우리가 분석할려고 접근할수가 없네. 우릴 위해 자네가 그걸 찾아올수 있겠나? 가능한다면 내가 보상을 후하게 주겠네.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_3_finish">
 		<text>훌륭해! 고맙네 스토커!</text>
@@ -120,7 +120,7 @@
 		<text>사하로프 교수가 붉은숲 의 심비온트 이상현상 근처에다 이상현상 스캐너를 설치하길 원한다.\n성과 를 보고하라.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_about">
-		<text>훌륭하군! 이 새로운 스캐너를 한번 보게. 우린 이 장치를 이용해 과학적 탐험을 위한 이상현상 활동을 조사할걸세. 그중 존에서 가장 흥미로운 이상현상들이 바로 붉은 숲 깊은 곳에서 발견된 심비온트 이상현상 이지. 우린 이 스캐너를 그 이상현상 근처에 설치하길 원하네. 그럼 그 활동으로 부터 우리가 연구하는데 도움을 줄수있겠지.
+		<text>훌륭해! 이 새로운 스캐너를 한번 보게나. 우린 이 장치를 이용해 과학적 탐험을 위한 이상현상 활동을 조사할걸세. 그중 존에서 가장 흥미로운 이상현상들이 바로 붉은 숲 깊은 곳에서 발견된 심비온트 이상현상 이지. 우린 이 스캐너를 그 이상현상 근처에 설치하길 원하네. 그럼 그 활동으로 부터 우리가 연구하는데 도움을 줄수있겠지.
 		\n그 장소는 위험하지만, 바라건대 자네같이 걸맞은 스토커에겐 큰 문제가 아니겠지. 부디 날 위해 그걸 설치해주게, 그럼 자네에게 들어간 수고를 내 기꺼이 보상해주겠네.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_4_finish">
@@ -145,16 +145,16 @@
 	<!-- Sakharov (Ecologist Trader) Payoff Change Factions Task -->
 
 	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_name">
-		<text>Science and Red Tape</text>
+		<text>과학 과 절차</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_text">
-		<text>Sakharov wants me to give him 17,000 RU so he can submit all the government paperwork needed for me to become an official Ecologist.</text>
+		<text>사하로프 가 당신을 공식적인 과학자로 등록시키기 위해 필요한 모든 정부 서류를 제출할 수 있도록 그에게 17,000 루블을 주길 원한다.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_about">
-		<text>Ah, well, I'm sure you'd make for a great field assistant, but, the thing is, getting all the necessary paperwork done isn't exactly cheap, nor is it quick without some, er, motivation. You know how these government types can be.\n \nPermanent contracts, licenses, IDs...I'll need at least 17,000 RU from you to pay for all this, especially if you want to see the results within your lifetime. If you're willing to part with such money, however, we'd gladly have you!</text>
+		<text>난 자네가 뛰어난 현장 조수가 될꺼라 생각하네, 하지만 문제는 그 모든 서류를 작업하는데 드는 돈이 저렴하지 않는데다, 어... 동기부여 도 없으면 빨리 되지 않겠지. 자네도 정부쪽 타입이 어떤건지 알잖나.\n \n영구 계약, 라이센스, 신분증 같은것들. 특히 자네의 결과를 생전내로 보고 싶다면, 내게 적어도 17,000 루블 만큼 필요하네. 만약 그만한 돈을 낼 수 있다면, 우린 자네를 기꺼이 받아드리겠네!</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_finish">
-		<text>Wonderful! Excellent! Please, make yourself at home here, fellow Ecologist.</text>
+		<text>좋아! 훌륭해! 이제 이곳을 자네 집이라 여겨주게, 동료 연구원.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
