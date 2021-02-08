@@ -232,58 +232,58 @@
 
 	<!-- RABBIT STORYLINE START GAME 1 DIALOG -->
 	<string id="drx_sl_start_msg_monolith">
-		<text>Brothers, it is time for you to fulfil the wishes of the Monolith. Return to the Palace of Culture's cellar in Pripyat for your tasks.</text>
+		<text>형제자매 여러분, 이제 여러분이 모노리스의 소원을 들어줄 때입니다. 프리피얏에 있는 문화궁전의 지하실로 돌아가 임무를 수행해야 합니다.</text>
 	</string>
 	
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_game_start_dialog_1_0">
-		<text>What can I do to serve the almighty Monolith?</text>
+		<text>전능하신 모노리스를 섬기려면 어떻게 해야 하죠?</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_game_start_dialog_1_1">
-		<text>There is much work to be done, my brother. The Zone must be purged of the infidels. We must keep control of the mutant population. Your brothers need food and weapons. You will report to your Monolith elders, and we will give you your assignments. You must do your part. Praise Monolith and may the Monolith bless you.</text>
+		<text>할 일이 많습니다, 형제여. 존에서 신앙심이 부족한 자들을 제거해야 합니다. 그리고 우리는 뮤턴트의 개체수를 계속 통제해야 힙니다. 당신은 식량과 무기가 필요해 보입니다. 모노리스 장로에게 보고하고 나면 우리가 당신에게 임무를 줄 것입니다. 당신은 당신의 역할을 다해야만 합니다. 모노리스를 찬양하고 모노리스의 축복이 있기를.</text>
 	</string>
 
 	<!-- RABBIT STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_start_game_1_endgame_1">
-		<text>You have done well, and have proven your faith with the many deeds you have done.  You have earned the privilege of meeting the almighty Monolith. Not many are blessed enough to look into the eyes of god. Prepare an offering and pledge your devotion to our lord. The journey into the Sarcophagus will not be easy, and you must go alone. But listen, if your faith is pure the Monolith will call to you and show you the way.</text>
+		<text>당신은 임무를 잘 수행했고, 당신이 보여준 많은 행동으로 그 믿음을 증명했습니다. 당신은 전능하신 모노리스를 만날 수 있는 특권을 얻었습니다. 신의 눈을 바라볼 만큼 축복받은 사람은 많지 않습니다. 당신은 제물을 준비하여, 우리 주님께 헌신할 것을 맹세해야 합니다. 석관으로 들어가는 길은 쉽지 않을 겁니다. 그리고 혼자서 가야만 합니다. 귀를 기울여보세요. 만약 당신의 믿음이 순수하다면, 모노리스가 당신을 부르고 길을 보여줄 것입니다.</text>
 	</string>
 	
 	
 	<!-- STRIBOG STORYLINE START GAME 1 DIALOG -->
 	<string id="drx_sl_start_msg_greh">
-		<text>Chernobog has spoken. It is time to let this world be enlightened. Return to me, brothers. I will inform you about your tasks.</text>
+		<text>체르노보그가 말했습니다. 이제 이 세상을 깨우치게 해야 할 때이다. 제게로 오세요, 형제여. 당신의 임무를 알려드리겠습니다.</text>
 	</string>
 	
 	<string id="drx_sl_red_greh_trader_game_start_dialog_1_0">
-		<text>What can I do to serve our cause?</text>
+		<text>제가 어떻게 해야 대의에 기여할 수 있습니까?</text>
 	</string>
 	<string id="drx_sl_red_greh_trader_game_start_dialog_1_1">
-		<text>Spread the message. Make all people aware of what the Zone truly is. That it is a miracle. That it can help us improve, that it can save mankind from its own self-destructive nature. You will report to the Monolith elders, and we will give you your assignments. You must do your part. We will help the world cleanse itself of sin.</text>
+		<text>메시지를 전파하세요. 모든 사람들에게 존이 진정 무엇인지 인식시키세요. 존은 기적입니다. 존은 우리가 개선하는 데 도움을 줄 수 있고, 인류를 자연 파괴적인 본성에서 구할 수 있습니다. 모노리스 장로에게 보고하고 나면 우리가 당신에게 임무를 줄 것입니다. 당신은 당신의 역할을 다해야만 합니다. 우리는 세상이 죄악을 씻도록 도울 것입니다.</text>
 	</string>
 
 	<!-- STRIBOG STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_red_greh_trader_start_game_1_endgame_1">
-		<text>You have done well, and have proven your faith with the many deeds you have done.  You have earned the privilege of meeting the almighty Monolith. Not many are blessed enough to look into the eyes of god. Prepare an offering and pledge your devotion to our lord. The journey into the Sarcophagus will not be easy, and you must go alone. But listen, if your faith is pure the Monolith will call to you and show you the way.</text>
+		<text>당신은 임무를 잘 수행했고, 당신이 보여준 많은 행동으로 그 믿음을 증명했습니다. 당신은 전능하신 모노리스를 만날 수 있는 특권을 얻었습니다. 신의 눈을 바라볼 만큼 축복받은 사람은 많지 않습니다. 당신은 제물을 준비하여, 우리 주님께 헌신할 것을 맹세해야 합니다. 석관으로 들어가는 길은 쉽지 않을 겁니다. 그리고 혼자서 가야만 합니다. 귀를 기울여보세요. 만약 당신의 믿음이 순수하다면, 모노리스가 당신을 부르고 길을 보여줄 것입니다.</text>
 	</string>
 
 
 	<!-- ACTOR:  Requests to change factions: -->
 	<string id="st_drx_sl_change_factions_request">
-		<text>I'm thinking of changing factions.</text>
+		<text>팩션을 바꾸고 싶습니다.</text>
 	</string>
 
 	<!-- ACTOR:  Accepts change factions task from npc -->
 	<string id="st_drx_sl_accept_change_factions_task">
-		<text>I'll be back once I have what you've asked for.</text>
+		<text>당신이 부탁한 것을 가지고 다시 오겠습니다.</text>
 	</string>
 
 	<!-- NPC:  Affirmation of task acceptance: -->
 	<string id="st_drx_sl_change_factions_task_accepted">
-		<text>Good. With some luck, maybe we'll see you around here soon.</text>
+		<text>좋아. 운이 좋으면 이 근처에서 다시 만날 수 있겠지.</text>
 	</string>
 
 	<!-- ACTOR:  Leaves npc: -->
 	<string id="st_drx_sl_change_factions_actor_exit">
-		<text>Until then.</text>
+		<text>그럼 이만.</text>
 	</string>
 
 
