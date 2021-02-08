@@ -575,94 +575,94 @@
 		<text>푹 쉬고 몸조심해. 이상현상은 발견하기 쉬운 것은 아니니까 항상 경계하고 있어야 돼. 보드카를 들이 마신 후 어떻게 소용돌이 지역을 피할 수 있겠어?</text>
 	</string>
 	<string id="dm_anomalies_28">
-		<text>Do you hear the whispers? That's the Zone, talking to you. Closer to the centre, or during an emission, there are places where its voice becomes overpowering. Without psychic protection, you'll zombify for sure.</text>
+		<text>속삭이는 소리 들려? 존이 너한테 얘기하는 소리야. 중심부에 가까워지거나, 에미션이 진행되는 동안, 그 소리가 심해지는 장소들이 있어. 정신적인 보호 장비 없이는, 결국 좀비화 되고 말거야.</text>
 	</string>
 	<string id="dm_anomalies_29">
-		<text>Keep in mind that not everyone around here likes to hunt artefacts. Some hunt mutants...others hunt people. Be careful who you show your loot to.</text>
+		<text>여기 있는 모든 사람들이 아티팩트 사냥을 좋아하는 것은 아니라는 것을 명심해. 어떤 이들은 뮤턴트를 사냥하고..어떤 이들은 사람을 사냥하지. 누군가에게 네 전리품을 보여주는건 조심해야 할거야.</text>
 	</string>
 	<string id="dm_anomalies_30">
-		<text>Did you know that artefacts are almost indestructible? Sometimes it's better to shoot at the artefact to make it jump out of the anomaly, instead of just being sucked directly into it.</text>
+		<text>너는 아티팩트가 파괴될 수 없다는 것을 알고 있어? 때로는 아티팩트를 총으로 쏴서 이상현상에서 벗어나게 하는 것이 더 나을때도 있어. 이상현상에 직접 빨려들어가기 보다는 말이지.</text>
 	</string>
 	<string id="dm_anomalies_31">
-		<text>I wish I'd been here during the good old days. Back then, artefacts wouldn't irradiate you just by carrying them. Guess the Zone is more protective over its treasures now, eh?</text>
+		<text>옛날에는 여기 있었더라도 좋았을 텐데. 그 당시만 해도, 아티팩트를 가지고 다닌다고 해서 너를 방사능에 노출시키지 않았으니까. 이제는 존이 보물보다 더 보호받고 있는 것 같아, 그렇지?</text>
 	</string>
 	<string id="dm_anomalies_32">
-		<text>Dude, the artefact business is competitive enough as it is. If you really wanna join the rat race though, go see the Ecologists. They can gear you up.</text>
+		<text>이봐, 아티팩트 사업은 지금 상태로도 충분히 경쟁력이 있어. 정말 이 레이스에 참여하고 싶다면, 생태학자들을 찾아가봐. 그들은 네게 장비를 제공해줄거야.</text>
 	</string>
 	<string id="dm_anomalies_33">
-		<text>Many newcomers dream about "the artefact that makes you rich". While the Zone can be fruitful, it's a bad idea to treat it like some sort of lottery. Just work at things consistently and you'll get there.</text>
+		<text>많은 신참들이 "너를 부유하게 만드는 아티팩트"에 대해 꿈꾸지. 존에는 아티팩트가 풍부할 수 있지만, 그것을 일종의 복권처럼 취급하는 것은 좋지 않은 생각이야. 일을 꾸준히 하기만 한다면 성공할 수 있을 거야.</text>
 	</string>
 	<string id="dm_anomalies_34">
-		<text>It's especially dangerous to hunt artefacts north of the Army Warehouses, but it's just as lucrative too. The few who can make it, make it well.</text>
+		<text>육군 물류창고 북쪽에서 아티팩트를 사냥하는 것은 정말 위험하지만, 큰 돈을 벌 수 있는 일이기도해. 노련한 소수의 스토커들은 곧 잘 해내지.</text>
 	</string>
 	<string id="dm_anomalies_35">
-		<text>Be thankful for every artefact you carry home safely. The Zone is a very complex maze of traps, and you're lucky to have lived thus far.</text>
+		<text>안전하게 집으로 가지고 가는 모든 아티팩트들에 감사해야 해. 존은 함정으로 가득한 매우 복잡한 미로야. 그리고 너가 지금까지 살아남은 것은 행운이 따라줬기 때문이지.</text>
 	</string>
 	<string id="dm_anomalies_36">
-		<text>There's a swamp in the west of Zaton, full of gas pockets and gravitational anomalies. Get some antidote for the toxic gas, however, and you're set - the water shows you where the grav anomalies are. Easy artefacts!</text>
+		<text>자톤 서쪽의 늪지야. 가스 방울과 중력 이상현상으로 가득 차 있지. 하지만 독성 가스에 대한 해독제를 가져가면, 무서울게 없어. 물은 너에게 중력 이상현상이 어디에 있는지 보여줄거야. 쉬운 아티팩트 사냥!</text>
 	</string>
 	<string id="dm_anomalies_37">
-		<text>The Iron Forest workshop in the south-west of Zaton is a real bounty. Old timers talk of entire clusters of artefacts! Sadly it's rumoured to be haunted, so most stalkers in the area just stay away.</text>
+		<text>자톤 남서부에 있는 철의 숲 공방은 정말 큰 보상금이 걸려있지. 옛날 사람들은 아티팩트가 그곳에 다발로 있다고 이야기해!! 슬프게도 그곳에는 유령이 나온다는 소문이 있어서, 그 지역 대부분의 스토커들은 가까이 다가가지 않아.</text>
 	</string>
 	<string id="dm_anomalies_38">
-		<text>If you've got the gear for thermal anomalies, veterans say the Burnt Farmstead in the north-ish part of Zaton is the best place to be after an emission.</text>
+		<text>열 이상현상 장비를 갖추고 있다면, 퇴역군인들은 자톤 북부의 불탄 농장이 에미션이 진행된 후 가기 가장 좋은 곳이라고 말해.</text>
 	</string>
 	<string id="dm_anomalies_39">
-		<text>For variety, I hear the most daring stalkers explore the caves underneath Zaton's Burnt Farmstead. Getting in is easy, getting out is insane. But if you do, I hear it's always with quite the treasure.</text>
+		<text>다양한 종류의 아티팩트를 위해, 가장 용감한 스토커들이 자톤 불탄 농장 밑에 있는 동굴들을 탐험한다는 것을 들었어. 들어가는 건 쉽지만, 나가는 건 정신이 나갈 수도 있다고 해. 하지만 견뎌낼 수 만 있다면, 항상 보물을 가지고 나올 수 있다고 들었어.</text>
 	</string>
 	<string id="dm_anomalies_40">
-		<text>Have you seen a Circus anomaly? Veterans of the north say one can be found in the south of Zaton, and that it's truly a sight to behold. Best behold it from a distance, however, unless you want to get burnt alive.</text>
+		<text>서커스 이상현상을 본 적 있어? 북쪽의 퇴역군인들이 말하길 자톤 남부에서 볼 수 있고, 정말 볼 만한 광경이라고 말해. 하지만 산 채로 불타는 것을 원하지 않으면 멀리서 보는 것이 좋아.</text>
 	</string>
 	<string id="dm_anomalies_41">
-		<text>Have you ever run into a psychic anomaly before? Can't say it was the best experience of my life. Within minutes your brain is so scrambled you begin to forget how to breathe, let alone know to get the hell out.</text>
+		<text>정신 이상현상을 겪어본 적 있어? 그 이상현상은 내 생애 최악의 경험이었다고 말할 수 있어. 몇 분 안에 너의 뇌는 뒤엉키기 시작하고 숨 쉬는 법을 잊기 시작하지.</text>
 	</string>
 	<string id="dm_anomalies_42">
-		<text>Usually gravitational anomalies are nearly invisible, but I'll never stop being amazed by the shit they sometimes pull - some of the freakiest rock and water formations I've ever seen.</text>
+		<text>보통, 중력 이상현상은 거의 눈에 띄지 않지만, 나는 때때로 그 이상현상이 당기는 힘에 놀라곤 해. 내가 본 것 중 가장 기이한 바위와 물 형상의 일부였어.</text>
 	</string>
 	<string id="dm_anomalies_43">
-		<text>Seasoned stalkers talk about the "Boiler" anomaly; a unique thermal anomaly in the north-east of Zaton, capable of grilling men alive with scalding jets of steam. The artefacts there are just regular fire ones though.</text>
+		<text>노련한 스토커들은 증기 분출로 사람을 산 채로 구울 수 있는 자톤 북동부 지역의 독특한 열 이상현상을 "수증기" 이상현상이라고 말해.. 하지만 그곳의 아티팩트는 그냥 일반적인 불 관련이야.</text>
 	</string>
 	<string id="dm_anomalies_44">
-		<text>If you are ever able to checkout the big-ass quarry near Yanov, do that. The gas is awful enough to make your eyes sting even with a mask, but the haul often makes up for it.</text>
+		<text>야노프 근처의 거대한 채석장을 확인할 수 있다면 시도해 봐. 가스는 마스크를 쓰고도 눈이 따가울 정도로 끔찍하지만, 그 여정에서의 보상을 얻게 될거야.</text>
 	</string>
 	<string id="dm_anomalies_45">
-		<text>I hear a lot of ghost stories about Kopachy Village in Jupiter, but if you make it past the zombies, the thermal anomaly near the graveyard tends to guard a worthy bounty.</text>
+		<text>주피터에 있는 코파치 마을에 대한 괴담은 많이 들었지만 좀비들을 지나쳐 가면 묘지 근처의 열 이상현상에서 값진 보물을 얻을 수 있다고 해.</text>
 	</string>
 	<string id="dm_anomalies_46">
-		<text>Vets say a good Electro field for artefact hunting would be the Parking Lot, west-ish of the four-way-stop at Jupiter. That's if you're up for the dangers of the north, of course.</text>
+		<text>퇴역군인들은 아티팩트 사냥에 좋은 전기 지대는 주피터의 4방향 중 서쪽에 위치한 주차장이라고 말해. 물론 북쪽에 도사리고 있는 위험에 대비하고 있다면 말이지</text>
 	</string>
 	<string id="dm_anomalies_47">
-		<text>You know the Ecologist bunker near Yanov? They were intensely studying the Anomalous Grove a few years back. What they discovered was that it grew a little every time an artefact was removed. Scary, isn't it? </text>
+		<text>야노프 근처의 생태학자 벙커 알지? 그들은 몇 년 전부터 이상현상을 열심히 연구하고 있었어. 무서운 점은 그들이 발견한 아티팩트가 하나씩 제거될 때마다 약간씩 성장했다는 것이야.</text>
 	</string>
 	<string id="dm_anomalies_48">
-		<text>If you're after artefacts, go for the acid kind. The best place to get those is the Concrete Bath in the southeast of Jupiter. You won't have a lot of competition: most stalkers find it too creepy for their liking.</text>
+		<text>만약 너가 아티팩트를 찾고 있다면, 산성 종류를 찾아봐. 산성 종류를 얻기 가장 좋은 장소는 주피터의 남동쪽에 있는 콘크리트 목욕탕이다. 넌 많은 경쟁을 하게 되지 않을 거야: 대부분의 스토커들은 그곳이 너무 소름끼친다고 생각하거든.</text>
 	</string>
 	<string id="dm_anomalies_49">
-		<text>Not far from the Jupiter plant, a piece of the road fell through. They call this place "Bitumen", because that's where the pavement melted. It's a thermal-gravitational hybrid. Pretty wizard, ain't it?</text>
+		<text>주피터 공장에서 그리 멀지 않은 곳에 도로 한 조각이 떨어져 나가있는 곳이 있어. 스토커들은 이곳을 "아스팔트" 라고 부르지. 왜냐하면 그곳이 도로가 녹은 곳이기 때문이야. 열-중력 복합체지. 마법같지?</text>
 	</string>
 	<string id="dm_anomalies_50">
-		<text>Toxic gas anomalies are the worst. They create such stinging, bitter marshes. Sometimes the water isn't even water any more, and just turns to acid. Absolutely awful.</text>
+		<text>유독가스 이상현상은 최악이야. 그 이상현상은 따끔하고 고통스러운 늪을 만들어. 때때로 물은 더 이상 물이 아니게 되어서 산으로 변해. 정말 끔찍하지.</text>
 	</string>
 	<string id="dm_anomalies_51">
-		<text>The best place to find artefacts would be to search the anomaly fields no one else visits. The artefacts are probably gonna be harder to get, sure, but at least you can take your time clearing them out.</text>
+		<text>다른 사람이 방문하지 않는 이상현상 지역을 탐색하는 것이 가장 좋아. 물론 아티팩트는 구하기 힘들겠지만, 적어도 그 아티팩트를 얻기까지 시간을 들일 수 있지.</text>
 	</string>
 	<string id="dm_anomalies_52">
-		<text>Ever heard of the "Oakpine"? I hear it can be found in the northern parts of the Zone, and got its name from a scientist who genetically identified its bark as, well, both oak and pine. Too bad it's also toxic.</text>
+		<text>"참소" 라고 들어본 적 있어? 나는 그것이 존의 북쪽에서 발견될 수 있다고 들었지. 그리고 그 이름은 참나무와 소나무의 껍질을 유전적으로 식별한 과학자에서 따왔다고 들었어. 독성이 있다니 아쉬울 따름이야.</text>
 	</string>
 	<string id="dm_anomalies_53">
-		<text>If you wanna snag some good artefacts, make sure to get there first - hop yourself up on caffeine and be ready to dash towards the nearest anomaly fields as soon as the next local emission ends.</text>
+		<text>만약 너가 좋은 아티팩트를 발견하기 원한다면, 먼저 그곳에 도착해야 해 – 카페인에 몸을 싣고 다음 에미션이 끝나는 즉시 가장 가까운 이상현상을 향해 달려갈 준비를 해.</text>
 	</string>
 	<string id="dm_anomalies_54">
-		<text>No one has looked for artefacts in Pripyat yet. Everyone I know has only been here a short while, so they stay cautious.</text>
+		<text>아직 프리피얏에서 아티팩트를 찾는 사람은 없어. 내가 아는 모든 사람들은 여기 온 지 얼마 안 되었거든. 조심해.</text>
 	</string>
 	<string id="dm_anomalies_55">
-		<text>I don't know if anyone knows the good spots. Pripyat is poorly explored so far.</text>
+		<text>좋은 곳을 아는 사람이 있을지 모르겠어. 프리피얏은 지금까지 제대로 탐험된적이 없거든.</text>
 	</string>
 	<string id="dm_anomalies_56">
-		<text>I'd look in the underground tunnels. They say there are tonnes of them underneath the city.</text>
+		<text>난 지하 터널을 가볼 거야. 스토커들은 그 도시 아래에 수 톤의 아티팩트들이 있다고 말해.</text>
 	</string>
 	<string id="dm_anomalies_57">
-		<text>Not much is known about these parts... Garry's stories, mostly. He says there's a place here where a huge grapevine grows out of an acid anomaly, as tall as a ten-story building. Think that's true?</text>
+		<text>이 부분에 대해서는 알려진 바가 별로 없어... 개리의 이야기가 대부분이지. 그는 여기에 10층 건물만큼 높은 산성 이상현상에서 거대한 포도넝쿨이 자라고 있는 곳이 있다고 말했지. 그게 사실일까?</text>
 	</string>
 
 	<!-- Information -->
