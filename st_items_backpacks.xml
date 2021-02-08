@@ -11,9 +11,9 @@
 	<string id="st_itm_backpack_desc">
 		<text>혹독한 날씨에도 견딜 수 있고, 내구성이 뛰어난 소재로 제작된 백팩입니다.\n \n
 			%c[ui_gray_1]PROPERTIES:\n
-			%c[d_blue] • %c[ui_gray_2] everyday item\n
-			%c[d_blue] • %c[ui_gray_2] item storage\n
-			%c[0,100,255,150] • %c[ui_gray_2] usable as stash\n
+			%c[d_blue] • %c[ui_gray_2] 일상용품\n
+			%c[d_blue] • %c[ui_gray_2] 아이템 보관\n
+			%c[0,100,255,150] • %c[ui_gray_2] 은닉처로 사용가능\n
 			</text>
 	</string>
 	
@@ -23,9 +23,9 @@
 	<string id="st_equ_smallpack_desc">
 		<text>상당한 수납 공간이 있는 백팩입니다. 내부는 물이 들어오지 않도록 만들어졌습니다. 좋은 성능은 아니지만, 효과가 있습니다. 스토커와 초보자 사이에서 인기 있는 선택입니다.\n \n
 			%c[ui_gray_1]PROPERTIES:\n
-			%c[d_blue] • %c[ui_gray_2] everyday item\n
-			%c[d_blue] • %c[ui_gray_2] item storage\n
-			%c[0,100,255,150] • %c[ui_gray_2] usable as stash\n
+			%c[d_blue] • %c[ui_gray_2] 일상용품\n
+			%c[d_blue] • %c[ui_gray_2] 아이템 보관\n
+			%c[0,100,255,150] • %c[ui_gray_2] 은닉처로 사용가능\n
 		</text>
 	</string>
 	
@@ -35,9 +35,9 @@
 	<string id="st_equ_smilpack_desc">
 		<text>장거리 여행을 위한 커다란 가방입니다. 체중 분배 시스템 덕분에 착용자가 5일까지 여행을 할 수 있는 충분한 보급품과 장비를 휴대할 수 있습니다.\n \n
 			%c[ui_gray_1]PROPERTIES:\n
-			%c[d_blue] • %c[ui_gray_2] everyday item\n
-			%c[d_blue] • %c[ui_gray_2] item storage\n
-			%c[0,100,255,150] • %c[ui_gray_2] usable as stash\n
+			%c[d_blue] • %c[ui_gray_2] 일상용품\n
+			%c[d_blue] • %c[ui_gray_2] 아이템 보관\n
+			%c[0,100,255,150] • %c[ui_gray_2] 은닉처로 사용가능\n
 		</text>
 	</string>
 	
@@ -47,9 +47,9 @@
 	<string id="st_equ_milpack_desc">
 		<text>군대에서 사용하는 전투 배낭으로, 종종 여분의 군수품과 의료품을 보관합니다.\n \n
 			%c[ui_gray_1]PROPERTIES:\n
-			%c[d_blue] • %c[ui_gray_2] everyday item\n
-			%c[d_blue] • %c[ui_gray_2] item storage\n
-			%c[0,100,255,150] • %c[ui_gray_2] usable as stash\n
+			%c[d_blue] • %c[ui_gray_2] 일상용품\n
+			%c[d_blue] • %c[ui_gray_2] 아이템 보관\n
+			%c[0,100,255,150] • %c[ui_gray_2] 은닉처로 사용가능\n
 		</text>
 	</string>
 	
@@ -59,9 +59,9 @@
 	<string id="st_equ_touristpack_desc">
 		<text>수납공간이 많은 여행자 가방입니다. 거추장스러운 크기 때문에 인기가 별로 없습니다.\n \n
 			%c[ui_gray_1]PROPERTIES:\n
-			%c[d_blue] • %c[ui_gray_2] everyday item\n
-			%c[d_blue] • %c[ui_gray_2] item storage\n
-			%c[0,100,255,150] • %c[ui_gray_2] usable as stash\n
+			%c[d_blue] • %c[ui_gray_2] 일상용품\n
+			%c[d_blue] • %c[ui_gray_2] 아이템 보관\n
+			%c[0,100,255,150] • %c[ui_gray_2] 은닉처로 상용가능\n
 		</text>
 	</string>
 	
@@ -71,10 +71,10 @@
 	<string id="st_kit_hunt_descr">
 		<text>동물과 뮤턴트의 가죽을 벗기고 내장을 제거하는 데 사용되는 갈고리와 칼 그리고 기타 장비로 가득 찬 가방입니다. 뮤턴트 사냥을 위한 전문 장비를 가지고 다니는 스토커는 거의 없습니다. 그것이 아마도 존에서 활용하는 자들이 뮤턴트 고기를 먹은 후 소화불량에 시달리는 이유일 것입니다. 다양한 도구 덕에, 이 키트는 무기와 장비 유지를 효율적으로 개선할 수 있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] everyday item\n
-		%c[d_blue] • %c[ui_gray_2] item storage\n
-		%c[0,100,255,150] • %c[ui_gray_2] usable as stash\n
-		%c[d_orange] • %c[ui_gray_2] possession increases number of body parts obtained from mutants\n
+		%c[d_blue] • %c[ui_gray_2] 일상용품\n
+		%c[d_blue] • %c[ui_gray_2] 아이템 보관\n
+		%c[0,100,255,150] • %c[ui_gray_2] 은닉처로 사용가능\n
+		%c[d_orange] • %c[ui_gray_2] 해당 아이템 소유는 뮤턴트로부터 얻는 신체부위 갯수를 증가시킵니다\n
 		</text>
 	</string>
 	
@@ -84,10 +84,10 @@
 	<string id="st_itm_actor_backpack_descr">
 		<text>존에서 기습당하는 것은 당신에게 일어날 수 있는 최악의 일들 중 하나입니다. 비록 신속 해제 시스템이 그런 상황을 예방하는 데 도움이 되지는 않지만, 확실히 위험에서 벗어나는 데 도움이 됩니다. 이 기능은 간단합니다:  배낭의 끈을 즉시 제거하고 무거운 배낭이 움직임을 방해하지 않고 안전한 곳으로 탈출할 수 있게 해줍니다. 사용하려면 해당 항목을 핫키 아이템으로 설정하십시오. 핫키를 누르면 가방(및 가방 안에 있는 모든 것)을 즉시 땅에 떨어뜨리는 비상 해제가 활성화됩니다. 당신의 장비, 탄약, 무기 및 무기 부착물뿐만 아니라 PDA도 소유물로 남아있습니다, 그러니 당신은 싸울 준비가 되어 있습니다. 당신은 나중에 가방을 되찾을 수 있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] military item\n
-		%c[d_blue] • %c[ui_gray_2] build in GPS\n
-		%c[d_blue] • %c[ui_gray_2] very fast usage (release clamp)\n
-		%c[d_blue] • %c[ui_gray_2] combat gear remains with user\n</text>
+		%c[d_blue] • %c[ui_gray_2] 군사용품\n
+		%c[d_blue] • %c[ui_gray_2] GPS 내장\n
+		%c[d_blue] • %c[ui_gray_2] 매우 빠른 사용 (클램프 해제)\n
+		%c[d_blue] • %c[ui_gray_2] 전투장비는 유저에게 귀속됩니다.\n</text>
 	</string>
 	<string id="st_itm_actor_backpack_desc_mlr">
 		<text>Often used by stalkers as a fallback in case of unforeseen circumstances. Its features are simple, consisting of a strap which can be dropped along with the backpack at any moment, in order to run away quickly. Quite compact and capacious. Practically, it allows you to reset your backpack along with some content.</text>
