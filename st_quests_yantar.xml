@@ -26,73 +26,73 @@
 	<!-- Sakharov (Ecologist) Default Storyline Task -->
 
 	<string id="drx_sl_yan_stalker_sakharov_default_task_name">
-		<text>Get Next Task</text>
+		<text>다음 임무를 가져라.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_default_task_text">
-		<text>Receive your next task.</text>
+		<text>당신의 다음 임무를 받아라.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_default_task_about">
-		<text>What? Oh, yes, great! Stalker, I need you to help one of my colleagues. Go to him quickly! He needs you!</text>
+		<text>뭐? 아, 그래, 스토커, 자네가 내 동료중 한명을 도와주었음 하네. 그럼 어서! 그자에게 가게나!</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_default_task_finish">
-		<text>Good luck stalker.</text>
+		<text>행운을 비네 스토커.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sakharov (Ecologist) Research Documents Storyline Task -->
 
 	<string id="drx_sl_yan_stalker_sakharov_task_1_name">
-		<text>Sakharov Research Documents</text>
+		<text>사하로프 의 연구 문서</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_1_text">
-		<text>Some of Professor Sakharov's research papers were left behind when his scientist fled from a mutant attack. Retrieve the documents and return them to Sakharov.</text>
+		<text>사하로프 란 교수의 연구 논문이 돌연변이 공격으로 인해 그의 연구원 동료들이 도망치다가 떨어트렸다. 문서를 확보하고 사하로브 에게 돌려줘라.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_1_about">
-		<text>Ah, yes, I'm glad you're here. One of my researchers just returned from the field. He had to abandon his notes after being attacked by mutants. He is terrified to go back there. I need that research, stalker. Please retrieve it for me, I will gladly compensate you for your trouble.</text>
+		<text>좋아, 자네가 와서 기쁘네. 내 연구원 중 한명이 현장에서 막 돌아왔는데, 그가 거기서 돌연변이 의 공격을 받을때 그 공책을 놓쳐버렸다네. 그는 거기에 돌아가길 두려워 하고 있고. 난 그 연구 자료가 필요하네 스토커. 내게 다시 가져와주게, 그럼 자네에게 들어간 수고를 내 기꺼이 보상해주겠네.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_1_finish">
-		<text>Thank you stalker! Please, take this as your payment.</text>
+		<text>고맙네 스토커! 여기, 자네의 몫 받아가게.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sakharov (Ecologist) Abnormal Measurement Storyline Task -->
 
 	<string id="drx_sl_yan_stalker_sakharov_task_2_name">
-		<text>Abnormal Measurement</text>
+		<text>비정상적 반응 측정</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_2_text_0">
-		<text>Professor Sakharov asked your help in taking measurements of an abnormal anomaly, but you need to retrieve the $item_1 you lost first.</text>
+		<text>사하로프 교수가 당신에게 비정상적인 이상현상 측정을 도와주는것을 물었다. 그전에 당신이 잃어버린 $item_1 를 되찾아라.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_2_text_1">
-		<text>Professor Sakharov asked your help in taking measurements of an abnormal anomaly.\nHead over the marked location.</text>
+		<text>사하로프 교수가 당신에게 비정상적인 이상현상 측정을 도와주는것을 물었다.\n표시된 지역으로 이동해라.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_2_text_2">
-		<text>Professor Sakharov asked your help in taking measurements of an abnormal anomaly.\nUse the $item_1 to take measurements.</text>
+		<text>사하로프 교수가 당신에게 비정상적인 이상현상 측정을 도와주는것을 물었다.\n측정하기 위해 $item_1 을 사용하라.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_2_text_3">
-		<text>Professor Sakharov asked your help in taking measurements of an abnormal anomaly.\nReturn to him with the $item_1 and recorded results.</text>
+		<text>사하로프 교수가 당신에게 비정상적인 이상현상 측정을 도와주는것을 물었다.\n $item_1 의 기록 결과와 함께 그에게 복귀하라.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_2_about">
-		<text>Ah, yes, good! I have been expecting you. Our scanners are showing interesting readings coming from a particular anomaly. I am in need of an experienced stalker to head over there and take measurements closely. I have the right device for you, young man. Good luck.</text>
+		<text>아! 난 자네가 올걸 예상했었네. 우리의 스캐너가 특정한 이상현상에서 흥미로운 판독값을 보여줘서 말일세. 그곳에 가서 좀더 자세히 조사할 경험있는 스토커가 내게 필요하네. 젊은이, 자네에게 딱맞는 장치가 내게 있네. 행운을 비네.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_2_finish">
-		<text>Yes, good, good! Now my research can begin! Thank you stalker. You have done well.</text>
+		<text>그래, 좋았어! 고맙네 스토커, 이제야 내 연구를 시작할수 있겠어! 정말 잘했네.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sakharov (Ecologist) Search Lab X-18 (Dark Valley) Storyline Task -->
 
 	<string id="drx_sl_yan_stalker_sakharov_task_3_name">
-		<text>Search Lab X-18</text>
+		<text>X-18 연구소 조사</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_3_text">
-		<text>Professor Sakharov needs the research documents contained within Lab X-18 in Dark Valley.</text>
+		<text>사하로프 교수가 검은계곡 의 X-18 연구소 에 있는 연구 문서를 필요로 한다.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_3_about">
-		<text>Oh, yes. Good! I have an important job for you. Important research was conducted in Lab X-18 but we have been unable to gain access to analyze it. Do you think you can try to retrieve it for us? I will pay you well if you can.</text>
+		<text>오, 좋아! 자네에게 중요한 일이 있네. X-18 연구소에서 중요한 연구가 실시되었다만, 우리가 분석할려고 접근할수가 없네. 우릴 위해 자네가 그걸 찾아올수 있겠나? 가능한다면 내가 보상을 후하게 주겠네.</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_task_3_finish">
-		<text>Excellent! Thank you stalker!</text>
+		<text>훌륭해! 고맙네 스토커!</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
