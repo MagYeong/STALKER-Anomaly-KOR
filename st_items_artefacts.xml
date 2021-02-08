@@ -10,9 +10,9 @@
 	</string>  
 	<string id="st_af_itcher_descr">
 		<text>
-		A formation of thermal nature. The Itcher consists of two separated layers. The surface is a hard, dense metamorphic rock with deep scars covering the entire body. Completely inactive and doesn't hold any noticeable properties. On the other hand, the soft, yellow glowing core is from unknown organic nature. It actively consumes excessive heat and remains cool at all times.
-		\nHowever, it is not recommended to approach chemical and acid anomalies when in possession of the artefact as it will increase the adverse effects of acids and toxins in user's bloodstream.
-		\n \nRadiation output is low on the artefact radiation scale.
+		열원이 뭉쳐진 형태이다. 간지럼증 아티팩트는 두 개의 분리된 층으로 구성되어 있다. 표면은 단단하고, 밀착된 변성암으로 이루어져 있으며 표면 전체는 깊은 상처로 덮여 있다. 완전히 비활성화 되어있고 어떠한 주목할만한 특징도 가지고 있지 않다. 반면, 부드럽고 노란색으로 빛나는 핵은 알 수 없는 유기체로 이루어져 있다. 핵은 잉여 열을 활발하게 흡수하고 있고 항상 차가운 상태를 유지하고 있다.
+		\n하지만, 이 아티팩트를 가지고 있을 때 화학이나 산성 이상현상 근처에 가는 것은 추천하지 않는데 이는 이 아티팩트가 사용자의 혈액에 미치는 독성 및 산의 영향력을 증폭하기 때문이다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 낮은 편이다.
 		</text>
 	</string> 
 
@@ -21,10 +21,10 @@
 	</string>  
 	<string id="st_af_pin_descr">
 		<text>
-		A small artefact formed by thermal anomalies in the Zone under extreme temperatures. The look of this artefact suggests that it was an organ of a vascular plant. Further studies showed that other organic tissues are fused deep inside.
-		\nThe stem doesn't hold any useful properties. On the contrary, the small pins reduce temperature of user's body and cool all objects in their vicinity.
-		\nThis artefact offers a slight psy-protection as it will resonate under the influence of psy-waves. On the other hand, it is not recommended to approach chemical and acid anomalies when in possession of the artefact as it will increase the adverse effects of acids and toxins in user's bloodstream.
-		\n \nRadiation output is average on the artefact radiation scale.
+		존의 고열 이상현상의 극심한 고온의 환경에서 형성된 작은 아티팩트이다. 이 아티팩트의 외형으로 미루어 볼 때 아티팩트가 한때는 관다발 식물의 조직이었다고 추측할 수 있다. 이후 진행된 연구들은 다른 유기체 조직들이 아티팩트 안쪽 깊은 곳에서 융합되어 있다는 사실을 밝혀냈다.
+		\n줄기 부분은 어떤 유용한 특징도 없다. 반면에, 작은 핀들은 사용자의 체온을 낮추고 근처에 있는 모든 물건들을 냉각시킨다.
+		\n이 아티팩트는 정신파의 영향을 받으면 공명하기 때문에 적은 양의 정신파 보호를 제공한다. 하지만, 이 아티팩트를 가지고 있을 때 화학이나 산성 이상현상 근처에 가는 것은 추천하지 않는데 이는 이 아티팩트가 사용자의 혈액에 미치는 독성 및 산의 영향력을 증폭하기 때문이다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 평균적인 편이다.
 		</text>
 	</string>  
 	
@@ -33,11 +33,11 @@
 	</string>
 	<string id="st_af_cristall_descr">
 		<text>
-		This artefact is formed in anomalous zones with intense thermal activity. Actively consumes excessive heat and remains cool at all times.
-		\nIt will also protect the user against electrical currents. On the other hand, exposure to such environments makes the artefact increase the conductivity due to unknown as of now mechanism. For this reason, one is forced to weigh pros and cons of Crystal when in the vicinity of areas of high conductivity.
-		\nThis artefact is also highly sought for by jewellers outside the Zone as its inner core is not radioactive and considered to be of exceptional beauty if polished and refined. Only the first 1 cm of its outer layer emits radiation.
-		\nIt is, however, highly advised to proceed with caution when planning to bring the artefact to the market as prolonged exposure to even minimal amounts of radioactive materials can result in death of the user. Covered with very hard layer. Relatively heavy due to high density.
-		\n \nRadiation output is average on the artefact radiation scale.
+		이 아티팩트는 극심한 열 활동이 이루어지는 이상현상 지역에서 형성된다. 주변의 잉여 열을 활발하게 흡수하고 항상 차가운 상태를 유지한다.
+		\n또한 사용자를 전류로부터 보호해 준다. 반면, 전기가 흐르는 환경에서 이 아티팩트는 현재로서는 알 수 없는 메커니즘에 의해 전기 전도성이 올라가게 된다. 이러한 이유 때문에, 수정 아티팩트를 사용하는 사람은 높은 전력이 있는 지역 근처에 갈 때 수정의 장점과 단점을 확실하게 비교해야만 한다.
+		\n또한 이 아티팩트는 내부 핵이 방사능을 띠고 있지 않고 정제 및 가공이 이루어지면 매우 아름다운 형태로 보여지기 때문에 존 바깥의 보석 세공사들이 많이 찾는다. 오직 외부층의 1cm 정도만이 방사선을 방출한다.
+		\n하지만, 매우 적은 양의 방사능 물질이라도 오랫동안 노출될 경우 사용자를 사망에 이르게 할 수 있기 때문에 이 아티팩트를 시장에 반출하는 과정에서 주의를 기울일 것을 추천한다. 매우 단단한 외피로 둘러싸여 있다. 밀도가 높아 상당히 무겁다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 평균적인 편이다.
 		</text>
 	</string>
 	
@@ -46,10 +46,10 @@
 	</string>
 	<string id="st_af_fireball_descr">
 		<text>
-		It is a spherical artefact made of red-coloured crystal, created in the Burner anomaly.
-		\nIt has an unique property: it has a constant temperature of 75 degrees Fahrenheit/24 degrees Celsius, regardless of its surroundings. This allows it to absorb heat from its vicinity and to create a little pocket around the user which prevents the flames from damaging the body.
-		\nA dangerous effect of this artefact is the fact that it will increase electrical conductivity, so the probability of electrocution while wearing this artefact is much higher, especially during storms and in the vicinity of electrical anomalies.It is quite heavy due to high density of crystal-like material.
-		\n \nRadiation output is high on the artefact radiation scale.
+		불판 이상현상에서 만들어지는 붉은 빛의 수정으로 만들어진 구 형태의 아티팩트이다.
+		\n이 아티팩트는 독특한 특징을 가지고 있는데, 주변 환경에 상관없이 화씨 75도 / 섭씨 24도의 온도가 유지된다는 것이다. 이 특징으로 인해 이 아티팩트는 주변으로부터 열을 흡수하고 사용자 주변에 작은 공간을 만들어 화염으로 인한 피해를 입는 것을 막아 준다.
+		\n이 아티팩트의 위험한 특징은 전기 전도성을 높인다는 것이며,  따라서 이 아티팩트를 장착하고 있는 동안에는 특히 폭풍 속에 머무를 때나 전기 이상현상 근처에 있을 때 감전사할 위험이 매우 높아진다. 수정과 비슷한 고밀도의 물질로 만들어져 상당히 무겁다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 높은 편이다.
 		</text>
 	</string>
 	
@@ -58,9 +58,9 @@
 	</string>
 	<string id="st_af_blood_descr">
 		<text>
-		A reddish formation of compressed fossilised plants, soil and animal debris. Can partially neutralise chemical poisons by absorbing them and reducing overall toxicity level in user's bloodstream. Quite widespread and not very effective as it makes chemical burns fester. It will catch fire when exposed to open flame or even spontaneously combust. 
-		\nAnother positive effect possessed by this artefact is that it accelerates clotting if worn close to the body. Although it is not recommended to keep this artefact in your possession for longer periods of time as blood clots can be hazardous to your health.
-		\n \nRadiation output is low on the artefact radiation scale.
+		식물, 흙, 그리고 동물의 잔해가 압축되어 화석화된 형태의 붉은 덩어리이다. 화학적 독성을 흡수하여 일부 중화시킬 수 있으며 사용자의 혈액의 전체적인 독성 수준을 줄여 준다. 상당히 흔한 편이며 화학적인 요소에 의한 화상 상처를 곪게 만들 수 있기 때문에 그리 효과적이지는 못하다. 불 근처에 노출되었을 때 불이 잘 붙고 심지어 자연발화할 수도 있다. 
+		\n이 아티팩트의 또다른 좋은 효과는 신체에 가까이 대었을 때 혈액 응고를 촉진한다는 것이다. 그렇지만 너무 오랜 시간 동안 가지고 있을 경우 혈액 응고가 오히려 건강에 나쁜 방향으로 이루어질 수 있기 때문에 계속 가지고 있는 것은 추천되지 않는다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 낮은 편이다.
 		</text>
 	</string>
 	
@@ -69,11 +69,11 @@
 	</string>
 	<string id="st_af_mincer_meat_descr">
 		<text>
-		This artefact has soft, porous, skin-like texture and is said to be able to compress. It resembles and acts like a sponge in this regard, but reveals its special characteristics only when exposed to certain external conditions.
-		\nFirstly, to carry the sponge metaphor further, the pores on its surface are known to absorb small amounts of toxicity from environment.
-		\nSecondly, the artefact slightly amplifies the damaging effects of psy-fields to living organisms by absorbing psy energy and emitting it at a small rate.
-		\nThirdly, Meat Chunk is also known to be a conductor of electricity much like the skin of a living creature.
-		\n \nRadiation output is average on the artefact radiation scale.
+		이 아티팩트는 부드럽고, 다공성이며 피부와도 같은 질감을 가지고 있어 압축할 수도 있다고 전해진다. 이러한 점에서 마치 스펀지와 닮은 외형과 기능을 가진다고 볼 수도 있지만, 이 아티팩트만의 독특한 특징은 특정한 외부 환경에 노출되었을 때만 드러난다.
+		\n첫째로, 앞서 비유된 스펀지와도 같이 아티팩트 표면의 구멍에서 주변 환경의 적은 양의 독성을 빨아들이는 것으로 알려져 있다.
+		\n둘째로, 아티팩트는 정신파 에너지를 흡수하고 다시 약한 수준으로 방출하여 정신파 필드가 생체에 가하는 피해를 약간 증폭시킨다.
+		\n셋째로, 고깃덩이는 살아있는 생명체의 피부처럼 전기를 전도하는 물질로 알려져 있다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 평균적인 편이다.
 		</text>
 	</string>
 	
@@ -82,10 +82,10 @@
 	</string>  
 	<string id="st_af_bracelet_descr">
 		<text>
-		Bracelet is formed from common species of bryophytes plants under high exposure to radioactive and chemical anomalies, which explains its organic nature.
-		\nIt provides substantial protection against all types of acids by gradually increasing their pH to the level of water (pH of 7).
-		\nWhen worn, the artefact is also known to slightly counter the harmful effects of psy-anomalies or psy-waves of some mutants.
-		\n \nRadiation output is average on the artefact radiation scale.
+		팔찌 아티팩트는 아티팩트의 유기체적 특성의 기반이 된 이끼 종류의 식물이 높은 수준의 방사능과 화학 이상현상에 노출되면서 만들어졌다.
+		\n이 아티팩트는 모든 종류의 산성 물질에 대해 해당 물질의 산성도를 물 수준 (ph 7)으로 점차 높여줌으로써 산의 영향으로부터 잠재적으로 보호해 준다.
+		\n장착했을 때, 아티팩트는 정신파 이상현상이나 몇몇 뮤턴트의 정신 공격을 조금 막아주는 것으로도 유명하다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 평균적인 편이다.
 		</text>
 	</string>  
 	
@@ -94,10 +94,10 @@
 	</string>
 	<string id="st_af_baloon_descr">
 		<text>
-		A compound of several hollow organic formations, this artefact emits a gaseous substance that can neutralise chemical or toxic particles inside the body without harming it. Thus providing a a great level of toxic and chemical protection.
-		\nIt also has a constant temperature regardless of its surroundings. This allows it to absorb heat from its vicinity and to create a little pocket around the user which prevents the flames from damaging the body. 
-		\nApart from that Bubble, however, possesses numerous negative properties. For example, it greatly amplifies the effects of psy-waves as well as fields produced by mutants and anomalies. This disadvantage is not to be taken lightly: some stalkers have reported that psy influence was so potent when in possession of a Bubble that they felt their heads cracking from the inside and the only thing they could do was scream in pain and run as far as they could. 
-		\n \nRadiation output is high on the artefact radiation scale. 
+		몇 개의 비어있는 유기체적 형태의 집합체인 이 아티팩트는 가스 형태의 물질을 배출해 몸 속에 있는 화학이나 독성 입자를 인체의 손상 없이 중화시켜 준다. 이러한 기능을 통해 독성 및 화학요소에 대한 높은 수준의 보호를 제공한다.
+		\n또한 이 아티팩트는 주변 환경에 상관없이 일정한 온도를 가지고 있다. 이 특징으로 인해 이 아티팩트는 주변으로부터 열을 흡수하고 사용자 주변에 작은 공간을 만들어 화염으로 인한 피해를 입는 것을 막아 준다. 
+		\n하지만 그 거품 형태와는 별개로 다양한 부정적인 특징을 가지고 있다. 예를 들어, 이 아티팩트는 뮤턴트나 이상현상이 방출하는 정신파 또는 정신파 필드의 효과를 엄청나게 증폭시킨다. 이러한 단점을 가볍게 여길 수 없는 것이, 몇몇 스토커가 거품 아티팩트를 가지고 있을 때 정신파의 영향력이 너무 강해져서 머리가 안으로부터 쪼개지는 듯한 통증이 느껴졌고 그저 고통에 비명을 지르며 가능한 한 멀리 달아나는 일밖에 할 수 없었다고 보고했기 때문이다. 
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 높은 편이다. 
 		</text>
 	</string>
 	
@@ -106,10 +106,10 @@
 	</string>
 	<string id="st_af_electra_sparkler_descr">
 		<text>
-		This artefact has the appearance of translucent spider webs. Just as proteinaceous spider silk, it is sticky and has properties of glue.
-		\nIt can be found most commonly in or near electro anomalies and it seems to have absorbed their certain characteristics: it is able to smooth fluctuations in electric field density and acts as a weak resistor, protecting the wearer from electricity and reducing its damaging effects.
-		\nOn the other hand, it should be noted that the presence of this artefact increases the corrosiveness of acids, leading to accelerated deterioration of equipment and higher damage to tissues of any living organism.
-		\n \nRadiation output is low on the artefact radiation scale.
+		이 아티팩트는 반투명한 거미줄처럼 생겼다. 단백질로 이루어진 거미줄과도 같이, 끈적거리는 풀 같은 특징을 지녔다.
+		\n이 아티팩트는 전기 이상현상 안이나 근처에서 가장 흔하게 보이는 종류이며 이러한 이상현상의 특징들을 흡수한 것으로 보인다. 이 아티팩트는 전기장이 밀집해 있는 곳에서 전기 파동을 부드럽게 만들고 약한 저항의 역할을 하여, 착용자를 전기로부터 보호하고 전기로부터 입는 피해를 줄여 준다.
+		\n반면, 이 아티팩트의 존재로 인해 산의 부식성이 강화되어, 장비를 빠르게 약화하고 모든 생체조직에게 더 높은 피해를 줄 수 있다는 사실을 기억해야 할 것이다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 낮은 편이다.
 		</text>
 	</string>
 	
@@ -118,10 +118,10 @@
 	</string>  
 	<string id="st_af_sponge_descr">
 		<text>
-		Sponge has always been under debate among the Ecologists. Some suggest that this artefact is driven from basic form of organisms, while others believe its an advanced life form with self-awareness inherited from living creatures.
-		\nDespite the theories surrounding the artefact, all can agree on one thing: it moves. The sponge sometimes tries to "grab" an object it touches. Putting it in a container might be a hard task, as if it wants to escape.
-		\nThis artefact acts as a powerful resistor and will absorb even lethal doses of electricity. On the other hand, it will catch fire when exposed to open flame or even spontaneously combust.
-		\n \nRadiation output is average on the artefact radiation scale.
+		스펀지는 항상 과학자들의 토론의 대상이 되어 왔다. 몇몇 과학자들은 이 아티팩트가 생체 조직의 가장 기본적인 형태로부터 만들어졌다고 주장하는 한편, 다른 쪽에서는 이 아티팩트가 살아있는 생명체로부터 만들어진 자각 능력이 있는 진화된 생체라고 주장한다.
+		\n이 아티팩트를 둘러싼 서로 다른 이론들이 있음에도 불구하고, 모두가 동의하는 한 가지 특징이 있는데, 바로 이 아티팩트가 스스로 움직인다는 것이다. 스펀지는 가끔 자신과 접촉하는 물건을 "붙잡으려는" 시도를 한다. 이 아티팩트를 컨테이너에 넣는 것은 어려운 일이 될 수 있는데, 마치 이것이 탈출하고 싶어하는 것처럼 보인다.
+		\n이 아티팩트는 강력한 저항의 역할을 하며 치명적인 수준의 전기라도 흡수할 것이다. 반면, 이 아티팩트는 불에 노출될 경우 불에 타기 쉬우며, 심지어는 자연발화할 가능성도 있다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 평균적인 편이다.
 		</text>
 	</string> 
 	
@@ -130,11 +130,11 @@
 	</string>  
 	<string id="st_af_ring_descr">
 		<text>
-		A very small artefact of electric nature. Difficult to spot. Consists of two ring-shaped materials of organic nature, hence the given name.
-		When the Ring spins, it never stops spinning, defying the first law of thermodynamics. Scientists suggest that this artefact inherits gravitational properties from Vortex anomalies.
-		\nThe outer ring has a high-conductivity. It absorbs electrical current from relative sources then ground it in the inner ring. Despite the basic function, the mechanism behind the disappearance of electrical power inside the second ring is still unknown.
-		\nOn the other side, the Ring is flammable. Prolonged exposure may enhance its flammability and cause it to ignite.
-		\n \nRadiation output is average on the artefact radiation scale.
+		전기적 특성을 가진 매우 작은 아티팩트이다. 발견하기가 어렵다. 이름처럼 유기체적 특성을 가진 두 개의 반지 모양의 물질로 이루어져 있다.
+		반지가 한번 돌기 시작하면 절대 도는 것을 멈추지 않는데, 마치 열역학 제 1법칙을 무시하는 것처럼 보인다. 과학자들은 이러한 아티팩트가 소용돌이 이상현상의 중력적 특성들을 가지고 있다는 가설을 세웠다.
+		\n바깥 고리는 높은 전도성을 가지고 있다. 이 고리는 가까운 물질의 전류를 흡수하여 안쪽 고리로 전해준다. 기본적인 기능에도 불구하고, 두 번째 고리에서 전력이 사라지는 것과 관련된 메커니즘은 아직 알려지지 않았다.
+		\n한편, 반지 아티팩트는 불에 타는 물질이다. 오랫동안 노출되면 가연성이 증가해 불이 붙을 수도 있다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 평균적인 편이다.
 		</text>
 	</string> 
 	
@@ -143,11 +143,11 @@
 	</string>
 	<string id="st_af_electra_flash_descr">
 		<text>
-		This artefact is very similar in appearance to Moonlight and resembles a plasma globe or a plasma lamp.
-		\nBeing a powerful resistor, it is well known for its ability to shield its user from lethal doses of electricity.
-		\nWhen worn, it is known to slightly counter harmful effects of psy-anomalies or psy-waves of certain mutants. Flash acts as a powerful resistor and will absorb even lethal doses of electricity.
-		\nHowever, it also hinders healing process, thus caution is advised especially when wounded or bleeding. This artefact is also extremely light and very portable.
-		\n \nRadiation output is high on the artefact radiation scale.
+		이 아티팩트는 달빛 아티팩트와 매우 유사한 모양을 가지고 있고 마치 플라즈마 구체나 플라즈마 램프와 닮았다.
+		\n강력한 저항으로 사용될 수 있으며, 치명적인 수준의 전력으로부터 착용자를 보호하는 능력으로 잘 알려져 있다.
+		\n착용했을 때, 정신파 이상현상이나 특정한 뮤턴트가 가하는 정신파 공격으로부터의 해로운 효과를 조금 막아줄 수 있는 것으로 알려져 있다. 불빛 아티팩트는 강력한 저항 역할을 하며 치명적인 수준의 전력이라도 흡수할 수 있다.
+		\n하지만, 이 아티팩트는 치료 과정을 방해하는 특성도 가지고 있어, 부상을 입거나 출혈 상태일 때 특히 조심해야 한다. 이 아티팩트는 엄청나게 가벼워 운반이 매우 편리하기도 하다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 높은 편이다.
 		</text>
 	</string>
 	
@@ -156,11 +156,11 @@
 	</string>
 	<string id="st_af_cristall_flower_descr">
 		<text>
-		This artefact resembles melted cheese interspersed with sapphire-like stones. Only yellow outer shell of the artefact appears to give off radiation and by careful processing it is possible to extract the non-radioactive blue parts for jewellery and other industrial purposes. This is due to the fact that if cleaned properly and polished, sapphire comparison becomes much more explicit: the stones are as hard and durable as this beautiful gem. This quality of theirs and their appearance make them perfect gemstones and jewellers all over the world strive to have them in stock. 
-		\nThe usefulness of the artefact, however, is not limited to its industrial applications. There is scientific evidence suggesting that sapphire-like stones effectively protect from psy-waves, whereas the outer shell slightly increases resistance to toxicity.
-		\nHowever, it can cause objects in its vicinity to heat up and in extreme cases to ignite along with the artefact. For this reason, it is safe to conclude that it absorbs heat and is able to convey it to other objects.
-		\nDue to its density the weight of artefact has increased beyond normal standards, and thus it is one of the heaviest anomalous creations in the Zone.
-		\n \nRadiation output is low on the artefact radiation scale.
+		이 아티팩트는 사파이어처럼 생긴 돌이 녹은 치즈 사이에 박혀있는 것처럼 생겼다. 아티팩트의 바깥 부분에 있는 노란 외피에서만 방사선이 방출되며 조심스럽게 가공하면 방사능이 없는 파란 부분을 추출하여 보석이나 다른 산업적 목적으로 가공할 수 있다. 이는 적절하게 세척된 뒤 세공된다면, 사파이어 같은 부분이 더욱 잘 드러난다는 사실에 의한 것으로, 돌 부분은 이 아름다운 보석 부분만큼 단단하고 튼튼하다. 이러한 품질과 외형으로 인해 완벽한 보석으로 세공될 수 있으며 전 세계의 보석상들이 이 아티팩트를 사들이기 위해 분주하게 움직이고 있다. 
+		\n하지만 이 아티팩트의 가치는 산업적 특성에만 한정되지 않는다. 사파이어처럼 생긴 돌 부분은 정신파로부터 효과적인 보호를 제공해줄 수 있으며, 외피 부분은 독성 저항력을 조금 올려준다는 것을 보여주는 과학적 증거가 존재한다.
+		\n하지만, 근처에 있는 물건들에 열을 가하는 특성이 있어 최악의 경우 아티팩트와 함께 불타버릴 가능성도 있다. 이러한 이유 때문에, 이 아티팩트가 열을 흡수하고 다른 물질들로 열을 전달할 수 있다는 특성을 가진다고 생각하는 편이 좋을 것이다.
+		\n아티팩트의 밀도가 높아 무게는 보통의 기준치를 초과할 정도로 높아졌으며, 따라서 이 아티팩트는 존에서 만들어지는 이상현상의 결과물들 중 가장 무거운 축에 속한다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 낮은 편이다.
 		</text>
 	</string>
 	
@@ -169,11 +169,11 @@
 	</string>  
 	<string id="st_af_lobster_eyes_descr">
 		<text>
-		As the name suggests, this artefact has the shape of two eggs fused together. The outer surface is very thick, the high density of its formation might be the reason behind its deep colour.
-		\nThis artefact offers slightly more psy-protection than its cousin, Stone Flower. It resonates under the influence of psy-waves to some degree and absorbs the dangerous effect.
-		\nAnother positive property is the ability to consume excessive heat while remaining cool at all times.
-		\nDue to its density of the surface, the Lobster Eyes is quite heavy.
-		\n \nRadiation output is average on the artefact radiation scale.
+		이름에서 알 수 있듯이, 이 아티팩트는 두 개의 알들이 합쳐진 것처럼 생겼다. 바깥 부분은 매우 두꺼우며, 아티팩트 형태가 고밀도인 점이 아티팩트의 깊은 색을 만들어낸 이유리고 추측된다.
+		\n이 아티팩트는 유사한 종류인 석화 아티팩트보다 조금 더 많은 정신 보호도를 제공한다. 어느 정도의 정신파의 효과를 받으면 이에 반응하여 위험한 효과를 흡수한다.
+		\n또다른 좋은 특징은 초과된 열을 흡수하여 항상 차가운 상태를 유지한다는 것이다.
+		\n표면의 높은 빌도로 인하여 무게가 무겁다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 평균적인 편이다.
 		</text>
 	</string> 
 	
@@ -182,9 +182,9 @@
 	</string>
 	<string id="st_af_electra_moonlight_descr">
 		<text>
-		This unique electrostatic artefact can resonate under the influence of psy-waves. Stalkers have learned to fine-tune the artefact so that it resonates in opposite phase to the main source of emissions, thus significantly neutralizing their effects. This orb of considerable beauty also increases electrical protection by reducing conductivity in the body when exposed to high levels of electricity.
-		\nIt should be noted that Moonlight will catch fire when exposed to open flame or even spontaneously combust. 
-		\n \nRadiation output is average on the artefact radiation scale.
+		이 독특한 정전기 아티팩트는 정신파의 효과를 받으면 이에 공명할 수 있다. 스토커들은 이 아티팩트를 잘 교정하여, 에미션이 발생하는 주요 지점에서 반대 방향으로 반응하는 것을 이용하여 에미션의 효과를 상당히 중화시키는 데 사용하는 방법을 배웠다. 이 구체는 상당히 아름다우며 높은 수준의 전기에 노출되었을 때 인체의 전기 전도성을 줄여주어 전기 보호도를 높여준다.
+		\n달빛 아티팩트는 화염에 노출되었을 때 불이 붙을 수 있으며 심지어는 자연발화 가능성까지 존재한다는 사실을 유념하고 있어야 할 것이다. 
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 평균적인 편이다.
 		</text>
 	</string>
 	
@@ -193,12 +193,12 @@
 	</string>  
 	<string id="st_af_black_spray_descr">
 		<text>
-		Being a rare artefact, little is known about its properties and origins. 
-		\nBlack Spray shares a similar shape to other sapphire-like artefacts. However, the organic nature of the stem (which shares similar properties to Pin artefacts) suggests that its formed from vascular plants under exposure to dangerous psy-fields and electromagnetic waves.
-		\nAnother unique property is the ability to delay the transmission of light that enters it. The said mysterious mechanism is applied to psy-waves surrounding the artefact as well. For this particular reason, Black Spray significantly neutralises psy interferences in a large radius.
-		\nThese beneficial properties, however, come at a price. This artefact is extremely dangerous when exposed in toxic environments as it amplifies their effect and increases their potency. When exploring toxic areas, it is hence highly recommended to keep the artefact in your backpack.
-		\nDue to the beautiful blue aura it emits, it is highly sought after by jewellers all over the world.
-		\n \nRadiation output is high on the artefact radiation scale.
+		희귀한 아티팩트로, 특징과 기원에 대해서는 거의 알려지지 않았다. 
+		\n검은 스프레이는 다른 사파이어처럼 생긴 아티팩트들과 유사한 모양을 가진다. 그러나, (핀 아티팩트와 유사한 특징을 가진) 줄기 부분의 유기체적 성질로 미루어 볼 때 이 아티팩트가 위험한 정신파 필드와 전자기파에 노출된 관엽식 식물로부터 유래했을 거라는 가능성이 존재한다.
+		\n또다른 고유 특징은 아티팩트를 통과하는 빛의 투과를 지연시킬 수 있다는 것이다. 상술한 수수께끼의 메커니즘은 아티팩트를 둘러싼 정신파에도 똑같이 적용된다. 이런 이유 때문에, 검은 스프레이는 넓은 범위에 있는 정신적 간섭을 상당히 중화해준다.
+		\n하지만 이러한 장점에는 대가가 따르기 마련이다. 이 아티팩트는 독성 환경에 노출되었을 때 독성의 효과와 위력을 증폭시키기 때문에 극도로 위험하다. 따라서 독성이 있는 지역을 탐험할 때, 이 아티팩트를 배낭 속에 잘 놓아두는 것이 매우 추천된다.
+		\n아티팩트가 내는 아름다운 파란 빛의 오라 덕분에, 전 세계의 보석상들이 즐겨 찾는다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 높은 편이다.
 		</text>
 	</string>  
 	
@@ -207,10 +207,10 @@
 	</string>
 	<string id="st_af_medusa_descr">
 		<text>
-		Very common in the Zone. This gravitational artefact is able to slightly shield the body and objects from physical impacts.
-		\nIt will slightly protect its user against extreme heat produced respectively by fire anomalies.
-		\nThis artefact is quite heavy as the gravitational field seems to increase mass. Another downside to this artefact is that it will increase the negative effects of psy-waves and is a potent conductor.
-		\n \nRadiation output is low on the artefact radiation scale.
+		존에서 매우 흔히 찾아볼 수 있다. 이 중력과 관련된 아티팩트는 신체나 물건들을 물리적 충격으로부터 조금 보호해 준다.
+		\n이 아티팩트는 화염 이상현상과 같은 곳에서 만들어지는 초고온으로부터 사용자를 조금 보호해 줄 수 있다.
+		\n중력장이 질량을 증가시키기 때문인지 이 아티팩트는 상당히 무겁다. 이 아티팩트가 같은 또다른 단점은 정신파의 부정적인 효과를 증가시키는 것과 강한 전도체라는 점이다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 낮은 편이다.
 		</text>
 	</string>
 	
@@ -219,11 +219,11 @@
 	</string>
 	<string id="st_af_vyvert_descr">
 		<text>
-		This bizarrely-shaped artefact appears in places with increased gravitational activity.
-		\nAlthough it appears almost organic, it is actually more similar to coral. Due to its gravitational nature, It provides protection against physical impacts as it greatly reduces the friction caused by fast objects.
-		\nActing as a kind of sponge that absorbs chemical and toxic elements as well, this artefact provides protection from external toxic agents as well as from chemical particles that have already made their way into the body.
-		\nWrenced can generate a locally directed gravity field which increases its mass. For this reason, this artefact is heavy.
-		\n \nRadiation output is average on the artefact radiation scale.
+		이 기괴한 모양의 아티팩트는 중력 활동이 증가한 곳에서 나타난다.
+		\n비록 거의 유기물에 가까운 모습을 띠고 있지만, 사실은 산호와 더 유사하다. 중력과 관련있는 특징 때문에, 빠른 물체로 인한 마찰력을 엄청나게 감소시켜서 물리적 중격에 대한 보호력을 제공한다.
+		\n화학적 요소 및 독성 요소를 흡수하는 스펀지 같은 기능도 하기 때문에, 이 아티팩트는 외부의 독성 물질 뿐만 아니라 이미 인체 안으로 들어간 화학적 요소들에 대해서도 보호를 제공해 준다.
+		\n변형체 아티팩트는 질량을 증가시키는 국지적인 중력장을 만들어낼 수 있다. 그 때문에, 이 아티팩트의 무게는 무겁다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 평균적인 편이다.
 		</text>
 	</string>
 	
@@ -232,11 +232,11 @@
 	</string>  
 	<string id="st_af_empty_descr">
 		<text>
-		Two disks of organic formation (commonly lipids, cellulose and lignin) with nothing but empty space in between. This is due to a unique gravitation field formed in the centre that stabilise the distance between the disks.
-		\nAny attempt to press the disks together, or pull them apart will fail due to rapid positive/negative changes in the gravitational field. As if the artefact reacts to any physical power that breaks its balance.
-		\nBecause of this mechanism, moving with an Empty is a hard task. As the gravitational field increases the density of surrounding air and slows the body down.
-		\nThe real usefulness of this effect comes to the ability to reduce friction, thus obtaining great protection against physical impacts.
-		\n \nRadiation output is average on the artefact radiation scale.
+		두 개의 유기적인 (주로 지방질과 셀룰로오스, 그리고 리그닌으로 이루어진) 구조 사이에 아무것도 없는 공간이 존재하는 원판처럼 생겼다. 이는 원판들 사이의 거리를 안정적으로 유지하는 중앙 부분에 형성된 고유의 중력장 때문이다.
+		\n이 원판들을 눌러서 뭉치거나, 당겨서 분리하려는 모든 시도는 중력장 안에서의 급속한 척력/인력 형성으로 인하여 실패하게 된다. 마치 아티팩트가 균형을 깨뜨리려는 모든 물리적인 힘에 반응하는 것처럼 보인다.
+		\n이러한 메커니즘 대문에, 공허 아티팩트를 움직이는 것은 힘든 일이 되었다. 이는 중력장이 주변 공기의 밀도를 높이고 인체를 느리게 만들기 때문이다.
+		\n이러한 효과의 진정한 효용성은 마찰력을 줄이는 능력에서 나오며, 이는 물리적 충격에 대한 훌륭한 방어력을 만들게 된다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 평균적인 편이다.
 		</text>
 	</string> 
  	
@@ -245,11 +245,11 @@
 	</string>  
 	<string id="st_af_full_empty_descr">
 		<text>
-		Similar to Empty, this artefact consist of two disks of organic formation connected by a unique gravitational field in between. However, the said field in Full Empty is extraordinary: all atoms entering the centre, regardless of their nature, become interactive under the unknown effects of the field. Thus releasing photons (light emitting).
-		\nScientists usually refer to it as the "galaxy effect", which gives the artefact an exceptional orbit of light.
-		\nThe density increment of surrounding air caused by moving is higher comparing to Empty. Because of this, the artefact will greatly hinder its holder's movement.
-		\nBeing superior artefact to Empty, the protection against physical impacts is remarkable. Some claims that Full Empty is capable of stopping 9mm bullets fired at point blank.
-		\n \nRadiation output is high on the artefact radiation scale.
+		공허 아티팩트와 유사하게, 이 아티팩트는 유기적인 구조로 되어 있는 두 개의 원판이 그 사이에 있는 고유의 중력장으로 연결된 구조로 되어 있다. 하지만 완전한 공허의 중력장은 매우 특이하다. 중앙 부분으로 드나드는 모든 원자들은 특성과 상관없이 중력장의 미지의 효과를 받아 상호작용하게 된다. 그 결과로 광자가 방출된다 (빛이 난다).
+		\n과학자들은 아티팩트가 고유한 빛의 고리를 만들어내는 이러한 현상을 "은하수 효과"라고 부른다.
+		\n움직임으로써 생기는 주변의 공기의 밀도 증가는 공허 아티팩트의 경우보다 더 크다. 그 때문에, 이 아티팩트는 착용자의 움직임을 더 크게 제한한다.
+		\n공허 아티팩트의 상위 아티팩트로서, 물리적 중격에 대한 방어도는 주목할 만한 수준이다. 몇몇 사람들은 완전한 공허 아티팩트가 지근거리에서 발사된 9mm 탄환을 막아낼 능력이 있다고 주장한다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 높은 편이다.
 		</text>
 	</string> 
 	
@@ -258,11 +258,11 @@
 	</string>
 	<string id="st_af_night_star_descr">
 		<text>
-		This glowing artefact can generate a local directed low-gravity field. Widely used by stalkers along with Gravi, a similar artefact, to increase maximum load.
-		\nDue to its beautiful inner core it is highly sought after by jewellers all over the world, however it is best to proceed with caution as unskilled treatment can cause the artefact to explode with power sufficient to level a small building. It is thus highly advised to perform the polishing by means of specialised machinery, which minimises the probability of explosion. Moreover, only the outer core of the artefact emits radiation.
-		\nNightstar will also absorb toxic and chemical agents from the environment, which makes it a valuable artefact for artefact hunters, although the amount of toxicity absorbed is negligible. It is, however, relatively cheap and even stalkers with pretty tight budgets can afford it if opportunity to buy it arises. 
-		\nThat being said, Nightstar emits odour of burning flesh when in the closest proximity of heat source. Prolonged exposure may enhance its flammability and cause it to ignite.
-		\n \nRadiation output is low on the artefact radiation scale.
+		이 빛나는 아티팩트는 지엽적인 낮은 수준의 중력장을 만들어낼 수 있다. 비슷한 아티팩트인 그라비 아티팩트와 함께 소지 가능 무게를 높여주기 때문에 스토커들에 의해 널리 사용된다.
+		\n아름다운 내부 핵심 떄문에 이 아티팩트는 전 세계의 보석상들이 즐겨 찾고 있지만, 비숙련자가 다룰 시 작은 건물을 날려버릴 정도의 힘으로 폭발할 위험이 있기 때문에 반드시 주의깊게 다루어야 한다. 따라서 폭발 가능성을 최소화하는 특수한 기계를 사용하여 가공 작업을 수행하는 것이 매우 추천된다. 또한, 아티팩트의 외부 핵심 부분만이 방사능을 배출한다.
+		\n밤하늘의 별 아티팩트는 주변 환경에서 독성 및 화학적 물질들을 흡수해주기도 하기 때문에, 비록 흡수할 수 있는 독성의 양이 한정적이기는 하지만 아티팩트 사냥꾼들에게는 매우 가치있는 아티팩트가 되었다. 하지만 이 아티팩트는 매우 저렴하여 돈이 쪼들리는 스토커들도 기회가 주어진다면 살 수 있을 정도이다. 
+		\n세간에 따르면, 밤하늘의 별은 열원으로부터 가까운 거리에 있을 때 살갗이 타는 냄새를 풍긴다고 한다. 오랫동안 노출되면 가연성이 증가해 불이 붙을 수도 있다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 낮은 편이다.
 		</text>
 	</string>
 	
@@ -271,10 +271,10 @@
 	</string>
 	<string id="st_af_gravi_descr">
 		<text>
-		Gravi is formed from metallic substances exposed to prolonged gravitation. This makes it capable of sustaining an powerful anti-gravitational field, which causes it to have various properties, among others reducing weight of all objects in its close proximity. For a long time, the artefact was a mystery, and it was scientist Sakharov at Yantar who first discovered that Gravi creates a minute singularity field of anti-gravitational nature, the phenomenon which occurs in intervals of 30 minutes.
-		\nA dangerous effect of this artefact is the fact that it will increase electrical conductivity, so the probability of electrocution while wearing this artefact is much higher, especially during storms and in the vicinity of electrical anomalies.
-		\nAnother downside is that it will increase the negative effects of psy-waves and is a potent conductor.
-		\n \nRadiation output is average on the artefact radiation scale.
+		그라비는 오랫동안 중력 현상에 노출된 금속 물질로 만들어져 있다. 그래서 이 아티팩트는 강력한 반중력장을 유지할 수 있는 능력이 있어, 근처에 있는 모든 물건들의 무게를 줄여주는 등의 다양한 기능을 갖는다. 이 아티팩트는 오랜 시간 동안 수수께끼에 싸여 있었고, 얀타 호수의 과학자인 사하로프 교수가 그라비가 30분 간격으로 1분 동안 지속되는 반중력장을 만들어낸다는 사실을 처음 발견하였다.
+		\n이 아티팩트의 위험한 특징은 전기 전도성을 높인다는 것이며,  따라서 이 아티팩트를 장착하고 있는 동안에는 특히 폭풍 속에 머무를 때나 전기 이상현상 근처에 있을 때 감전사할 위험이 매우 높아진다.
+		\n또다른 단점은 정신파의 부정적인 효과를 증대시킨다는 것과 강력한 전도체 기능을 한다는 것이 있다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 평균적인 편이다.
 		</text>
 	</string>
 	
@@ -283,12 +283,12 @@
 	</string>
 	<string id="st_af_gold_fish_descr">
 		<text>
-		Direct successor to and a superior version of Gravi artefact. As was the case with Gravi, it was scientist Sakharov at Yantar who discovered its unique properties after a massive blowout/emission hit the Zone.
-		\nThanks to meticulous research that followed, it was established that this new artefact is produced when three Gravi artefacts interact and get sucked into one another's singularity fields. This phenomenon is extremely rare, due to which the artefact is highly valued.
-		\nIt is rumoured within Ukrainian Spetsnaz circles that in the Zone there are agents from the Ministry of Defence of the Russian Federation whose sole objective is acquiring and transporting Goldfish to specialised laboratories located outside of the Zone.
-		\nThe artefact creates a constant anti-gravitational singularity field which affects only its closest vicinity. However, some stalkers have been known to disappear for no apparent reason leaving only a Goldfish behind.
-		\nBig downside, however, comes along with this powerful anti-gravitational field: the velocity of moving objects inside its radius will rapidly increase, causing dangerous impacts on surrounding objects, including the holder.
-		\n \nRadiation output is highest on the artefact radiation scale.
+		그라비 아티팩트의 직계 후손이자 더 강력한 형태의 아티팩트이다. 그라비의 경우와 마찬가지로, 거대 블로우아웃/에미션이 존을 강타했을 때 얀타 호수의 과학자인 사하로프 교수가 이 아티팩트의 고유한 특성들을 발견해냈다.
+		\n그 뒤 이어진 세심한 연구들 덕에, 이 새로운 아티팩트는 세 개의 그라비 아티팩트가 상호작용하여 각자의 특이점을 향해 서로 빨려들어간 결과로 만들어졌다는 사실이 성립되었다. 이런 현상은 극히 드물기 때문에 이 아티팩트의 가치는 매우 높아졌다.
+		\n우크라이나 스페츠나츠 대원들의 모임들 사이에는 존 내부에 러시아 연방의 국방부 요원들이 금붕어 아티팩트를 획득하여 존 밖에 있는 특수한 연구 시설로 운반한다는 단 하나의 목적만을 가지고 활동하고 있다는 소문이 돌고 있다.
+		\n이 아티팩트는 지속적으로 주변에만 영향을 미치는 반중력적인 특이점 필드를 형성한다. 하지만, 몇몇 스토커들이 단지 금붕어 아티팩트 하나만을 남긴 채로 아무런 이유도 없이 사라졌다는 사실은 공공연히 알려져 있다.
+		\n하지만, 이 강력한 반중력장으로 인해 생긴 크나큰 단점이 있다. 바로 이 아티팩트의 영향을 받는 반경 내에 있는 움직이는 물체의 속도가 급격히 증가하여, 착용자를 포함한 주변의 물체에게 매우 위험한 충격을 줄 수 있다는 것이다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 가장 높다.
 		</text>
 	</string>
 	
@@ -297,11 +297,11 @@
 	</string>
 	<string id="st_af_dummy_glassbeads_descr">
 		<text>
-		Shaped like a DNA helix, Mama's Beads are created in the Burner anomaly. One of their most characteristic features is that they constantly pulsate, generating emissions beneficial to the human body. These emissions increase the metabolism of any living creature, accelerating coagulation and healing of wounds.The mechanism behind the effects of this artefact is still unknown.
-		\nMama's Beads also possess potent protective qualities: they are able to shield the body and objects from extreme heat.
-		\nOn the other hand, it should be noted that the presence of this artefact increases electrical conductivity, so the probability of electrocution while wearing this artefact is much higher, especially during storms and in the vicinity of electrical anomalies.
-		\nThe weight is also quite high for such a small artefact, which leads to a conclusion that is of high density.
-		\n \nRadiation output is low on the artefact radiation scale.
+		DNA 나선과 비슷하게 생긴 엄마의 염주 아티팩트는 불판 이상현상에서 만들어진다. 이 아티팩트의 가장 개성적인 특징들 중 하나는 바로 지속적으로 진동하면서, 인체에 이로운 파동을 만들어낸다는 것이다. 이러한 파동은 모든 생명체의 신진대사를 가속시켜, 혈액의 응고와 상처의 치료를 빠르게 한다. 이러한 아티팩트의 효과를 만들어내는 메커니즘은 아직 알려지지 않았다.
+		\n엄마의 염주 아티팩트는 강력한 보호 능력도 갖추고 있다. 이 아티팩트는 극도의 고열로부터 인체와 물건들을 보호할 수 있다.
+		\n반면, 이 아티팩트는 전기의 전도성을 높이기 때문에, 특히 폭풍이 몰아치는 동안이나 전기 이상현상의 근처에 있을 때 아티팩트를 장착하는 사람이 감전사할 위험이 높아진다는 사실을 잘 알아두어야만 할 것이다.
+		\n또한 아티팩트의 무게는 작은 크기에도 불구하고 상당히 무거운 편인데, 이를 통해 아티팩트의 밀도가 높다는 결론을 이끌어 낼 수 있다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 낮은 편이다.
 		</text>
 	</string>
 	
@@ -310,12 +310,12 @@
 	</string>
 	<string id="st_af_eye_descr">
 		<text>
-		This artefact, which resembles the human eye, considerably increases metabolism of the body, helping wounds heal quicker. Experienced stalkers say that Eye also brings luck. Irrespective of the validity of that statement, its positive effects are indeed quite potent. 
-		\nThis artefact soothes the pain and is extremely useful when treating wounds.
-		\nWhen worn, it is known to slightly counter harmful effects of psy-anomalies or psy-waves of certain mutants.
-		\nThese beneficial qualities, however, come at a price. This artefact is extremely dangerous when exposed to chemical anomalies as it amplifies their toxicity and increases their potency. It is hence highly recommended to keep the artefact in your backpack, never on the body, when exploring toxic areas unless you have a death wish.
-		\nThe artefact is also known colloquially as "copper eye" as it conducts electricity and amplifies its dangerous effects in the same way as copper does. 
-		\n \nRadiation output is average on the artefact radiation scale.
+		이 인간의 눈을 닮은 아티팩트는 인체의 신진대사를 상당히 가속시켜, 상처가 더 빠르게 회복되도록 도와준다. 경험있는 스토커들은 눈알 아티팩트가 행운을 불러와준다고 말하기도 한다. 이러한 말이 사실인지와는 상관없이, 이 아티팩트의 긍정적인 효과는 정말로 강력하다. 
+		\n이 아티팩트는 고통을 완화해 주기 때문에 상처를 치료하는 데 특히 유용하다.
+		\n착용했을 때, 정신파 이상현상이나 특정한 뮤턴트가 가하는 정신파 공격으로부터의 해로운 효과를 조금 막아줄 수 있는 것으로 알려져 있다.
+		\n하지만 이러한 좋은 품질에는 대가가 따르기 마련이다. 이 아티팩트는 화학적 이상현상에 노출되었을 때 이상현상의 독성을 증폭시키고 더 강력하게 만들어주기 때문에 매우 위험하다. 따라서, 독성이 있는 지역을 탐험할 때 죽고 싶지 않다면 이 아티팩트를 몸에 장착하지 말고 반드시 배낭 안에 넣어두는 것을 강력히 추천한다.
+		\n또한 이 아티팩트는 속어로 "구리 눈알" 이라고도 알려져 있는데 이는 마치 구리처럼 전기가 통하고 전기의 위험한 효과를 증폭시키기 때문이다. 
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 평균적인 편이다.
 		</text>
 	</string>
 	
@@ -324,12 +324,12 @@
 	</string>
 	<string id="st_af_fire_descr">
 		<text>
-		This artefact forms in areas of high thermal activity. Produces powerful infrared emissions which intensify metabolic processes, healing wounds before its bearer's very eyes.
-		\nIts healing capabilities are even stronger than in case of the Eye as stalkers in possession of this artefact are said to have survived being wounded by chimeras. Thanks to that, it has earned the reputation of a miraculous artefact.
-		\nMany stalkers owe it their lives, and most veteran mutant hunters carry it in case they run into danger. However, it shares not only positive but also negative properties of its cousin: entering a psy-field with this artefact on the belt is suicide. It will absorb psy energy and emitting it at a considerable rate.
-		\nAlso, it is highly advised to proceed with caution when planning to bring the artefact to the market as prolonged exposure to even minimal amounts of radioactive materials can result in death of the user.
-		\nIt can also be used as a reusable medkit of sorts since it heals wounds very quickly.
-		\n \nRadiation output is high on the artefact radiation scale.
+		이 아티팩트는 고온이 분출되는 환경에서 만들어진다. 강력한 적외선을 방출하여 신진대사를 극대화시켜, 착용자의 눈이 깜짝할 사이에 상처를 치료해 준다.
+		\n이 아티팩트의 치료 능력은 눈알 아티팩트보다 더욱 강해서 이걸 지니고 있는 스토커가 키메라로부터 상처를 입었음에도 불구하고 살아남을 수 있었다고 전해진다. 그 덕분에, 이 아티팩트는 기적의 아티팩트라는 명성을 얻었다.
+		\n많은 스토커들이 이 아티팩트로 목숨을 건졌고, 가장 숙련된 뮤턴트 사냥꾼들은 위험 속으로 달려가야 할 때를 대비해서 이 아티팩트를 가지고 다닌다. 하지만, 이 아티팩트는 장점만 있는 것은 아니고 유사한 종류의 아티팩트들과 비슷한 단점도 가지고 있다. 이 아티팩트를 가지고 정신파 필드 이상현상에 들어가는 것은 자살행위이다. 이 아티팩트는 정신 에너지를 흡수하여 상당한 수준으로 다시 방출해낸다.
+		\n또한, 매우 적은 양의 방사능 물질이라도 오랫동안 노출될 경우 사용자의 죽음을 이끌어낼 수 있기 때문에 이 아티팩트를 시장에 반출할 때는 주의깊게 진행하는 것이 추천된다.
+		\n이 아티팩트는 부상을 굉장히 빠르게 치료해 주기 때문에 재사용 가능한 메디킷으로서도 사용할 수 있다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 높은 편이다.
 		</text>
 	</string>
 	
@@ -338,11 +338,11 @@
 	</string>
 	<string id="st_af_dummy_battery_descr">
 		<text>
-		\nThe artefact is quite popular in the Zone and is valued by its residents and visitors alike for its energizing properties, although it has an adverse effect on the body when used for prolonged periods of time.
-		\nOne should take note, however, that this artefact hinders blood clotting and increases bleeding rate of open wounds. On the other hand, being a powerful resistor, it is well known for its ability to shield its user from lethal doses of electricity.
-		\nBeing an artefact of electric nature, it is well known for its ability to shield its user from lethal doses of electricity. On the contrary, it should be noted that Battery absorbs heat and is able to convey it to other objects.
-		\nThis artefact is also extremely light and very portable. 
-		\n \nRadiation output is low on the artefact radiation scale.
+		\n이 아티팩트는 존에서 상당히 인기가 많고 활력을 주는 특징으로 존의 거주자나 방문자들에게 모두 가치가 있는 물건이나, 오랫동안 가지고 다닐 경우 인체에 부정적인 영향을 미칠 수 있다.
+		\n하지만 유념할 점은, 이 아티팩트는 상처의 혈액 응고를 막아 출혈량을 높인다는 것이다. 그렇지만, 강력한 저항을 바탕으로 착용자가 치명적인 수준의 전기로부터 피해를 입는 것을 막아주는 것으로 잘 알려져 있다.
+		\n전기적 특성을 지닌 아티팩트로서, 이 아티팩트는 사용자를 전기로부터 보호해주는 능력으로 유명하다. 하지만, 배터리 아티팩트가 열을 흡수하여 다른 물체들로 전달할 수 있다는 점을 유념해야 할 것이다.
+		\n이 아티팩트는 엄청나게 가벼워 운반이 매우 편리하기도 하다. 
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 낮은 편이다.
 		</text>
 	</string>
 	
@@ -351,13 +351,13 @@
 	</string>
 	<string id="st_af_dummy_dummy_descr">
 		<text>
-		Shell is composed of two disk of bluish colour connected by semitransparent material of unknown nature.
-		\nThis strange artefact was considered devoid of any useful properties by many scientists for a long time. Only recently has it been discovered that it is indeed quite beneficial.
-		\nWhen the artefact comes into contact with the body, it will make one feel rejuvenated and thus it increases stamina recovery. This effect has in case of some stalkers induced hyperactivity. One downside of this artefact, however, is that it reduces the number of platelets in blood, thus increasing bleeding rate.
-		\nIt provides a considerable level of psy protection and absorbs electromagnetic interference, acting as a grounding material.
-		\nIt will catch fire when exposed to open flame or even spontaneously combust. Caution must be taken when approaching heat sources with this artefact.
-		\nShell is extremely light and very portable.
-		\n \nRadiation output is average on the artefact radiation scale.
+		껍질 아티팩트는 두 개의 파란색 원반이 알려지지 않은 물질에서 유래된 반투명한 물질로 이어져 있는 형태를 띠고 있다.
+		\n이 이상한 아티팩트는 오랫동안 많은 과학자들로부터 어떠한 유용한 점이 없는 것으로 여겨져 왔다. 최근에 들어서야 이 아티팩트가 상당히 유용할 수 있다는 것이 발견되었다.
+		\n아티팩트가 인체에 접촉할 때, 접촉한 사람으로 하여금 활력을 되찾은 듯한 느낌이 들게 하며 기력 회복량을 높여준다. 이러한 효과는 몇몇 스토커들에게 과잉행동을 일으킬 수 있게 만든다. 하지만 이 아티팩트의 단점으로 혈액 내부의 혈소판의 숫자를 줄여서, 출혈량을 늘린다는 것이 있다.
+		\n이 아티팩트는 상당한 수준의 정신파 보호도를 제공하고 전자기적인 간섭을 흡수하여, 접지용 물질의 역할을 한다.
+		\n불 근처에 노출되었을 때 불이 잘 붙고 심지어 자연발화할 수도 있다. 이 아티팩트를 가지고 열원에 접근할 때는 반드시 주의를 기울여야 한다.
+		\n껍질 아티팩트는 매우 가볍고 운반이 편리하다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 평균적인 편이다.
 		</text>
 	</string>
 	
@@ -366,12 +366,12 @@
 	</string>
 	<string id="st_af_ice_descr">
 		<text>
-		Also colloquially known as "Radioactive Snowflake". At first glance, this artefact resembles a white Kolobok.
-		\nThanks to its unique properties, the artefact can significantly increase the bearer's muscle tone, thus greatly improving stamina recovery. Due to its high radioactivity, stalkers in possession of it are sometimes jokingly referred to as "Radioactive Snowflakes".
-		\nWhen faced with the decision whether to carry it on the belt during a mission, you have to carefully weigh its pros and cons: does it pay to have greater endurance and high protection against electricity at the cost of being constantly exposed to its deadly radiation? Even if you are determined to take it with you, it should be noted that it is not to be used on long excursions to the Zone.
-		\nSnowflake, however, holds a big downside: it interacts with surrounding energy sources by absorbing and amplifying their effects. For this reason, approaching heat sources, toxic areas and psy-fields while holding this artefact is a suicide.
-		\nIt is as light as a snowflake and very easy to carry around.
-		\n \nRadiation output is high on the artefact radiation scale.
+		"방사능 눈송이" 라는 별명으로도 알려져 있다. 처음 보았을 때, 이 아티팩트는 하얀 콜로복을 닮았다.
+		\n고유한 특징 덕에, 이 아티팩트는 착용자의 근긴장도를 상당히 높여서, 기력 회복을 크게 강화해준다. 높은 방사능때문에, 이 아티팩트를 가진 스토커들은 가끔 "방사능 눈송이" 라는 농담 섞인 별명으로 부른다.
+		\n임무를 수행하는 동안 이 아티팩트를 벨트에 장착해야 할지 말지를 고민하게 될 때, 이 아티팩트의 장단점을 주의깊게 따져봐야 한다. 지속적으로 이 아티팩트의 치명적인 방사능에 노출되는 것을 대가로 높은 지구력과 전기 보호도를 얻을 것인가? 만일 가져가기로 마음먹었다고 해도, 존에서 오랫동안 여행할 때 사용하는 물건이 아니라는 것을 기억해 두어야 한다.
+		\n그렇지만 눈송이는 큰 단점을 가지고 있다. 이 아티팩트는 근처의 에너지원에 반응하여 흡수한 뒤 에너지원의 효과를 증폭한다. 이러한 이유 떄문에, 이걸 들고 열원이나, 독성 지역 그리고 정신파 필드에 들어가는 것은 자살 행위이다.
+		\n문자 그대로 눈송이만큼이나 가벼워서 들고 다니기 굉장히 편리하다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 높은 편이다.
 		</text>
 	</string>
 	
@@ -380,10 +380,10 @@
 	</string>
 	<string id="st_af_soul_descr">
 		<text>
-		Soul is a unique organic artefact with properties just as unique: it secretes slimy goo that dramatically increases recovery rate of wounds. Thanks to its reasonable price and attractive appearance, this artefact is a valuable collector's item.
-		\nApplying its gooey substance to wounds will soothes the pain and speeds up healing process. 
-		\It also reduces the effects of psy-waves and their damage to one's brain. But it should be known that Soul drains power from its user. The artefact does not have high density and thus is not very heavy.
-		\n \nRadiation output is low on the artefact radiation scale.
+		영혼은 독특한 유기체 아티팩트이며 특징 또한 독특하다. 이 아티팩트는 미끌미끌한 점액을 배출하여 상처의 치료 속도를 극적으로 빠르게 해준다. 적당한 가격과 매력적인 외형으로 인해, 이 아티팩트는 가치있는 수집품이 되었다.
+		\n이 아티팩트의 점액 물질을 상처에 바르면 고통을 완화해주고 치료 과정을 가속해준다. 
+		\또한 두뇌에 미치는 정신파 및 그로 인한 피해를 줄여주기도 한다. 하지만 영혼 아티팩트가 사용자의 기력을 소모시킨다는 사실을 주의해야 한다. 이 아티팩트는 높은 밀도를 가지고 있지 않아 그다지 무겁지 않다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 낮은 편이다.
 		</text>
 	</string>
 	
@@ -392,12 +392,12 @@
 	</string>
 	<string id="st_af_fuzz_kolobok_descr">
 		<text>
-		A relatively rare artefact forming in chemical areas, Kolobok is highly valued for its ability to heal most kinds of wounds and stop bleeding in a matter of minutes.
-		\nFor unknown reasons, scientists are spreading rumours among stalkers that the artefact modifies bearer's genetic code, which is unproven and should be regarded as conscious attempt at monopolizing the supply of the artefact by the scientific community. This does not, however, mean that it is completely harmless.
-		\nOne drawback of this artefact is the fact that it will interact to radioactive particles, so it is best to avoid radiation fields when in possession of the artefact, especially since its negative effects are not balanced with positive ones. It will also reduce energy recovery, which is the result of its sharp needle-like appendages. The needles cause small and quickly healing wounds which bring constant pain and itch, thus reducing stamina.
-		\nThis artefact also weakens protection against heat and acids due to its high flammability. 
-		\nLightweight and not too much of a burden to carry around.
-		\nRadiation output is average on the artefact radiation scale.
+		화학적으로 오염된 지역에서 상대적으로 희귀하게 나타나는 아티팩트인 콜로복은 몇 분도 지나지 않아 대부분의 부상을 치료해주고 출혈을 멎게 해주는 능력으로 가치가 높다.
+		\n잘 알려지지 않은 이유로, 과학자들은 스토커들에게 이 아티팩트가 착용자의 유전자 조합을 변화시킨다는 근거 없는 소문을 퍼뜨리는데, 이는 아티팩트의 공급을 과학자 집단으로 독점시키려는 지속적인 시도로 받아들여져야 할 것이다. 하지만, 이러한 사실이 이 아티팩트가 완전히 무해하다는 것을 증명해주지는 않는다.
+		\n이 아티팩트의 한 가지 단점은 아티팩트가 방사성 입자들과 상호작용을 한다는 것으로, 특히 이런 부정적인 효과가 긍정적인 효과들에 비해 전혀 균형이 맞지 않기 때문에 이 아티팩트를 지닌 상태에서 방사능 지역으로 들어가는 것을 피하는 것이 최선이다. 또한 이 아티팩트의 뾰족한 바늘같은 생김새로 인해 기력 회복력을 저하시키기도 한다. 바늘은 작고 빨리 회복되는 상처를 만들어내 지속적인 고통과 가려움을 유발하여, 기력을 감소시킨다.
+		\n또한 이 아티팩트는 높은 가연성으로 인해 고온과 산성에 대한 저항력을 약화시킨다. 
+		\n무게가 가벼워 들고 다니는 데 그리 큰 부담이 되지 않는다.
+		\n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 평균적인 편이다.
 		</text>
 	</string>
 	
@@ -406,12 +406,12 @@
 	</string>
 	<string id="st_af_glass_descr">
 		<text>
-		Firefly interacts with fields unknown to science, considerably speeding up regeneration of tissue and organs in living beings, as well as normalizing metabolic processes.
-		\nThis artefact can literally get a badly wounded stalker back on his feet in a matter of minutes. On the other hand, Firefly can spontaneously combust when exposed to potent radioactive sources.
-		\nA big downside to this artefact is that it weakens the body and reduce the number of platelets in blood during heal process, thus increasing bleeding rate.
-		\nIt seems to drain stamina and decrease stamina recovery greatly as well. Some of those who used Firefly for its healing purposes have reported that they couldn't walk for hours afterwards.
-		\nUnfortunately, Firefly is extremely rare.
-		\nRadiation output is high on the artefact radiation scale.
+		반딧불이 아티팩트는 과학계에 알려지지 않은 영역과 상호작용하여, 생체의 조직과 장기의 재생 능력을 상당히 가속하는 한편, 신진대사 과정을 보통 수준으로 맞춰준다.
+		\n이 아티팩트는 문자 그대로 심하게 부상을 잎은 스토커를 몇 분 만에 다시 일어설 수 있게 만들어 줄 수 있다. 하지만, 반딧불이는 강한 방사능 물질에 노출되었을 경우 스스로 연소될 수 있다.
+		\n이 아티팩트의 큰 단점은 치료 과정 동안 신체를 약화시켜 혈액에 포함된 혈소판의 개수를 줄여, 출혈을 증가시킨다는 것이다.
+		\n또한 기력을 빨아들여 기력 회복량을 큰 폭으로 줄이기도 한다. 치료를 위해 반딧불이를 사용한 사람들 중 몇 명은 그 이후 몇 시간 동안 걸어다닐 수도 없었다는 것을 보고했다.
+		\n안타깝게도, 반딧불이는 매우 희귀한 물건이다.
+		\n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 높은 편이다.
 		</text>
 	</string>
 	
@@ -420,11 +420,11 @@
 	</string>
 	<string id="st_af_compass_descr">
 		<text>
-		A very rare artefact. It's been several years since one was found.
-		\nIt can locate gaps in anomaly fields. It is believed that it can help one traverse the most complex anomaly fields completely unharmed. However, very few know how to handle it properly.
-		\nThe Compass showed few unique properties under last experiments. It can interact to moving objects, causing some to completely disappear. Or perhaps teleport?
-		\nIt also weakens the body by draining stamina and increasing bleeding rate constantly. But the biggest draw however, is the dangerous radiation output this artefact emits comparing to the artefact radiation scale.
-		\nHolding this artefact near the body will cause death in matter of few minutes.
+		매우 희귀한 아티팩트이다. 한 개체가 발견된 이후 몇 년이 지났다.
+		\n이 아티팩트는 이상현상 필드 사이의 빈 공간으로 안내해준다. 이걸 가지고 있으면 가장 복잡한 이상현상 지역을 완전히 무피해로 지나갈 수 있다는 사실이 널리 알려져 있다. 하지만, 이 아티팩트를 제대로 다룰 줄 아는 사람은 거의 없다.
+		\n나침반 아티팩트는 이전의 실험을 통해 몇 가지 고유한 특징들이 확인되었다. 이 아티팩트는 움직일 수 있는 물체와 상호작용하여, 몇몇 물건들을 완전히 사라지게 만들 수 있다. 아니면 순간이동이라도 시키는 것일지도?
+		\n또한 기력을 흡수함으로써 신체를 약화시키고 출혈량을 지속적으로 증가시킨다. 그러나 가장 큰 단점은 바로 아티팩트 방사능 기준으로 볼 때 위험한 수준의 방사선을 배출한다는 점이 있다.
+		\n이 아티팩트를 몸 근처에 둘 경우 수 분 안에 사망에 이를 수도 있다.
 		</text>
 	</string>
 	
@@ -433,10 +433,10 @@
 	</string>
 	<string id="st_af_oasis_heart_descr">
 		<text>
-		This artefact was found at the centre of the legendary Oasis. It appears that the Heart is a crystallised plant, which has acquired the healing properties of the Oasis.
-		\nNot only it dramatically increases recovery rate of wounds and healing process, but also provides the body with strong source of energy. It is a true miracle.
-		\nThat being said, the Oasis is very sensitive to outer sources of energy and surrounding environment. For this reason, interacting with anomaly fields will bring death to the holder.
-		\n \nRadiation output is highest on the artefact radiation scale.
+		이 아티팩트는 전설 속의 오아시스의 한가운데에서 발견되었다. 이 심장은 결정화된 식물로부터 만들어졌으며, 오아시스의 치료 능력이 깃들어 있는 것으로 보인다.
+		\n상처 회복량 및 치료 속도를 극적으로 빠르게 만들어줄 뿐만 아니라, 인체에 강력한 에너지원을 공급해준다. 정말 기적이라고 할 만하다.
+		\n일설에 따르면, 오아시스는 외부의 에너지원 및 근처의 환경에 매우 민감하다고 한다. 이러한 이유 때문에, 이 아티팩트를 가지고 이상현상으로 들어갈 경우 착용자를 죽음에 이르게 할 수도 있다.
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 가장 높다.
 		</text>
 	</string>
 	
@@ -445,13 +445,13 @@
 	</string>  
 	<string id="st_af_death_lamp_descr">
 		<text>
-		"Big, red and cursed."
-		\nThis is how the locals prefer to describe the Death Lamp, while some refer to it as the "Seed of Satan". Many traders believe the rumours surrounding the artefact, thus refusing to buy it.
-		Little is known about its origins, and nothing of value has been discovered so far.
-		\nDeath Lamp was first discovered few years ago by a group of three experienced stalkers. Shortly after delivering the artefact to the Ecologists in Yantar, two of them found dead with a horrific expression on their faces. Nothing is known about the fate of the third stalker.
-		\nFollowing the accident, members of the science team who studied the artefact had reported having nightmare disorder in the days to follow.
-		\nApart from the mysterious effects, the artefact drains vitality and willpower from the user, often on such a scale that it induces dizziness and in extreme cases causes the user to faint. 
-		\n \nRadiation output is highest on the artefact radiation scale. 
+		"크고, 빨갛고, 저주받았도다."
+		\n상술한 내용이 이 지역에 거주하는 인원들이 죽음의 등불 아티팩트를 설명할 때 즐겨 사용하는 말이며, 이들 중 몇몇은 이를 "사탄의 씨앗"이라고 부르기도 한다. 많은 상인들은 이 아티팩트를 둘러싼 소문들을 사실이라고 믿고 있어서, 구매하는 것을 거절한다.
+		이 물건의 기원은 거의 알려지지 않았으며, 어떠한 가치도 밝혀지지 않았다.
+		\n죽음의 등불은 몇 년 전에 세 명의 숙련된 스토커들이 속한 한 그룹에 의해 발견되었다. 이 아티팩트를 얀타 호수의 과학자들에게 전달하고 얼마 지나지 않아, 그들 중 두 명은 끔찍한 표정을 지은 채 시체로 발견되었다. 나머지 한 명의 스토커가 어떤 운명을 맞이했는지는 알려지지 않았다.
+		\n그 사고가 발생한 후에, 이 아티팩트를 연구했던 과학 연구팀의 인원들은 며칠 뒤 악몽을 꾸었다는 사실을 보고하였다.
+		\n수수게끼의 효과들과는 별개로, 이 아티팩트는 착용자의 체력과 의지를 빨아들여, 종종 어지러움을 유발하며 심한 경우 사용자를 기절시킬 수 있다. 
+		\n \n방사능 방출량은 아티팩트 방사능 기준에 비추어 볼 때 가장 높다. 
 		</text>
 	</string> 
 	
@@ -459,16 +459,16 @@
 		<text>Volat Emerald</text>
 	</string>
 	<string id="st_af_monolith_descr">
-		<text>The origins of artefacts such as this one are a mystery, as they are rarely found outside the northernmost parts of the Zone.
-		\nThis unique artefact projects a non-contact field that inhibits nearbly anomalous phenomena. This grants the wearer a notable level of protection against most of the Zone's environmental hazards. It is also one of the few active artefacts that can be safely handled without lead containers.
-		However, when you hold it your flesh feels dry and flaky, your bones hard and stiff, the ligaments in your joints squeaky and brittle. Thick armour or great supernatural vitality would be needed by anyone intending to wear this artefact into battle.</text>
+		<text>이런 아티팩트들은 존의 최북단에 위치한 곳에서 희귀하게 발견되며, 그 기원은 수수께끼에 싸여 있다.
+		\n이 특별한 아티팩트는 근처의 이상현상을 억제하는 비접촉 파장을 만들어낸다. 이는 착용자에게 존에 존재하는 대부분의 환경적 위험들에 대한 상당한 수준의 보호를 제공해 준다. 또한 납 컨테이너 없이도 안전하게 취급할 수 있는 몇 안되는 활성형 아티팩트들 중 하나이기도 하다.
+		하지만, 이 아티팩트를 들고 있을 경우 살갗이 마르고 갈라지는 느낌을 받고, 뼈가 딱딱해지고 뻣뻣해지며, 관절부가 삐걱거리고 불편한 느낌이 들 것이다. 이 아티팩트를 착용한 채로 싸우려고 작정했다면 두꺼운 장갑복을 착용하거나 착용자 본인의 타고난 체력이 매우 강해야 할 것이다.</text>
 	</string>
 	
 	<string id="st_af_black_name">
         <text>Black Stone</text>
     </string>
     <string id="st_af_black_descr">
-        <text>Truly, an amazing thing. The Black Stone protects against broadly considered adversity but instead is slowly killing the owner. Some stalkers suspect the artefact is a shard of the Monolith.</text>
+        <text>참으로 놀라운 물건이다. 블랙 스톤은 넓은 범위의 위험으로부터 착용자를 보호해주는 대신 천천히 죽음에 이르게 만든다. 몇몇 스토커들은 이 아티팩트가 모노리스의 조각이라고 생각한다.</text>
     </string>
 	
 	<!-- MLR -->
@@ -476,6 +476,6 @@
 		<text>Anomalous bread</text>
 	</string>
 	<string id="st_af_misery_bread_descr">
-		<text>A piece of bread as dark as the soul of the person that left it.\n \n%c[ui_gray_2]PROPERTIES:\n%c[ui_white] � %c[ui_gray_2] artefact\n%c[d_cyan] � %c[ui_gray_2] attachable</text>
+		<text>이걸 여기 놓아둔 사람의 마음속만큼 시꺼먼 색의 빵 조각이다.\n \n%c[ui_gray_2]특징:\n%c[ui_white]  %c[ui_gray_2] 아티팩트\n%c[d_cyan]  %c[ui_gray_2] 부착 가능함</text>
 	</string>
 </string_table>
