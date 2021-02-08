@@ -60,7 +60,7 @@
 	</string>
 	
 	<!--string id="drx_sl_esc_m_trader_game_start_dialog_1_1">
-		<text>그래, 진정해. 소원을 들어주는 자는 체르노빌에 있어. 다음 버스는 20분 후에 있다고, 헤헤... 스토커, 네가 여기 오기 전 소원을 들어주는 자를 찾기 위해 수많은 사람들이 왔었지. 지금 그들이 어떻게 되었는지 알고 있나? 모두 벌레 먹이가 되었지. 소원을 들어주는 자는 전설일 뿐이다. 존재하지 않아. 만약 존재한다고 해도 소원을 들어주는 자를 찾았을 때 네 소원이 무엇인지 말할 수는 있나? 부자가 되고 싶은 거지? 고작 그런 걸로 소원은 필요 없어. 너 같은 부류는 똑똑하게만 군다면 존에서 많은 돈을 벌 수 있지. 내가 도와주지. PDA 좀 보여줘... 아, 저기, 연락처 등록해 뒀어. 내가 알고 있는 존에 있는 사람들 중 일손이 필요한 자들이야. 준비되면 찾아가 봐, 그들 중 몇몇은 돈을 많이 줄 거야. 이곳에도 일거리가 많으니 캠프 주변 사람들에게 물어봐. 나한테 물어봐도 좋아, 나도 가끔 일손이 필요하다고. 적어도 존에서만큼은 정직하게 사는 거지.</text>
+		<text>그래, 진정해. 소원을 들어주는 자는 체르노빌에 있어. 다음 버스는 20분 후에 있다고, 헤헤... 스토커, 네가 여기 오기 전 소원을 들어주는 자를 찾기 위해 수많은 사람들이 왔었지. 지금 그들이 어떻게 되었는지 알고 있나? 모두 벌레 먹이가 되었지. 소원을 들어주는 자는 전설일 뿐이다. 존재하지 않아. 만약 존재한다고 해도 소원을 들어주는 자를 찾았을 때 네 소원이 무엇인지 말할 수는 있나? 부자가 되고 싶은 거지? 고작 그런 걸로 소원은 필요 없어. 너 같은 부류는 똑똑하게만 군다면 존에서 많은 돈을 벌 수 있지. 내가 도와주지. PDA 좀 보여줘... 아, 저기, 연락처 목록을 등록해 뒀어. 내가 알고 있는 존에 있는 사람들 중 일손이 필요한 자들이야. 준비되면 찾아가 봐, 그들 중 몇몇은 돈을 많이 줄 거야. 이곳에도 일거리가 많으니 캠프 주변 사람들에게도 물어보고 그래. 나한테 물어봐도 좋아, 나도 가끔 일손이 필요하다고. 적어도 존에서만큼은 정직하게 사는 거지.</text>
 	</string-->
 
 	<!-- SIDOROVICH STORYLINE START GAME 1 END GAME 1 TEXT: -->
@@ -103,11 +103,11 @@
 		<text>무슨 일이야 루카시? 내가 보고 싶었어?</text>
 	</string>
 	<string id="lukash_questlines_about_dialog_1">
-		<text>그래, 스트렐록이 최근 나타난 것에 따라 이 부근에 폭풍이 불고 있어. 상상이 가? 스트렐록이 왜 이러는지 알아볼 사람이 필요해. 그리고 나는 프리덤의 도움을 필요로 하는 사람들의 명단도 가지고 있어. 도와줄 거야?</text>
+		<text>그래, 스트렐록이 최근 나타난 것에 따라 이 부근에 폭풍이 불고 있어. 상상이 가? 스트렐록이 왜 이러는지 알아볼 사람이 필요해. 만약 별로 알아볼 생각이 없다면 나는 프리덤의 도움을 필요로 하는 사람들의 명단도 가지고 있어. 도와줄 거야?</text>
 	</string>
 	
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_game_start_dialog_1_0">
-		<text>명단을 보여 줘. 이 사람들에게 프리덤이 어떻게 굴러가는지 보여주지.</text>
+		<text>명단을 보여 줘. 이 사람들에게 프리덤이 어떻게 나아가는지 보여주지.</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_game_start_dialog_1_1">
 		<text>바로 그거야! 여기, 네 PDA에 명단을 업로드 했어. 그들의 요구를 들어주면, 너는 존을 자유롭게 유지하는 데 도움을 줄 뿐만 아니라, 돈도 달달하게 만질 수 있을 거야.</text>
@@ -121,51 +121,51 @@
 
 	<!-- COLD STORYLINE START GAME 1 DIALOG -->
 	<string id="drx_sl_start_msg_csky">
-		<text>I have an important mission for those who are willing to help. Come to my office and I will share the details.</text>
+		<text>저에게 도움이 필요한 중요한 임무가 있습니다. 제 사무실로 오시면 자세한 내용을 공유하겠습니다.</text>
 	</string>
 	
 	<string id="cold_questlines_about_dialog_0">
-		<text>I received your message. Can you inform me about the current situation?</text>
+		<text>당신의 메시지를 받았습니다. 현재 상황에 대해 알려주실 수 있습니까?</text>
 	</string>
 	<string id="cold_questlines_about_dialog_1">
-		<text>A volunteer? We are expanding our operations in the area, and there's no end to the surprises the Zone brings us every day. The biggest surprise, however, is the news of Strelok's return. Given that he survived where Lebedev failed... well, I'm sure some of our older boys here would like some answers. Still, even if you don't, I also have a list of contacts who need some work done. Clear Sky can always benefit from maintaining its friendships, especially since some of our previous losses are otherwise irreplaceable.</text>
+		<text>지원자입니까? 우리는 이 지역에서 사업을 확장하고 있고, 존이 우리에게 매일 가져다 주는 놀라운 일은 끝이 없습니다. 하지만 가장 큰 놀라움은 스트렐록의 복귀 소식이죠. 레베데프가 실패한 곳에서 살아남은 걸로 봐서... 여기 있는 경험 많은 친구들 중 몇 명은 분명히 몇 가지 대답을 듣고 싶어 할 겁니다. 저는 일손이 필요한 사람들의 연락처 목록을 가지고 있습니다. 클리어 스카이는 우호관계를 유지함으로써 이익을 얻습니다. 특히 이전에 입은 손실 중 일부는 다른 방법으로 대체할 수 없기 때문입니다.</text>
 	</string>
 	
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_game_start_dialog_1_0">
-		<text>I'm ready to help Clear Sky maintain its friendships. What can you tell me about our contacts?</text>
+		<text>클리어 스카이의 우호관계 유지할 수 있도록 도울 준비가 되어 있습니다. 연락처 목록을 알려 주시겠습니까?</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_game_start_dialog_1_1">
-		<text>I'll release their details to your PDA as you go, all you have to do is meet your contacts as planned. Regrettably, I cannot tell you more, only that all will make sense at the right time. I trust you will know what to do. Good luck.</text>
+		<text>출발하는 대로 PDA에 자세한 내용을 전송 할 테니, 예정대로 만나기만 하면 됩니다. 죄송하지만 더 이상 말씀드릴 수 없습니다. 다만 적절한 때에 모든 것이 이해될 것입니다. 나는 당신이 무엇을 해야 할지 알 것이라고 믿습니다. 행운을 빕니다.</text>
 	</string>
 
 	<!-- COLD STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_start_game_1_endgame_1">
-		<text>Good work. You have done very well. You've given us room to ensure the path to Chernobyl will be cleared. At the heart of its reactor lies the Monolith, the Wish Granter. Find it. Then you know what you must do.</text>
+		<text>훌륭합니다. 아주 잘 해냈습니다. 체르노빌로 가는 길이 뚫릴 수 있는 여지가 생겼습니다. 원자로의 중심에는 소원을 들어주는 자인 모노리스가 있습니다. 찾으십시오. 그리고 해야 할 일을 하십시오.</text>
 	</string>
 
 
 	<!-- SAKHAROV STORYLINE START GAME 1 DIALOG -->
 	<string id="drx_sl_start_msg_ecolog">
-		<text>I have an important assignment for you, %s. Please report to my Mobile Lab in Yantar. I will share the available details there.</text>
+		<text>당신에게 줄 중요한 과제가 있어요, %s. 옌타르에 있는 내 모바일 랩으로 와주세요. 자세한 내용은 거기서 공유하겠습니다.</text>
 	</string>
 	
 	<string id="sakharov_questlines_about_dialog_0">
-		<text>You wanted to see me, Professor?</text>
+		<text>절 보자고 하셨나요, 교수님?</text>
 	</string>
 	<string id="sakharov_questlines_about_dialog_1">
-		<text>Oh, yes, yes. Good! I'm glad you're here. Something unexpected has happened, young man. Strelok has been sighted in the Zone once again! Finding him is currently a priority, both to me and our supervisors. If you wish to participate in our search for Strelok, I can tell you more. If not... well... I have another important assignment. It involves travelling the Zone and meeting new people to learn as much as you can - There is so much out there we haven't yet discovered. You could consider it... exploratory research.</text>
+		<text>오, 그래, 그래. 좋아요! 만나서 반가워요. 뜻밖의 일이 일어났어요, 젊은이. 스트렐록이 존에서 다시 한 번 목격됐습니다! 그를 찾는 것이 현재 저와 우리 상사 모두에게 최우선 과제입니다. 스트렐록을 찾는 데 참여하신다면 더 많은 것을 말씀드리겠습니다. 그렇지 않다면... 음... 또 다른 중요한 과제가 있어요. 이 과제는 당신이 많은 것을 배우기 위해 존을 여행하고 새로운 사람들을 만나는 것을 포함하지요 - 우리가 아직 발견하지 못한 많은 것들이 밖에 있어요. 탐사 연구... 한번 고려해 보세요.</text>
 	</string>
 	
 	<string id="drx_sl_yan_stalker_sakharov_game_start_dialog_1_0">
-		<text>I'm interested in conducting exploratory research for the Ecologists, Professor. Where shall I start?</text>
+		<text>저는 생태학자들을 위한 탐사 연구에 관심이 있습니다, 교수님. 어디서부터 시작할까요?</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_game_start_dialog_1_1">
-		<text>Here, a list of contacts who will take care of you along your journey. Visit them, they can provide you with work or food or shelter. Explore and be curious! Be bold and adventurous! Question everyone and everything! I expect your experiences will vastly increase our understanding of the Zone.</text>
+		<text>여기, 여행 중에 당신을 도와줄 연락처 목록이 있어요. 그들을 방문하면, 당신은 일이나 음식이나 쉼터를 제공받을 수 있어요. 탐색하고 호기심을 가져라! 대담하고 모험심을 가져라! 모두에게 모든 것을 질문하라! 당신의 경험이 존에 대한 우리의 이해도를 크게 높여 줄 것으로 기대합니다.</text>
 	</string>
 
 	<!-- SAKHAROV STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_yan_stalker_sakharov_start_game_1_endgame_1">
-		<text>You have done much to improve our relations with the outside world - certainly things could have been much worse without you. May I see your PDA...? Ah, good. Let me just copy the data you've been carrying...done! This is most valuable. You have made for a fine assistant. One only wonders what you might discover next!</text>
+		<text>당신은 우리가 외부 세계와의 관계를 증진시킬 수 있도록 위해 많은 것을 해주었어요. 당신이 없었다면 상황은 훨씬 더 악화되었을 거예요. PDA 좀 볼 수 있을까요...? 아, 좋아요. 당신이 가지고 있던 자료를 복사할게요... 다 했어요! 이건 정말 가치있네요. 당신은 훌륭한 조수가 되어주었어요. 다음에는 무엇을 발견할지 궁금하네요!</text>
 	</string>
 
 
