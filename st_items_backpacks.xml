@@ -90,18 +90,18 @@
 		%c[d_blue] • %c[ui_gray_2] 전투장비는 유저에게 귀속됩니다.\n</text>
 	</string>
 	<string id="st_itm_actor_backpack_desc_mlr">
-		<text>Often used by stalkers as a fallback in case of unforeseen circumstances. Its features are simple, consisting of a strap which can be dropped along with the backpack at any moment, in order to run away quickly. Quite compact and capacious. Practically, it allows you to reset your backpack along with some content.</text>
+		<text> 예상치 못한 상황이 발생할 경우 스토커가 대비책으로 종종 사용합니다. 가방과 함께 언제든 떨어뜨릴 수 있는 스트랩으로 구성되어 있어, 빠르게 도망갈 수 있는 것이 특징입니다. 상당히 작고 용량이 큽니다.  사실상, 이것은 당신이 백팩과 일부 내용물을 리셋할 수 있게 해줍니다.</text>
 	</string>
 	
 	<string id="st_itm_backpack_stash_name">
 		<text>PDA marked backpack</text>
 	</string>
 	<string id="st_itm_backpack_stash_desc">
-		<text>An extremely durable backpack with implemented GPS devices. Automatically synchronised with your PDA once dropped to generate a stash that is marked on your PDA. The backpack is made of strong and durable materials that will keep your equipment safe and dry regardless of environmental conditions. The camouflaged design assures that it doesn't stand out from the surroundings.\n \n
+		<text>GPS 장치 내장한 매우 내구성이 뛰어난 가방입니다. PDA와 자동으로 동기화되어 한번 내려놓으면, PDA에 표시된 은닉처을 생성합니다. 이 가방은 튼튼하고 내구성이 강한 소재로 제작되어 환경조건에 관계없이 장비를 안전하고 건조하게 유지할 수 있습니다. 이 가방의 위장 디자인은 주변과 눈에 띄지 않도록 보장합니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] military item\n
-		%c[d_blue] • %c[ui_gray_2] built-in GPS\n
-		%c[d_red] • %c[ui_gray_2] single usage\n</text>
+		%c[d_blue] • %c[ui_gray_2] 군사용품\n
+		%c[d_blue] • %c[ui_gray_2] GPS 내장\n
+		%c[d_red] • %c[ui_gray_2] 일회용\n</text>
 	</string>
 	
 </string_table>
