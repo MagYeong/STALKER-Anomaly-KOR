@@ -185,7 +185,7 @@
 		<text>고용주에 관해 무엇을 말해 줄 수 있습니까?</text>
 	</string>
 	<string id="drx_sl_cit_killers_merc_trader_stalker_game_start_dialog_1_1">
-		<text>정확히 누구인지, 무엇을 하고 있는지, 어디에 있는지 말해줄 수 있는 게 없습니다. 단지 그들이 돈을 가지고 있다는 것, 그것도 아주 많이 가지고 있다는 것 정도. 고용주는 우리에게 "이해관계자" 목록에 호의를 베풀라고 요청했습니다. PDA에 그들에 관한 관련 세부 정보가 업데이트될 겁니다. 냉정해지고 뒤를 조심하세요. 존은 엄청난 부를 안겨주기도 하지만, 동시에 생지옥이기도 합니다. 그리고 지금까지 내가 본 것 중에 달리 나를 납득시키는 것은 아무것도 없었습니다.</text>
+		<text>정확히 누구인지, 무엇을 하고 있는지, 어디에 있는지 말해줄 수 있는 게 없습니다. 단지 그들이 돈을 가지고 있다는 것, 그것도 아주 많이 가지고 있다는 것 정도. 고용주는 우리에게 "이해관계자" 목록에 호의를 베풀라고 요청했습니다. PDA에 그들에 관한 관련 세부 정보가 업데이트될 겁니다. 냉정해지고 뒤를 조심하세요. 존은 엄청난 부를 안겨주기도 하지만, 동시에 생지옥이기도 합니다. 그리고 지금까지 내가 본 것 중에 나를 납득시킬 수 있는 것은 아무것도 없었습니다.</text>
 	</string>
 
 	<!-- SWEDE STORYLINE START GAME 1 END GAME 1 TEXT: -->
@@ -196,19 +196,19 @@
 
 	<!-- KUZNETSOV STORYLINE START GAME 1 DIALOG -->
 	<string id="drx_sl_start_msg_army">
-		<text>Soldiers, we have received important information from the SSU. All military stalkers are to report back to HQ immediately for their assignments.</text>
+		<text>군인 여러분, SSU로부터 중요한 정보를 받았습니다. 모든 군인 스토커들은 임무를 위해 즉시 본부에 보고하기 바랍니다.</text>
 	</string>
 	
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_game_start_dialog_1_0">
-		<text>Reporting for duty, sir.</text>
+		<text>임무 보고 드립니다.</text>
 	</string>
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_game_start_dialog_1_1">
-		<text>Welcome to hell soldier. Listen to me and you'll stay alive. Keep your head on a swivel. As you should know by now, everyone and everything out there is trying to kill you. Trust no one. No unauthorized personnel are allowed to approach you during your operations. If you can't identify who's coming, shoot first and ask questions later. Your tour of duty will take you all over the Zone, and most of the time no one will be there to help you.\n \nYou must rely on your survival training to stay alive and complete your assignments by any means necessary. Meet with the contacts loaded into your PDA and they will give you your orders. Just complete your tour of duty, keep your heart beating and you'll get to go home with a fat wad of cash in your pocket. You are dismissed.</text>
+		<text>지옥에 온 걸 환영한다. 내 말 잘 들으면 살아 남을 거야 머리를 계속 굴려라. 지금쯤은 알아챘겠지만, 바깥의 모든 사람들과 모든 것들이 너를 죽이려 하고 있다. 아무도 믿지 마라. 임무 중에는 허가받지 않은 인원이 접근해서는 안된다. 누가 오는지 알 수 없으면 먼저 쏘고 나중에 파악해라. 임무 수행을 위해 존 곳곳을 누비고 다니는 대부분의 시간 동안 아무도 너를 도와주지 않을 것이다.\n \n생존 훈련 경험에 의존하여 목숨을 유지하고 필요한 모든 방법을 동원해 임무를 완수해야 한다. PDA에 등록된 정보원을 만나면 임무를 줄 것이다. 임무 수행을 마치고 심장 박동만 유지한다면 주머니에 돈뭉치를 넣고 집으로 돌아갈 수 있을 것이다. 해산.</text>
 	</string>
 
 	<!-- KUZNETSOV STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_start_game_1_endgame_1">
-		<text>Thank you soldier. You have done well for me, now I will do something for you, although you may not want to hear it. You are expecting to rotate out of here soon, yes? I'm afraid the top brass has other ideas. The cordon has closed in and has been locked down, nothing and no one is able to get in or out of the Zone any more, including the military. You've been left here to die, and even your corpse will be left for worm food. You can't even escape in a body bag. But all hope is not lost for you, if you are daring. There is only one way left for you to get out of here, and it lies in Chernobyl. Buried deep within the NPP is the Wish Granter. If you can find it, and if you survive, you can use it to wish your way out of here. It is your only hope soldier. Good luck to you.</text>
+		<text>수고 많았다 병사. 네가 나를 위해 잘 해 주었으니 싫더라도 이제 내가 너를 위해 뭔가를 해 주겠다. 여기서 임무를 마치면 나갈 생각이였지? 안됐지만 최고위층은 다른 생각이 있는 것 같다. 비상경계선이 폐쇄되고 잠김으로써 군인을 포함한 그 누구도 이 지역에 더 이상 출입할 수 없다. 넌 여기서 죽도록 남겨졌고, 네 시체도 벌레 먹이로 버려질 거야. 심지어 시체 가방 안에 숨어서 도망칠 수도 없다. 하지만 너가 대담하기만 한다면 일말의 희망조차 없는건 아니다. 네가 여기서 나갈 수 있는 유일한 방법은 체르노빌에 있다. NPP의 깊숙한 곳에 매장되어 있는 소원을 들어주는 자. 찾을 수 있다면, 그리고 살아남을 수 있다면, 여기서 나갈 수 있을 거야. 네 유일한 희망이지. 행운을 빈다, 병사.</text>
 	</string>
 
 
