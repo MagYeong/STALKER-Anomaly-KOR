@@ -667,16 +667,16 @@
 
 	<!-- Information -->
 	<string id="dm_information_general_1">
-		<text>What's new in the Zone?</text>
+		<text>존의 새로운 점은 무엇이지?</text>
 	</string>
 	<string id="dm_information_general_2">
-		<text>You know what's going on around here?</text>
+		<text>이 근처에서 무슨 일이 일어나고 있는지 알아?</text>
 	</string>
 	<string id="dm_information_general_3">
-		<text>I'm looking for information.</text>
+		<text>알려줄 정보가 있어?</text>
 	</string>
 	<string id="dm_information_0">
-		<text>I don't have any information.</text>
+		<text>나는 아무런 정보도 가지고 있지 않아.</text>
 	</string>
 	<string id="dm_information_1">
 		<text>From what I've seen, the Military is still set up in Agroprom. What the hell are they still doing there? What have they got planned? It's making my nose twitch.</text>
