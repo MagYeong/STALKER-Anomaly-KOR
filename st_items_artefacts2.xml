@@ -9,322 +9,321 @@
 		<text>Cocoon</text>
 	</string>
 	<string id="st_af_cocoon_descr">
-		<text>A formation of gravitational nature. A useless trinket, yet is highly valued by collectors and jewellers. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>중력에 의해 이루어진 형태를 하고 있다. 쓸모없는 잡동사니이지만, 수집가와 보석상들에게는 가치가 높다. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_cell_name">
 		<text>Cell</text>
 	</string>
 	<string id="st_af_cell_descr">
-		<text>An artefact of gravitational nature. A useless trinket, yet is highly valued by collectors and jewellers. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>중력에 의해 형성된 아티팩트이다. 쓸모없는 잡동사니이지만, 수집가와 보석상들에게는 가치가 높다. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_fountain_name">
 		<text>Fountain</text>
 	</string>
 	<string id="st_af_fountain_descr">
-		<text>An anomaly of presumably gravitational nature. It does not have any useful properties, but because of it's bizarre shape it is very valued by collectors. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>중력에 의해 형성된 것으로 보이는 이상현상이다. 특별히 쓸모있는 특징은 없지만, 이상한 모양으로 인해 수집가들에게 매우 가치가 높다. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_spaika_name">
 		<text>Spike</text>
 	</string>
 	<string id="st_af_spaika_descr">
-		<text>Looks much like a petrified formation. Is an anomaly of presumably gravitational nature. Has no useful properties, Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>석화된 형태를 하고 있는 것처럼 보인다. 아마도 중력에 의해 형성된 것으로 보이는 이상현상이다. 특별히 쓸모있는 특징은 가지고 있지 않으며, 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_signet_name">
 		<text>Signet</text>
 	</string>
 	<string id="st_af_signet_descr">
-		<text>Some stalkers call this artefact the "Amulet". Quite useless, yet some stalkers believe that this artefact brings good luck. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>몇몇 스토커들은 이 아티팩트를 "아뮬렛"이라고 부른다. 별로 쓸모는 없지만, 몇몇 스토커들은 이 아티팩트가 행운을 가져다준다고 믿고 있다. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_repei_name">
 		<text>Thistle</text>
 	</string>
 	<string id="st_af_repei_descr">
-		<text>It is quite often spawned by anomalies of a gravitational nature. It has no valuable properties, but the absence of any harmful effects on the body makes it a must-have for many stalkers. Light, and very valued by jewellers and collectors. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>중력의 특성을 띠는 이상현상 근처에서 자주 형성된다. 가치가 있을 만한 특징은 없지만, 인체에 미치는 어떠한 해로운 효과도 없어서 많은 스토커들이 가지고 싶어하는 물건이 되었다. 가벼우며, 보석상과 수집가들에게 매우 가치가 높다. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_bat_name">
 		<text>Bat</text>
 	</string>
 	<string id="st_af_bat_descr">
-		<text>A very beautiful abnormal formation. Has no useful properties, Not radioactive and quite heavy. Valued by collectors.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>매우 아름답고 특이한 모양을 가지고 있다. 특별히 쓸모있는 특징은 가지고 있지 않으며, 방사능이 없고 상당히 무겁다. 수집가들에게 가치가 있다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_sun_name">
 		<text>Sun</text>
 	</string>
 	<string id="st_af_sun_descr">
-		<text>A rare specimen that is very much appreciated by collectors. Has no useful properties, but it is an inexhaustible source of light, very heavy. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>수집가들이 매우 선호하는 희귀한 종류의 아티팩트이다. 특별히 쓸모있는 특징은 가지고 있지 않으며, 그렇지만 꺼지지 않는 불빛을 제공하고 매우 무겁다. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_ear_name">
 		<text>Heart</text>
 	</string>
 	<string id="st_af_ear_descr">
-		<text>Artefact with a bizarre shape. Its core resembles a human body. Has no useful properties, Not radioactive. Valuable to collectors outside of the Zone.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>기괴한 모양의 아티팩트이다. 아티팩트의 심장부는 인간의 신체를 닮았다. 특별히 쓸모있는 특징은 가지고 있지 않으며, 방사능은 없다. 존 외부의 수집가들에게 가치가 높다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_chelust_name">
 		<text>Chain</text>
 	</string>
 	<string id="st_af_chelust_descr">
-		<text>A very strange artefact. Generates a strong gravitational field while nothing touches it. Has no useful properties, very heavy. Valuable to collectors outside of the Zone.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>매우 이상한 아티팩트이다. 아무것도 닿지 않았을 때 강력한 중력장을 만들어낸다. 특별히 쓸모있는 특징은 가지고 있지 않으며, 아주 무겁다. 존 외부의 수집가들에게 가치가 높다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_atom_name">
 		<text>Atom</text>
 	</string>
 	<string id="st_af_atom_descr">
-		<text>A rare and beautiful abnormal formation. Looks like an Atom. Is a weak source of heat. Has no useful properties, Not radioactive. Very valuable to collectors .\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>희귀하고 아름다운 신기한 형태를 띠고 있다. 마치 원자 구조처럼 보인다. 약한 수준의 열을 방출한다. 특별히 쓸모있는 특징은 가지고 있지 않으며, 방사능은 없다. 수집가들에게 매우 가치가 높다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_lighthouse_name">
 		<text>Beacon</text>
 	</string>
 	<string id="st_af_lighthouse_descr">
-		<text>A clot of superdense substance. Contains valuable materials that are used in production, so there is a huge demand for it in the area unaffected by the Zone. Not radioactive, Has no useful properties.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>매우 밀도가 높은 물질이 엉겨붙은 형태를 하고 있다. 제조에 사용할 수 있는 귀한 물질들을 포함하고 있어, 존의 영향력을 받지 않는 지역에서의 수요가 높다. 특별히 쓸모있는 특징은 가지고 있지 않으며, 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_fire_loop_name">
 		<text>Knot</text>
 	</string>
 	<string id="st_af_fire_loop_descr">
-		<text>A necessary condition for the generation of this artefact is the close impact of a thermal anomaly. It has a bizarre appearance and is therefore appreciated by collectors. Not radioactive, Has no useful properties.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>이 아티팩트가 형성되기 위한 필수 조건은 고열 이상현상의 영향을 가까이 받는 곳이어야만 한다는 것이다. 기괴한 형상을 띠고 있어 수집가들에게 인기가 높다. 특별히 쓸모있는 특징은 가지고 있지 않으며, 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_zhelch_name">
 		<text>Scar</text>
 	</string>
 	<string id="st_af_zhelch_descr">
-		<text>The artefact has a calming effect on the human nervous system. Also very valued by jewellers. Has no useful properties. Generates a very weak gravitational and electric field. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>이 아티팩트는 인체의 신경계를 진정시키는 효과가 있다. 또한 보석상들에게 있어서 높은 가치를 지닌다. 특별히 쓸모있는 특징은 가지고 있지 않으며. 매우 약한 중력 및 전기 필드를 생성한다. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_sandstone_name">
 		<text>Sandstone</text>
 	</string>
 	<string id="st_af_sandstone_descr">
-		<text>An artefact, which is formed in zones with extreme temperatures. Has no useful properties and Not radioactive. Does not attract collectors or jewellers, but it contains a small amount of gold, so it has some value.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>존 내부의 극한의 고온 환경에서 형성되는 아티팩트이다. 특별히 쓸모있는 특징은 가지고 있지 않으며 방사능은 없다. 수집가나 보석상들에게는 인기가 없지만, 소량의 금을 포함하고 있어서 가치가 있다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_kislushka_name">
 		<text>Sourpuss</text>
 	</string>
 	<string id="st_af_kislushka_descr">
-		<text>A hollow spherical formation resembling a transparent parchment of some sorts. Covered with a layer of film, pleasant to the touch. Has no useful properties, Not radioactive. Valued by collectors.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
-	</string>
+		<text>투명한 양피지를 닮은 질감의 비어 있는 구체 형태를 띠고 있다. 얇은 막 한 겹으로 덮여 있어, 촉감이 좋다. 특별히 쓸모있는 특징은 가지고 있지 않으며, 방사능은 없다. 수집가들에게 가치가 있다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	<string id="st_af_black_angel_name">
 		<text>Black Angel</text>
 	</string>
 	<string id="st_af_black_angel_descr">
-		<text>A root-like artefact. When not in contact with anything, it lets out a bit of steam from it's surface. Very valued by collectors. Has no useful properties. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>뿌리를 닮은 아티팩트이다. 아무 물건에도 닿지 않을 때, 표면에서 약간의 수증기를 방출한다. 수집가들에게 매우 높은 가치가 있다. 특별히 쓸모있는 특징은 가지고 있지 않으며. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_grapes_name">
 		<text>Grapes</text>
 	</string>
 	<string id="st_af_grapes_descr">
-		<text>Amber-like substance of a slight greenish hue. As a result of powerful anomalies it is very heavy. Very valued by collectors. Has no useful properties. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>살짝 초록빛이 도는 호박석처럼 보이는 물질로 되어 있다. 강력한 이상현상에서 생성되었기 때문에 이 아티팩트는 아주 무겁다. 수집가들에게 매우 높은 가치가 있다. 특별히 쓸모있는 특징은 가지고 있지 않으며. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	
 	<string id="st_af_skull_miser_name">
 		<text>Miser's skull</text>
 	</string>
 	<string id="st_af_skull_miser_descr">
-		<text>Very light and fragile artefact. Has absolutely no useful properties. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>매우 가볍고 부서지기 쉬운 아티팩트이다. 완전히 쓸모가 없다. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_star_phantom_name">
 		<text>Phantom star</text>
 	</string>
 	<string id="st_af_star_phantom_descr">
-		<text>Formed from an Anomaly. It is a plasma-like substance in a transparent pulsating shell. Generates a weak gravitational field. Has no useful properties. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>한 이상현상에서 형성되었다. 진동하는 투명한 껍데기 안에 플라즈마처럼 보이는 물질이 있는 형태로 이루어져 있다. 약한 중력장을 생성한다. 특별히 쓸모있는 특징은 가지고 있지 않으며. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_medallion_name">
 		<text>Medal</text>
 	</string>
 	<string id="st_af_medallion_descr">
-		<text>It is a small hoop with four embedded parts of a streamlined triangular shape, which have two pairs of opposite charges arbitrarily changing their location within the design. Valued by collectors. Has no useful properties. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>서로 반대방향에 있는 두 쌍이 서로 제멋대로 움직이며 위치를 바꾸고 있는 네 부분의 유선형으로 된 삼각형 모양의 작은 고리 모양의 아티팩트이다. 수집가들에게 가치가 있다. 특별히 쓸모있는 특징은 가지고 있지 않으며. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	
 	<string id="st_af_peas_name">
 		<text>Moon</text>
 	</string>
 	<string id="st_af_peas_descr">
-		<text>Crescent-shaped artefact. Generates a very dim light. Has no useful properties. Not radioactive. Has some value to collectors and jewellers.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>초승달 모양의 아티팩트이다. 매우 미약한 빛을 만들어낸다. 특별히 쓸모있는 특징은 가지고 있지 않으며. 방사능은 없다. 수집가나 보석상들에게 약간의 가치가 있다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	
 	<string id="st_af_generator_name">
 		<text>Generator</text>
 	</string>
 	<string id="st_af_generator_descr">
-		<text>This artefact generates weak electric currents and an electromagnetic field. It is a source of energy and therefore very much valued outside the perimeter. Has no useful properties. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>이 아티팩트는 약한 전류와 전자기장을 만들어낸다. 에너지 공급원으로서의 역할을 하여 체르노빌 바깥에서 매우 가치가 높다. 특별히 쓸모있는 특징은 가지고 있지 않으며. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	
 	<string id="st_af_ball_name">
 		<text>Ball</text>
 	</string>
 	<string id="st_af_ball_descr">
-		<text>There is no data on the conditions under which this round artefact is formed, hence the name, but practice shows that it is most often found in places of increased electrical activity. Very agile and bouncy artefact. Has no useful properties. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>이 이름처럼 동그란 아티팩트가 형성되는 지역의 조건에 대한 자료는 존재하지 않지만, 연구에 따르면 전기적 활동이 증가한 지역에서 가장 자주 발견된다는 사실이 드러나 있다. 매우 재빠르고 통통 튀는 아티팩트이다. 특별히 쓸모있는 특징은 가지고 있지 않으며. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	
 	<string id="st_af_fonar_name">
 		<text>Lamp</text>
 	</string>
 	<string id="st_af_fonar_descr">
-		<text>An artefact with electric properties. Emits some energy and glows. Has no useful properties. Not radioactive. Quite interesting for collectors.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>전기적 특성을 가진 아티팩트이다. 약간의 에너지와 빛을 내뿜는다. 특별히 쓸모있는 특징은 가지고 있지 않으며. 방사능은 없다. 수집가들이 상당한 관심을 가지고 있다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_tapeworm_name">
 		<text>Tapeworm</text>
 	</string>
 	<string id="st_af_tapeworm_descr">
-		<text>This is pure silicon dioxide, if we exclusively take into account the atomic mass of matter. Displays strange behaviour. Has no useful properties. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>이 아티팩트를 이루고 있는 물질의 원자 질량만을 고려한다면, 순수한 이산화규소로 이루어져 있다. 이상한 움직임이 보여진다. 특별히 쓸모있는 특징은 가지고 있지 않으며. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_moh_name">
 		<text>Moss</text>
 	</string>
 	<string id="st_af_moh_descr">
-		<text>An electric artefact. Has no useful properties. Not radioactive. Has no value.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>전기 아티팩트이다. 특별히 쓸모있는 특징은 가지고 있지 않으며. 방사능은 없다. 아무런 가치가 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_serofim_name">
 		<text>Seraphim</text>
 	</string>
 	<string id="st_af_serofim_descr">
-		<text>An artefact of electric nature. Generates a temporary gravitational field. Has no useful properties. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>전기적 성격을 지닌 아티팩트이다. 일시적인 중력장을 생성한다. 특별히 쓸모있는 특징은 가지고 있지 않으며. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_elektron_name">
 		<text>Electron</text>
 	</string>
 	<string id="st_af_elektron_descr">
-		<text>This artefact is a product of electrical anomalies. Very heavy. Has no useful properties. Not radioactive. Very valued beyond the perimeter.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>이 아티팩트는 전기 이상현상에서 만들어졌다. 아주 무겁다. 특별히 쓸모있는 특징은 가지고 있지 않으며. 방사능은 없다. 존 주변에서 매우 높은 가치를 가진다\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	
 	<string id="st_af_kogot_name">
 		<text>Claw</text>
 	</string>
 	<string id="st_af_kogot_descr">
-		<text>A beautiful glass-like formation from electrostatic anomalies. Has no useful properties. Not radioactive. Has no value beyond the perimeter.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>정전기 이상현상에서 만들어진 아름다운 유리질 형태의 아티팩트이다. 특별히 쓸모있는 특징은 가지고 있지 않으며. 방사능은 없다. 존 근방을 넘어선 곳에서는 아무 가치가 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	
 	<string id="st_af_vaselisk_name">
 		<text>Basilisk</text>
 	</string>
 	<string id="st_af_vaselisk_descr">
-		<text>One of the few artefacts in the Zone, which copes well with all kinds of physical influences on its owner.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>존에 있는 몇 가지 아티팩트들 중의 하나로, 소유자에게 미치는 모든 종류의 물리적 영향력들에게 잘 대처할 수 있다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_geliy_name">
 		<text>Helium</text>
 	</string>
 	<string id="st_af_geliy_descr">
-		<text>A bright (literally) representative of the family of electrostatic artefacts. It gives off a gaseous substance that has a beneficial effect on the body. Due to its high efficiency, it is in large demand.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>정전기 아티팩트 부류들 중 (문자 그대로) 밝은 것들을 대표하는 아티팩트이다. 인체에 좋은 영향을 미치는 가스 형태의 물질을 방출한다. 높은 효율성으로 인해, 수요가 많다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_gimlet_name">
 		<text>Gimlet </text>
 	</string>
 	<string id="st_af_gimlet_descr">
-		<text>Bowl-shaped petals of the artefact release a powerful gaseous stimulant. The result of which is a positive change in human hormones.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>아티팩트에서 그릇 모양의 꽃잎처럼 생긴 부분은 강력한 가스 형태의 자극제를 방출한다. 이 자극제는 인체의 호르몬에 긍정적인 영향을 미친다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	<string id="st_af_dragon_eye_name">
 		<text>Dragon's eye</text>
 	</string>
 	<string id="st_af_dragon_eye_descr">
-		<text>The artefact is mostly formed in fiery anomalies and has the appearance of a reptile's eye. Has no useful properties. Not radioactive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] junk\n
-		%c[d_cyan] � %c[ui_gray_2] can not be placed in a container</text>
+		<text>이 아티팩트는 주로 화염 이상현상에서 형성되며 파충류의 눈을 닮은 생김새를 하고 있다. 특별히 쓸모있는 특징은 가지고 있지 않으며. 방사능은 없다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 고물\n
+		%c[d_cyan] • %c[ui_gray_2] 아티팩트 컨테이너에 넣을 수 없음</text>
 	</string>
 	
 	<string id="st_arty_save">
 		<text>Eye of the Noosphere</text>
 	</string>
 	<string id="st_arty_save_descr">
-		<text>One of the most mysterious artefacts in the Zone, the Eye of the Noosphere can transport its wielder back in time, even to escape death. A tight squeeze of the artefact activates its ability, creating a restoration point to go back to on activation or death. Frequent use can cause the artefact to change colour, but if discharged too frequently it may cease to function altogether. The Eye gradually restores its power over time, supposedly being fuelled by the anomalous energy of the Zone.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[0,255,215,0] superartefact</text>
+		<text>존에서 가장 신비로운 아티팩트들 중 하나인 누스피어의 눈은 소유자의 시간을 되돌려줄 수 있으며, 죽음으로부터 벗어날 수도 있게 해준다. 아티팩트를 꽉 쥐고 있는 것으로 능력을 발동시킬 수 있으며, 활성화되거나 죽을 때 되돌아갈 수 있는 복구 지점을 만들어 낸다. 잦은 사용으로 인해 아티팩트의 색이 바뀔 수 있지만, 너무 많이 사용했을 경우 기능이 정지될 수 있다. 눈은 시간이 지날수록 점차 힘을 되찾아가는데, 아마도 존의 이상현상으로부터 에너지를 흡수하는 것처럼 보인다.\n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[0,255,215,0] 슈퍼아티팩트</text>
 	</string>
 </string_table>
