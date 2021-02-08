@@ -181,10 +181,10 @@
 		<text>Flashlight</text>
 	</string>
 	<string id="st_device_flashlight_descr">
-		<text>A general-purpose hand-held flashlight. Unfortunately, it cannot be used along most of the weaponry since it requires a free hand. Thus is can be simultaneously used only with pistols and other single-handed equipment.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] technological item\n
-		%c[d_blue] • %c[ui_gray_2] moderate electric power consumption\n
+		<text>험하게 사용되었다는 표시가 나 있는 매우 튼튼한 구식 손전등이다. 안타깝게도, 한 손으로 들고 있어야 하기 때문에 대부분의 무기와는 함께 사용할 수 없다. 따라서 오직 권총이나 다른 한 손 장비들과만 함께 사용할 수 있다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_blue] • %c[ui_gray_2] 보통의 전력 소모\n
 		</text>
 	</string>
 	
@@ -192,9 +192,9 @@
 		<text>Old batteries</text>
 	</string>
 	<string id="st_batteries_dead_descr">
-		<text>Only one out of ten batteries found in the Zone still carry some juice. Stalkers seem to throw them out when they're depleted since it's almost impossible to find a battery recharger. Their outer layer is corroded and covered in dirt, which is a strong indication that these are almost dead. Still, like everything in the Zone they also have their purpose and may prove useful for frequent electric power recharges.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] technological item\n
+		<text>존에서 발견할 수 있는 건전지에서 아직 전력이 고갈되지 않은 것은 열 개 중 한 개 정도에 불과할 것이다. 건전지 충전기를 찾는 것은 거의 불가능하기 때문에 스토커들은 건전지가 고갈되었을 때 그냥 던져 버리는 경향이 있다. 건전지의 바깥층은 부식되었고 먼지로 뒤덮여 있어, 이 물건들의 수명이 이미 다 되었다는 것을 뚜렷하게 보여준다. 그래도, 존에 있는 모든 것들과 마찬가지로 이런 건전지들만의 목적이 있고 잦은 전력 충전에 사용할 수 있을 지도 모른다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
 		</text>
 	</string>
 	
@@ -202,9 +202,9 @@
 		<text>Battery pack</text>
 	</string>
 	<string id="st_batteries_descr">
-		<text>A pack of batteries. Someone must have used them since they are already half drained. Intended for use in your flashlight, PDA, nightvision goggles and other electronic devices. Remember to change regularly.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] technological item\n
+		<text>한 팩의 건전지들이다. 이미 절반 정도는 고갈되었기 때문에 누군가가 사용했던 것이라고 짐작할 수 있다. 손전등이나 PDA, 야간 투시경이나 다른 전자 장비들에 사용할 수 있다. 규칙적으로 충전하는 것을 잊지 말 것.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
 		</text>
 	</string>
 	
@@ -212,9 +212,9 @@
 		<text>Military battery unit</text>
 	</string>
 	<string id="st_batteries_ccell_descr">
-		<text>A pack of fully charged military batteries. Very valuable and in high demand due to the relative scarcity of batteries in the Zone. Used by all factions and Zoners of all levels, from rookies to master stalkers. Supplied to traders by corrupt military officers trying to earn some extra dough in the Zone.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] technological item\n
+		<text>완충된 군용 배터리 한 팩이다. 존에서는 건전지를 찾기가 상대적으로 어렵기 때문에 매우 가치가 높고 수요가 높다. 초짜들부터 달인 스토커까지, 모든 세력에 있는 모든 수준의 존 거주자들이 사용한다. 존에서 돈을 더 벌고자 하는 부패한 군 간부들이 상인들에게 공급해 준다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
 		</text>
 	</string>
 	
@@ -222,12 +222,12 @@
 		<text>Geiger counter</text>
 	</string>
 	<string id="st_geiger_dead_descr">
-		<text>A Geiger counter measures ionising (radioactive) radiation. It detects the emission of alpha particles, beta particles and gamma particles. Invented in 1908, Geiger counters remain popular technological object used for measurements in health, physics, industry, geology and other fields of activity. Made of simple electronic circuits.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] technological device \n
-		%c[d_orange] • %c[ui_gray_2] measures the level of radioactive contamination\n
-		%c[d_blue] • %c[ui_gray_2] moderate electric power consumption\n
-		%c[d_orange] • %c[ui_gray_2] operates in 3 modes\n
+		<text>가이거 계수기는 전리 방사선을 측정하는 장비이다. 이 장치는 알파 입자, 베타 입자 그리고 감마 입자들의 방출을 감지한다. 1908년에 개발된 이래로, 가이거 계수기는 건강, 물리학, 산업, 지질학 그리고 다른 분야에서의 활동들을 측정하는 인기있는 기술적 물건으로 활용되고 있다. 간단한 전자 회로로 만들어졌다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 장치 \n
+		%c[d_orange] • %c[ui_gray_2] 방사능 오염도를 측정함\n
+		%c[d_blue] • %c[ui_gray_2] 보통의 전력 소모\n
+		%c[d_orange] • %c[ui_gray_2] 3가지 방식으로 작동함\n
 		</text>
 	</string>
 	
@@ -235,14 +235,14 @@
 		<text>Universal Power Device (electric power)</text>
 	</string>
 	<string id="st_electric power_descr">
-		<text>Cold War era power unit about the size of a small walkie-talkie. Accepts almost any type of batteries. Utilises every bit of energy from inserted batteries and supplies electronic devices with power in an enhanced stream through a set of micro wires. These can be connected to any piece of equipment, regardless of its complexity or age. Allows stalkers to use and handle numerous electronic devices even if they have only one battery.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] technological item\n
-		%c[d_blue] • %c[ui_gray_2] portable energy source\n
-		%c[d_blue] • %c[ui_gray_2] supports most modern devices\n
-		%c[d_blue] • %c[ui_gray_2] accepts all battery types\n
-		%c[d_blue] • %c[ui_gray_2] storage capacity 
-		%c[ui_gray_1]3 Ah (ampere-hours)\n
+		<text>작은 무전기 크기의 냉전시대의 전력 장치이다. 거의 모든 종류의 건전지를 사용할 수 있다. 삽입된 건전지의 모든 전력을 사용하여 매우 가는 전선들을 이용하여 전자 장치들에게 전력을 더 강화된 전류를 통해 공급해 준다. 복잡한 정도나 연식에 구애받지 않고, 모든 종류의 장비들과 연결이 가능하다. 스토커들로 하여금 단 하나의 건전지만 가지고 있더라도 수많은 전자 장비들을 사용하고 다룰 수 있게 만들어 준다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_blue] • %c[ui_gray_2] 휴대용 전력 공급 장치\n
+		%c[d_blue] • %c[ui_gray_2] 헌대적 장치 대부분을 지원함\n
+		%c[d_blue] • %c[ui_gray_2] 건전지 종류를 불문함\n
+		%c[d_blue] • %c[ui_gray_2] 저장 용량 
+		%c[ui_gray_1]3 Ah (암페어-시)\n
 		</text>
 	</string>
 	
@@ -250,9 +250,9 @@
 		<text>Multimedia PDA</text>
 	</string>
 	<string id="exten_sion_pda">
-		<text>An expensive moisture- and shock-resistant PDA, featuring a chat client and an integrated music player.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] allows for playback of music and interaction in the stalker network\n
+		<text>채팅 클라이언트와 내장식 음악 플레이어가 있는 방습 기능과 전기 저항 기능이 있는 값비싼 PDA이다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음악을 재생하거나 스토커 네트워크에 접속할 수 있게 함\n
 		</text>
 	</string>
 	
@@ -260,10 +260,10 @@
 		<text>Military GPS module</text>
 	</string>
 	<string id="st_gps_tracker_descr">
-		<text>A prototype of the next generation of GPS navigation devices. Only few copies are made. Distributed among the highest military ranks exclusively, although some of these have been leaked out to other sides. The improved module guarantees operation even in hostile environments. High sensitivity during acquisition or while tracking allows for use in many different environments and under toughest operating conditions. Unlike usual GPS modules, this one relies on sets of codes that allows the module to acquire special privileges on the connected channel. It retrieves the position of other connected modules in a radius of 300 meters. On the other hand, this module consumes a considerable amount of electrical power while operating. An automatic switching circuit is included inside the module to turn it off after 20 seconds of continuous scanning.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] technological item\n
-		%c[d_blue] • %c[ui_gray_2] very high electric power consumption\n
+		<text>차세대 GPS 안내 장치의 프로토타입이다. 적은 수의 복제품만이 만들어졌다. 군의 고위 간부들에게만 한정적으로 지급되었지만, 몇 개는 다른 곳으로 유출되었다. 개량된 모듈로 인해 혹독한 환경에서도 작동이 보장된다. 정보 획득이나 추적 시 높은 감지 능력을 통해 수많은 다양한 환경들과 가장 혹독한 조건에서도 사용이 가능하다. 평범한 GPS 모듈과는 달리, 이 모듈은 더 많은 정보를 얻기 위해 네트워크에 연결된 채널에 대한 특별한 권한을 얻게 해주는 일련의 코드를 가지고 있다. 이 장비는 300미터 반경 안에 연결된 다른 모듈들의 위치를 추적해 준다. 하지만, 이 모듈은 사용 시에 상당한 양의 전력을 소모한다. 자동 스위치 회로가 모듈 안에 포함되어 20초 이상 스캔을 지속했을 경우 자동으로 전력을 차단해 준다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_blue] • %c[ui_gray_2] 매우 높은 전력 소모\n
 		</text>
 	</string>
 
@@ -271,8 +271,8 @@
 		<text>Radio</text>
 	</string>
 	<string id="st_musicplayer_desc">
-		<text>A modified radio, designed to be able to communicate with other radios yet filter out as much interference as possible. \n \n%c[ui_gray_2]PROPERTIES:\n \n
-		%c[d_cyan] • %c[ui_gray_2] Technological Item\n
+		<text>개조된 라디오로, 가능한 한 많은 전파 간섭을 걸러주면서 다른 라디오와 교신할 수 있도록 설계되었다. \n \n%c[ui_gray_2]특징:\n \n
+		%c[d_cyan] • %c[ui_gray_2] 기술적 물품\n
 		</text>
 	</string>
 	
@@ -280,22 +280,22 @@
 		<text>Doppler weather radar kit</text>
 	</string>
 	<string id="st_weather_radar_descr">
-		<text>An advanced pulse-Doppler weather radar mini-kit. This kit considered as a miracle in meteorology field. It sends directional pulses of microwave radiation, on the order of a microsecond long, using a cavity magnetron connected by a waveguide to a parabolic antenna to collect weather data.\n
-		Two scientists found out that using Meatchunk artefact near the antenna can greatly amplify the pulse power, to the point it alters the ions in the Troposphere layer of the atmoshphere and completely change its properties.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] technological item\n
-		%c[d_blue] • %c[ui_gray_2] meteorology equipment\n
-		%c[d_blue] • %c[ui_gray_2] powerd by a Meatchunk artefact\n
+		<text>개량된 펄스-도플러 기상 레이더 미니 키트이다. 이 키트는 기상학계에서 기적으로 여겨지고 있다. 이 키트는 극초단파 복사의 지향성 펄스를 보내서, 대략 1 마이크로초 정도가 지난 뒤에 날씨 데이터를 모으기 위해 포물선 형태의 안테나와 도파관으로 연결된 구멍 뚫린 전자관을 사용한다.\n
+		두 명의 과학자가 안테나 근처에서 고깃덩이 아티팩트를 사용할 경우 펄스의 위력을 크게 증폭할 수 있다는 걸 발견했고, 이는 간단히 말해서 아티팩트가 대류권의 기상층에 존재하는 이온을 교체하여 특성을 완전히 바꾸어놓는다는 걸 의미한다.\n \n
+		%c[ui_gray_3]특징:
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_blue] • %c[ui_gray_2] 기상측정 장비\n
+		%c[d_blue] • %c[ui_gray_2] Meatchunk 아티팩트로 작동됨\n
 		</text>
 	</string>
 	
 	<string id="st_dosimeter_mode">
-		<text>Dosimeter Mode</text>
+		<text>방사선량계 모드</text>
 	</string>
 	<string id="st_actor_rads">
-		<text>Body Radiation</text>
+		<text>신체 방사능 측정</text>
 	</string>
 	<string id="st_environment_rads">
-		<text>Environmental Radiation</text>
+		<text>환경 방사능 측정</text>
 	</string>
 </string_table>
