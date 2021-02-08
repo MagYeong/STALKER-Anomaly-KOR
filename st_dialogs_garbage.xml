@@ -4,35 +4,36 @@
 <!-- Butcher (Hunter-merchant in the Garbage) -->
 	<string id="hunter_trader_meet_0">
 		<text>Cosy place you have here.</text>
+		<text>아늑한 곳이군.</text>
 	</string>
 	<string id="hunter_trader_meet_1">
 		<text>Damn right it is! Welcome to the Train Hangar, repurposed by yours truly into a humble hunting lodge. It's a safe place to unwind... for the most part.</text>
 	</string>
 	<string id="hunter_trader_meet_2">
-		<text>Tell me more about this lodge of yours.</text>
+		<text>당신의 이 오두막에 대해 좀 더 말해주겠어?</text>
 	</string>
 	<string id="hunter_trader_meet_3">
-		<text>Eh, simply put, this place is for hunters. Whether they're professional or amateur doesn't matter. I reward those who take on hunting jobs for me, I pay well for any mutant trophies you might turn in, and I'll sell you food and hunting equipment real cheap - unlike some other traders around here, the desire to share my passion with others comes first. Never cared much for money grubbers anyways.</text>
+		<text>음, 간단히 말해서 여기는 사냥꾼을 위한 곳이야. 그놈들이 프로건 아마추어건 상관없어. 나를 위해 사냥을 해주는 사람들을 위해 보상을 주지. 네가 돌연변이들에게서 나온 어떤 것들이라도 나에게 준다면 보상을 후하게 쳐주지. 그리고 음식과 사냥에 필요한 것들을 아주 싸게 팔기도 해. 이 근처에 다른 상인들과는 다르게 내 열정을 다른 사람들과 나누는게 나에게는 제일 중요하거든. 어차피 돈벌이는 신경안썼어.</text>
 	</string>
 	<string id="hunter_trader_meet_4">
-		<text>Are there any other hunters around here, or just you?</text>
+		<text>근처에 다른 사냥꾼들도 있나? 아니면 당신 뿐인가?</text>
 	</string>
 	<string id="hunter_trader_meet_5">
-		<text>Hunters from Rostok and Dark Valley tend to stop by here, though it's not always easy getting them to get along.\n \nBesides that, I had a few mates here with me. We were all hunting partners in the outside world, you know? Gonta, Trapper, Fox...all good people. We all got together down here to have a proper funeral for Fox, but sadly the other two couldn't stay - by the sounds of it, the stalkers up north really need them.</text>
+		<text>Rostok와 Dark Valley에서 온 사냥꾼들이 여기에 들리는 경향이 있지만 그놈들을 사이좋게 지내도록 하는건 항상 쉽지가 않아.\n \n그것 말고도, 여기에 내 친구들이 몇 명 있었어. 우리는 바깥 세상에서 모두 사냥 파트너였지, 알겠어? Gonta, Trapper, Fox... 모두 좋은 녀석들이었지. 우린 모두 Fox에게 제대로 된 장례식을 치러주기 위해 여기 왔지만 슬프게도 다른 두 명은 여기 머물 수 없었어. 들은 바에 의하면 북쪽의 스토커들이 내 친구들을 정말로 필요로 했다더군.</text>
 	</string>
 	<string id="hunter_trader_meet_6">
-		<text>Maybe I'll go pay them a visit sometime.</text>
+		<text>언제 한번 그 친구들을 만나러 가보도록 하지.</text>
 	</string>
 
 	<string id="about_baraholka_hunter_trader_0">
-		<text>Why don't the traders and guards at the flea market live in the hangar? It seems a lot safer, and more habitable.</text>
+		<text>왜 flea market의 상인들과 보초들은 여기서 살지 않지? 내가 보기에 여기가 훨씬 더 안전하고 살기 좋은 것 같은데 말이지.</text>
 	</string>
 	<string id="about_baraholka_hunter_trader_1">
-		<text>You know what I think? I think Duty's high command are secretly paying them to sit there - sort of like lookouts to spy on the goings-on between Rostok and Dark Valley. In any case, those traders don't really have the hunting spirit - for them, it's all "hoard, hoard, hoard"! So really, it's just as well those magpies haven't moved in.</text>
+		<text>내가 무슨 생각하는지 알아? 내 생각에는 듀티의 높으신 분이 비밀리에 그놈들에게 돈을 주고 flea market에 앉아있으라고 하는 것 같아. 로스토크와 검은 계곡 사이의 상황을 감시하기 위한 스파이 같은 거지. 어쨋든, 그 상인놈들은 사냥정신을 가지고 있지 않아. 그놈들은 "사재기, 사재기, 사재기" 만 할 줄 알지! 그러니까 그 까치놈들이 여기 오지않는건 정말 다행이야.</text>
 	</string>
 
 	<string id="st_hunter_gar_trader_life_ask">
-		<text>Hey, you've probably hunted loads of mutants in your time. Do you have any stories about them?</text>
+		<text>당신은 아마 엄청난 수의 돌연변이들을 사냥했겠지. 그것과 관련해서 어떤 이야기라도 있어?</text>
 	</string>
 	<string id="st_hunter_gar_trader_life_1">
 		<text>Ooh, I've got a good one. A few years ago, I took jobs with Duty, helping them clear out mutant lairs.\n \nSo, we're in the Wild Territory, having just cleared the place of Bloodsuckers, Poltergeists, Snorks - that horrible place was thick with them back then. Luckily for Duty, I was skilled enough to ensure we'd only encounter small groups at a time, picking the monsters off one by one.\n \nAnyways, although I did good work, they stubbornly insisted we had to continue until nightfall, then set up camp so we could immediately continue cleaning the next day. "General's orders," they said. Hmph. We were quite far in that area - far off the well-worn path that most stalkers take, but they didn't seem to mind. So we found some ruins of a derelict construction site and set ourselves up there, after climbing the staircase right up to the unfinished top floor.\n \nHours passed, and then I spotted it. A lone tushkano on the ground way below us. Nothing more than a mutated rodent that runs on two legs. It's no bigger than your foot. So, it sniffs the air and then suddenly whips its head in our direction and lets out this blood-curdling shriek.\n \nHundreds upon thousands of the damn gremlins started crawling out of pipes, holes in the earth, other ruins - and began stampeding straight for us.\n \nYou couldn't even see the floor anymore. The Duty troops fought bravely, but they were quickly overwhelmed, forced down to the ground through sheer weight of numbers before having their throats torn out.\n \nI quickly scrambled up the pillar I had been resting on only a moment ago. I started throwing down grenades, blasting with buckshot...even using my knife when a few of the buggers tried to climb or jump up to where I was.\n \nIt was hours of endless shrieking, the stench of blood and death. When dawn broke I was shivering, my coat scratched to hell and my skin crisscrossed with various bite and claw marks.\n \nWhen the little bastards finally got bored and went for an afternoon nap, that's when I came down. I searched for my Duty comrades, but there weren't even bones left behind.\n \nI walked back to Rostok, broken as hell, cursing the lives that were lost that day. I hunt for sport. Duty hunts for the gates of hell itself. Well, they can find their way there themselves. I'm not going with them next time.</text>
