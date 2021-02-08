@@ -12,11 +12,11 @@
 	<string id="st_antirad_descr">
 		<text>멕사미눔 방사능 보호제는 존에서 흔한 편입니다. 이 약품은 사용시 말초 혈관을 수축시켜 산소 부족을 유발합니다. 방사능 피폭의 처치/예방의 목적인 이 약품은 심각한 부작용은 없으나, 부분적으로 가벼운 메스꺼움, 어지럼증, 근육 경련 그리고 복통이 보고된 바 있습니다.\n \n
 		%c[ui_gray_3]HEALING:\n
-		%c[d_red] • %c[ui_gray_2] Depletes 5%hp on use\n
+		%c[d_red] • %c[ui_gray_2] 사용시 체력 5% 감소\n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] medicine\n
-		%c[d_blue] • %c[ui_gray_2] imported\n
-		%c[d_blue] • %c[ui_gray_2] fast usage (syringe)\n
+		%c[d_blue] • %c[ui_gray_2] 의약품\n
+		%c[d_blue] • %c[ui_gray_2] 수입됨\n
+		%c[d_blue] • %c[ui_gray_2] 빠른 사용 (주사기)\n
 		</text>
 	</string>
 	<string id="st_bandage">
@@ -25,39 +25,39 @@
 	<string id="st_bandage_descr">
 		<text>지혈과 상처 감염을 막기 위한 평범한 신축성 붕대입니다. 보통의 출혈시 환부에 조심스럽게 처치 하시오. 동맥 출혈시 신속하게 환부 주위에 단단히 감으시오.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] first-aid item\n
-		%c[d_blue] • %c[ui_gray_2] fast usage (adhesive plaster)\n
+		%c[d_blue] • %c[ui_gray_2] 응급처치 도구\n
+		%c[d_blue] • %c[ui_gray_2] 빠른 사용 (반창고)\n
 		</text>
 	</string>
 	
 	<string id="st_drug_coagulant">
-		<text>Vinca</text>
+		<text>빈카</text>
 	</string>
 	<string id="st_drug_coagulant_descr">
-		<text>Ukrainian Vikasolum - an artificial equivalent of vitamin K. The main purpose of this drug is to increase blood coagulation speed. In great demand among stalkers who want slow-healing wounds and lacerations inflicted by mutants to close up faster. The effects of the drug are long-lasting. Take two tablets at a time.\n \n
+		<text>우크라이나산 비카솔럼 - an artificial equivalent of vitamin K. 이 약품의 주 목적은 혈액 응고 속도를 빠르게 하는 것입니다. 상처의 회복과 뮤턴트에게 입은 열상의 빠른 봉합을 바라는 스토커들의 강한 수요를 갖습니다. 약효는 오래 지속됩니다. 1회 2알을 투약합니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_red] • %c[ui_gray_2] causes dizziness\n</text>
+		%c[d_red] • %c[ui_gray_2] 어지름증 유발\n</text>
 	</string>
 	
 	<string id="st_drug_anabiotic">
-		<text>Anabiotics</text>
+		<text>아나바이오틱스</text>
 	</string>
 	<string id="st_drug_anabiotic_descr">
-		<text>An experimental drug developed by Professor Ozersky for scientific research teams working in the Zone. At its core, the drug contains tetrodotoxin, known colloquially as "zombie powder," which causes a complete shutdown of the body's central nervous system that may allow people to survive emissions outside cover. After six years worth of field tests, thoughtful stalkers know to keep a few on hand for unexpected blowouts.\n \n
+		<text>과학 연구팀을 위해 오저스키 교수에 의해 개발된 실험적인 약품입니다. 약품의 안쪽에는 "좀비 가루" 라고도 알려진 테트로도톡신이 들어 있습니다. 이는 신체의 중추신경계를 완전히 정지시켜, 투약시 피난처 밖에서 만난 에미션 폭풍에서 살아남을수도 있습니다. 6년간에 걸친 현장 실험후에, 사려깊은 스토커들은 예상치 못한 블로우아웃을 대비해 몇알 정도 챙겨 놓습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] medicine\n
-		%c[d_blue] • %c[ui_gray_2] zone-produced\n
-		%c[d_red] • %c[ui_gray_2] causes temporary blackout\n</text>
+		%c[d_cyan] • %c[ui_gray_2] 의약품\n
+		%c[d_blue] • %c[ui_gray_2] 존에서 생산됨\n
+		%c[d_red] • %c[ui_gray_2] 일시적인 실신을 유발\n</text>
 	</string>
 	
 	<string id="st_drug_psy_blockade">
-		<text>Psy-block</text>
+		<text>정신 차단제</text>
 	</string>
 	<string id="st_drug_psy_blockade_descr">
-		<text>A drug that blocks avalanche-like nerve impulses. Consumption induces short-term loss of all emotion. Used exclusively in the Zone to counteract the effects of anomalous psy-fields. The effects of the drug are long-lasting. Take two tablets at a time.\n \n
+		<text>눈사태와도 같은 신경 충동을 차단해주는 약품입니다. A drug that blocks avalanche-like nerve impulses. 투약시 단기간의 감정 상실을 야기합니다. 존 내부에서 정신 이상현상 지대에 대응하기 위해서 사용합니다. 약품의 효능은 오래 지속됩니다. 1회 2알을 복용하십시오.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] medicine\n
-		%c[d_red] • %c[ui_gray_2] causes extreme dizziness\n
+		%c[d_blue] • %c[ui_gray_2] 의약품\n
+		%c[d_red] • %c[ui_gray_2] 극심한 어지름증 유발\n
 		</text>
 	</string>
 	
