@@ -41,7 +41,7 @@
 
 	<!-- SIDOROVICH STORYLINE START GAME 1 DIALOG -->
 	<string id="drx_sl_start_msg_stalker">
-		<text>Stalkers, I've got some interesting work lined up that you might want to look at. You interested in adventure? Fame? Cash? Come to my place in the Rookie Village and we'll talk.</text>
+		<text>스토커, 네가 흥미로워 할만한 일들을 가지고 있지. 모험에 관심 있나? 명성? 돈? 루키 빌리지에 내가 있는 곳으로 오면 알려주지.</text>
 	</string>
 	
 	<string id="sidorovich_questlines_about_dialog_0">
@@ -886,7 +886,7 @@
 		<text>Used to be that Mercs operated in many independent teams, but it seems our main employers have banded together. Don't know what the end goal is, but we're being paid a fortune, so guess I don't really care.</text>
 	</string>
 	<string id="dm_information_70">
-		<text>Most of the guys here have some sort of military background� I've met Mercs who were once Foreign Legion, Spetsnaz, insurgents, special forces...many different walks of life, but all true fighters to a man.</text>
+		<text>Most of the guys here have some sort of military background I've met Mercs who were once Foreign Legion, Spetsnaz, insurgents, special forces...many different walks of life, but all true fighters to a man.</text>
 	</string>
 	<string id="dm_information_71">
 		<text>Don't know who're worse - the Free Stalkers we take hits on, or the Bandits we work with. Some days I wish someone'd pay me to feed a bunch of those skull-patched assholes into the nearest anomaly.</text>
@@ -904,7 +904,7 @@
 		<text>If you've got balls of steel, try get the drop on some Mercs or even the Monolith to shake out their loot - they're some of the best armed and equipped dudes in the Zone. Me though, I prefer sticking to rookies.</text>
 	</string>
 	<string id="dm_information_76">
-		<text>Don�t mess with the Military around here. The only worthwhile loot they have are their weapons and armour, but you'll never take it off them without something breaking. There are far better targets to pick on.</text>
+		<text>Dont mess with the Military around here. The only worthwhile loot they have are their weapons and armour, but you'll never take it off them without something breaking. There are far better targets to pick on.</text>
 	</string>
 	<string id="dm_information_77">
 		<text>Some of the boys are itching to raid one of the Ecologist bunkers. Retards. Even if they break through those defences, you can't keep shaving a bear once you've skinned it alive!</text>
@@ -3768,7 +3768,7 @@
 		<text>It's not easy to repair something when you have the shakes... Come back in about an hour for your %s.</text>
 	</string>
 	<string id="st_inventory_upgrade_reply_6">
-		<text>Hey, stal�oh, heck, I forgot I was repairing your equipment. Come back for your %s in an hour and %s minutes.</text>
+		<text>Hey, staloh, heck, I forgot I was repairing your equipment. Come back for your %s in an hour and %s minutes.</text>
 	</string>
 	<string id="st_inventory_upgrade_reply_7">
 		<text>Your %s will be ready in an hour and %s, so come back then, okay?</text>
