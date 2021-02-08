@@ -290,146 +290,146 @@
 
 <!-- GENERAL -->
 	<string id="dm_universal_actor_start">
-		<text>I want to ask you something.</text>
+		<text>뭐 좀 물어보고 싶은게 있는데.</text>
 	</string>
 	<string id="dm_universal_actor_exit">
-		<text>Never mind.</text>
+		<text>아무것도 아니야.</text>
 	</string>
 	<string id="dm_universal_actor_agree">
-		<text>Okay.</text>
+		<text>좋아.</text>
 	</string>
 	<string id="dm_universal_actor_exit_thanks">
-		<text>Thanks.</text>
+		<text>고마워.</text>
 	</string>
 	<string id="dm_universal_npc_start_1">
-		<text>About what?</text>
+		<text>뭐에 대해서?</text>
 	</string>
 	<string id="dm_universal_npc_start_2">
-		<text>Sure.</text>
+		<text>그래.</text>
 	</string>
 	<string id="dm_universal_npc_start_3">
-		<text>Go ahead.</text>
+		<text>계속 말해봐.</text>
 	</string>
 	<string id="dm_universal_npc_start_4">
-		<text>Yes?</text>
+		<text>응?</text>
 	</string>
 	<string id="dm_no_more_1">
-		<text>I already told you.</text>
+		<text>내가 이미 말했잖아.</text>
 	</string>
 	<string id="dm_no_more_2">
-		<text>I don't know much more.</text>
+		<text>난 더 이상 잘 몰라.</text>
 	</string>
 	<string id="dm_no_more_3">
-		<text>That's all I know. Ask someone else.</text>
+		<text>나는 그것밖에 몰라. 다른 사람한테 물어 봐.</text>
 	</string>
 	<string id="dm_no_more_4">
-		<text>God damn, man. You got a hard-on for me? Ask someone else.</text>
+		<text>빌어먹을 놈아. 나한테 발기라도 한거야? 다른 사람한테 물어 보라고.</text>
 	</string>
 	<string id="dm_no_more_5">
-		<text>Not much more I can tell ya, man.</text>
+		<text>더 이상 해줄 말이 없어.</text>
 	</string>
 	<string id="dm_no_more_6">
-		<text>You can keep asking the same shit, but I got nothing more to say.</text>
+		<text>똑같은 걸 계속 물어봐도 난 더 이상 할 말이 없어.</text>
 	</string>
 	<string id="dm_no_more_7">
-		<text>Drop the subject, dude.</text>
+		<text>그 얘긴 이제 그만하자고, 친구.</text>
 	</string>
 	<string id="dm_no_more_8">
-		<text>Some other time, man.</text>
+		<text>다음에 얘기하자고, 친구.</text>
 	</string>
 	<string id="dm_no_more_9">
-		<text>Drop by later and maybe I can tell you more.</text>
+		<text>나중에 다시 이야기하면 내가 더 말해줄 수 있는 게 있을지도 몰라.</text>
 	</string>
 	<string id="dm_no_more_10">
-		<text>Eh. I ain't getting into much more depth. You have any other questions?</text>
+		<text>더 깊이 얘기하진 않을 거야. 다른 질문 있어?</text>
 	</string>
 	<string id="dm_do_not_know_1">
-		<text>Bro, if I had all the answers, I wouldn't be in this shit dump.</text>
+		<text>형제여, 내가 모든 해답을 가지고 있다면, 난 이 쓰레기장에 있지 않을 거야.</text>
 	</string>
 	<string id="dm_do_not_know_2">
-		<text>Good question. If you find out, share that info with me, will you?</text>
+		<text>좋은 질문이야. 답을 알게 되면 그 정보를 나에게 공유해 줄래?</text>
 	</string>
 	<string id="dm_do_not_know_3">
-		<text>You are putting me on the spot here, man. I don't know.</text>
+		<text>곤란하네. 나도 몰라.</text>
 	</string>
 	<string id="dm_do_not_know_4">
-		<text>Hell if I know, man.</text>
+		<text>알 게 뭐야.</text>
 	</string>
 	<string id="dm_do_not_know_5">
-		<text>There's always something going on in the Zone, but nothing I would like to share with you.</text>
+		<text>존에는 항상 뭔가가 있지만, 너랑 나누고 싶은 건 아무것도 없어.</text>
 	</string>
 	<string id="dm_do_not_know_6">
-		<text>I've nothing to tell you, man. Nobody tells me shit.</text>
+		<text>해줄 말이 없어. 나한테도 아무도 말 안 해주거든.</text>
 	</string>
 	<string id="dm_do_not_know_7">
-		<text>You're asking the wrong guy.</text>
+		<text>엉뚱한 사람한테 물어보는 거야.</text>
 	</string>
 	<string id="dm_do_not_know_8">
-		<text>I'd like to know that too.</text>
+		<text>나도 알고 싶어.</text>
 	</string>
 	<string id="dm_do_not_know_9">
-		<text>Sorry. I can't help you.</text>
+		<text>미안, 도와줄 수 없어.</text>
 	</string>
 	<string id="dm_do_not_know_10">
-		<text>Sorry. Got nothing.</text>
+		<text>미안, 아무것도 몰라.</text>
 	</string>
 
 	<!-- Greetings -->
 	<string id="dm_hello_general_1">
-		<text>How's it going?</text>
+		<text>어떻게 지내?</text>
 	</string>
 	<string id="dm_hello_general_2">
-		<text>Hey, man. What's up?</text>
+		<text>이봐, 지낼만해?</text>
 	</string>
 	<string id="dm_hello_general_3">
-		<text>Hello. How are you?</text>
+		<text>안녕?</text>
 	</string>
 	<string id="dm_hello_1">
-		<text>Hello, brother.</text>
+		<text>반가워, 형제.</text>
 	</string>
 	<string id="dm_hello_2">
-		<text>Greetings, stalker.</text>
+		<text>반갑네, 스토커.</text>
 	</string>
 	<string id="dm_hello_3">
-		<text>I'm good. What's up?</text>
+		<text>좋아. 무슨 일이야?</text>
 	</string>
 	<string id="dm_hello_4">
-		<text>Hello.</text>
+		<text>안녕.</text>
 	</string>
 	<string id="dm_hello_5">
-		<text>What's up?</text>
+		<text>별일 없어?</text>
 	</string>
 	<string id="dm_hello_6">
-		<text>What do you want?</text>
+		<text>무슨 일이야?</text>
 	</string>
 	<string id="dm_hello_7">
-		<text>So far, so good. You?</text>
+		<text>별일 없었어. 넌?</text>
 	</string>
 	<string id="dm_hello_8">
-		<text>Been better days. What do you need?</text>
+		<text>점점 나아지고 있어. 필요한 거라도 있어?</text>
 	</string>
 	<string id="dm_hello_9">
-		<text>Good day!</text>
+		<text>좋은 하루!</text>
 	</string>
 	<string id="dm_hello_10">
-		<text>Yeah, what is it?</text>
+		<text>그래, 뭔데?</text>
 	</string>
 	<string id="dm_hello_11">
-		<text>Piss off, stalker.</text>
+		<text>꺼져, 스토커.</text>
 	</string>
 	<string id="dm_hello_12">
-		<text>What do you want?</text>
+		<text>무슨 일로 그래?</text>
 	</string>
-	<string id="dm_hello_13">
-		<text>Okay, just one damn question, but all I better see after is asses and elbows.</text>
+		<string id="dm_hello_13">
+		<text>좋아, 딱 한가지만 물어봐. 하지만 그 다음에 내가 보고싶은건 바쁘게 움직이는 니 궁둥짝이랑 팔꿈치야.</text>
 	</string>
 	<string id="dm_hello_14">
-		<text>What do you need, stalker?</text>
+		<text>뭐가 필요하지, 스토커?</text>
 	</string>
 
 	<!-- Help -->
 	<string id="dm_help_1">
-		<text>Help, please... I'm dying...</text>
+		<text>도와줘, 제발... 난 죽어가고 있어...</text>
 	</string>
 	<string id="dm_help_2">
 		<text>Help me out, bro... Oh, God, it hurts!</text>
