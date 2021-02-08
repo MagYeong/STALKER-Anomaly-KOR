@@ -78,11 +78,11 @@
 		<text>준비됐습니다. 임무는 무엇입니까?</text>
 	</string>
 	<string id="petrenko_questlines_about_dialog_1">
-		<text>듀티의 현재 우선순위는 두 가지이다. 첫째, 중요한 임무를 수행하고 우리에게 의지하는 사람들을 도울 의무를 이행할 지원자를 선발하는 것. 둘째, 영향력 있는 스토커가 돌아왔고 보로닌 장군이 그를 추적하기를 원한다는 것. 첫 번째 우선순위에 대한 자세한 내용은 나한테 들을 수 있고 두 번째 우선순위에 대해서는 보로닌 장군에게 들을 수 있다.</text>
+		<text>듀티의 현재 우선순위는 두 가지이다. 첫째, 중요한 임무를 수행하고 우리에게 의지하는 사람들을 도울 의무를 이행할 지원자를 선발하는 것. 둘째, 영향력 있는 스토커가 돌아왔다는 정보를 얻었고 보로닌 장군이 그를 추적하기를 원한다는 것. 첫 번째 우선순위에 대한 자세한 내용은 나한테 들을 수 있고 두 번째 우선순위에 대해서는 보로닌 장군에게 들을 수 있다.</text>
 	</string>
 	
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_game_start_dialog_1_0">
-		<text>저는 듀티의 의무를 이행하는 것을 도울 준비가 되어 있습니다. 저의 도움이 필요한 곳은 어디입니까?</text>
+		<text>저는 듀티의 의무를 이행하는 것을 도울 준비가 되어 있습니다. 제 도움이 필요한 곳은 어디입니까?</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_game_start_dialog_1_1">
 		<text>모든 관련 정보를 PDA로 전송하겠다. 우리는 너를 믿고 있다. 너는 큰 책임을 짊어졌다. 잘 이겨내라.</text>
@@ -96,26 +96,26 @@
 
 	<!-- LUKASH STORYLINE START GAME 1 DIALOG -->
 	<string id="drx_sl_start_msg_freedom">
-		<text>Meet me at our HQ in the Warehouses for an adventure you won't soon forget.</text>
+		<text>잊혀지지 않을 모험을 위해 물류 창고에 있는 본부에서 만나자.</text>
 	</string>
 	
 	<string id="lukash_questlines_about_dialog_0">
-		<text>What's up Lukash? You wanted to see me?</text>
+		<text>무슨 일이야 루카시? 내가 보고 싶었어?</text>
 	</string>
 	<string id="lukash_questlines_about_dialog_1">
-		<text>Yes. Following Strelok recent appearance, a storm is brewing around here. Can you believe it? I need someone to try and find out what's up with Strelok. If you're not up for that, I also have a list of contacts from all over the Zone who need Freedom's help. Are you in?</text>
+		<text>그래, 스트렐록이 최근 나타난 것에 따라 이 부근에 폭풍이 불고 있어. 상상이 가? 스트렐록이 왜 이러는지 알아볼 사람이 필요해. 그리고 나는 프리덤의 도움을 필요로 하는 사람들의 명단도 가지고 있어. 도와줄 거야?</text>
 	</string>
 	
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_game_start_dialog_1_0">
-		<text>Show me the list. We'll show these guys how Freedom rolls.</text>
+		<text>명단을 보여 줘. 이 사람들에게 프리덤이 어떻게 굴러가는지 보여주지.</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_game_start_dialog_1_1">
-		<text>That's the spirit! Here, I'm uploading the list onto your PDA. Do as they ask, and you'll not only help keep the Zone free, but you'll earn some sweet cash too.</text>
+		<text>바로 그거야! 여기, 네 PDA에 명단을 업로드 했어. 그들의 요구를 들어주면, 너는 존을 자유롭게 유지하는 데 도움을 줄 뿐만 아니라, 돈도 달달하게 만질 수 있을 거야.</text>
 	</string>
 
 	<!-- LUKASH STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_start_game_1_endgame_1">
-		<text>Hey man, thanks for helping the boys around here keep the Zone free. Pity that not everyone is living in harmony with each other yet, but what can you do, right? It's not like we can just wish everyone to get along. Anyway, you've done a good thing. Freedom is proud of you. </text>
+		<text>이봐, 존을 자유롭게 유지 할 수 있도록 친구들을 도와줘서 고마워. 아직 모든 사람들이 서로 조화롭게 살고 있지 않은 게 안타깝지만, 더이상 너가 어떻게 할 수 있는게 아니잖아? 모두가 사이좋게 지내길 바랄 수 밖에. 어쨌든, 너는 훌륭한 일을 했어. 프리덤은 너를 자랑스럽게 생각해.</text>
 	</string>
 
 
