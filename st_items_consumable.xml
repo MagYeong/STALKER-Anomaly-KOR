@@ -405,10 +405,10 @@
 	</string>
 	
 	<string id="st_cigarettes_lucky">
-		<text>Lucky Strike cigarettes</text>
+		<text>럭키 스트라이크 담배</text>
 	</string>
 	<string id="st_cigarettes_lucky_descr">
-		<text>Cigarettes imported from the West. Some stalkers trade them for a few rounds of ammo within their faction.\n \n
+		<text>서양에서 들여온 담배. 어떤 스토커들은 담배를 그들의 팩션 내에서 몇 발의 탄약과 교환합니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] stimulant\n
 		%c[d_blue] • %c[ui_gray_2] high quality\n
@@ -417,10 +417,10 @@
 	</string>
 	
 	<string id="st_cigarettes_russian">
-		<text>Russian brand of cigarettes</text>
+		<text>러시아산 담배</text>
 	</string>
 	<string id="st_cigarettes_russian_descr">
-		<text>The cheapest pack of cigarettes in the Zone. Russian budget brand.\n \n
+		<text>존에서 가장 싼 담배 한 갑. 러시아 가성비 브랜드.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] stimulant\n
 		%c[d_red] • %c[ui_gray_2] low quality\n
@@ -429,10 +429,10 @@
 	</string>
 	
 	<string id="st_cigar1">
-		<text>Soviet cigarettes</text>
+		<text>소련제 담배</text>
 	</string>
 	<string id="st_cigar1_descr">
-		<text>A pack of budget, strong and very low quality cigarettes. Someone must have smoked most of them since there are only a few left. Genuine USSR flavour has been carefully preserved.\n \n
+		<text>독하고, 질이 아주 낮은 담배 한 갑입니다. 누군가가 대부분 담배를 피웠기에 몇 개비 밖에 안 남았습니다. 진정한 소련의 맛이 조심스럽게 담겨있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] stimulant\n
 		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
@@ -440,10 +440,10 @@
 	</string>
 	
 	<string id="st_cigar2">
-		<text>Soviet cigarettes</text>
+		<text>소련제 담배</text>
 	</string>
 	<string id="st_cigar2_descr">
-		<text>A pack of budget, strong and very low quality cigarettes. Someone must have smoked most of them since there are only a few left. Genuine USSR flavour has been carefully preserved.\n \n
+		<text>독하고, 질이 아주 낮은 담배 한 갑입니다. 누군가가 대부분 담배를 피웠기에 몇 개비 밖에 안 남았습니다. 진정한 소련의 맛이 조심스럽게 담겨있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] stimulant\n
 		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
@@ -451,10 +451,10 @@
 	</string>
 	
 	<string id="st_cigar3">
-		<text>Soviet cigarettes</text>
+		<text>소련제 담배</text>
 	</string>
 	<string id="st_cigar3_descr">
-		<text>A pack of budget, strong and very low quality cigarettes. Someone must have smoked most of them since there are only a few left. Genuine USSR flavour has been carefully preserved.\n \n
+		<text>독하고, 질이 아주 낮은 담배 한 갑입니다. 누군가가 대부분 담배를 피웠기에 몇 개비 밖에 안 남았습니다. 진정한 소련의 맛이 조심스럽게 담겨있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] stimulant\n
 		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
@@ -462,10 +462,10 @@
 	</string>
 	
 	<string id="st_hand_rolling_tobacco">
-		<text>Hand-rolling tobacco</text>
+		<text>롤링 타바코</text>
 	</string>
 	<string id="st_hand_rolling_tobacco_descr">
-		<text>Precious hand-rolling tobacco, imported from the West. With no additional ingredients, so it's possible to enjoy the original taste of tobacco leaf itself.\n \n
+		<text>서양에서 수입된, 손으로 말은 소중한 담배. 별도의 재료 없이 담뱃잎 본연의 맛을 즐길 수 있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] stimulant\n
 		%c[d_red] • %c[ui_gray_2] slow usage (roll up)\n
@@ -475,10 +475,10 @@
 	</string>
 	
 	<string id="st_cigarettes">
-		<text>Marlboro cigarettes</text>
+		<text>말보로 담배</text>
 	</string>
 	<string id="st_cigarettes_descr">
-		<text>Cigarettes imported from the West. Someone must have smoked most of them since there are only a few left. Smoking just one may stabilise your mental state and satisfies hunger a bit. They are rare in the Zone and quite valuable.\n \n
+		<text>서양에서 수입된 담배. 누군가가 대부분 담배를 피워서 몇 개비 밖에 없습니다. 흡연은 당신의 정신상태를 안정시키고 배고픔을 조금이나마 충족시킬 수 있습니다. 그들은 그 존에서 드물고 꽤 가치가 있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] stimulant\n
 		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
@@ -486,10 +486,10 @@
 	</string>
 	
 	<string id="st_tobacco">
-		<text>Russian tobacco</text>
+		<text>러시아 담배잎</text>
 	</string>
 	<string id="st_tobacco_descr">
-		<text>Cigarettes are expensive and rare in the Zone, and having raw tobacco enables you to produce your own cigs at a lower cost. This tin is sealed, which ensures that the tobacco will stay fresh for days or weeks depending on the conditions it's kept in.\n \n
+		<text존에서는 담배가 비싸고 희귀하며, 생 담배잎를 가지고 있으면 더 저렴한 비용으로 담배를 직접 손으로 말 수 있습니다. 이 통은 밀봉되어 있어 보관 조건에 따라 며칠 또는 몇 주 동안 신선함을 유지할 수 있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] stimulant\n
 		%c[d_red] • %c[ui_gray_2] slow usage (roll up)\n
