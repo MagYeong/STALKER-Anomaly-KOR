@@ -61,10 +61,10 @@
 	</string>
 	
 	<string id="st_bottle_metal">
-		<text>Metal bottle</text>
+		<text>철제 병</text>
 	</string>
 	<string id="st_bottle_metal_descr">
-		<text>Metal bottle containing a portion of what seems to be Zone-produced vodka. It doesn't smell right and the fumes are strong.\n \n
+		<text>존에서 생산한 보드카로 보이는 것이 들어 있는 철제 병입니다. 냄새가 강하지 않지만, 가스가 차있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] stimulant\n
 		%c[d_red] • %c[ui_gray_2] strong, low quality alcohol\n
@@ -73,10 +73,10 @@
 	
 <!--< FOOD >-->
 	<string id="st_energy_drink">
-		<text>Strong energy drink</text>
+		<text>에너지 드링크</text>
 	</string>
 	<string id="st_energy_drink_descr">
-		<text>Often used by stalkers on long trips due to its exhilarating effect when you're tired. The drink also sobers you up a bit if you're drunk as well as induces the release of adrenaline into the bloodstream. Do not overdose.\n \n
+		<text>피곤할 때, 지치지 않게 해주는 효과로 인해 스토커가 장시간 여행을 할 때 자주 사용합니다. 또한 이 드링크는 당신이 술 취했을 때 당신을 약간 깨게해줄 뿐만 아니라 혈관에 아드레날린의 방출을 유도합니다. 과다복용을 금지합니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -87,10 +87,10 @@
 	</string>
 	
 	<string id="st_flask">
-		<text>Purified water</text>
+		<text>정수된 물</text>
 	</string>
 	<string id="st_flask_descr">
-		<text>Military flasks are intended for storing small amounts of water. Prepared by medics and scientists. First, the water - combined with a special type of alcohol - is boiled at a very high temperature for purification and disinfection. Afterwards, it is cooled in refrigerators, to which it owes its refreshing "spark." The end result is water that is completely radiation-free. If in spite of the above, you still have doubts concerning its purity, you can always use akvatab. Due to the cost of production, military flasks are in a limited supply and are sold at a moderate price. Medics also have them in stock, but they're slightly more expensive as they include the cost of transportation.\n \n
+		<text>군용 플라스크는 소량의 물을 저장하기 위한 것입니다. 의료진과 과학자에 의해 쓰입니다. 첫째로, 물- 특별한 종류의 알코올과 넣어서-을 매우 높은 온도에서 끓여 정수와 소독을 합니다. 그 후, 그것을 매우 차가운 냉장고에서 식힙니다. 마지막 결과는 완전히 방사능이 없는 물이다. 위와 같은 사항에도 불구하고 순도에 대한 의구심이 여전히 남아 있다면 언제든지 akvatab를 사용할 수 있습니다. 생산가격 때문에 군용 플라스크는 공급이 제한되어 있고, 적당한 가격에 판매됩니다. 의료진도 재고가 있지만, 운송비가 포함되어 있어 가격이 조금 더 비쌉니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
@@ -98,19 +98,19 @@
 	</string>
 		
 	<string id="st_kolbasa">
-		<text>Pack of old meat</text>
+		<text>오래된 고깃덩어리</text>
 	</string>
 	<string id="st_kolbasa_descr">
-		<text>A package containing a meal of old bread and some smelly meat of unknown origin wrapped in brown paper. The look and smell suggest that some of it is moldy.\n \n
+		<text>오래된 빵 한 덩이와 정체불명의 냄새 나는 고기가 갈색 종이로 싸여 있습니다. 모양과 냄새로 보아 일부가 곰팡이가 피었음을 알 수 있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_red] • %c[ui_gray_2] low quality\n</text>
 	</string>
 	
 	<string id="st_tea">
-		<text>Beard's tea</text>
+		<text>Beard(비어드)의 차</text>
 	</string>
 	<string id="st_tea_descr">
-		<text>Beard's popular hot tea made from a mixture of sugar, edible dried mushrooms and boiled water that is said to be radiation-free. Stalkers who can afford to buy the drink often take it for long trips in the Zone. It's a good and healthy way to stay on your toes when you're getting tired or when you're out exploring on cold nights.\n \n
+		<text>Beard(비어드)가 만든 유명하고 뜨거운 차는 설탕, 식용 건조 버섯, 그리고 방사능이 없는 끓인 물로 만들어 집니다. 이 차를 살 여유가 있는 스토커들은 종종 존에서 장거리 여행을 위해 이것을 가져갑니다. 피곤할 때나 추운 밤에 탐험할 때 건강에 좋습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] potent alcohol sobering effect\n
@@ -119,10 +119,10 @@
 	</string>
 	
 	<string id="st_tomato">
-		<text>Canned tomatoes</text>
+		<text>토마토 통조림</text>
 	</string>
 	<string id="st_tomato_descr">
-		<text>Canned, sliced and diced tomatoes are imported to the Zone on a regular basis. The best before date on the bottom suggests they're still fresh.\n \n
+		<text>잘게 잘라지고 다져진 토마토가 통조림되어 존으로 수입됩니다. 유통기한 전까지 신선하다고 알려져 있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -131,10 +131,10 @@
 	</string>
 	
 	<string id="st_sausage">
-		<text>Smoked sausage</text>
+		<text>훈제 소세지</text>
 	</string>
 	<string id="st_sausage_descr">
-		<text>Made of beef and pork. Smoked and vacuum packaged, it can be preserved for long periods of time. This particular piece has been imported from the Russian Federation. Famous among certain Russian mafia leaders for its exceptional flavour and taste.\n \n
+		<text>쇠고기와 돼지고기로 만들어졌습니다. 훈제 및 진공 포장으로 장기간 보존이 가능합니다. 이 특별한 제품은 러시아 연방에서 수입된 것입니다. 뛰어난 맛과 향으로 러시아 마피아 두목들 사이에서 유명합니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -143,11 +143,11 @@
 	</string>
 	
 	<string id="st_corn">
-		<text>Canned corn
+		<text>옥수수 통조림
 		</text>
 	</string>
 	<string id="st_corn_descr">
-		<text>Canned sweet corn imported from the outside. Can be eaten as it is, but there are some who use it as a soup ingredient.\n \n
+		<text>외부에서 들여온  옥수수통조림입니다. 그대로 먹을 수 있지만, 수프 재료로 사용하는 사람도 있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
