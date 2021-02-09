@@ -156,10 +156,10 @@
 	</string>
 	
 	<string id="st_beans">
-		<text>Baked beans</text>
+		<text>베이크드 빈스</text>
 	</string>
 	<string id="st_beans_descr">
-		<text>Canned baked beans brought from the West. These haricot beans in tomato sauce may bring back nice memories to some people.\n \n
+		<text>(부대찌개에 들어가는 '그 콩' 통조림) 서쪽에서 가져온 강낭콩 통조림입니다. 토마토 소스 속의 강낭콩은 몇몇 사람들에게 좋은 추억을 가져다 줄지도 모릅니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -168,10 +168,10 @@
 	</string>
 	
 	<string id="st_chili">
-		<text>Chili beans</text>
+		<text>칠리 빈스</text>
 	</string>
 	<string id="st_chili_descr">
-		<text>Canned chili beans imported from the West. Popular as an ingredient in some dishes in the Zone.\n \n
+		<text>서쪽에서 수입된 칠리소스 콩 통조림입니다. 존에서 일부 요리 재료로 인기 있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -180,10 +180,10 @@
 	</string>
 	
 	<string id="st_conserva">
-		<text>Can of tuna</text>
+		<text>참치 통조림</text>
 	</string>
 	<string id="st_conserva_descr">
-		<text>The best before date at the back of the tin can indicates that you shouldn't expect delicacies.\n \n
+		<text>깡통 뒤의 유통기한 전까지 가장 좋으며, 맛을 기대하지 마십시오.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -192,10 +192,10 @@
 	</string>
 	
 	<string id="st_tushonka">
-		<text>"Abakan" beef tushonka</text>
+		<text>"아바칸" 고기 투숀카</text>
 	</string>
 	<string id="st_tushonka_descr">
-		<text>Tushonka is a common name of canned, stewed meat produced in the Soviet Union and other Warsaw Pact countries. The irony is that the idea originally came to Russia in a form of World War II aid transports from the United States. Since then, various kinds of tushonkas have become a primary means of long-time meat preservation, used both by the civilian population and as a standard-issue Red Army food ration. Despite their long expiry date, tushonkas are known for their high nutrition value (mostly owing to high fat content) and a relatively good taste. The Chernobyl Exclusion Zone has seen hundreds of types and tastes of tushonkas. In the spring of 2013 'Abakan' minced-meat brand remains the unquestionable king, and certainly the Zone has seen worse than that.\n \n
+		<text>투숀카(Tushonka)는 소비에트 연방과 다른 바르샤바 조약국들에서 생산되는 통조림,  스튜의 통칭입니다. 아이러니한 것은 이 아이디어가 원래 2차 세계대전의 원조 수송수단의 형태로 미국에서 러시아에 왔다는 것입니다. 그 이후, 다양한 종류의 투숀카가 오랜 기간 동안 육류를 보존하는 주요 수단이 되었으며, 이는 민간인들이 사용하는 것과 표준 문제인 붉은 군대의 식량 배급으로 사용되었습니다. 긴 유효기간에도 불구하고 투숀카는 높은 영양가(대부분 지방 함량이 높기 때문)와 비교적 좋은 맛으로 알려져 있습니다. 체르노빌 출입 금지 구역에는 수백 가지 종류와을 맛을 지닌 투숀카들이 보여져왔습니다. 2013년 봄, '아바칸' 분쇄육 브랜드는 의심의 여지가 없는 왕으로 남아있습니다. 그리고 존은 확실히 그것보다 더 나쁜 것을 보았습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
