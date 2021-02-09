@@ -94,7 +94,7 @@
 	</string>
 	
 	<string id="st_itm_backpack_stash_name">
-		<text>PDA marked backpack</text>
+		<text>PDA에 표시된 가방</text>
 	</string>
 	<string id="st_itm_backpack_stash_desc">
 		<text>GPS 장치 내장한 매우 내구성이 뛰어난 가방입니다. PDA와 자동으로 동기화되어 한번 내려놓으면, PDA에 표시된 은닉처을 생성합니다. 이 가방은 튼튼하고 내구성이 강한 소재로 제작되어 환경조건에 관계없이 장비를 안전하고 건조하게 유지할 수 있습니다. 이 가방의 위장 디자인은 주변과 눈에 띄지 않도록 보장합니다.\n \n
