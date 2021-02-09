@@ -204,11 +204,11 @@
 	</string>
 	
 	<string id="st_salmon">
-		<text>Smoked salmon
+		<text>훈제 연어
 		</text>
 	</string>
 	<string id="st_salmon_descr">
-		<text>Ukrainian smoked salmon. As soon as it's brought to the Zone, the fish changes hands until it finds its way to the highest bidder. Very valuable.\n \n
+		<text>우크라이나산 훈제 연어. 존에 들여오자마자, 가장 높은 입찰자에게 떨어집니다. 매우 가치있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -218,10 +218,10 @@
 	</string>
 	
 	<string id="st_raisins">
-		<text>Raisins</text>
+		<text>건포도</text>
 	</string>
 	<string id="st_raisins_descr">
-		<text>A pack of raisins. Rich in nutrients, balances sugar in the blood.\n \n
+		<text>건포도 한 팩. 영양소가 풍부하고, 혈당을 조절합니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -230,10 +230,10 @@
 	</string>
 	
 	<string id="st_chocolate">
-		<text>Russian chocolate</text>
+		<text>러시아산 초콜릿</text>
 	</string>
 	<string id="st_chocolate_descr">
-		<text>Russian chocolate. Very rare in the Zone and quite valuable even though its taste is nothing special. Brings back many fond childhood memories, which may help soothe the pain of living in the harsh and unforgiving conditions of the Zone.\n \n
+		<text>러시아산 초콜릿. 존에서는 매우 희귀하고 맛은 특별하지 않지만 꽤 가치가 있습니다. 존의 거칠고 가혹한 환경에서 사는 고통을 달래는 데 도움이 될 수 있는 많은 어린 시절의 추억을 떠올려줍니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -244,10 +244,10 @@
 	</string>
 	
     <string id="st_chocolate_p">
-		<text>Russian chocolate (half-consumed)</text>
+		<text>러시아산 초콜릿(반절만 섭취)</text>
 	</string>
     <string id="st_chocolate_p_descr">
-		<text>Russian chocolate. Very rare in the Zone and quite valuable even though its taste is nothing special. Brings back many fond childhood memories, which may help soothe the pain of living in the harsh and unforgiving conditions of the Zone.\n \n
+		<text>러시아산 초콜릿. 존에서는 매우 희귀하고 맛은 특별하지 않지만 꽤 가치가 있습니다. 존의 거칠고 가혹한 환경에서 사는 고통을 달래는 데 도움이 될 수 있는 많은 어린 시절의 추억을 떠올려줍니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -258,19 +258,19 @@
 	</string>
 	
 	<string id="st_mint">
-		<text>Altoids</text>
+		<text>알토이즈</text>
 	</string>
 	<string id="st_mint_descr">
-		<text>Mint-flavoured altoids imported from the West. They are highly refreshing and remove radiation particles from the mouth. They also seem to reduce sleepiness for a short while. You can take as many as 10 mints at a time but that's only because your mouth isn't able to fit any more.\n \n
+		<text>서양에서 수입된 민트 향의 알토이즈(캔디). 그것들은 매우 상쾌하고 입에서 나오는 방사선 입자들을 제거합니다. 그것들은 또한 잠깐 동안 졸음을 줄여주는 것처럼 보입니다. 입에 잘 맞지 않기 때문에, 한 번에 10분 정도 드실 수 있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		</text>
 	</string>
 	
 	<string id="st_nuts">
-		<text>Mixed nuts</text>
+		<text>혼합 견과류</text>
 	</string>
 	<string id="st_nuts_descr">
-		<text>Assorted peanuts, hazelnuts, cashews and almonds in a nice and popular blend. Nutrition value is quite high. Imported from South Africa.\n \n
+		<text>모듬 땅콩, 헤이즐넛, 캐슈넛, 아몬드 등이 우수하고 인기 있는 혼합 견과류입니다. 영양가가 상당히 높습니다. 남아프리카에서 수입합니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -280,10 +280,10 @@
 	</string>
 	
 	<string id="st_mineral_water">
-		<text>Mineral water</text>
+		<text>광천수</text>
 	</string>
 	<string id="st_mineral_water_descr">
-		<text>Mineral water from Ukrainian springs. Carbonated and with additional calcium.\n \n
+		<text>우크라이나의 샘에서 나오는 생수입니다. 탄산과 추가적인 칼슘이 함유되어 있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] high quality\n
