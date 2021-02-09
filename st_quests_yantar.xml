@@ -174,34 +174,34 @@
 	<!-- Semenov (Ecog Honcho) Research Hunt Task -->
 
 	<string id="yan_ecolog_semenov_task_1_name">
-		<text>Semenov Research Hunt</text>
+		<text>세메네프 연구 사냥</text>
 	</string>
 	<string id="yan_ecolog_semenov_task_1_text">
-		<text>Assistant Semenov has requested that I escort him around the local area so that he can retrieve fresh mutant tissue samples and analyse their corpses with his scanning equipment.</text>
+		<text>세메네프 조수가 해당 주위를 돌아다니면서 신선한 돌연변이 조직 견본을 얻거나 그의 스캐닝 장비로 사체를 분석할수 있도록 당신에게 호위를 요청하였다.</text>
 	</string>
 	<string id="yan_ecolog_semenov_task_1_about">
-		<text>Would you mind helping me eliminate a few mutants so that I can take readings and tissue samples? Let's say... about five different mutants. I'll be putting my life in your hands, and you would need to ensure my safety. I will compensate you for your efforts.</text>
+		<text>내가 조직 견본을 얻고 읽을수 있도록 몇마리 돌연변이들 좀 처리해줄 생각이 있나? 한... 서로 다른 다섯 마리 정도 말일세. 내 목숨을 자네 손에 맡길테니, 자네는 나에게 안전을 보장해주게. 그러면 내가 자네의 수고를 보상하겠네.</text>
 	</string>
 	<string id="yan_ecolog_semenov_task_1_finish">
-		<text>Thank you for your assistance, friend. I have all the tissue samples I need. Here is your payment. Come back and see me again some time.</text>
+		<text>도와줘서 고맙네 친구. 내게 필요한 모든 조직을 얻었으니, 자네의 몫은 여기있네. 언제 한번 날보러 오게나.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Sakharov (Ecog Trader) -->
 	<string id="yan_stalker_sakharov_task_1_name">
-		<text>Procure %s for the Yantar Bunker</text>
+		<text>얀타 벙커를 위해 %s 을(를) 구하라</text>
 	</string>
 	<string id="yan_stalker_sakharov_task_1_text">
-		<text>Professor Sakharov's latest experiments require a fresh tissue sample from a %s. I should bring him one as soon as I find it.</text>
+		<text>사하로브 교수의 최근 실험에 필요한 %s 의 신선한 조직 견본이 필요하다. 내가 찾을수 있는 한 그에게 전달해야한다.</text>
 	</string>
 	<string id="yan_stalker_sakharov_task_1_about">
-		<text>I need an experienced stalker or a mutant hunter. Is that somebody you?</text>
+		<text>경험있는 스토커나 돌연변이 사냥꾼 이 내게 필요하네. 그게 자네인가?</text>
 	</string>
 	<string id="yan_stalker_sakharov_task_1_fetch_about">
-		<text>I need to collect fresh cells from %s tissue samples. To do this, I'll need you to, eh, procure the sample and bring it back to my bunker here. I know zoologists won't favour this, but this place is not a zoo, one has to admit. In any case, make sure you return to me as soon as you have the required sample - it could provide valuable insight into the biology of mutant wildlife!</text>
+		<text>난 %s 의 조직 견본 으로부터 신선한 세포를 채집해야 하네. 그럴려면, 자네가, 어... 그 견본을 구해서, 내 벙커에 가져다 주게. 나도 동물학자들 이걸 원치 않는건 알지만, 여기가 동물원이 아니라는 점 은 인정해야하네. 어쨋든, 자네가 그 필요한 샘플을 가지자 마자 나에게 돌아오게. 그것이 야생 돌연변이의 생물학에 대한 귀중한 통찰력을 제공할수도 있네!</text>
 	</string>
 	<string id="yan_stalker_sakharov_task_1_fetch_finish">
-		<text>Thank you, dear colleague. This will help immensely in my research.</text>
+		<text>고맙네, 친구. 이게 내 연구에 큰 도움이 될 것이네.</text>
 	</string>
 	
 	<!-- Collect New Artefact Task -->
