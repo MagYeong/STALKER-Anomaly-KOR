@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="look_for_cs_history_part_4_2_0">
-		<text>Hello, Gatekeeper.</text>
+		<text>안녕, 문지기 </text>
 	</string>
 	<string id="look_for_cs_history_part_4_2_1">
-		<text>Hey there. Going to Limansk, are you? If it weren't for Leshiy... Anyway, welcome. Gonna need the money from you... And be careful not to get caught by our patrols - they aren't part of the agreement.</text>
+		<text>반갑네. 리만스크로 가는 거 맞지? 레시가 아니었다면... 어쨌든, 어서 오서와. 돈을 내야 할거야... 그리고 우리 순찰대에 발각되지 않도록 조심해 - 그들은 협상의 일부가 아니거든.</text>
 	</string>
 
 	<string id="look_for_cs_history_part_4_1_0">
-		<text>Here's the money.</text>
+		<text>여기 돈.</text>
 	</string>
 	<string id="look_for_cs_history_part_4_1_1">
-		<text>Very well. I'll give the heads-up to the watch at the bridge. Once you get there, the one to speak to is "Gatekeeper". Just act cool, and please try to find something that would shed some light on the disappearance of Scar.</text>
+		<text>좋아. 내가 다리에 있는 경비병에게 신호를 줄 거야. 일단 도착하면, 대화 상대는 "문지기"다. 침착하게 행동하고, 스카의 실종을 밝혀줄 수 있는 무언가를 찾아.</text>
 	</string>
 
 	<string id="look_for_cs_history_part_3_2_0">
-		<text>Leshiy, right?</text>
+		<text>레시, 맞지?</text>
 	</string>
 	<string id="look_for_cs_history_part_3_2_1">
-		<text>Yep. Need a guide, or did you want anything else?</text>
+		<text>그래, 가이드가 필요한가, 아니면 다른 걸 원하나?</text>
 	</string>
 	<string id="look_for_cs_history_part_3_2_2">
-		<text>Well, I know something about your past. I could use your help, merc.</text>
+		<text>네 과거에 대해 알고 있어. 난 네 도움이 필요해, 용병</text>
 	</string>
 	<string id="look_for_cs_history_part_3_2_3">
-		<text>Uh... What kind of help?</text>
+		<text>어... 어떤 도움이 필요하지?</text>
 	</string>
 	<string id="look_for_cs_history_part_3_2_4">
-		<text>Could you talk to the mercs guarding the bridge in the Red Forest? I need to get to Limansk. I understand that this might be inconvenient, but I can promise you that I'll try to find any tracks left by the mercenary Scar.</text>
+		<text>붉은 숲에 있는 다리를 지키고 있는 용병들에게 얘기 좀 해주겠어? 난 리만스크로 가야 해. 불편할 수도 있다는 건 알지만, 용병 스카가 남긴 흔적을 찾아 보겠다고 약속할 수 있어.</text>
 	</string>
 	<string id="look_for_cs_history_part_3_2_5">
-		<text>Hm. You gotta understand that I haven't been part of the Syndicate for a long time... Not even sure who runs the group at the bridge. I've got a few connections, but I'm gonna need some time for this... and some money. One hundred and fifty thousand, no less.</text>
+		<text>흐음, 내가 오랫동안 조직에 몸담지 않았다는 걸 알아야해. 누가 다리에서 조직을 운영하는지조차 확실하지 않아. 몇 군데 연줄이 있긴 하지만 시간이 좀 필요할 것 같군 그리고 약간의 돈도. 15만 루블, 그 이하는 안돼.</text>
 	</string>
 
 	<string id="look_for_cs_history_part_1_1_0">
-		<text>I've heard something about the history of your group. I would like to investigate.</text>
+		<text>당신 조직의 역사에 대해 들은 게 있어. 조사하고 싶다.</text>
 	</string>
 	<string id="look_for_cs_history_part_1_1_1">
 		<text>You looking for something, or what? Hah, listen. You have virtually no chance of surviving in those areas - but even if you do, finding information about our stay there ain't exactly gonna be a walk in the park.</text>
