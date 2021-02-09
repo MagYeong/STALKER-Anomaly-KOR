@@ -293,10 +293,10 @@
 	</string>
 	
 	<string id="st_mre">
-		<text>MRE</text>
+		<text>미군 전투식량</text>
 	</string>
 	<string id="st_mre_descr">
-		<text>The Meal, Ready-to-Eat (commonly known as the MRE) is a self-contained, individual field ration in lightweight packaging, developed by the United States military for its service members for use in combat or other field conditions where organised food facilities are not available. One MRE can be used as one meal. The packaging of an MRE is designed to withstand rough conditions and exposure to the elements. Contains one course along with a variety of other food and drink items. While it can be eaten cold, it usually tastes much better when heated up with the included flameless ration heater (FRH, a water-activated exothermic reaction device that emits heat).\n \n
+		<text>MRE(Meal, Ready-to-Eat)는 경량 포장에 자체 내장된 개별 휴대 식량으로,  미군에 의해 개발되어 전투 또는 식당 시설을 이용할 수 없는 야전에서 사용할 수 있습니다. MRE 한 개를 한 끼 식사로 사용할 수 있습니다. MRE 포장은 거친 환경과 그러한 요소에 대한 노출을 견딜 수 있도록 제작되었습니다. 다양한 음식 및 음료가 함께 한 코스로 포함되어 있습니다. 차갑게 먹을 수 있지만, 대개 포함된 발열기(FRH, 물로 활성화 시키는 발열 장치)로 가열하면 훨씬 맛이 좋습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] military ration\n\n
 		%c[d_blue] • %c[ui_gray_2] high quality\n
@@ -306,11 +306,11 @@
 	</string>
 	
 	<string id="st_ration_ru">
-		<text>Russian IRP-B combat ration
+		<text>러시아 IRP-B 전투식량
 		</text>
 	</string>
 	<string id="st_ration_ru_descr">
-		<text>Breakfast, dinner and supper all in one package. Includes various food items whose function is to provide the body with all minerals and microelements essential for your health as well as cooking equipment (small metal frame, fuel tablets, matches, striker) and other items (e.g. napkins) facilitating use in field conditions. Comes with a polymeric box that protects the ingredients from hazardous environmental conditions. The polymeric box has 3 sections, each respectively for breakfast, dinner and supper.\n \n
+		<text>조식, 중식, 석식 모두 한 포장에 담겨 있습니다. 건강에 필수적인 모든 미네랄 및 미량원소뿐만 아니라 식기구(소형 금속 프레임, 연료 태블릿, 성냥, 점화기) 및 야전에서 사용하기 쉬운 기타 도구(예: 냅킨)을 제공하는 다양한 식품이 포함됩니다. 유해한 환경으로부터 내용물을 보호하는 폴리머 박스가 함께 제공됩니다. 폴리머 박스는 각각 조식,중식, 석식, 으로 세 부분으로 되어 있습니다. (dinner, supper 구분이 애매하므로 편의상 중식,석식으로 표현함)\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] military ration\n
 		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
@@ -319,11 +319,11 @@
 	</string>
 	
 	<string id="st_ration_ukr">
-		<text>Ukrainian combat ration
+		<text>우크라이나 전투식량
 		</text>
 	</string>
 	<string id="st_ration_ukr_descr">
-		<text>This Ukrainian combat ration is based on a previous Russian version, and comprises commercially available cans and dried food items packed together in a sectioned box (resembling a takeout tray) made of very thin green plastic. Contains all that is necessary to provide a healthy adult with all calories and minerals needed during a single day.\n \n
+		<text>우크라이나의 전투 식량은 이전 러시아 버전에 기초하고 있으며, 매우 얇은 녹색 플라스틱으로된 구획된 상자(테이크 아웃 트레이와 유사함)에 민수용 통조림과 건조 식품으로 함께 구성되어 있습니다. 건강한 성인에게 하루 동안 필요한 모든 칼로리와 미네랄을 포함합니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] military ration\n
 		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
