@@ -8,10 +8,10 @@
 
 <!--< ALCOHOL >-->
 	<string id="st_vodka">
-		<text>Nemiroff 보드카</text>
+		<text>네미로프 보드카</text>
 	</string>
 	<string id="st_vodka_descr">
-		<text>Nemiroff is a Ukrainian producer of alcoholic beverages, specialising in vodkas and other spirits, based in the town of Nemyriv in the Vinnytska oblast. One of the best vodkas in the world and - by extension - in the Zone.\n \n
+		<text>네미로프(Nemiroff)는 보드카와 양주에 특화된 우크라이나의 주류 생산업체로, 비니츠카 주의 네미리브에 본부를 두고 있습니다. 존에서-더 나아가- 세계에서 가장 좋은 보드카 중 하나입니다.\n \n
 		%c[ui_gray_3]NOTE:\n \n
 		%c[ui_gray_1]It is commonly known that this brand of alcohol is preferred by the Ecologist's chef at Yantar. Rumours exist that he'll happily smuggle military gear into the hands of common stalkers in exchange for a few swigs from a bottle, but such stories have yet to be substantiated.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
@@ -22,10 +22,10 @@
 	</string>
 	
 	<string id="st_vodka2">
-		<text>Putinka vodka</text>
+		<text>푸틴카 보드카</text>
 	</string>
 	<string id="st_vodka2_descr">
-		<text>Following the tradition of naming vodka brands after Russian leaders, Putinka first went into production after Vladimir Putin was elected president. Produced in Russia from the finest grain and crystal clear water from Siberian springs. Triple purification, smooth texture, unique taste are not the only characteristics of this beverage. Drink with moderation.\n \n
+		<text>러시아 지도자들의 이름을 따서 보드카 브랜드를 명명하는 전통에 따라, 푸틴이 대통령에 당선된 후 푸틴카는 처음으로 생산에 들어갔습니다. 러시아에서 최고급 곡물과 시베리아 샘의 수정처럼 맑은 물로 생산됩니다. 이 음료의 특징은 3중 정수, 부드러운 목넘김, 독특한 맛뿐만이 아닙니다. 적당히 마십시오.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] stimulant\n
@@ -34,10 +34,10 @@
 	</string>
 	
 	<string id="st_vodka_quality">
-		<text>Stolichnaya vodka</text>
+		<text>스톨리차나야 보드카</text>
 	</string>
 	<string id="st_vodka_quality_descr">
-		<text>A favourite amongst Russians and many people the world over. A Russian vodka of high quality. Highly popular in the Zone and widely available most probably owing to an outside connection of one of the traders. In order to avoid detection by the military units stationing around the Zone, it is usually shipped in army containers or metal barrels, and then distributed in sturdy metal bottles.\n \n
+		<text>러시아인과 전세계의 많은 사람들 사이에서 인기가 있습니다. 고급 품질의 러시아 보드카입니다. 존에서 매우 인기있고, 아마 상인들 중 한 명이 외부와의 접촉 때문에 널리 쓰이고 있습니다. 존 주변에 주둔하고 있는 군부대의 눈을 피하기 위해 보통 군용 컨테이너나 금속 통에 담아 운송된 뒤 튼튼한 금속 병에 담아 유통됩니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] stimulant\n
 		%c[d_red] • %c[ui_gray_2] strong alcohol\n
@@ -46,10 +46,10 @@
 	</string>
 	
 		<string id="st_beer">
-		<text>Ukrainian beer</text>
+		<text>우크라이나 맥주</text>
 	</string>
 	<string id="st_beer_descr">
-		<text>Ukrainian beer. Another - beside vodka - popular beverage in the Zone.\n \n
+		<text>우크라이나 맥주. 또 다른-보드카 비해- 존에서 인기 있는 음료입니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -61,7 +61,7 @@
 	</string>
 	
 	<string id="st_bottle_metal">
-		<text>철제 병</text>
+		<text>금속 병</text>
 	</string>
 	<string id="st_bottle_metal_descr">
 		<text>존에서 생산한 보드카로 보이는 것이 들어 있는 철제 병입니다. 냄새가 강하지 않지만, 가스가 차있습니다.\n \n
