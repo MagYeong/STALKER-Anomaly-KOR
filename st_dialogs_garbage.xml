@@ -81,32 +81,32 @@
 		<text>Yeah, let me show you what I've jotted down about Karliks. This rare mutant chiefly resides in underground complexes, particularly the ones which were used for human experimentation before the Zone's birth. Presumably, Karliks were the outcome of such tests. While they do share remarkably similar physical properties with Burers, they don't seem to be able to use telekineses. Instead, the malicious buggers just run up to you and strike with their bare hands. There's a method to that madness, however, as they possess a highly potent psy-aura that can really scramble your brain if you let them stay too close.\n \nOverall, you don't need to worry about them too much as they're not that dangerous if you're fully awake. Just don't slow yourself down with the hysterical laughter you might have when you see Karliks run around on their little legs. Yes, it's happened before...</text>
 	</string>
 	<string id="st_hunter_gar_trader_life_end">
-		<text>I think you should go out and make your own story for a while. I'm done for the moment.</text>
+		<text>내 생각에는 나가서 너만의 이야기를 만들어 보는 게 좋을 것 같군. 내 일을 방금 마친 참이라.</text>
 	</string>
 
 <!-- Daytime trader at the flea market -->
 	<string id="baraholka_trader_talking_0">
-		<text>What kind of place is this?</text>
+		<text>여기는 어떤 장소지?</text>
 	</string>
 	<string id="baraholka_trader_talking_1">
 		<text>This, fellow stalker, is the flea market. Lots of diggers and small-time traders pawn off old wares as they pass through here. In truth, most of it is pretty garbage, but on special nights we get some real gems coming through, so we make do. So, do you have anything you want to sell?</text>
 	</string>
 	<string id="baraholka_trader_talking_2">
-		<text>What are your experiences with the other stalkers around here?</text>
+		<text>이 근처의 다른 스토커들과의 어떤 경험이 있지?</text>
 	</string>
 	<string id="baraholka_trader_talking_3">
 		<text>What kind of question is that? This is the Garbage. All sorts of people come through these parts. Some are stalkers who want to be traders. Some of them even have some pretty nice stuff to sell. Others are bandits, mercs, even military. Sometimes we get along, sometimes there's a fight. That's why we have guards around.\n \nOthers are Duty. Now, don't get me wrong, Duty soldiers tend to be upright guys individually, but get enough of them into a group, and I swear they become more fanatical than even the Monolith.\n \nOverall, we have mixed, colourful experiences with the different groups around here. As long as they don't disrupt the little market we have here though, we'll get along just fine.</text>
 	</string>
 
 	<string id="information_about_stash_barah_night_0">
-		<text>Hey, do you have information on stashes?</text>
+		<text>보관함에 관한 정보 있어?</text>
 	</string>
 	<string id="information_about_stash_barah_night_1">
-		<text>Sure do. I'll part with one for six thousand.</text>
+		<text>물론이지. I'll part with one for six thousand.</text>
 	</string>
 
 	<string id="information_about_stash_barah_night1_0">
-		<text>Here. %c[d_orange][6000 RU]</text>
+		<text>여기있어. %c[d_orange][6000 RU]</text>
 	</string>
 	<string id="information_about_stash_barah_night1_1">
 		<text>Pleasure doin' business. There ya go.</text>
