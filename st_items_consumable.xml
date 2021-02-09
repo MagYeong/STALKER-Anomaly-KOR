@@ -332,10 +332,10 @@
 	</string>
 	
 	<string id="st_bread">
-		<text>Bread loaf</text>
+		<text>빵 덩어리</text>
 	</string>
 	<string id="st_bread_descr">
-		<text>A fine bread loaf baked by Nimble's wife living outside the Zone. It was the first commodity Nimble started to sell before his business expanded. Nowadays, he provides barkeepers with this fine bread, acting as an intermediary. After all, he has more pressing matters to attend to as he has his own company to manage.\n \n
+		<text>존 밖에 사는 님블의 아내가 구운 고급 빵 덩어리입니다. 이 제품은 님블이 사업을 확장하기 전에 판매하기 시작한 첫 번째 상품입니다. 요즘, 그는 중개인 역할을 하면서 이 훌륭한 빵을 바텐더들에게 제공합니다. 결국, 그는 자신이 관리해야할 동료가 있기에 더 많은 문제들을 처리해야 합니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -344,10 +344,10 @@
 	</string>
 	
 	<string id="st_breadold">
-		<text>Breadcrumbs</text>
+		<text>빵가루</text>
 	</string>
 	<string id="st_breadold_descr">
-		<text>Crumbs of bread baked in the Great Land.\n \n
+		<text>대지에서 구워진 빵가루\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -356,10 +356,10 @@
 	</string>
 	
 	<string id="st_protein">
-		<text>Chocolate protein bar</text>
+		<text>초콜릿 프로틴바</text>
 	</string>
 	<string id="st_protein_descr">
-		<text>This bar provides the body with necessary proteins and sugars which give you a welcome boost. Useful on longer trips when you're on the go and need to eat something fast.\n \n
+		<text>이 바는 신체에 필요한 단백질과 당분을 공급하여 당신을 북돋아 줍니다. 장거리 여행에서 이동 중이라 빨리 먹을 필요가 있을 때 유용합니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -369,10 +369,10 @@
 	</string>
 	
 	<string id="st_water_drink">
-		<text>Sparkling water</text>
+		<text>탄산수</text>
 	</string>
 	<string id="st_water_drink_descr">
-		<text>Sparkling water for thirsty stalkers. It has some exhilarating effect when you're tired.\n \n
+		<text>목마른 스토커들을 위한 탄산수. 당신이 피곤할 때 약간 기분을 돋우는 효과를 가지고 있습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] drink\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
@@ -382,19 +382,19 @@
 	</string>
 	
 	<string id="st_drink_crow">
-		<text>"The Beak"</text>
+		<text>더 빅("The Beak")</text>
 	</string>
 	<string id="st_drink_crow_descr">
-		<text>"The Beak" is a powerful mixture of Zone-produced vodka and pulverised beak of a black crow. Not every beak can be used as an ingredient, because only black male crows that have lived in the Zone for more than 15 years have mutated sufficiently. The rumour has it that such beaks contain a form of enriched protein that cleanses moderate amounts of radiation from the body. Some even say that drinking "the Beak" makes you feel like you have wings for a few seconds. On the downside, however, the taste itself is awful.\n
+		<text>"The Beak"은 존에서 만든 보드카와 검은 까마귀의 부리 가루를 혼합한 것입니다. 모든 부리를 재료로 사용될 수 있는 것은 아닙니다, 왜냐하면 15년 이상 존에서 살아온 검은 수컷 까마귀만이 충분히 변이했기 때문입니다. 소문에 의하면 그러한 부리는 신체에서 적당한 양의 방사능을 제거하는 풍부한 단백질을 포함하고 있다고 합니다. 심지어 어떤 사람들은 심지어 "The Beak"을 마시면 몇 초 동안 날개가 있는 것처럼 느껴진다고 말합니다. 하지만 맛 자체는 끔찍합니다.\n
 		</text>
 	</string>
 	
 <!--< SMOKE >-->
 	<string id="st_cuban_cigar">
-		<text>Cuban cigar</text>
+		<text>쿠바산 시가</text>
 	</string>
 	<string id="st_cuban_cigar_descr">
-		<text>This valuable Cuban cigar can bring you bliss for a short while, especially when you're admiring a nice sunset. Some stalkers noticed that smoking strong tobacco repels mosquitoes. Cuban cigars are considered the finest in the world. A rare commodity.\n \n
+		<text>이 값진 쿠바산 시가는 잠시 동안, 특히 멋진 일몰을 감상할 때, 여러분에게 행복을 가져다 줄 수 있습니다. 어떤 스토커들은 독한 담배를 피우는 것이 모기를 쫒아낸다는 것을 알아냈습니다. 쿠바산 시가는 세계에서 가장 훌륭한 것으로 여겨집니다. 진귀한 상품.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] stimulant\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
