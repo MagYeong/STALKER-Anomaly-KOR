@@ -2,106 +2,106 @@
 <string_table>
 	<!-- Level Names -->
 	<string id="l03_agroprom">
-		<text>Agroprom</text>
+		<text>아그로포롬</text>
 	</string>
 	<string id="l03u_agr_underground">
-		<text>Agroprom Underground</text>
+		<text>아그로포롬 지하</text>
 	</string>
 	<string id="l07_military">
-		<text>Army Warehouses</text>
+		<text>군 창고</text>
 	</string>
 	<string id="l12_stancia_2">
-		<text>Chernobyl NPP (North)</text>
+		<text>체르노빌 원전 (북부)</text>
 	</string>
 	<string id="l12_stancia">
-		<text>Chernobyl NPP (South)</text>
+		<text>체르노빌 원전 (남부)</text>
 	</string>
 	<string id="l01_escape">
-		<text>Cordon</text>
+		<text>코돈</text>
 	</string>
 	<string id="k01_darkscape">
-		<text>Darkscape</text>
+		<text>검은풍경</text>
 	</string>
 	<string id="l04_darkvalley">
-		<text>Dark Valley</text>
+		<text>검은계곡</text>
 	</string>
 	<string id="l09_deadcity">
-		<text>Dead City</text>
+		<text>폐도시</text>
 	</string>
 	<string id="l11_hospital">
-		<text>Deserted Hospital</text>
+		<text>버려진 병원</text>
 	</string>
 	<string id="fake_start">
-		<text>Fake Start</text>
+		<text>거짓된 시작</text>
 	</string>
 	<string id="l02_garbage">
-		<text>Garbage</text>
+		<text>쓰레기장</text>
 	</string>
 	<string id="l13_generators">
-		<text>Generators</text>
+		<text>발생기</text>
 	</string>
 	<string id="k00_marsh">
-		<text>Great Swamps</text>
+		<text>대습지</text>
 	</string>
 	<string id="jupiter">
-		<text>Jupiter</text>
+		<text>주피터</text>
 	</string>
 	<string id="jupiter_underground">
-		<text>Jupiter Underground</text>
+		<text>주피터 지하</text>
 	</string>
 	<string id="l08u_brainlab">
-		<text>Laboratory X16 (Yantar)</text>
+		<text>X16 연구소 (얀타)</text>
 	</string>
 	<string id="l04u_labx18">
-		<text>Laboratory X18 (Dark Valley)</text>
+		<text>X18 연구소 (검은 계곡)</text>
 	</string>
 	<string id="l10u_bunker">
-		<text>Laboratory X19 (Radar)</text>
+		<text>X19 연구소 (레이더)</text>
 	</string>
 	<string id="labx8">
-		<text>Laboratory X8 (Outskirts)</text>
+		<text>X8 연구소 (프리피야트 외곽)</text>
 	</string>
 	<string id="l10_limansk">
-		<text>Limansk</text>
+		<text>리만스크</text>
 	</string>
 	<string id="l12u_control_monolith">
-		<text>Monolith Control Center</text>
+		<text>모노리스 제어 센터</text>
 	</string>
 	<string id="l13u_warlab">
-		<text>Monolith War Lab</text>
+		<text>모노리스 전쟁 연구소</text>
 	</string>
 	<string id="pripyat">
-		<text>Outskirts</text>
+		<text>프리피야트 외곽</text>
 	</string>
 	<string id="l11_pripyat">
-		<text>Pripyat</text>
+		<text>프리피야트</text>
 	</string>
 	<string id="l10_radar">
-		<text>Radar</text>
+		<text>레이더</text>
 	</string>
 	<string id="l10_red_forest">
-		<text>Red Forest</text>
+		<text>붉은 숲</text>
 	</string>
 	<string id="l05_bar">
-		<text>Rostok</text>
+		<text>로스토크</text>
 	</string>
 	<string id="l12u_sarcofag">
-		<text>Sarcophagus</text>
+		<text>석관</text>
 	</string>
 	<string id="k02_trucks_cemetery">
-		<text>Truck Cemetery</text>
+		<text>트럭 묘지</text>
 	</string>
 	<string id="l06_rostok">
-		<text>Wild Territory</text>
+		<text>폐허 지역</text>
 	</string>
 	<string id="l08_yantar">
-		<text>Yantar</text>
+		<text>얀타</text>
 	</string>
 	<string id="zaton">
-		<text>Zaton</text>
+		<text>자톤</text>
 	</string>
 	<string id="y04_pole">
-		<text>Meadow</text>
+		<text>초원</text>
 	</string>
 
 	<!-- Level Changers -->
