@@ -34,29 +34,29 @@
 	</string>
 	
 	<string id="devushka_4_help_0">
-		<text>Hello Barkeep. I have brought someone you might want to see.</text>
+		<text>안녕, 바텐더. 당신이 보고 싶어할 사람을 데려왔는데.</text>
 	</string>
 	<string id="devushka_4_help_1">
-		<text>Uh-huh. Ah, Hip. Here, friend, have a drink on the house while I talk to her privately.</text>
+		<text>으흠. 아, 힙이로군. 여기, 친구, 내가 힙과 개인적으로 이야기를 나누는 동안 한 잔 하고 있으라고.</text>
 	</string>
 	
 	<string id="devushka_help_0">
-		<text>Thanks. I'll wait...</text>
+		<text>좋아. 기다리지...</text>
 	</string>
 	<string id="devushka_help_1">
-		<text>...Alright. Hip now knows what she needs to do, and wanted me to tell you while she readies up; she'll be going past the Barrier to Zaton, to drop off some artefact containers for Beard. Artefacts are the lifeblood of the Skadovsk, as you may have heard. Oh, and apparently Hip refuses to make this delivery without you. So, are you ready?</text>
+		<text>...그래. 이제 힙은 뭘 해야 할 지 알게 되었고, 준비하는 동안 날 통해 자네에게 전하고 싶은 이야기가 있다고 하던데. 그녀는 배리어를 넘어 자톤으로 가서, 베어드에게 아티팩트 컨테이너 몇 개를 넘기겠다는군. 자네도 들어봤겠지만, 아티팩트는 스카도브스크의 생명줄과도 같지. 오, 그리고 힙은 자네 없이는 그것들을 배달할 수 없겠다는 거 같던데. 그럼, 준비는 됐나?</text>
 	</string>
 	<string id="devushka_help_2">
-		<text>Yeah, I'm ready. We'll take the containers now.</text>
+		<text>그래, 준비 됐어. 이제 우리가 컨테이너를 맡지.</text>
 	</string>
 	<string id="devushka_help_3">
-		<text>Almost, I just need a few minutes to get everything together.</text>
+		<text>기다려, 모든 게 준비되려면 몇 분이 더 필요하거든.</text>
 	</string>
 	
 	
 <!-- GARIK -->
 	<string id="request_go_to_nimble_0">
-		<text>I need to pass through.</text>
+		<text>여길 지나가야 하겠는데.</text>
 	</string>
 	
 	
