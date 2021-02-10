@@ -1,232 +1,232 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="st_af_surge_up_name">
-		<text>Improved surge regenerator</text>
+		<text>강화된 서지 재생기</text>
 	</string>
 	<string id="st_af_surge_up_descr">
-		<text>Unique, a device that absorbs electrical energy around itself and partially transforms it into the body, increasing endurance. Excess energy leads to the regeneration of damaged tissues. It mainly serves as an over voltage protection for limited short-circuit shock current, limiting the amount of electricity coming into contact with the body, by closing it to the ground. Represents a rather complex electronic circuit of valuable radio components, which greatly increases the electrical resistance of the body. As a result, the body falls under a lower voltage and is able to withstand discharges of electricity that previously led to death. Thus, it is vitally important to have a current-limiting microreactor when it is necessary to approach electric anomalies or other sources of electricity. Like any electronic object, it can be used as a repair material with appropriate tools and skills.\n \n%c[d_red]\n\n%c[d_red]WARNING:%c[ui_gray_2]\n \n%c[default]It should be noted that such a module will not be able to work properly and provide sufficient protection if your suit does not meet the minimum protection requirements while in an abnormal field.\n \n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] technological item\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		<text>이 고유한 장치는 주변에 있는 전기 에너지를 흡수하여 일부를 인체 쪽으로 변환하여, 지구력을 높여줍니다. 잉여 에너지는 파괴된 신체 조직을 재생하는 데 사용됩니다. 이 장치는 주로 단락 회로 쇼크 전류량을 제한하기 위한 과전압 보호 기능과, 인체로 흐르는 전류를 접지함으로써 전력량을 제한하는 기능을 수행합니다. 값비싼 라디오 부품들을 사용한 복잡한 전자 회로를 가지고 있어, 인체의 전기 저항력을 크게 높여줍니다. 결과적으로, 전기에 노출되었을 때 인체는 더 낮은 전압을 받게 되어 사망에 이를 수 있는 전기 방출을 견디게 도와줄 수 있습니다. 따라서, 전기 이상현상이나 전기가 흐르는 다른 곳에 접근해야할 때 전류를 차단해주는 마이크로리액터를 가지고다니는 것은 생명을 보호하기 위해 매우 중요합니다. 다른 전자제품들과 마찬가지로, 적절한 도구와 기술이 있다면 수리용 재료로 사용될 수 있습니다.\n \n%c[d_red]\n\n%c[d_red]경고:%c[ui_gray_2]\n \n%c[default]이런 종류의 모듈이 제대로 작동하고 충분한 보호를 제공하기 위해서는 이상현상에 대해 보호구가 최소한의 보호도를 제공할 수 있어야 합니다.\n \n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_frames_up_name">
-		<text>Improved aluminium frames</text>
+		<text>강화된 알루미늄 프레임</text>
 	</string>
 	<string id="st_af_frames_up_descr">
-		<text>Instead of simply carrying a backpack secured by a pair of shoulder straps, one can attach it to the suit by means of aluminium frames, which optimises your carrying capabilities. These improved frames are made of aluminium which is the material of choice due to its light weight, and some external elements are made of plastic in order to attain desired flexibility while sprinting. The whole construction is equipped with a system of straps and webbing to provide a high degree of adjustability. This quality design allows the shoulder straps to be adjusted up or down so as to make wearing a backpack comfortable regardless of one's torso size. Single set of frames replaces only the main framework of your backpack, but it's possible to use more sets to further improve your carrying capabilities. Although the system is built of light aluminium, some parts can still prove useful for minor outfit repairs.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] everyday item\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		<text>배낭을 단순히 어깨끈에만 의지해서 메고 다니는 대신에, 알루미늄 프레임을 사용해 방어구에 밀착하여 무게 운반 능력을 최적화할 수 있습니다. 이 강화 프레임들은 가벼운 무게 때문에 선택된 알루미늄으로 만들어졌고, 달리는 것에 적합한 만큼의 유연성을 확보하기 위해 몇몇 외부 부품들은 플라스틱으로 만들어졌습니다. 구조는 높은 정도의 조절 가능성을 확보하기 위해 끈과 거미줄 모양의 구조로 되어 있습니다. 이러한 고품질의 디자인을 통해 어깨끈이 위아래로 조절 가능하게 만들어짐으로써 착용자의 몸 크기에 관계없이 배낭을 편안하게 메고 다닐 수 있게 되었습니다. 한 세트의 프레임은 배낭의 메인 프레임만을 대체하지만, 더 많은 세트를 사용하여 운반 능력을 더 늘릴 수 있습니다. 비록 장치가 가벼운 알루미늄으로 만들어지기는 했지만, 몇몇 부품들은 낮은 수준의 방어구 수리를 하는 데 여전히 유용합니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 일상용품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_grid_up_name">
-		<text>Improved titanium grid</text>
+		<text>강화된 티타늄 그리드</text>
 	</string>
 	<string id="st_af_grid_up_descr">
-		<text>Instead of simply carrying a backpack secured by a pair of shoulder straps, one can attach it to the suit by means of a titanium grid, which optimises your carrying capabilities. The improved grid is made of titanium which is the material of choice due to its light weight and high durability, and some external elements are made of plastic in order to attain desired flexibility while sprinting. The whole construction is equipped with a system of straps and webbing to provide a high degree of adjustability. This quality design allows the shoulder straps to be adjusted up or down so as to make wearing a backpack comfortable regardless of one's torso size. A single grid replaces only the main framework of your backpack, but it's possible to use more grids to further improve your carrying capabilities. Grids are created from very high quality titanium, thus disassembled grid can be used as an effective combat outfit or helmet repair supplement.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] everyday item\n
-		%c[d_cyan] � %c[ui_gray_2] high quality\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		<text>배낭을 단순히 어깨끈에만 의지해서 메고 다니는 대신에, 티타늄 그리드를 사용해 방어구에 밀착하여 무게 운반 능력을 최적화할 수 있습니다. 이 강화 그리드는 가벼운 무게와 높은 내구성 때문에 선택된 티타늄으로 만들어졌고, 달리는 것에 적합한 만큼의 유연성을 확보하기 위해 몇몇 외부 부품들은 플라스틱으로 만들어졌다. 구조는 높은 정도의 조절 가능성을 확보하기 위해 끈과 거미줄 모양의 구조로 되어 있습니다. 이러한 고품질의 디자인을 통해 어깨끈이 위아래로 조절 가능하게 만들어짐으로써 착용자의 몸 크기에 관계없이 배낭을 편안하게 메고 다닐 수 있게 되었습니다. 한 세트의 그리드는 배낭의 메인 프레임만을 대체하지만, 더 많은 세트를 사용하여 운반 능력을 더 늘릴 수 있습니다. 그리드는 매우 높은 품질의 티타늄으로 만들어져, 분해된 그리드는 효과적인 전투용 방어구나 헬멧 수리 부품으로 사용될 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 일상용품\n
+		%c[d_cyan] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_freon_up_name">
-		<text>Improved freon emission module</text>
+		<text>강화된 프레온 방출 모듈</text>
 	</string>
 	<string id="st_af_freon_up_descr">
-		<text>The improved freon emission module is designed to maintain a constant temperature around the body at the level of 20 degrees Celsius. It is thus extremely useful in order to minimise the effects of extreme heat in situations requiring additional protection. It emits a thick layer of freon-cooled air particles which produce a miniscule vacuum absorbing any excess heat and slightly decreasing the temperature around the user. Another feature of the freon emission module is its ability to resist electricity to a moderate extent.\n \n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] technological item\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n</text>
+		<text>강화된 프레온 방출 모듈은 신체 주변의 온도를 섭씨 20도 정도의 수준으로 꾸준히 유지하기 위해 개발되었습니다. 추가적인 보호를 요구할 정도로 극도로 더운 상황에서 열의 효과를 최소화하는 데 매우 유용합니다. 이 모듈은 프레온에 의해 냉각된 두꺼운 공기 층을 만들어내어 주변에 존재하는 모든 열을 흡수하는 작은 공간을 만들어내어 사용자 주변의 온도를 조금씩 낮춰줍니다. 프레온 방출 모듈의 또다른 기능은 전기 저항력을 보통 수준으로 높여주는 것입니다.\n \n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n</text>
 	</string>
 	
 	<string id="st_af_cooler_up_name">
-		<text>Improved body cooler</text>
+		<text>강화된 신체 냉각기</text>
 	</string>
 	<string id="st_af_cooler_up_descr">
-		<text>The improved body cooler is an electric module designed to maintain a constant temperature around the body at the level of 14 degrees Celsius. It is thus extremely useful in order to minimise the effects of extreme heat in situations requiring additional protection. It emits quick electrical impulses which produce a miniscule vacuum absorbing any excess heat and slightly decreasing the temperature around the user. It does not require water to function. Another feature of the body cooler is its ability to resist electricity to a moderate extent. In case of disassembly of the unit using a toolkit, the metal casing can be reused as outfit repair material.\n \n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] technological item\n
-		%c[d_cyan] � %c[ui_gray_2] high quality\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		<text>강화된 신체 냉각기는 인체 주변의 온도를 섭씨 14도 정도의 수준으로 꾸준히 유지시키기 위해 설계된 전자식 모듈이다. 추가적인 보호를 요구할 정도로 극도로 더운 상황에서 열의 효과를 최소화하는 데 매우 유용합니다. 이 모듈은 빠른 전자식 방출을 통해 주변의 열을 흡수하는 작은 공간을 만들어내어 사용자 주변의 온도를 조금씩 낮춰줍니다. 사용하는 데 물이 필요하지 않습니다. 신체 냉각기의 또다른 기능은 보통 수준의 전기 저항력을 제공한다는 것입니다. 이 모듈을 도구를 사용하여 분해한 경우, 금속 케이스는 방어구 수리 재료로 재사용할 수 있습니다.\n \n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_kevlar_up_name">
-		<text>Improved kevlar plates and attachments</text>
+		<text>강화된 케블라 몸통 플레이트</text>
 	</string>
 	<string id="st_af_kevlar_up_descr">
-		<text>Kevlar plates are widely known for their protective capabilities, and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armour plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used by military units the world over.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] military item\n
-		%c[d_cyan] � %c[ui_gray_2] 30 sheets of kevlar\n
-		%c[d_cyan] � %c[ui_gray_2] eq. of single grade III armour layer\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		<text>케블라 플레이트의 보호 능력은 널리 알려져 있고, 이러한 이유로 가치가 높습니다. 이 물건은 넓은 범위의 기능을 수행하며, 가장 중요한 기능은 앞이나 뒤에서 날아드는 총탄의 충격을 흡수하는 것입니다. 케블라는 무거운 강철판의 가벼운 대안이 될 수 있습니다. 또한, 모든 종류의 방어판들은 방어구들을 좋은 상태로 유지시켜 주며, 낡고 해지는 것을 예방해 줍니다. 세계 각지의 군인들이 사용합니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 군용품\n
+		%c[d_cyan] • %c[ui_gray_2] 30 장의 케블라로 이루어짐\n
+		%c[d_cyan] • %c[ui_gray_2] 등급 III의 장갑판과 동일함\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_plates_up_name">
-		<text>Improved carbon steel plates</text>
+		<text>강화된 탄소강 플레이트</text>
 	</string>
 	<string id="st_af_plates_up_descr">
-		<text>These steel plates are specially crafted, heat treated and shaped for ballistic defeating properties, fitting a wide variety of protective applications. They are designed to withstand smaller ballistic impacts on the front and the back of the torso. This protection, however, comes at a price as the thick steel plates are very heavy, thus limiting freedom of movement. Additionally, any type of armour plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used extensively by Spetsnaz forces.\n \n%c[d_red]\n\n%c[d_red]WARNING:%c[ui_gray_2]\n \n%c[default]Steel is a conductor and its proximity to the skin makes the body more vulnerable to electricity. For this reason, it is suggested to proceed with caution when near electrical anomalies or other sources of electricity.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] military item\n
-		%c[d_cyan] � %c[ui_gray_2] single layer of steel plate\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		<text>이 강철 플레이트는 특별히 제작되어, 열처리 가공을 거치고 탄도 방어 능력을 갖춘 모양으로 제작되었으며, 다양한 범위의 보호 능력을 갖추었습니다. 이 강철판은 몸통의 앞이나 뒤에서 날아오는 작은 총탄의 충격을 견디기 위해 디자인되었습니다. 하지만 두꺼운 강철 플레이트의 이러한 보호 기능은 그 대가로 무거운 무게를 감당해야 하며, 움직임의 자유를 제한하게 되었습니다. 또한, 모든 종류의 방어판들은 방어구들을 좋은 상태로 유지시켜 주며, 낡고 해지는 것을 예방해 줍니다. 스페츠나츠 부대에서 널리 사용되었습니다.\n \n%c[d_red]\n\n%c[d_red]경고:%c[ui_gray_2]\n \n%c[default]강철은 전도체이므로 살갖과 닿게 되면 인체가 전기에 더욱 취약해집니다. 따라서, 전기 이상현상이나 전기가 흐르는 다른 곳 근처에서는 조심스럽게 움직이는 것을 추천합니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 군용품\n
+		%c[d_cyan] • %c[ui_gray_2] 한 겹의 강철판으로 이루어짐\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_camelbak_up_name">
-		<text>Improved camelbak</text>
+		<text>강화된 카멜백</text>
 	</string>
 	<string id="st_af_camelbak_up_descr">
-		<text>Borrowing its name from the myth that camels store water in their humps, camelbak is a pack worn on the back or around the waist of the user, containing a bladder that is filled with water to keep one hydrated. Flexible tube with a mouthpiece facilitates use even in most pressing situations. This model is camouflaged and integrated in the suit to protect the system from damage from any source, be it combat or anomaly. Because the container is made of a high-quality textile, experienced stalkers sometimes re-use scrapped camelbaks for quality materials to patch their field outfits.\n \n%c[d_red]\n\n%c[d_red]WARNING:%c[ui_gray_2]\n \n%c[default]Although water has low electrical conductivity, its proximity to the body may make you more vulnerable to electrical currents. For this reason, it is recommended to take special notice of your surroundings when in possession of a camelbak.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] military item\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		<text>낙타가 혹에 물을 저장해둔다는 속설에 따라 이름붙여진 카멜백은 등 뒤나 허리 주변에 메는 가방으로, 사용자에게 수분을 공급해주는 물주머니를 담고 있습니다. 마우스피스가 달린 유연한 튜브는 가장 긴급한 상황에서도 사용할 수 있습니다. 이 물건은 위장이 되어 있고 방어구에 통합되어 내부 구조를 전투 또는 이상현상 등의 어떠한 외부 요인에서도 피해를 입지 않도록 보호해 줍니다. 물통은 높은 품질의 직물로 만들어져 있기 때문에, 경험 많은 스토커들은 가끔 카멜백을 재활용하여 야전에서 방어구를 수리할 수 있는 고품질의 재료로 만들기도 합니다.\n \n%c[d_red]\n\n%c[d_red]경고:%c[ui_gray_2]\n \n%c[default]물의 전기 전도성은 생각보다 낮지만, 그럼에도 신체와 접하면 전류의 흐름에 더욱 취약해질 수 있습니다. 따라서, 카멜백을 가지고 있을 때 주변 상황에 특별한 주의를 기울이는 것을 추천합니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 군용품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_surge_name">
-		<text>Surge suppressor</text>
+		<text>서지 억제기</text>
 	</string>
 	<string id="st_af_surge_descr">
-		<text>A small albeit advanced device that absorbs electrical energy from its closest surroundings. It serves as a protection of sorts as it limits the amount of electricity that comes into direct contact with the body by either blocking it or by shorting it to ground. As it is in fact a very sophisticated resistor circuit, the Surge Suppressor greatly increases electrical resistance of the body. The result is that the user is hit by a significantly lower voltage and is able to survive outbursts which would normally be lethal. It is thus of vital importance to have a surge suppressor on your belt when in proximity of electrical anomalies and other sources of electricity in the Zone. As with all metal objects, it can be used as a source of repair material as long as one has appropriate tools and enough skill.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] technological item\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		<text>작지만 강화된 장치로 가까운 주위에서 전기 에너지를 흡수합니다. 인체에 직접 접촉하려는 전기를 차단하거나 접지하여 보호하는 역할을 합니다. 사실은 매우 정교한 저항 회로를 가지고 있어, 서지 억제기는 인체의 전기 저항력을 엄청나게 높여줍니다. 그 결과로 사용자는 상대적으로 낮은 전압의 전기를 맞게 되며 원래대로였다면 사망에 이르는 전류 방출로부터 살아남을 수 있게 됩니다. 따라서 존에서 전기 이상현상이나 전기가 흐르는 다른 지역에 접근할 때 서지 억제기를 벨트에 장착하는 것은 생명을 살릴 수도 있을 만큼 중요합니다. 모든 부품이 금속으로 이루어져 있기 때문에, 적절한 도구와 충분한 기술이 있다면 수리용 재료로도 사용할 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_frames_name">
-		<text>Aluminium frames</text>
+		<text>알루미늄 프레임</text>
 	</string>
 	<string id="st_af_frames_descr">
-		<text>Instead of simply carrying a backpack secured by a pair of shoulder straps, one can attach it to the suit by means of aluminium frames, which optimises your carrying capabilities. The frames are made of aluminium which is the material of choice due to its light weight, and some external elements are made of plastic in order to attain desired flexibility while sprinting. The whole construction is equipped with a system of straps and webbing to provide a high degree of adjustability. This quality design allows the shoulder straps to be adjusted up or down so as to make wearing a backpack comfortable regardless of one's torso size. Single set of frames replaces only the main framework of your backpack, but it's possible to use more sets to further improve your carrying capabilities. Although the system is built of light aluminium, some parts can still prove useful for minor outfit repairs.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] everyday item\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		<text>배낭을 단순히 어깨끈에만 의지해서 메고 다니는 대신에, 알루미늄 프레임을 사용해 방어구에 밀착하여 무게 운반 능력을 최적화할 수 있습니다. 이 프레임들은 가벼운 무게 때문에 선택된 알루미늄으로 만들어졌고, 달리는 것에 적합한 만큼의 유연성을 확보하기 위해 몇몇 외부 부품들은 플라스틱으로 만들어졌습니다. 구조는 높은 정도의 조절 가능성을 확보하기 위해 끈과 거미줄 모양의 구조로 되어 있습니다. 이러한 고품질의 디자인을 통해 어깨끈이 위아래로 조절 가능하게 만들어짐으로써 착용자의 몸 크기에 관계없이 배낭을 편안하게 메고 다닐 수 있게 되었습니다. 한 세트의 프레임은 배낭의 메인 프레임만을 대체하지만, 더 많은 세트를 사용하여 운반 능력을 더 늘릴 수 있습니다. 비록 장치가 가벼운 알루미늄으로 만들어지기는 했지만, 몇몇 부품들은 낮은 수준의 방어구 수리를 하는 데 여전히 유용합니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 일상용품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_grid_name">
-		<text>Titanium grid</text>
+		<text>티타늄 그리드</text>
 	</string>
 	<string id="st_af_grid_descr">
-		<text>Instead of simply carrying a backpack secured by a pair of shoulder straps, one can attach it to the suit by means of titanium grid, which optimises your carrying capabilities. The grid is made of titanium which is the material of choice due to its light weight and high durability, and some external elements are made of plastic in order to attain desired flexibility while sprinting. The whole construction is equipped with a system of straps and webbing to provide a high degree of adjustability. This quality design allows the shoulder straps to be adjusted up or down so as to make wearing a backpack comfortable regardless of one's torso size. A single grid replaces only the main framework of your backpack, but it's possible to use more grids to further improve your carrying capabilities. Grids are created from very high quality titanium, thus disassembled grid can be used as an effective combat outfit or helmet repair supplement.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] everyday item\n
-		%c[d_cyan] � %c[ui_gray_2] high quality\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		<text>배낭을 단순히 어깨끈에만 의지해서 메고 다니는 대신에, 티타늄 그리드를 사용해 방어구에 밀착하여 무게 운반 능력을 최적화할 수 있습니다. 이 그리드는 가벼운 무게와 높은 내구성 때문에 선택된 티타늄으로 만들어졌고, 달리는 것에 적합한 만큼의 유연성을 확보하기 위해 몇몇 외부 부품들은 플라스틱으로 만들어졌습니다. 구조는 높은 정도의 조절 가능성을 확보하기 위해 끈과 거미줄 모양의 구조로 되어 있습니다. 이러한 고품질의 디자인을 통해 어깨끈이 위아래로 조절 가능하게 만들어짐으로써 착용자의 몸 크기에 관계없이 배낭을 편안하게 메고 다닐 수 있게 되었습니다. 한 세트의 그리드는 배낭의 메인 프레임만을 대체하지만, 더 많은 세트를 사용하여 운반 능력을 더 늘릴 수 있습니다. 그리드는 매우 높은 품질의 티타늄으로 만들어져, 분해된 그리드는 효과적인 전투용 방어구나 헬멧 수리 부품으로 사용될 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 일상용품\n
+		%c[d_cyan] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_freon_name">
-		<text>Freon emission module</text>
+		<text>프레온 방출 모듈</text>
 	</string>
 	<string id="st_af_freon_descr">
-		<text>The freon emission module is designed to maintain a constant temperature around the body at the level of 24 degrees Celsius. It is thus extremely useful in order to minimise the effects of extreme heat in situations requiring additional protection. It emits a thick layer of freon-cooled air particles which produce a miniscule vacuum absorbing any excess heat and slightly decreasing the temperature around the user. Another feature of the freon emission module is its ability to resist electricity to a moderate extent.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] technological item\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n</text>
+		<text>프레온 방출 모듈은 인체 주변의 온도를 섭씨 24도 정도의 수준으로 지속적으로 유지하기 위해 디자인되었습니다. 추가적인 보호를 요구할 정도로 극도로 더운 상황에서 열의 효과를 최소화하는 데 매우 유용합니다. 이 모듈은 프레온에 의해 냉각된 두꺼운 공기 층을 만들어내어 주변에 존재하는 모든 열을 흡수하는 작은 공간을 만들어내어 사용자 주변의 온도를 조금씩 낮춰줍니다. 프레온 방출 모듈의 또다른 기능은 전기 저항력을 보통 수준으로 높여주는 것입니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n</text>
 	</string>
 	
 	<string id="st_af_cooler_name">
-		<text>Body cooler</text>
+		<text>신체 냉각기</text>
 	</string>
 	<string id="st_af_cooler_descr">
-		<text>The body cooler is an electric module designed to maintain a constant temperature around the body at the level of 18 degrees Celsius. It is thus extremely useful in order to minimise the effects of extreme heat in situations requiring additional protection. It emits quick electrical impulses which produce a miniscule vacuum absorbing any excess heat and slightly decreasing the temperature around the user. It does not require water to function. Another feature of the body cooler is its ability to resist electricity to a moderate extent. In case of disassembly of the unit using a toolkit, the metal casing can be reused as outfit repair material.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] technological item\n
-		%c[d_cyan] � %c[ui_gray_2] high quality\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		<text>신체 냉각기는 인체 주변의 온도를 섭씨 18도 정도의 수준으로 지속적으로 유지하기 위해 디자인되었습니다. 추가적인 보호를 요구할 정도로 극도로 더운 상황에서 열의 효과를 최소화하는 데 매우 유용합니다. 이 모듈은 빠른 전자식 방출을 통해 주변의 열을 흡수하는 작은 공간을 만들어내어 사용자 주변의 온도를 조금씩 낮춰줍니다. 사용하는 데 물이 필요하지 않다. 신체 냉각기의 또다른 기능은 보통 수준의 전기 저항력을 제공한다는 것입니다. 이 모듈을 도구를 사용하여 분해한 경우, 금속 케이스는 방어구 수리 재료로 재사용할 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_kevlar_name">
-		<text>Kevlar plates and attachments</text>
+		<text>케블라 플레이트와 부착물</text>
 	</string>
 	<string id="st_af_kevlar_descr">
-		<text>Kevlar plates are widely known for their protective capabilities, and are highly valued because of this feature. They perform a wide variety of functions, the most important of which is absorbing the impact of firearm projectiles on the front and the back of the torso. They constitute a lightweight alternative to heavy steel plates. Additionally, any type of armour plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used by military units the world over.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] military item\n
-		%c[d_cyan] � %c[ui_gray_2] 22 sheets of kevlar\n
-		%c[d_cyan] � %c[ui_gray_2] eq. of single grade IIA armour layer\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		<text>케블라 플레이트의 보호 능력은 널리 알려져 있고, 이러한 이유로 가치가 높습니다. 이 물건은 넓은 범위의 기능을 수행하며, 가장 중요한 기능은 앞이나 뒤에서 날아드는 총탄의 충격을 흡수하는 것입니다. 케블라는 무거운 강철판의 가벼운 대안이 될 수 있습니다. 또한, 모든 종류의 방어판들은 방어구들을 좋은 상태로 유지시켜 주며, 낡고 해지는 것을 예방해 줍니다. 세계 각지의 군인들이 사용합니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 군용품\n
+		%c[d_cyan] • %c[ui_gray_2] 22 장의 케블라로 이루어짐\n
+		%c[d_cyan] • %c[ui_gray_2] 등급 IIA의 장갑판과 동일함\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_plates_name">
-		<text>Carbon steel plates</text>
+		<text>탄소강 플레이트</text>
 	</string>
 	<string id="st_af_plates_descr">
-		<text>These steel plates are specially crafted, heat treated and shaped for ballistic defeating properties, fitting a wide variety of protective applications. They are designed to withstand smaller ballistic impacts on the front and the back of the torso. This protection, however, comes at a price as the thick steel plates are very heavy, thus limiting freedom of movement. Additionally, any type of armour plating also helps maintain suits in good condition, preventing degradation through wear and tear. Used extensively by Spetsnaz forces.\n \n%c[d_red]\n\n%c[d_red]WARNING:%c[ui_gray_2]\n \n%c[default]Steel is a conductor and its proximity to the skin makes the body more vulnerable to electricity. For this reason, it is suggested to proceed with caution when near electrical anomalies or other sources of electricity.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] military item\n
-		%c[d_cyan] � %c[ui_gray_2] single layer of steel plate \n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		<text>이 강철 플레이트는 특별히 제작되어, 열처리 가공을 거치고 탄도 방어 능력을 갖춘 모양으로 제작되었으며, 다양한 범위의 보호 능력을 갖추었습니다. 이 강철판은 몸통의 앞이나 뒤에서 날아오는 작은 총탄의 충격을 견디기 위해 디자인되었습니다. 하지만 두꺼운 강철 플레이트의 이러한 보호 기능은 그 대가로 무거운 무게를 감당해야 하며, 움직임의 자유를 제한하게 되었습니다. 또한, 모든 종류의 방어판들은 방어구들을 좋은 상태로 유지시켜 주며, 낡고 해지는 것을 예방해 줍니다. 스페츠나츠 부대에서 널리 사용되었습니다.\n \n%c[d_red]\n\n%c[d_red]경고:%c[ui_gray_2]\n \n%c[default]강철은 전도체이므로 살갖과 닿게 되면 인체가 전기에 더욱 취약해집니다. 따라서, 전기 이상현상이나 전기가 흐르는 다른 곳 근처에서는 조심스럽게 움직이는 것을 추천합니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 군용품\n
+		%c[d_cyan] • %c[ui_gray_2] 한 겹의 강철판으로 이루어짐 \n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_camelbak_name">
-		<text>Camelbak</text>
+		<text></text>
 	</string>
 	<string id="st_af_camelbak_descr">
-		<text>Borrowing its name from the myth that camels store water in their humps, camelbak is a pack worn on the back or around the waist of the user, containing a bladder that is filled with water to keep one hydrated. Flexible tube with a mouthpiece facilitates use even in most pressing situations. This model is camouflaged and integrated in the suit to protect the system from damage from any source, be it combat or anomaly. Because the container is made of a high-quality textile, experienced stalkers sometimes re-use scrapped camelbaks for quality materials to patch their field outfits.\n \n%c[d_red]\n\n%c[d_red]WARNING:%c[ui_gray_2]\n \n%c[default]Although water has low electrical conductivity, its proximity to the body may make you more vulnerable to electrical currents. For this reason, it is recommended to take special notice of your surroundings when in possession of a camelbak.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] military item\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		<text>낙타가 혹에 물을 저장해둔다는 속설에 따라 이름붙여진 카멜백은 등 뒤나 허리 주변에 메는 가방으로, 사용자에게 수분을 공급해주는 물주머니를 담고 있습니다. 마우스피스가 달린 유연한 튜브는 가장 긴급한 상황에서도 사용할 수 있습니다. 이 물건은 위장이 되어 있고 방어구에 통합되어 내부 구조를 전투 또는 이상현상 등의 어떠한 외부 요인에서도 피해를 입지 않도록 보호해 줍니다. 물통은 높은 품질의 직물로 만들어져 있기 때문에, 경험 많은 스토커들은 가끔 카멜백을 재활용하여 야전에서 방어구를 수리할 수 있는 고품질의 재료로 만들기도 합니다.\n \n%c[d_red]\n\n%c[d_red]경고:%c[ui_gray_2]\n \n%c[default]물의 전기 전도성은 생각보다 낮지만, 그럼에도 신체와 접하면 전류의 흐름에 더욱 취약해질 수 있습니다. 따라서, 카멜백을 가지고 있을 때 주변 상황에 특별한 주의를 기울이는 것을 추천합니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 군용품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_iam_name">
-		<text>Improvised Application Module (empty)</text>
+		<text>급조된 착용 모듈 (비어있음)</text>
 	</string>
 	<string id="st_af_iam_descr">
-		<text>The Improvised Application Module (IAM) filters a small amount of radiation particles emitted from artefacts. This mechanical metal pouch is the cheapest device that allows the user to harness the power of less potent artefacts. Artefact filter is composed of multiple layers made primarily of lead which shield from radiation. A low-cost alternative to the more reliable AAC and AAM. In case of emergency or if no longer needed, the module can be utilised as a source of quality metal for use in outfit or helmet repairs. Currently unusable. To attach it to the belt, you have to put an artefact inside. The artefact will retain its characteristics with the exception of reduced radiation output.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_white] � %c[ui_gray_2] technological item\n
-		%c[d_cyan] � %c[ui_gray_2] valuable\n
-		%c[ui_white] � %c[ui_gray_2] artefact storage device\n
-		%c[ui_white] � %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
-		%c[ui_white] � %c[ui_gray_2] permissible radiation level:%c[ui_gray_1] 7 mSv\n
-		%c[ui_white] � %c[ui_gray_2] state:%c[ui_gray_1] empty\n
+		<text>급조된 착용 모듈 (IAM)은 아티팩트에서 방출되는 적은 양의 방사능 입자를 걸러줍니다. 이 기계공학적인 금속 용기는 덜 강력한 아티팩트들의 능력을 사용하기 위한 가장 저렴한 장치입니다. 아티팩트 필터는 방사능을 막기 위한 납을 중심으로 만들어진 다층 구조로 구성되어 있습니다. 더욱 신뢰성 있는 AAC와 AAM의 저렴한 대안이 될 수 있습니다. 비상상황 또는 더는 필요가 없는 상황을 위해, 이 모듈은 방어구나 헬멧을 수리할 수 있는 양질의 금속으로 재활용할 수 있습니다. 현재는 장착할 수 없습니다. 벨트에 부착하기 위해서는, 아티팩트를 넣어야 합니다. 아티팩트는 방사능 방출량이 감소된 채로 고유한 특성을 유지할 것입니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[ui_white] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 가치있는 물품\n
+		%c[ui_white] • %c[ui_gray_2] 아티팩트 저장장치\n
+		%c[ui_white] • %c[ui_gray_2] 최대 용량y:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] 방사능 허용 수치:%c[ui_gray_1] 7 mSv\n
+		%c[ui_white] • %c[ui_gray_2] 상태%c[ui_gray_1] 비어있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_aac_name">
-		<text>Artefact Application Container (empty)</text>
+		<text>아티팩트 착용 컨테이너 (비어있음)</text>
 	</string>
 	<string id="st_af_aac_descr">
-		<text>The Artefact Application Container (AAC) filters a moderate amount of radiation particles emitted from artefacts. This mechanical aluminium container is the most cost-efficient and thus the most popular way of handling artefacts as it allows the user to harness the power of more potent artefacts. Artefact filter is composed of multiple layers made primarily of lead, with one layer of thorium which has strong radiation shielding properties. This device has been manufactured by scientists residing in military bunkers around the Zone. In case of emergency or if no longer needed, the module can be utilised as a source of quality metal for use in outfit or helmet repairs. Currently unusable. To attach it to the belt, you have to put an artefact inside. The artefact will retain its characteristics with the exception of reduced radiation output.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] technological item\n
-		%c[d_cyan] � %c[ui_gray_2] valuable\n
-		%c[ui_white] � %c[ui_gray_2] artefact storage device\n
-		%c[ui_white] � %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
-		%c[ui_white] � %c[ui_gray_2] permissible radiation level:%c[ui_gray_1] 12 mSv\n
-		%c[ui_white] � %c[ui_gray_2] state:%c[ui_gray_1] empty\n
+		<text>아티팩트 착용 컨테이너 (AAC)는 아티팩트가 방출하는 보통 수준의 방사능 입자를 걸러줍니다. 이 기계식 알루미늄 컨테이너는 비용 대비 효율성이 가장 높고 더욱 강력한 아티팩트의 힘을 사용할 수 있어서 아티팩트를 다루는 가장 인기있는 방법으로 사용됩니다. 아티팩트 필터는 주로 납으로 구성된 다층 구조로 되어 있으며, 한 층은 토륨으로 구성되어 더욱 강력한 방사능 보호 능력을 갖습니다. 이 장치는 존 주변의 군 벙커에서 거주하는 과학자들에 의해 생산되었습니다. 비상상황 또는 더는 필요가 없는 상황을 위해, 이 모듈은 방어구나 헬멧을 수리할 수 있는 양질의 금속으로 재활용할 수 있습니다. 현재는 장착할 수 없습니다. 벨트에 부착하기 위해서는, 아티팩트를 넣어야 합니다. 아티팩트는 방사능 방출량이 감소된 채로 고유한 특성을 유지할 것입니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 가치있는 물품\n
+		%c[ui_white] • %c[ui_gray_2] 아티팩트 저장장치\n
+		%c[ui_white] • %c[ui_gray_2] 최대 용량y:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] 방사능 허용 수치:%c[ui_gray_1] 12 mSv\n
+		%c[ui_white] • %c[ui_gray_2] 상태%c[ui_gray_1] 비어있음\n
 		</text>
 	</string>
 	
 	<string id="st_af_aam_name">
-		<text>Artefact Application Module (empty)</text>
+		<text>아티팩트 착용 모듈 (비어있음)</text>
 	</string>
 	<string id="st_af_aam_descr">
-		<text>The Artefact Application Module (AAM) filters a significant amount of radiation particles emitted from artefacts. This advanced mechanical module is the most effective way of harnessing the power of most potent artefacts. Artefact filter is composed of numerous layers made of nano-carbon. It is hence lightweight and has strongest radiation shielding properties of all devices. Regarded as a symbol of affluence in the Zone. Most commonly used by the scientists to minimise the harmful effects of artefacts. Designed and manufactured in Ukraine by a government institute which provides equipment for the scientists residing in the Zone of Alienation. In case of emergency or if no longer needed, the module can be utilised as a source of quality metal for use in outfit or helmet repairs. Currently unusable. To attach it to the belt, you have to put an artefact inside. The artefact will retain its characteristics with the exception of reduced radiation output.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] technological item\n
-		%c[d_cyan] � %c[ui_gray_2] high quality\n
-		%c[d_cyan] � %c[ui_gray_2] valuable\n
-		%c[ui_white] � %c[ui_gray_2] artefact storage device\n
-		%c[ui_white] � %c[ui_gray_2] maximum capacity:%c[ui_gray_1] 1\n
-		%c[ui_white] � %c[ui_gray_2] permissible radiation level:%c[ui_gray_1] 23 mSv\n
-		%c[ui_white] � %c[ui_gray_2] state:%c[ui_gray_1] empty\n
+		<text>아티팩트 착용 모듈 (AAM)은 아티팩트가 방출하는 상당한 양의 방사능 입자를 걸러줍니다. 이 강화된 기계식 모듈은 가장 강력한 아티팩트의 힘을 사용할 수 있는 가장 효과적인 방법으로 사용됩니다. 아티팩트 필터는 나노 카본으로 만들어진 수많은 층으로 되어 있습니다. 따라서 무게가 가볍고 모든 장치들 중 가장 강력한 방사능 보호 능력을 가지고 있습니다. 이 물건은 존에서 부유함의 상징으로써 받아들여지고 있습니다. 과학자들이 아티팩트의 해로운 효과를 최소화하기 위해 가장 자주 사용합니다. 존의 격리 구역에 거주하는 과학자들에게 제공할 장비를 제조하는 우크라이나의 한 정부 기관에서 설계 및 제조되었습니다. 비상상황 또는 더는 필요가 없는 상황을 위해, 이 모듈은 방어구나 헬멧을 수리할 수 있는 양질의 금속으로 재활용할 수 있습니다. 현재는 장착할 수 없습니다. 벨트에 부착하기 위해서는, 아티팩트를 넣어야 합니다. 아티팩트는 방사능 방출량이 감소된 채로 고유한 특성을 유지할 것입니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 가치있는 물품\n
+		%c[ui_white] • %c[ui_gray_2] 아티팩트 저장장치\n
+		%c[ui_white] • %c[ui_gray_2] 최대 용량y:%c[ui_gray_1] 1\n
+		%c[ui_white] • %c[ui_gray_2] 방사능 허용 수치:%c[ui_gray_1] 23 mSv\n
+		%c[ui_white] • %c[ui_gray_2] 상태%c[ui_gray_1] 비어있음\n
 		</text>
 	</string>
 	
@@ -236,9 +236,9 @@
 	</string>
 	<string id="st_hide_flesh_descr">
 		<text>Hide removed from a breed of mutated pigs commonly referred to as fleshes. Its heavy weight (its main drawback) results from a thick layer of fat underneath the relatively soft and shallow skin. It offers low physical protection, but on the other hand considerably reduces the harmful effects of chemical, thermal and electrical anomalies. Can be used only for minor repairs as the layer of fat is useless for the purposes of armour maintenance and must be cut off, leaving only a small patch of shallow skin tissue.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] light mutant pelt\n%c[d_purple] � %c[ui_gray_2] damage prot. negligible\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] light mutant pelt\n%c[d_purple] • %c[ui_gray_2] damage prot. negligible\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
@@ -247,9 +247,9 @@
 	</string>
 	<string id="st_hide_boar_descr">
 		<text>A hide almost fully covered with a thick layer of fur, removed from one of wild boars found commonly in the Zone. The mutants themselves are quite resistant to damage and can take considerable punishment, and the reason for this is simple: big muscle mass and almost unbreakable bones. The skin, on the other hand, is quite thin (most probably to provide the creature with effective means of thermal regulation), making it a rather poor choice for armour enhancement. The fur in turn makes the hide a relatively potent thermal insulator. Can also be used for light repairs. Unfortunately, wearing the pelt on top of the armour makes the user less resistant to radioactive and toxic damage as heavy particles often accumulate within the fur.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] light mutant pelt \n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] light mutant pelt \n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
@@ -258,10 +258,10 @@
 	</string>
 	<string id="st_hide_bloodsucker_descr">
 		<text>Bloodsuckers as a species evolved from humans and this affinity can still be seen in the texture of their skin. What is most characteristic, the skin is very soft and pleasant in touch, almost like the skin of a child. This applies, however, only to the outer layer - underneath, bloodsuckers boast well-developed muscles which can be utilised to form a coat of sorts with considerable damage reducing potential, especially in regard to melee attacks. This makes bloodsucker skin a popular choice among experienced hunters who also wear it as a sign of their proficiency. The most unique property and at the same time the main drawback of the skin is its very intense reaction to temperature change - although the tissue itself will only burn in very high temperatures, it can get very hot making it increasingly damaging to wearer and equipment underneath it.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] medium mutant pelt\n
-		%c[d_cyan] � %c[ui_gray_2] valuable \n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] medium mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] 가치있는 물품 \n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
@@ -270,10 +270,10 @@
 	</string>
 	<string id="st_hide_psysucker_descr">
 		<text>Psysuckers as a species evolved from bloodsuckers and this affinity can still be seen in the texture of their skin. What is most characteristic, the skin is very soft and pleasant in touch, almost like the skin of a child. This applies, however, only to the outer layer - underneath, Psysuckers boast well-developed muscles which can be utilised to form a coat of sorts with considerable damage reducing potential, especially in regard to melee attacks. This makes Psysucker skin a popular choice among experienced hunters who also wear it as a sign of their proficiency. The most unique property and at the same time the main drawback of the skin is its very intense reaction to temperature change - although the tissue itself will only burn in very high temperatures, it can get very hot making it increasingly damaging to wearer and equipment underneath it. Reports indicate that whereas the skin offers relatively low physical protection it can be used to absorb and disperse significant amounts of incoming psy waves when worn over the head.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] medium mutant pelt\n
-		%c[d_cyan] � %c[ui_gray_2] valuable \n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] medium mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] 가치있는 물품 \n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
@@ -282,9 +282,9 @@
 	</string>
 	<string id="st_hide_lurker_descr">
 		<text>A thick hide almost fully covered with a layer of fur, removed from a lurker. The mutants themselves are quite resistant to damage and can take considerable punishment, and the reason for this is simple: big muscle mass and almost unbreakable bones. The skin of lurker is known for being thick and durable, making it a good choice for armour enhancement. The fur in turn makes the hide a relatively potent thermal insulator. Can also be used for light repairs.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] light mutant pelt \n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] light mutant pelt \n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
@@ -292,12 +292,12 @@
 		<text>Burer skin</text>
 	</string>
 	<string id="st_hide_burer_descr">
-		<text>Skinning a burer is a lot like skinning a twisted dwarf. Add to it an almost unbearable stench of bad eggs and you get the idea why stalkers consider this quite a feat. Reports indicate that whereas the skin offers relatively low physical protection it can be used to absorb and disperse significant amounts of incoming psy waves when worn over the head. Burer's skin has low electrical resistance, thus the wearer is more susceptible to electrical damage. Furthermore, due to the fact that burers are relatively rarely encountered in the Zone, the skin has significant research potential, making it a valuable trading commodity for the scientists.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] light mutant pelt\n
-		%c[d_cyan] � %c[ui_gray_2] rare scientific specimen\n
-		%c[d_cyan] � %c[ui_gray_2] valuable\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		<text>Skinning a burer is a lot like skinning a twisted dwarf. Add to it an almost unbearable stench of bad eggs and you get the idea why stalkers consider this quite a feat. Reports indicate that whereas the skin offers relatively low physical protection it can be used to absorb and disperse significant amounts of incoming psy waves when worn over the head. Burer's skin has low electrical resistance, thus the wearer is more susceptible to electrical damage. Furthermore, due to the fact that burers are relatively rarely encountered in the Zone, the skin has significant research potential, making it a 가치있는 물품 trading commodity for the scientists.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] light mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] rare scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
@@ -306,11 +306,11 @@
 	</string>
 	<string id="st_hide_chimera_descr">
 		<text>Chimera, being one of the most dangerous mutants in the Zone, is not only a significant threat, but can also be regarded as a viable source of wealth. All parts that can be taken from chimera's corpse can be sold for a large amount of money, but it is the skin that is one of the most valued scientific specimens as well as one of the best armour enhancements available in the Exclusion Zone. It offers very good protection properties and, even more importantly, is relatively light-weight thanks to which it does not limit mobility. However, its most unique feature is that organic fibres found in the skin act as very effective electrical conductors. This fact to a large degree confirms reports of recon units (especially those scouting around the AMK Industrial Complex) concerning sightings of chimeras surrounded in what looked like an electrical anomaly, producing discharges on contact with any hostile living organism. Unfortunately, no unit was able to make it back, so there is no evidence confirming the existence of such a creature.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] heavy mutant pelt\n
-		%c[d_cyan] � %c[ui_gray_2] very rare scientific specimen\n
-		%c[d_cyan] � %c[ui_gray_2] extremely valuable\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] heavy mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] very rare scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] extremely 가치있는 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
@@ -319,11 +319,11 @@
 	</string>
 	<string id="st_hide_pseudogiant_descr">
 		<text>The skin of a pseudogiant in many ways resembles the skin of an elephant. It's thick and hard in touch, its texture is very irregular and full of folds which act as the creature's cooling mechanism. The average thickness of pseudogiant's skin is around 2 cm, which makes it very durable and capable of withstanding significant damage. This is, however, at the cost of increased weight. Since pseudogiants are known to often live in areas of high toxicity and radioactivity, the hide naturally adapted to such conditions, which further increases its usefulness. It can also be used to patch even the heaviest of outfits but this process requires the most durable and expensive tools available. It is valued not only for its practical qualities, but can also serve as a prestigious hunting trophy and a rare specimen for the scientists in the Zone.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] very heavy mutant pelt\n
-		%c[d_cyan] � %c[ui_gray_2] scientific specimen\n
-		%c[d_cyan] � %c[ui_gray_2] valuable\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] very heavy mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
@@ -332,11 +332,11 @@
 	</string>
 	<string id="st_hide_controller_descr">
 		<text>As is the case with other humanoid mutants, it's quite an emotional challenge to scalp a controller and it proves to be even more difficult as the face of a controller retains certain characteristics of the person it once was. Confidential sources within the military also revealed that fingerprints of the person who turned into a controller can sometimes be found in the database. Recent analysis shows that not only the hand of the controller is capable of producing psy waves - the whole body is the source of emissions. For this reason, the scalp - when prepared properly - has the ability to absorb and filter psy energy, but for this effect to take place it is necessary to cover your head with multiple scalps. The skin is also electrically conductive. As regards its physical properties, it is light and can only be used for minor outfit repairs. As is the case with all humanoid psy creatures, the skin of a controller is electrically conductive.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] light mutant pelt\n
-		%c[d_cyan] � %c[ui_gray_2] rare scientific specimen\n
-		%c[d_cyan] � %c[ui_gray_2] very valuable\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] light mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] rare scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] very 가치있는 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
@@ -345,9 +345,9 @@
 	</string>
 	<string id="st_hide_pseudodog_descr">
 		<text>Densely covered with short and stiff fur, the pelt of pseudodog remains one of the most useful, widespread and versatile mutant pelts available in the Zone. It can be easily attached to armour with even lightest of tools, and yet it's quite durable, which makes it suitable for medium-grade outfit repairs. When used as a whole - it can cover significant area of the body with protective layer which increases resistance to both physical damage and heat. The fur also provides effective insulation. However, as is the case with all such pelts, it easily catches radioactive and toxic particles, so it is highly advised to remove it when in radioactive or toxic areas.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] medium mutant pelt\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] medium mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
@@ -356,10 +356,10 @@
 	</string>
 	<string id="st_hide_psy_dog_descr">
 		<text>The fur of a psy dog is undoubtedly one of the most beautiful and rare clothing materials in the world. Usually snow white or grey, it is in great demand and can be sold for a hefty sum of money. It's probably made its way into fashion industry thanks to smugglers some of whom have recently turned to hunting mutants. For those in the Zone, it can serve as a blanket, especially during cold nights, and offers efficient rupture protection and mild psy influence reduction when head part of the fur is used as a mask or a hood. However, it easily catches radioactive and toxic particles, so it is highly advised to remove it when in radioactive or toxic areas. Hunters wear it with pride, but only if the creature was slain by their own hands.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] medium mutant pelt\n
-		%c[d_cyan] � %c[ui_gray_2] valuable\n
-		%c[d_cyan] � %c[ui_gray_2] effectiveness of mult. units is stackable\n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] medium mutant pelt\n
+		%c[d_cyan] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 여러 개의 모듈을 사용해 효과를 중첩할 수 있음\n
 		</text>
 	</string>
 	
@@ -368,9 +368,9 @@
 	</string>
 	<string id="st_powder_poltergeist_descr">
 		<text>"Diamond powder" is a common name given to crystal-like substance sometimes found in the belly of all species of psy creatures. It is not known what metabolic processes lead to its emergence and for this reason scientists are eager to pay large sums of money to lay their hands on it. Practical use is limited but some stalkers are known to sprinkle their most cherished hunting knives with it as it makes sharpening significantly easier. It also makes blades look shiny and well-kept.\n \n
-		%c[d_cyan] � %c[ui_gray_2] psy mutant metabolism product\n
-		%c[d_cyan] � %c[ui_gray_2] very rare scientific specimen\n
-		%c[d_cyan] � %c[ui_gray_2] valuable\n
+		%c[d_cyan] • %c[ui_gray_2] psy mutant metabolism product\n
+		%c[d_cyan] • %c[ui_gray_2] very rare scientific specimen\n
+		%c[d_cyan] • %c[ui_gray_2] 가치있는 물품\n
 		</text>
 	</string>
 	
