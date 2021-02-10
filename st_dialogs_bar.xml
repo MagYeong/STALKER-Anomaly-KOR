@@ -65,22 +65,22 @@
 		<text>현재 상황은 어떻습니까, 장군님?</text>
 	</string>
 	<string id="story_dolg_1">
-		<text>지금 당장 우리에겐 작전상 네 세력을 적대하고 있다네. At the moment we have four operational enemies; Freedom, Monolith, mercenaries and bandits. Out of those four, the two most worrying are the Monolith and bandits - the latter is becoming more and more organized each day. This could pose a serious threat, given their numbers as well as their general lack of humanity.\n \nAs for the Monolith, they've recently returned with surprising swiftness. Their resurgence earlier this year crippled our presence in Yanov, and we had to commit some grave sacrifices to ensure the overall security of Rostok.\n \nNow, as far as Freedom and the Blue Man Group go, things are comfortable. Do not misunderstand -  they are respectable adversaries, and our spies must keep a close watch on them. However, they aren't moving to oppose us or our allies directly at this time, which gives us some breathing room. </text>
+		<text>지금 당장 우리는 작전상 네 세력을 적대하고 있다. 프리덤, 모노리스, 용병 그리고 밴딧이지. 그 넷 중에서는, 모노리스와 밴딧이 가장 염려스러운 세력이다. 특히 후자는 점점 더 조직화되고 있는 중이지. 놈들의 숫자뿐만 아니라 놈들의 인간성이 전체적으로 부족하다는 점을 볼 때, 상당한 위협이 될 수 있다.\n \n모노리스 놈들은, 최근 들어 놀랍도록 빠른 속도로 복귀했다. 올해 초부터 놈들의 재림으로 인해 야노프에 있는 우리들의 세력은 약화되었고, 우리는 결국 로스토크의 전반적인 보안 수준을 보장하기 위해 비통한 희생을 감내해야만 했었지.\n \n현재는, 프리덤과 푸르딩딩한 녀석들이 떠나있는 한, 상황은 안정적이다. 하지만 간과하지는 말도록. 어찌되었건 그들은 호적수니까, 우리 스파이들이 반드시 그들을 면밀하게 지켜봐야만 한다. 하지만, 지금 당장은 그들이 우리와 우리 동맹에게 대적하러 오지는 않는 만큼, 우리는 조금 숨통이 트인 셈이지. </text>
 	</string>
 	<string id="story_dolg_2">
-		<text>How's Duty doing, sir?</text>
+		<text>듀티는 지금 어떻습니까, 장군님?</text>
 	</string>
 	<string id="story_dolg_3">
-		<text>You mean Duty's latest recruits? I'd say a solid three out of five - not great, but not terrible. Thanks to Petrenko, we're pulling in a healthy influx of fresh fighters, though I will admit I'm a little disappointed in the lack of common sense they've displayed so far.\n \nDiscipline could be better, and we're currently short on officers who can drill that stupid gung-ho grunt behaviour out of our junior members. In time, I expect Duty to make a full recovery... but it will take time.</text>
+		<text>이번에 새로 들어온 신병을 말하는 건가? 대략 5분의 3 정도는 괜찮다고 할 수 있겠군. 완벽하지는 않지만, 끔찍한 수준까지도 아니지. 페트렌코 대령 덕에, 우리에겐 새로운 전사들이 활발하게 유입되고 있지만, 아무래도 지금까지 녀석들이 보여준 상식의 부재에 대해서는 조금 실망했다고 표현할 수밖에는 없다.\n \n좀 더 규율이 잡힌다면 좋으련만, 우리에겐 신병들에게 그 어리석은 전투광스런 면모를 교정해줄 간부들이 부족한 상황이다. 언젠가는, 듀티가 완전히 회복되리라 기대하고 있지만... 아무래도 시간이 걸리겠지.</text>
 	</string>
 	<string id="story_dolg_4">
-		<text>May I ask how we lost Yanov, sir?</text>
+		<text>어떻게 야노브에서의 통제력을 잃어버렸는지 여쭤봐도 되겠습니까, 장군님?</text>
 	</string>
 	<string id="story_dolg_5">
-		<text>... I guess there's no need to hide it. We had a weak link. A traitor. A foolish officer by the name of Morgan. He was found selling weapons to the very bandits we're trying to exterminate. And as if that situation wasn't bad enough, it was a group of neutrals who managed to catch him in the act, rather than our Duty officers. As a result, it took years of effort to regain the trust we had lost. All because of the fault of one man.\n \nThis left us in a terrible position for countering the Monolith's recent return. The brave commanding officer I appointed to Yanov, Lieutenant-Colonel Shulga, had to make a series of grim sacrificies that ultimately cost him his life. Out of the entire contingent he led, only Gavrilenko managed to make his way back to Rostok in one piece.\n \nEven then, the poor man could barely speak when he first arrived, and what he eventually reported was... unnerving. If you see him, I advise you to leave him be.</text>
+		<text>... 역시 숨길 만한 이유는 없을 것 같군. 우리들의 연결고리는 튼튼하지 못했다. 배신자가 있었지. 모건이라는 어리석은 장교가 있었다. 그 자가 우리가 없애버리고자 했던 바로 그 밴딧 놈들이게 물건을 팔고 있었다는 게 드러났지. 그리고 마치 그보다 더 나쁜 상황이 찾아오지 않을 것처럼, 그 현장을 우리들 듀티가 아니라 한 무리의 중립 소속 스토커들이 잡아내는 데 성공하고 말았다. 그 결과로, 우리들이 잃어버린 신뢰를 되찾기 위해 수 년 동안 노력해야만 했지. 이 모든 게 한 사람의 잘못 때문이었다.\n \n그 때문에 최근 모노리스들이 귀환했을 때 우리들은 끔찍한 상황에 처하고 말았지. 내가 야노프에 파견했던 용감한 지휘관 슐가 중령은 몇 번의 비참한 희생을 감수해야만 했고 결국 그 과정에서 목숨을 잃고 말았다. 그가 이끌었던 분견대 중에서 살아서 로스토크로 돌아온 사람은 가브릴렌코 한 명 뿐이었지.\n \n물론 그 당시에도, 그 불쌍한 친구는 처음 여기 도착했을 때만해도 거의 말을 잇지 못했다네, 그리고 그 친구가 결국 보고했던 내용은... 비참했지. 만약 그를 보게 된다고 해도, 부디 그를 가만히 놔 두도록 권하고 싶군.</text>
 	</string>
 	<string id="story_dolg_6">
-		<text>Very well sir. I understand.</text>
+		<text>잘 알겠습니다, 장군님. 이해했습니다.</text>
 	</string>
 	
 	<string id="st_bar_dolg_leader_life_ask">
