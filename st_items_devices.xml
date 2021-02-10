@@ -122,7 +122,7 @@
 		<text>부서진 PDA</text>
 	</string>
 	<string id="st_broken_pda_descr">
-		<text>이 PDA는 심하게 손상되었고, 화면의 절반은 부서져 있으며 GPS 모듈은 제대로 작동하지 않는다. 내부에는 아직 대부분의 부품들이 안전하게 남아 있습니다.\n \n
+		<text>이 PDA는 심하게 손상되었고, 화면의 절반은 부서져 있으며 GPS 모듈은 제대로 작동하지 않습니다. 내부에는 아직 대부분의 부품들이 안전하게 남아 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
 		</text>
@@ -247,7 +247,7 @@
 	</string>
 	
 	<string id="extension_pda">
-		<text>Multimedia PDA</text>
+		<text>멀티미디어 PDA</text>
 	</string>
 	<string id="exten_sion_pda">
 		<text>채팅 클라이언트와 내장식 음악 플레이어가 있는 방습 기능과 전기 저항 기능이 있는 값비싼 PDA입니다.\n \n
@@ -257,7 +257,7 @@
 	</string>
 	
 	<string id="st_gps_tracker">
-		<text>Military GPS module</text>
+		<text>군용 GPS 모듈</text>
 	</string>
 	<string id="st_gps_tracker_descr">
 		<text>차세대 GPS 안내 장치의 프로토타입입니다. 적은 수의 복제품만이 만들어졌습니다. 군의 고위 간부들에게만 한정적으로 지급되었지만, 몇 개는 다른 곳으로 유출되었습니다. 개량된 모듈로 인해 혹독한 환경에서도 작동이 보장됩니다. 정보 획득이나 추적 시 높은 감지 능력을 통해 수많은 다양한 환경들과 가장 혹독한 조건에서도 사용이 가능합니다. 평범한 GPS 모듈과는 달리, 이 모듈은 더 많은 정보를 얻기 위해 네트워크에 연결된 채널에 대한 특별한 권한을 얻게 해주는 일련의 코드를 가지고 있습니다. 이 장비는 300미터 반경 안에 연결된 다른 모듈들의 위치를 추적해 줍니다. 하지만, 이 모듈은 사용 시에 상당한 양의 전력을 소모합니다. 자동 스위치 회로가 모듈 안에 포함되어 20초 이상 스캔을 지속했을 경우 자동으로 전력을 차단해 줍니다.\n \n
@@ -268,7 +268,7 @@
 	</string>
 
 	<string id="st_musicplayer">
-		<text>Radio</text>
+		<text>라디오</text>
 	</string>
 	<string id="st_musicplayer_desc">
 		<text>개조된 라디오로, 가능한 한 많은 전파 간섭을 걸러주면서 다른 라디오와 교신할 수 있도록 설계되었습니다. \n \n%c[ui_gray_2]특징:\n \n
@@ -277,7 +277,7 @@
 	</string>
 	
 	<string id="st_weather_radar">
-		<text>Doppler weather radar kit</text>
+		<text>도플러 기상 레이더 키트</text>
 	</string>
 	<string id="st_weather_radar_descr">
 		<text>개량된 펄스-도플러 기상 레이더 미니 키트입니다. 이 키트는 기상학계에서 기적으로 여겨지고 있습니다. 이 키트는 극초단파 복사의 지향성 펄스를 보내서, 대략 1 마이크로초 정도가 지난 뒤에 날씨 데이터를 모으기 위해 포물선 형태의 안테나와 도파관으로 연결된 구멍 뚫린 전자관을 사용합니다.\n
@@ -285,7 +285,7 @@
 		%c[ui_gray_3]특징:
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
 		%c[d_blue] • %c[ui_gray_2] 기상측정 장비\n
-		%c[d_blue] • %c[ui_gray_2] Meatchunk 아티팩트로 작동됨\n
+		%c[d_blue] • %c[ui_gray_2] 고깃덩이 아티팩트로 작동됨\n
 		</text>
 	</string>
 	
