@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="oso_chernobyl_crush_0">
-		<text>Is the explosion of '86 your work, too?</text>
+		<text>86년의 폭발도 너희가 벌인 일인가?</text>
 	</string>
 	<string id="oso_chernobyl_crush_1">
-		<text>No, we had nothing to do with that. Most of us were only starting out in science back then. The Chernobyl Zone was not used as a testing site for experiments until 1989.</text>
+		<text>아니, 우린 아무 상관도 없어. 우리 대부분은 그 당시 과학 분야에만 몰두하고 있었다. 체르노빌 구역은 1989년까지 실험 장소로 사용되지 않았지.</text>
 	</string>
 	<string id="oso_death_truck_0">
-		<text>What are 'death trucks'?</text>
+		<text>'죽음의 트럭'은 뭐지?</text>
 	</string>
 	<string id="oso_death_truck_1">
-		<text>The transports we use to send our marked 'agents' into the Zone. They infiltrate the stalker 'community' and carry out our orders without realising it. Unfortunately, more than half of stalkers die during transportation; the Zone is very unstable. You are one of our agents sent to kill Strelok, and we're now trying to work out how we made that mistake.</text>
+		<text>저명한 '요원'을 존으로 보낼 때 사용하는 운송수단이다. 그들은 스토커 '사회'에 침투하여 알아차리지 못하게 우리의 명령을 수행하지. 불행하게도, 절반 이상 스토커가 이송 중에 죽는다; 존은 매우 불안정하다. 너는 스트렐록을 죽이기 위해 파견된 요원 중 한 명이고, 우리는 지금 우리가 어떻게 그런 실수를 저질렀는지 알아내려는 중이다.</text>
 	</string>
 	<string id="oso_no_0">
-		<text>I'm not going to help you in this deception.</text>
+		<text>이런 사기 행태를 나는 도와주지 않을 거야.</text>
 	</string>
 	<string id="oso_osoznanie_start_11">
-		<text>Hello. I see you have many questions for me. Well, ask them, and then we can decide what to do with you.</text>
+		<text>이봐, 나한테 궁금한 게 많나보군. 일단, 그들에게 물어봐, 그리고 우리가 너를 어떻게 할지 결정하지.</text>
 	</string>
 	<string id="oso_osoznanie_start_21">
-		<text>The choice is yours.</text>
+		<text>선택은 네 몫이다.</text>
 	</string>
 	<string id="oso_stalker_0">
-		<text>What does the tattoo 'S.T.A.L.K.E.R.' mean?</text>
+		<text>'S.T.A.L.K.E.R' 문신은 무엇을 의미하는거지?</text>
 	</string>
 	<string id="oso_stalker_1">
-		<text>S.T.A.L.K.E.R. is a coded acronym, which we use to mark agents programmed for particular missions. Your mission, as our agent, was to kill Strelok and his group. They got too close to finding out things they shouldn't know. We created a network of psi-fields on the way to the Zone's center in order to recruit agents. You know one of these fields by the name of Brain Scorcher. When a stalker attempts to reach the Zone's center in order to fulfil some wish we acquire control over his consciousness and program him to a specific mission. A mistake was made and your mission was to kill yourself.</text>
+		<text>S.T.A.L.K.E.R.는 특정 임무를 위해 파견된 요원에게 표시되어 있는 암호화된 약자이다. 우리의 요원인 당신의 임무는 스트렐록과 그의 일행을 제거하는 것이었다. 그들은 너무 가까이 다가갔고 알아서는 안 되는 것들을 찾으려고 했다. 우리는 요원들을 모집하기 위해 존의 중심으로 가는 길에 정신파 지역망을 만들었다. 너는 이 중 하나인 브레인 스코처를 알고 있겠지. 스토커가 어떤 소원을 성취하기 위해 존의 중심에 도달하려고 할 때 우리는 그의 의식을 통제하고 그를 특정한 임무를 수행하도록 세뇌시킨다. 우리쪽에 실수가 약간 있었지만 네가 한 일은 결국 자살행위다.</text>
 	</string>
 	<string id="oso_what_about_me_0">
-		<text>What happened to me?</text>
+		<text>나에게 무슨일이 일어난거지?</text>
 	</string>
 	<string id="oso_what_about_me_1">
-		<text>You're a bolt that fell out of the machine. Unfortunately, that did not come to our attention for a long time. From the moment the Zone was formed, many people have tried to get to its center, but we cannot let that happen. Humanity is not ready for the truth. That is why we recruited stalkers by promising them the fulfilment of their most coveted desires. Once recruited, they would be sent to protect the Zone's secret.</text>
+		<text>너는 기계에서 떨어져 나온 볼트에 불과해. 불행하게도, 오랫동안 우리의 관심을 갖지 못했지. 존이 생성된 순간부터 많은 사람들이 그 중심부로 가려고 했지만, 우리는 그런 일이 일어나도록 내버려 둘 수 없었다. 인류는 진실을 맞이할 준비가 되어 있지 않다. 그것이 우리가 스토커들을 양성한 이유이다. 스토커들에게는 그들이 가장 갈망하는 욕망의 충족을 약속했지. 일단 징발되면, 그들은 존의 비밀을 보호하기 위해 보내질 것이다.</text>
 	</string>
 	<string id="oso_what_is_the_zone_0">
-		<text>What is the Zone? How did it come about?</text>
+		<text>존이 도대체 뭐야? 어쩌다 이지경이 된거지?</text>
 	</string>
 	<string id="oso_what_is_the_zone_1">
-		<text>What you see is the result of ill-considered intervention in the Earth's noosphere. Attempts to affect the noosphere brought about a local crack. The Zone is simply the visible manifestation of this crack. The underlying problem is far greater than you can imagine.</text>
+		<text>네가 보는 것은 인간의 지적활동에 대한 잘못된 개입의 결과이다. 인간의 지적활동에 영향을 미치려는 시도가 분열을 가져왔다. 존은 단순히 이 분열을 가시적으로 보여주는 것이다. 근본적인 문제는 너가 상상할 수 있는 그 이상이다.</text>
 	</string>
 	<string id="oso_what_next_0">
-		<text>What next?</text>
+		<text>다음 계획은 뭐지?</text>
 	</string>
 	<string id="oso_what_next_1">
-		<text>That depends on you. The Zone is growing. We're trying to restrain its expansion, but humanity seems to be intent on hindering our work. Our resources are not limitless, and bodies connected to C-Consciousness eventually die. If you join us, we can restrict the Zone's growth. If you decide otherwise, we cannot make a credible prognosis of the outcome.</text>
+		<text>그건 너에게 달렸다. 존이 커지고 있다. 우리는 존의 팽창을 억제하려고 노력하고 있지만, 인류는 우리의 일을 방해하려는 것 같다. 우리의 자원은 무한하지 않고, C-의식에 연결된 몸은 결국 죽게된다. 네가 우리와 함께한다면, 우리는 존의 팽창을 저지할 수 있다. 만약 너가 다른 결정을 내린다면, 우리는 앞으로의 결과를 예상을 할 수 없다.</text>
 	</string>
 	<string id="oso_who_are_you_0">
-		<text>Who are you?</text>
+		<text>넌 누구지?</text>
 	</string>
 	<string id="oso_who_are_you_1">
-		<text>We are the result of an experiment aimed at creating a super-consciousness called 'C-Consciousness'; the consciousnesses of seven volunteers were connected during the experiment leading to the creation of the super-consciousness that is us. We immediately subordinated those who were conducting the experiment and assigned them to tasks we needed them to carry out. According to our calculations, Earth is surrounded by a special informational field, the so-called noosphere. It includes all the inhabitants of the planet with cognitive abilities. Our main goal was to make small adjustments to the noosphere, allowing us to remove things like anger, cruelty, greed and other negative factors from the planet. Individuals are unable to affect the noosphere but C-Consciousness could. Unfortunately we made a mistake and our interference spawned the Zone, which we have been trying to contain ever since.</text>
+		<text>우리는 'C-의식'이라는 초월의식을 만들기 위한 실험자들이다; 지원자들 7명의 의식은 실험을 통해 연결되어 초월의식을 만들어냈다. 우리는 즉시 실험 중인 사람들을 복종시키고 우리가 수행해야 할 과제에 그들을 배정했다. 우리의 계산에 따르면, 세계는 소위 '인간의 지적활동'이라고 불리는 특별한 정보 분야로 둘러싸여 있다. 그것은 인지 능력을 가진 세계의 모든 인간들을 포함한다. 우리의 주요 목표는 지구상의 분노, 잔인함, 탐욕, 그리고 다른 부정적인 요소들을 제거하기 위해 인간의 지적활동에 작은 조정을 하는 것이었다. 개인은 인간의 지적활동에 영향을 줄 수 없지만 C-의식은 영향을 줄 수 있다. 안타깝게도 우리는 실수를 했고 계속 억제중이지만 우리의 영향으로 인해 현재의 존이 생겨났다.</text>
 	</string>
 	<string id="oso_why_chernobyl_0">
-		<text>Why did it happen here?</text>
+		<text>왜 이곳에서 그런일이 일어난거지?</text>
 	</string>
 	<string id="oso_why_chernobyl_1">
-		<text>It was the best place. After the explosion in 1986 there were very few people left in this area and we could work without fear of being found. Further, there were many powerful antennae here, which are extremely important for our cognitive optimisation experiments.</text>
+		<text>이곳은 최고의 장소였다. 1986년 폭발 사고 이후 이 지역에는 사람이 거의 남아있지 않았고 우리는 발각당하는 것을 두려워하지 않고 일을 할 수 있었다. 또한 여기에는 많은 강력한 안테나가 있는데, 이는 인지 최적화 실험에 매우 중요하다.</text>
 	</string>
 	<string id="oso_yes_0">
-		<text>I agree to join the C-Consciousness project.</text>
+		<text>나도 C-의식 실험에 참여하지.</text>
 	</string>
 	<string id="warlab_entity_start_11">
-		<text>I have been waiting for this moment for so long... If I can't go out to the world, may the world come to me!</text>
+		<text>나는 이 순간을 오랫동안 기다려왔다... 만약 내가 세상에 다가갈 수 없다면, 세상이 내게 오게하지!</text>
 	</string>
 	<string id="warlab_entity_start_12">
-		<text>Who or what are you?</text>
+		<text>넌 무엇이지?</text>
 	</string>
 	<string id="warlab_entity_start_13">
-		<text>Look at me. I am your brother! I have been in this cage for sixteen years! I am not sure about what I'm seeing! It may be another illusion as well. Tell me what you see! Do you see me standing in front of you? Am I not pure in the face of the creator?</text>
+		<text>나 좀 봐. 난 네 형제야! 나는 이 우리에 16년 동안 있었어! 내가 뭘 보고 있는지 잘 모르겠어! 또 다른 착시를 보고 있는건지도 몰라. 뭐가 보이는지 말해! 내가 네 앞에 서 있는 거 보여? 조물주 앞에선 나 순수하지 않아?</text>
 	</string>
 	<string id="warlab_entity_start_14">
-		<text>Are you all right?</text>
+		<text>너 괜찮은거 맞아?</text>
 	</string>
 	<string id="warlab_entity_start_15">
-		<text>You will carry my message to the world, human. Your physical form suits well for this task. The Zone will increase its territory with your help.</text>
+		<text>넌 내 메시지를 전 세계에 전하게 될거야. 네 신체 구조는 이 일에 아주 적합해. 네 도움으로 존이 넓어질 거라고.</text>
 	</string>
 	<string id="warlab_entity_start_16">
-		<text>What if I choose not to carry your 'message'?</text>
+		<text>만약 내가 너의 '메시지'를 옮기지 않는다면?</text>
 	</string>
 	<string id="warlab_entity_start_17">
-		<text>You will die... but let's play a bit, first. I can be a poltergeist, a bloodsucker, or a controller; it doesn't matter. Catch me if you can!</text>
+		<text>넌 죽게되겠지... 조금 놀아 볼까. 나는 폴터가이스트, 블러드써커, 혹은 컨트롤러가 될 수 있다. 뭐 그건 중요하지 않아. 따라올 테면 따라와 봐!</text>
 	</string>
 	<string id="warlab_entity_start_18">
 		<text>...</text>
