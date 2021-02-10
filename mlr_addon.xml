@@ -4,11 +4,11 @@
 		<text>안녕, 문지기 </text>
 	</string>
 	<string id="look_for_cs_history_part_4_2_1">
-		<text>반갑네. 리만스크로 가는 건가? 레시가 아니었다면... 어쨌든, 어서 오서와. 돈을 내야 할거야... 그리고 우리 순찰대에 발각되지 않도록 조심해 - 그들은 협상의 일부가 아니거든.</text>
+		<text>반갑네. 리만스크로 가는 건가? 레시가 아니었다면... 어쨌든, 어서와. 돈을 내야 할거야... 그리고 우리 순찰대에 발각되지 않도록 조심해 - 그들은 협상의 일부가 아니거든.</text>
 	</string>
 
 	<string id="look_for_cs_history_part_4_1_0">
-		<text>여기 돈.</text>
+		<text>여기 돈 받아.</text>
 	</string>
 	<string id="look_for_cs_history_part_4_1_1">
 		<text>좋아. 내가 다리에 있는 경비병에게 신호를 줄 거야. 일단 도착하면, 대화 상대는 "문지기"다. 침착하게 행동하고, 스카의 실종을 밝혀줄 수 있는 무언가를 찾아.</text>
@@ -30,131 +30,131 @@
 		<text>붉은 숲에 있는 다리를 지키고 있는 용병들에게 얘기 좀 해주겠어? 난 리만스크로 가야 해. 불편할 수도 있다는 건 알지만, 용병 스카가 남긴 흔적을 찾아 보겠다고 약속할 수 있어.</text>
 	</string>
 	<string id="look_for_cs_history_part_3_2_5">
-		<text>흐음, 내가 오랫동안 조직에 몸담지 않았다는 걸 알아야해. 누가 다리에서 조직을 운영하는지조차 확실하지 않아. 몇 군데 연줄이 있긴 하지만 시간이 좀 필요할 것 같군 그리고 약간의 돈도. 15만 루블, 그 이하는 안돼.</text>
+		<text>흐음, 난 조직을 떠난지 오래 됐어. 누가 다리에서 조직을 운영하는지조차 확실하지 않아. 몇 군데 연줄이 있긴 하지만 시간이 좀 필요할 것 같군 그리고 약간의 돈도. 15만 루블, 그 밑으로는 안돼.</text>
 	</string>
 
 	<string id="look_for_cs_history_part_1_1_0">
-		<text>당신 조직의 역사에 대해 들은 게 있어. 조사하고 싶다.</text>
+		<text>너희 조직의 과거에 대해 들은 게 있어. 조사해야 할게 있다.</text>
 	</string>
 	<string id="look_for_cs_history_part_1_1_1">
-		<text>You looking for something, or what? Hah, listen. You have virtually no chance of surviving in those areas - but even if you do, finding information about our stay there ain't exactly gonna be a walk in the park.</text>
+		<text>뭘 조사하겠다는 거야? 하하, 이봐. 네가 여기서 살아남을 가능성은 거의 없지만, 설령 살아 남는다고 해도, 우리가 그곳에 머물렀다는 정보를 쉽게 찾을순 없을거야.</text>
 	</string>
 	<string id="look_for_cs_history_part_1_1_2">
-		<text>Aren't you interested? Or is there something you want in return?</text>
+		<text>흥미 없어? 아니면 그 대가로 원하는 게 있나?</text>
 	</string>
 	<string id="look_for_cs_history_part_1_1_3">
-		<text>Hmm... You can help us take out a pack of bloodsuckers in the swamp, and maybe then I'll share what I've got with you.</text>
+		<text>음... 늪지대의 블러드써커 무리를 제거하는 것을 도와주면 내가 가진 정보를 알려주지.</text>
 	</string>
 	<string id="look_for_cs_history_part_1_1_4">
-		<text>Fine, give me the coordinates.</text>
+		<text>좋아, 좌표를 알려줘.</text>
 	</string>
 	<string id="look_for_cs_history_part_1_1_5">
-		<text>There you go - have fun.</text>
+		<text>자 여기, 즐거운 시간 되라고.</text>
 	</string>
 
 	<string id="look_for_cs_history_part_1_2_0">
-		<text>It's done. What info do you have?</text>
+		<text>끝냈어. 어떤 정보를 가지고 있지?</text>
 	</string>
 	<string id="look_for_cs_history_part_1_2_1">
-		<text>So I've heard - well done. You're a good fighter and I trust you, so I'll give you what you need. The boys have probably told you about the assault at that damned bridge in Limansk. In case you don't know... Back then, in the city - as well as the surrounding area in the Red Forest - mercenaries were in charge of everything. Of course, they aren't going to just lower the bridge for you, but there is a live participant in those events - they call him Forester. It was him, along with Scar, who somehow agreed that a group of "standards" would lower the bridge while our fighters protected them from the other shore. Here, I'll give you info on a route between the Army Warehouses and the Red Forest - use it to find Forester and talk to him. And here's a reward for the bloodsucker cleanup.</text>
+		<text>수고했어. 넌 훌륭한 전사이고 난 너를 믿으니까, 필요한 정보를 알려주지. 형제들이 리만스크에 있는 그 빌어먹을 다리에서의 습격에 대해 말해줬을 거야. 혹시 모를 수도 있으니... 당시 붉은 숲의 주변 지역뿐만 아니라 도시에서도 용병들이 모든 것을 장악하고 있었다. 물론, 용병들은 그냥 다리를 내려주지 않아, 하지만 내리기 위해 시도한 사람이 있었지. 용별들은 그를 포레스터라고 부른다. 스카와 함께 그는 우리 전사들이 다른 해안으로부터 그들을 보호하는 동안 어떻게든 "일류" 조직이 다리를 내릴 것이라는 데 동의했다. 여기, 육군 물류창고와 붉은 숲 사이의 이동경로에 대한 정보를 주지. 포레스터를 찾을 때 사용하라고. 그리고 여기 블러드써커 청소에 대한 보상이다.</text>
 	</string>
 	<string id="look_for_cs_history_part_1_2_2">
-		<text>Thank you.</text>
+		<text>고마워.</text>
 	</string>
 
 	<string id="mlr_inventory_box_unuse">
-		<text>Locked stash</text>
+		<text>잠긴 은닉처.</text>
 	</string>
 
 	<string id="totaliz_helper_mlr_text">
-		<text>For a different perspective on the area, press the tilde key or \ to open the console, and enter: demo_record 1. The camera is controlled using the W, A, S and D keys along with CTRL. To exit, press the ESC key.</text>
+		<text>다른 시점으로 지역을 보려면 물결표 또는 \를 눌러 콘솔을 연뒤 demo_record 1을 입력합니다. 카메라는 CTRL과 함께 W, A, S, D 키를 사용하여 제어됩니다. 종료하려면 ESC 키를 누릅니다.</text>
 	</string>
 	
 	<string id="st_pda_mlr_descr">
-		<text>A PDA containing possible information on routes between different areas. Its message history is inaccessible due to the presence of a password lock.</text>
+		<text>서로 다른 지역 간의 경로에 대한 정보가 담긴 PDA입니다. 암호로 잠겨있기 때문에 메시지 기록에 접근 할 수 없습니다.</text>
 	</string>
 	<string id="st_new_path_mlr">
-		<text>A route between two areas has become accessible.</text>
+		<text>두 지역 사이의 경로를 이용 할 수 있게 되었다.</text>
 	</string>
 
 	<string id="killer_bridge_trader_mlr_task_1_name">
-		<text>Find %s</text>
+		<text>%s 를 찾아라</text>
 	</string>
 	<string id="killer_bridge_trader_mlr_task_1_text">
-		<text>The mercenaries have asked me to get hold of %s.</text>
+		<text>용병이 나에게 %s 을 찾아달라고 부탁했다.</text>
 	</string>
 	<string id="killer_bridge_trader_mlr_task_1_about">
-		<text>Our soldiers need some equipment, can you get it for us?</text>
+		<text>우리 병사들이 장비가 필요한데, 가져다 줄 수 있나?</text>
 	</string>
 	<string id="killer_bridge_trader_mlr_task_1_fetch_about">
-		<text>Our soldiers need %s, will you retrieve it for us?</text>
+		<text>우리 병사들이 %s 이 필요한데, 회수해 주겠나?</text>
 	</string>
 	<string id="killer_bridge_trader_mlr_task_1_fetch_finish">
-		<text>Thank you, here's your reward.</text>
+		<text>고마워, 여기 보수 받아.</text>
 	</string>
 
 	<string id="killer_bridge_trader_mlr_task_2_name">
-		<text>Find a %s artefact</text>
+		<text>%s 아티팩트를 찾아줘.</text>
 	</string>
 	<string id="killer_bridge_trader_mlr_task_2_text">
-		<text>A mercenary needs a %s.</text>
+		<text>용병은 %s 이 필요하다.</text>
 	</string>
 	<string id="killer_bridge_trader_mlr_task_2_about">
-		<text>Our soldiers could use a few artefacts, it'll be tough getting through Limansk without them. Could you help us find one?</text>
+		<text>우리 병사들은 아티팩트 없이 리만스크를 통과하기 힘들 거야. 아티팩트 찾는 것 좀 도와주겠어?</text>
 	</string>
 	<string id="killer_bridge_trader_mlr_task_2_fetch_about">
-		<text>Our soldiers could use a few artefacts, it'll be tough getting through Limansk without them. Could you help us find a %s?</text>
+		<text>우리 병사들은 아티팩트 없이 리만스크를 통과하기 힘들 거야. %s 아티팩트 찾는 것 좀 도와주겠어?</text>
 	</string>
 	<string id="killer_bridge_trader_mlr_task_2_fetch_finish">
-		<text>Many thanks. Here, have this.</text>
+		<text>정말 고맙다. 자, 이것을 가져라..</text>
 	</string>
 
 	<string id="task_look_for_cs_history_part_1_1">
-		<text>Find and kill the bloodsuckers</text>
+		<text>블러드써커를 찾아서 죽여라.</text>
 	</string>
 	<string id="task_look_for_cs_history_part_1_2">
-		<text>Return to Cold</text>
+		<text>콜드에게 돌아가라.</text>
 	</string>
 	<string id="task_look_for_cs_history_part_1_3">
-		<text>So, he's afraid to send me "this way", but it's okay if I'm going to fight against swamp bloodsuckers? Cheap salesmen even in Clear Sky, I see..</text>
+		<text>그래서, 그는 나에게 "이쪽"으로 보내는 것은 두려워하면서, 내가 늪지대의 블러드써커와 싸우는 것은 괜찮다는건가? 클리어스카이에서 본 가장 인색한 상인들이군, 알겠다..</text>
 	</string>
 
 	<string id="task_look_for_cs_history_part_2_1">
-		<text>Following the tracks of Clear Sky: talk with Forester</text>
+		<text>클리어스카이의 흔적을 추적하기: 포레스터와 대화하기.</text>
 	</string>
 	<string id="task_look_for_cs_history_part_descr_2_1">
-		<text>Cold told me that the immediate participant of those events is Forester and gave me his coordinates. I have to talk to him and get to Limansk.</text>
+		<text>콜드는 나에게 그 사건들의 직접적인 관련자는 포스터라고 말했고 나에게 그의 좌표를 주었다. 리만스크에 가서 그와 얘기해야 한다.</text>
 	</string>
 
 	<string id="task_look_for_cs_history_part_3_1">
-		<text>Following the tracks of Clear Sky: find Leshiy</text>
+		<text>클리어스카이의 흔적을 추적하기: 래시를 찾아라.</text>
 	</string>
 	<string id="task_look_for_cs_history_part_3_2">
-		<text>Following the tracks of Clear Sky: talk to Leshiy</text>
+		<text>클리어스카이의 흔적을 추적하기: 래시를 찾아라</text>
 	</string>
 	<string id="task_look_for_cs_history_part_descr_3_1">
-		<text>Well, back to the military. It turns out that the key figure of that battle for the bridge was under my nose all this time.</text>
+		<text>음, 부대로 돌아가. 알고 보니 그 다리 싸움의 핵심 인물들이 내 근처에 있었던 것 같아.</text>
 	</string>
 	<string id="task_look_for_cs_history_part_descr_3_2">
-		<text>I only have to reach an agreement with Leshiy himself, I hope this will end my quest.</text>
+		<text>난 레시와 합의만 하면 돼. 내 임무가 끝나길 바라.</text>
 	</string>
 
 	<string id="task_look_for_cs_history_part_4_1">
-		<text>Following the tracks of Clear Sky: collect 150000 RU and bring it to Leshiy</text>
+		<text>클리어스카이의 흔적을 추적하기. 150000 RU를 모아 레시에게 가져다 줍니다.</text>
 	</string>
 	<string id="task_look_for_cs_history_part_4_3">
-		<text>Following the tracks of Clear Sky: go to a meeting with Gatekeeper</text>
+		<text>클리어스카이의 흔적을 추적하기. 문지기와 만나라.</text>
 	</string>
 	<string id="task_look_for_cs_history_part_4_4">
-		<text>Following the tracks of Clear Sky: speak with Gatekeeper</text>
+		<text>클리어스카이의 흔적을 추적하기. 문지기와 만나라.</text>
 	</string>
 
 	<string id="task_look_for_cs_history_part_descr_4_1">
-		<text>Finally, soon I'll be on the other side of the bridge and those running errands will end.</text>
+		<text>결국, 나는 다리 건너편에 도달할 것이고 이 일도 끝날 것이다.</text>
 	</string>
 
 	<string id="st_bridge_is_open_message">
-		<text>Gatekeeper:\nI see someone. Hey, stalker! Come over here, got a few words for you.</text>
+		<text>문지기:\n누군가가 보여. 스토커! 이리 오면 해줄 말이 있어</text>
 	</string>
 
 </string_table>
