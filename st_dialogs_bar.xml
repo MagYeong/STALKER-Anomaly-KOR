@@ -62,10 +62,10 @@
 	
 <!-- Voronin (Duty Leader) -->
 	<string id="story_dolg_0">
-		<text>What's the current situation, sir?</text>
+		<text>현재 상황은 어떻습니까, 장군님?</text>
 	</string>
 	<string id="story_dolg_1">
-		<text>At the moment we have four operational enemies; Freedom, Monolith, mercenaries and bandits. Out of those four, the two most worrying are the Monolith and bandits - the latter is becoming more and more organized each day. This could pose a serious threat, given their numbers as well as their general lack of humanity.\n \nAs for the Monolith, they've recently returned with surprising swiftness. Their resurgence earlier this year crippled our presence in Yanov, and we had to commit some grave sacrifices to ensure the overall security of Rostok.\n \nNow, as far as Freedom and the Blue Man Group go, things are comfortable. Do not misunderstand -  they are respectable adversaries, and our spies must keep a close watch on them. However, they aren't moving to oppose us or our allies directly at this time, which gives us some breathing room. </text>
+		<text>지금 당장 우리에겐 작전상 네 세력을 적대하고 있다네. At the moment we have four operational enemies; Freedom, Monolith, mercenaries and bandits. Out of those four, the two most worrying are the Monolith and bandits - the latter is becoming more and more organized each day. This could pose a serious threat, given their numbers as well as their general lack of humanity.\n \nAs for the Monolith, they've recently returned with surprising swiftness. Their resurgence earlier this year crippled our presence in Yanov, and we had to commit some grave sacrifices to ensure the overall security of Rostok.\n \nNow, as far as Freedom and the Blue Man Group go, things are comfortable. Do not misunderstand -  they are respectable adversaries, and our spies must keep a close watch on them. However, they aren't moving to oppose us or our allies directly at this time, which gives us some breathing room. </text>
 	</string>
 	<string id="story_dolg_2">
 		<text>How's Duty doing, sir?</text>
