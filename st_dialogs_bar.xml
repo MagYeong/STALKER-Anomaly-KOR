@@ -3,34 +3,34 @@
 
 <!-- Barkeep -->
 	<string id="bar_visitors_barman_stalker_trader_start_dialog_11">
-		<text>Oh, hello. What's up, man?</text>
+		<text>오, 안녕. 무슨 일이야?</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_start_dialog_12">
-		<text>What do you need, stalker?</text>
+		<text>필요한게 뭔가, 스토커?</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_start_dialog_13">
-		<text>Hey, stalker. Need a drink? Maybe it'll get that sour look off your face.</text>
+		<text>이봐, 스토커. 마실 게 필요한가? 자네의 뚱한 표정을 풀어줄 거 같은데 말야.</text>
 	</string>
 	
 	<string id="barkeep_100rads_0">
-		<text>Tell me about this place.</text>
+		<text>이곳에 대해 말해줘.</text>
 	</string>
 	<string id="barkeep_100rads_1">
-		<text>Welcome to the 100 Rads bar, my little oasis in this slice of hell. This neighbourhood is among the safest in the Zone, thanks to Duty. You'll be safe too as long as you keep a cool head. Stalkers from all over travel here to eat, rest, talk, find information or seek work. So, what are you after? What can old Barkeep do for you today?</text>
+		<text>100 라드 바에 온 걸 환영해, 이 지옥같은 곳에 내가 만든 작은 오아시스 같은 곳이지. 이 주변은 듀티 덕분에 존에서 가장 안전한 곳으로 손꼽히는 곳이야. 자네가 머리 좀 식히고 있는 동안에는 안전할 거야. 존 곳곳에 퍼져 있는 스토커들이 먹거나, 쉬거나, 잡담 좀 하거나, 정보나 일거리를 찾으러 여길 찾아오지. 자, 그럼 자네는 무슨 일로 온 건가? 이 늙은 바텐더가 뭘 해줬으면 좋겠나?</text>
 	</string>
 	
 	<string id="information_about_stash_barmen_0">
-		<text>Any stash information for sale?</text>
+		<text>팔고 있는 은닉처 정보는 없어?</text>
 	</string>
 	<string id="information_about_stash_barmen_1">
-		<text>Heh, yeah... Sometimes, when stalkers around here grab a bottle, they drunkenly slip info on their stashes. Don't know what they keep in there, but what I do know is the value. Seven thousand and it's all yours.</text>
+		<text>하, 그래... 가끔씩 스토커들이 술을 마시러 올 때, 술에 취해서 은닉처 정보를 흘릴 때가 있지. 거기에 뭘 숨겨놓았는지는 모르지만, 물건의 가치 정도는 알고 있어. 7천 루블만 내면 다 자네 거야.</text>
 	</string>
 
 	<string id="information_about_stash_barmen1_0">
-		<text>Sure. Here. %c[d_orange][7000 RU]</text>
+		<text>그래. 여기 있어. %c[d_orange][7000 RU]</text>
 	</string>
 	<string id="information_about_stash_barmen1_1">
-		<text>Much appreciated.</text>
+		<text>정말 고마워.</text>
 	</string>
 	
 	<string id="devushka_4_help_0">
@@ -96,7 +96,7 @@
 		<text>Hmm, I suppose you're wondering about our uniforms, aren't you?\n \nWondering why any soldier in their right mind would walk into battle wearing black and red. I'd like you to take a moment and consider who our true enemies are. The mercs? No. Bandits? A constant nuisance, but no. Freedom? They're dangerous fools, but still no. Not even the Monolith are our true enemies. The true enemy is the Zone itself.\n \nTell me, do you think camouflage is going to fool a Bloodsucker, who can feel the pulse of your heart through the air? What about dogs, who use smell and echolocation? Or Controllers, who only need to read your thoughts?\n \nAgainst our true enemies, camouflage is useless. In these cases, I'd rather dress the men in stark colours that help them see their comrades.... black and red especially make them fight more bravely, more fiercely. Compared to the mutants, everything else is just a walk in the park.\n \nSo, when fighting human foes, some might reason camouflage is good because you cannot kill what you cannot see. After the hell we've been through, Duty believes that what criminals can see, they'll soon learn to fear.</text>
 	</string>
 	<string id="st_bar_dolg_leader_life_4">
-		<text>Let me tell you a short story, to teach you the difference between Freedom and Duty.\n \nIn 2006, Rostok was a wild place. It'd make the Wild Territory of today look tame in comparison. Yet this is where Duty chose to camp, because we knew Rostok was once an industrial plant, and we were adamant to restore it.\nWhen we arrived, we found a stalker, limping away from a pack of hounds, desperately clinging to life. We saved him, patched him up, and I asked him, "Son, what is a young man like you doing in a place like this?"\n And he tells me, "Well, sir, I used to be a bartender, but I got run out by the racketeers. So I came here to escape them, to try to survive."\n \nAnd I look at this boy, see how his hands shake too much to even hold a gun any more, and I tell him, "Well, you're in the right place."\n This boy would go on to become Barkeep, and together he and I would restore Rostok to what it is today. We work with stalkers, bringing out their best skills to reclaim what little good still remains in the Zone.\n \nAh, but you're wondering where Freedom comes in to all this. Well, in 2011, Freedom had already run their old base into the dirt, so they decided to go out and steal a new one.\nThey waited until anomalies cut Rostok off from the rest of the Zone, and used the opportunity to assault the Army Warehouses � sovereign government territory � and wrest it out the hands of its rightful owners. And what has become of the Warehouses since then? Since Freedom took control, that once-proud bastion has devolved into nothing but bullets and anarchy, and the exploratory vehicles that used to brave the unknown have long since decayed into rust.\n \nFreedom promises liberty, but in the long run they bring only ruin. It's only a matter of time before they burn out too.</text>
+		<text>Let me tell you a short story, to teach you the difference between Freedom and Duty.\n \nIn 2006, Rostok was a wild place. It'd make the Wild Territory of today look tame in comparison. Yet this is where Duty chose to camp, because we knew Rostok was once an industrial plant, and we were adamant to restore it.\nWhen we arrived, we found a stalker, limping away from a pack of hounds, desperately clinging to life. We saved him, patched him up, and I asked him, "Son, what is a young man like you doing in a place like this?"\n And he tells me, "Well, sir, I used to be a bartender, but I got run out by the racketeers. So I came here to escape them, to try to survive."\n \nAnd I look at this boy, see how his hands shake too much to even hold a gun any more, and I tell him, "Well, you're in the right place."\n This boy would go on to become Barkeep, and together he and I would restore Rostok to what it is today. We work with stalkers, bringing out their best skills to reclaim what little good still remains in the Zone.\n \nAh, but you're wondering where Freedom comes in to all this. Well, in 2011, Freedom had already run their old base into the dirt, so they decided to go out and steal a new one.\nThey waited until anomalies cut Rostok off from the rest of the Zone, and used the opportunity to assault the Army Warehouses  sovereign government territory  and wrest it out the hands of its rightful owners. And what has become of the Warehouses since then? Since Freedom took control, that once-proud bastion has devolved into nothing but bullets and anarchy, and the exploratory vehicles that used to brave the unknown have long since decayed into rust.\n \nFreedom promises liberty, but in the long run they bring only ruin. It's only a matter of time before they burn out too.</text>
 	</string>
 	<string id="st_bar_dolg_leader_life_5">
 		<text>I suppose I can give you some insight into Duty's oath. It's really quite simple.\n \n"I, a stalker known as Voronin,\nSwear to defend the goals and ideals of Duty.\nTo protect the Earth from the dangers of the Zone, to seek out and destroy anything it spawns within and beyond its borders.\nTo fight any nonconformists, be they individual stalkers or groups.\nAnd to give my life in the name of justice and order on Earth!"\n \nThose are the words I swore, along with Petrenko, when I first joined all those years ago. It's why we don't seek artefacts for our own benefit, instead giving them to Barkeep or the Ecologists, who are the only ones we can trust to handle the artefact trade responsibly. It's why we battle against bandits, mercs and Freedom, who all seek to exploit the innocent or naively spread the Zone's "gifts" without precaution or forethought. Although we do not exempt common stalkers from such crimes, in their case we believe in innocence until guilt is proven, unlike the trigger-happy dogs under Kuznetsov's command.\n \nBut battling against the misguided is only secondary to our true goal: contain the Zone, and push it back. This means killing the mutants it creates, destroying its most dangerous artefacts, and dissipating its anomalies when we can.\n \nFor the sake of future generations, we help willing traders uphold standards to moderate artefact-handling and reduce risk... standards that corner-cutting mercs ignore for the sake of profit.\n \n The final part of our code emphasizes the individual's place within humanity's greater whole; we are all working towards a higher cause in Duty, and it is sweet and fitting to give one's life in service to humanity's defence.\n \nLieutenant-Colonel Shulga understood that last part better than anyone.</text>
