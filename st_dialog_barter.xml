@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="exchanging_items_phr_0">
-		<text>Hey, dude, let's see who's got more stuff.</text>
+		<text>이봐, 누가 더 많이 가지고 있는지 보자고.</text>
 	</string>
 	<string id="exchanging_items_phr_1">
-		<text>Yeah, why don't we trade? Here's what I have to offer.</text>
+		<text>좋아, 우리 거래하지 않을래? 여기 내가 가지고 있는 것들이야.</text>
 	</string>
 	<string id="exchanging_items_phr_2">
-		<text>I'll take the artefact...</text>
+		<text>아티팩트를 가져가지...</text>
 	</string>
 	<string id="exchanging_items_phr_3">
-		<text>I'll take the suit...</text>
+		<text>슈트를 가져가지...</text>
 	</string>
 	<string id="exchanging_items_phr_4">
-		<text>I'll take the item...</text>
+		<text>물품을 가져가지...</text>
 	</string>
 	<string id="exchanging_items_phr_5">
-		<text>I'll take the gun...</text>
+		<text>총을 가져가지...</text>
 	</string>
 	<string id="exchanging_items_phr_6">
-		<text>Good. And in return, I'll take this.</text>
+		<text>좋아. 대신, 나는 이걸 가져가지.</text>
 	</string>
 	<string id="exchanging_items_phr_7">
-		<text>I don't think there's much for us to talk about, since you don't really have anything worthwhile for me. Come back when you've got some more cash.</text>
+		<text>별로 할 얘기가 없어. 나한테 가치 있는 걸 가지고 있는 걸로 보이지 않는군. 돈을 더 가지고 다시 찾아와.</text>
 	</string>
 	<string id="exchanging_items_phr_8">
-		<text>Okay, let's trade.</text>
+		<text>좋아, 거래하지.</text>
 	</string>
 	<string id="exchanging_items_phr_9">
-		<text>I've changed my mind about the trade.</text>
+		<text>마음이 바뀌었어.</text>
 	</string>
 	<string id="exchanging_items_phr_10">
-		<text>Suit yourself.</text>
+		<text>마음대로 해.</text>
 	</string>
 </string_table>
