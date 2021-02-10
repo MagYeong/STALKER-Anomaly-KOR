@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="st_addon_companion_quick_menu_tooFar">
-		<text>My squad can not hear me. I need to come closer or contact them via PDA.</text>
+		<text>동료가 내 말을 들을 수 없어. 가까이 가거나 PDA로 연락해야겠어.</text>
 	</string>
 
 	<string id="st_addon_companion_quick_menu_followMe">
-		<text>FOLLOW ME</text>
+		<text>따라 와</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_waitHere">
-		<text>WAIT HERE</text>
+		<text>여기서 기다려</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_stopStealth">
-		<text>STOP STEALTH</text>
+		<text>은신 중지</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_stealth">
-		<text>STEALTH</text>
+		<text>은신해</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_stayClose">
-		<text>STAY CLOSE</text>
+		<text>가까이 붙어</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_stayFar">
-		<text>STAY FAR</text>
+		<text>멀리 떨어져</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_fireAtWill">
-		<text>FIRE AT WILL</text>
+		<text>각개사격</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_ignoreCombatButHelpMe">
-		<text>IGNORE COMBAT, BUT HELP ME</text>
+		<text>전투는 무시하고 날 도와줘</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_ignoreCombat">
-		<text>IGNORE COMBAT</text>
+		<text>전투 무시</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_doNotLootCorpses">
-		<text>DO NOT LOOT CORPSES</text>
+		<text>시체 약탈 금지</text>
 	</string>
 	
 	<string id="st_addon_companion_quick_menu_lootCorpses">
-		<text>LOOT CORPSES</text>
+		<text>시체 </text>
 	</string>
 	
 </string_table>
