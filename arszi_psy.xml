@@ -2,7 +2,7 @@
 
 <string_table>
   <string id="st_anabiotic_combat">
-      <text>근처에 적이 있을 때 아나바이오틱을 먹는 것은 위험하다.</text>
+      <text>근처에 적이 있을 때 에미션 방호제를 먹는 것은 위험하다.</text>
   </string>
 
    <string id="st_psy_death_scene">
