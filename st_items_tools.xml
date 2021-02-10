@@ -239,125 +239,125 @@
 	</string>
 
 	<string id="st_itm_tent_name">
-		<text>Bag with a camping tent</text>
+		<text>캠핑용 천막이 든 가방</text>
 	</string>
 	<string id="st_itm_tent_descr">
-		<text>A bag containing a tent for camping, sheltering from rain and wind. Assembly and installation takes some time. In the Zone, it is best deployed in a place with escape routes in case of danger.\n \n
-		%c[ui_gray_3]특징:\n
+		<text>캠핑용 천막을 담아, 비바람으로부터 보호해주는 배낭입니다. 꺼내서 설치하는 작업은 시간이 걸립니다. 존에서는, 만일의 사태에 대비하여 탈출 경로가 있는 곳에 설치하는 것이 가장 좋습니다. \n \n
+		%c[ui_gray_3]특징:
 		%c[d_blue] • %c[ui_gray_2] 일상 용품\n
-		%c[d_orange] • %c[ui_gray_2] used for deploying tent\n
+		%c[d_orange] • %c[ui_gray_2] 천막을 치는 데 사용\n
 		%c[d_blue] • %c[ui_gray_2] 계속 사용 가능함\n</text>
 	</string>
 	
 	<string id="st_lighter">
-		<text>Lighter</text>
+		<text>라이터</text>
 	</string>
 	<string id="st_lighter_descr">
-		<text>A reliable, water-proof source of fire in the Zone is essential not only for cooking meals, but also for lighting a smoke or something stronger before - knock on wood - a fight with a controller. This durable and robust metal gas lighter is a perfect choice in light of the Zone's toxic and harmful environment.\n \n
-		%c[ui_gray_3]특징: \n
-		%c[d_orange] • %c[ui_gray_2] usable for: %c[ui_gray_1] cooking, smoking\n</text>
+		<text>존에서 믿음직하고, 방수 기능이 있는 점화 장치는 요리에 사용할 뿐만 아니라, 연기나 좀 더 인화성 강한 물건을, 안 좋은 예를 든다면 컨트롤러 같은 것들과 싸우기 전에 점화하는 데 필수적인 물건입니다. 이 튼튼하고 견고한 금속제 가스 라이터는 존의 유독하고 해로운 환경을 밝혀주기 위한 완벽한 선택이 될 수 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_orange] • %c[ui_gray_2] 용도: %c[ui_gray_1] 조리, 불 피우기\n</text>
 	</string>
 	
 	<string id="st_lighter_refillers_descr">
-		<text>There is almost no point in carrying a lighter if you can't use it to light anything. Experienced stalkers always remember to fill their lighters with fuel before departing on longer excursions deep into the Zone. Commonly available "Carcinoleum" lighter fuel is relatively cheap and serves the purpose sufficiently well.\n \n
+		<text>아무런 점화 기능이 없는 라이터를 들고 다니는 건 쓸모가 없습니다. 경험 많은 스토커들은 존의 깊숙한 곳으로 떠나는 긴 여행을 시작하기 전에 반드시 라이터의 기름을 채우는 것을 잊지 않습니다. 자주 사용되는 "카르시놀륨" 라이터 연료는 상대적으로 저렴한 편이며 목적에 충분히 적합하게 사용할 수 있습니다.\n \n
 		%c[ui_gray_3]특징:\n 
-		%c[d_orange] • %c[ui_gray_2] usable for: %c[ui_gray_1] fuelling lighters (+100%)\n</text>
+		%c[d_orange] • %c[ui_gray_2] 용도: %c[ui_gray_1] 라이터 충전 (+100%)\n</text>
 	</string>
 	
 	<string id="st_lighter_refiller5">
-		<text>Lighter fuel (133 ml left)</text>
+		<text>라이터 연료 (133 ml 남음)</text>
 	</string>
 	<string id="st_lighter_refiller4">
-		<text>Lighter fuel (107 ml left)</text>
+		<text>라이터 연료 (107 ml 남음)</text>
 	</string>
 	<string id="st_lighter_refiller3">
-		<text>Lighter fuel (80 ml left)</text>
+		<text>라이터 연료 (80 ml 남음)</text>
 	</string>
 	<string id="st_lighter_refiller2">
-		<text>Lighter fuel (54 ml left)</text>
+		<text>라이터 연료 (54 ml 남음)</text>
 	</string>
 	<string id="st_lighter_refiller1">
-		<text>Lighter fuel (27 ml left)</text>
+		<text>라이터 연료 (27 ml 남음)</text>
 	</string>
 	
 	<string id="st_itm_mapkit">
-		<text>Anomaly map</text>
+		<text>이상현상 지도</text>
 	</string>
 	<string id="st_itm_mapkit_descr">
-		<text>An untitled document that contains some hand-written sheets of paper, personal pictures and few worn paragraphs. Nothing really special except for one big printed map with some marked locations. Apparently the owner was an artefact hunter.\n \n
+		<text>수기로 작성된 메모와, 인물 사진 그리고 몇몇 찢겨진 단락이 포함되어 있는 무제의 서류입니다. 다른 특별한 점은 없지만 프린트되어 있는 큰 지도에는 몇몇 장소가 표시되어 있습니다. 이전 소유자가 아티팩트 사냥꾼이었던 것이 확실해 보입니다.\n
 		%c[ui_gray_3]특징:\n
-		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
-		%c[d_green] • %c[ui_gray_2] informative\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
+		%c[d_green] • %c[ui_gray_2] 정보가 포함됨\n
 		</text>
 	</string>
 	<string id="st_itm_mapkit_1">
-		<text>Anomaly map (Army Warehouses)</text>
+		<text>이상현상 지도 (군 창고)</text>
 	</string>
 	<string id="st_itm_mapkit_2">
-		<text>Anomaly map (Yantar)</text>
+		<text>이상현상 지도 (얀타)</text>
 	</string>
 	<string id="st_itm_mapkit_3">
-		<text>Anomaly map (Red Forest)</text>
+		<text>이상현상 지도 (붉은 숲)</text>
 	</string>
 	<string id="st_itm_mapkit_4">
-		<text>Anomaly map (Dead City)</text>
+		<text>이상현상 지도 (폐도시)</text>
 	</string>
 	<string id="st_itm_mapkit_5">
-		<text>Anomaly map (Truck Cemetery)</text>
+		<text>이상현상 지도 (트럭 묘지)</text>
 	</string>
 	<string id="st_itm_mapkit_6">
-		<text>Anomaly map (Jupiter)</text>
+		<text>이상현상 지도 (주피터)</text>
 	</string>
 	<string id="st_itm_mapkit_7">
-		<text>Anomaly map (Zaton)</text>
+		<text>이상현상 지도 (자톤)</text>
 	</string>
 	<string id="st_itm_mapkit_8">
-		<text>Anomaly map (Garbage)</text>
+		<text>이상현상 지도 (쓰레기장)</text>
 	</string>
 	<string id="st_itm_mapkit_9">
-		<text>Anomaly map (Agroprom)</text>
+		<text>이상현상 지도 (아그로프롬)</text>
 	</string>
 	
 	<string id="st_ammo_box">
-		<text>A box of ammo</text>
+		<text>탄약 상자</text>
 	</string>
 	<string id="st_ammo_box_descr">
-		<text>Every stalker is aware of the importance of reliable weaponry. That's the reason a daily and thorough examination of your shooter is vital to your survival. Stalkers often count their ammo and clean it to minimise the risk of a weapon jam in the heat of battle.\n \n
+		<text>모든 스토커들은 믿을 수 있는 무기의 중요성을 알고 있습니다. 따라서 총기를 매일같이 완전히 점검하는 작업이 생존에 중요한 것입니다. 스토커들은 무기에 쓰이는 탄의 숫자를 계산하고 무기를 청소하여 전투가 한창일 때 무기가 걸리게 될 위험을 최소화합니다.\n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상 용품\n
 		</text>
 	</string>
 	
 	<string id="st_itm_sleepbag_desc">
-		<text>A portable sleeping bag designed to keep the user warm and hidden at night.\n \n%c[255,255,255,0]Double-click to place on the ground.\n</text>
+		<text>휴대용 침낭으로 밤에 사용자를 따뜻하게 하기 위해 디자인되었습니다.\n \n%c[255,255,255,0]더블 클릭하여 땅에 내려놓습니다.\n</text>
 	</string>
 	
 	<string id="st_itm_gunsmith_toolkit">
-		<text>Gunsmith kit</text>
+		<text>총기수리 도구</text>
 	</string>
 	<string id="st_itm_gunsmith_toolkit_descr">
-		<text>A kit containing oils and tools used for basic firearm maintenance. Useful when out exploring, but also quite heavy.\n \n%c[255,255,255,0]Drag onto the item you wish to repair.\n</text>
+		<text>기본적인 화기 유지보수를 위한 기름과 도구들이 들어있는 키트입니다. 탐험하러 나갔을 때 유용하지만, 상당히 무겁기도 합니다.\n \n%c[255,255,255,0]수리하고 싶은 물건에 드래그하세요.\n</text>
 	</string>
 	
 	<string id="st_itm_outfit_toolkit">
-		<text>Sewing kit</text>
+		<text>바느질 도구</text>
 	</string>
 	<string id="st_itm_outfit_toolkit_descr">
-		<text>A makeshift kit of sewing equipment and spare materials for outfit maintenance. Useful for repairing holes and tears in armour.\n \n%c[255,255,255,0]Drag onto the item you wish to repair.\n</text>
+		<text>장비를 바느질하고 방어구 유지보수를 위한 교체용 소재들이 들어있는 급조된 키트입니다. 방어구에 난 구멍이나 상처를 수리하는 데 유용합니다.\n \n%c[255,255,255,0]수리하고 싶은 물건에 드래그하세요.\n</text>
 	</string>
 	
 	<string id="st_itm_tent_desc">
-		<text>Military shelter, made to withstand harsh weather. To place the tent, raise it in an open space.\n</text>
+		<text>군용 은신처로, 악천후를 견디기 위해 만들어졌습니다. 천막을 설치하려면, 개방된 공간에서 세우면 됩니다.\n</text>
 	</string>
 	
 	<string id="st_itm_lantern_name">
-		<text>LED lantern</text>
+		<text>LED 랜턴</text>
 	</string>
 	<string id="st_itm_lantern_desc">
-		<text>A bulky, durable and powerful lamp running on lithium-ion batteries. For stationary use, it should be placed on the ground.\n</text>
+		<text>큼직하고, 튼튼하고 강력한 램프로 리튬-이온 배터리로 작동합니다. 고정시켜 사용하려면, 땅에 내려놓아야 합니다.\n</text>
 	</string>
 	
 	<string id="st_itm_artefact_container_name">
-		<text>Artefact container</text>
+		<text>아티팩트 컨테이너</text>
 	</string>
 </string_table>
