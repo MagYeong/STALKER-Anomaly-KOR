@@ -7,10 +7,10 @@
 <string_table>
 	
 	<string id="st_itm_repairkit_tier_1_name">
-		<text>Basic tools</text>
+		<text>기본 작업용 도구</text>
 	</string>
 	<string id="st_itm_basickit_name">
-		<text>Basic tools</text>
+		<text>기본 작업용 도구</text>
 	</string>
 	<string id="st_itm_basickit_descr">
 		<text>기본 수리작업용 도구입니다. 고급 기술을 요구하는 수리 작업에는 적합하지 않지만, 당장 쓸만한 도구가 없는 기술자의 손에 들어가면 유용하게 쓰일 것입니다. 다양한 종류와 크기의 펜치, 드라이버, 접착제와 분류된 조임쇠들로 구성되어 있습니다. 충분한 지식과 경험이 있다면, 이 키트는 기본적인 도구들을 만드는 데 사용할 수 있습니다.\n \n
@@ -23,10 +23,10 @@
 	</string>
 
 	<string id="st_itm_repairkit_tier_2_name">
-		<text>Advanced tools</text>
+		<text>고급 작업용 도구</text>
 	</string>
 	<string id="st_itm_advancedkit_name">
-		<text>Advanced tools</text>
+		<text>고급 작업용 도구</text>
 	</string>
 	<string id="st_itm_advancedkit_descr">
 		<text>일반적인 오래된 도구 한 세트이나, 그럼에도 상당히 좋은 상태로 남아 있습니다. 작은 펜치, 뾰족한 핀섹, 탐침과 뾰족한 막대기 등의 유용한 도구 세트가 포함되어 있습니다. 충분한 지식과 경험이 있다면, 이 키트는 좋은 장비를 만드는 데 사용할 수 있습니다.\n \n
@@ -39,10 +39,10 @@
 	</string>
 	
 	<string id="st_itm_repairkit_tier_3_name">
-		<text>Expert tools</text>
+		<text>정밀 작업용 도구</text>
 	</string>
 	<string id="st_itm_expertkit_name">
-		<text>Expert tools</text>
+		<text>정밀 작업용 도구</text>
 	</string>
 	<string id="st_itm_expertkit_descr">
 		<text>장비를 정밀하게 튜닝하는 데 사용하는 고급 도구들로 이루어진 전문가용 작업 도구입니다. 드릴 날 세트, 정밀한 집게, 납땜용 인두, 4mm 스크류드라이버 날과 전류 측정기로 구성되어 있습니다. 충분한 지식과 경험이 있으면, 고급 장비들을 만들어내는데 사용할 수 있습니다.\n \n
@@ -55,7 +55,7 @@
 	</string>
 	
 	<string id="st_itm_drugkit">
-		<text>Drug-making kit</text>
+		<text>약물 제조용 도구</text>
 	</string>
 	<string id="st_itm_drugkit_descr">
 		<text>약물을 관리하거나 만들어내는 작은 상자와 다양한 금속 부품들로 만들어진 키트입니다. 몇 개의 플라스틱 패키지, 정제와 앰플로 구성되어 있습니다.\n \n
@@ -69,7 +69,7 @@
 	</string>
 	
 	<string id="st_itm_ammokit">
-		<text>Gunsmithing tools</text>
+		<text>총기 제조용 도구</text>
 	</string>
 	<string id="st_itm_ammokit_descr">
 		<text>낡은 총기제조 도구들과 부속품들로 구성된 일반적인 도구 한 세트입니다. 핀을 밀어내는 도구 세트, 휠러 해머, 압착 도구와 화약 측정 키트로 구성되어 있습니다. 충분한 지식과 경험이 있으면, 이 키트는 파손된 탄약을 재활용하여 더 나은 탄종을 만들어내는 데 사용할 수 있습니다.\n \n
@@ -81,14 +81,14 @@
 	</string>
 	
 	<string id="st_binocular_name">
-		<text>Military binoculars</text>
+		<text>군용 쌍안경</text>
 	</string>
 	<string id="st_binocular_descr">
 		<text>우크라이나 군대의 제식 쌍안경입니다. 존에서 먼 곳에 있는 사물을 관찰하는 데 유용합니다. 매우 튼튼합니다.</text>
 	</string>
 	
 	<string id="st_con_checker_name">
-		<text>Paper of equipment condition</text>
+		<text>장비 상태 기록장</text>
 	</string>
 	<string id="st_con_checker_descr">
 		<text>장비의 상태가 적혀 있는 종이 쪽지입니다.\n \n
@@ -98,7 +98,7 @@
 	</string>
 	
 	<string id="st_container_tool_name">
-		<text>Artefact handling tool</text>
+		<text>아티팩트 집게</text>
 	</string>
 	<string id="st_container_tool_descr">
 		<text>튼튼한 강철로 만들어진 집게로, 아티팩트를 집어올리기 위해 만들어졌습니다. 특수한 작동 방법을 채택했기 때문에, 컨테이너에서 아티팩트를 꺼낼 수 있는 다른 방법은 없습니다. 집게는 아티팩트를 맨손으로 잡을 때 화상입는 것을 피하게 만들어주기도 하지만, 아티팩트로 인한 정신 및 신경계의 영향은 막아주지 않습니다. 존에서 돌아다니는 진정한 아티팩트 사냥꾼들이 이와 유사한 도구 없이 거점에서 떠나는 경우는 거의 없습니다.\n \n
@@ -109,7 +109,7 @@
 	</string>
 	
 	<string id="st_lead_box_name">
-		<text>Lead-lined metal container (empty)</text>
+		<text>납 내장식 금속 컨테이너 (비어있음)</text>
 	</string>
 	<string id="st_lead_box_descr">
 		<text>납 내장식 금속 컨테이너 (LLMC)는 두꺼운 외벽과 압축 코팅 방식을 사용한 무거운 뚜껑과 함께 거품식 완충 구조로 되어 있는 단순한 금속 상자입니다. 방사능 물질을 운반하기 위한 특수한 설계를 바탕으로, 존에서 LLMC는 아티팩트 저장 및 운반 장비들 중 가장 흔하게 채용됩니다. 이 물건은 방사능이 새는 것을 모두 막아주기 때문에, 아티팩트를 가지고 다녀도 사용자가 방사능 및 으로부터 안전해지는 것을 보장해 줍니다. 하지만, 이 장치는 벨트에 장착할 수 없으므로, 아티팩트로 인한 긍정적인 효과나 부정적인 효과들은 모두 적용되지 않습니다. 내용물들은 아티팩트 집게로 다룰 수 있습니다.\n \n
@@ -123,7 +123,7 @@
 	</string>
 	
 	<string id="st_lead_box_half_name">
-		<text>Lead-lined metal container (half-filled)</text>
+		<text>납 내장식 금속 컨테이너 (절반 참)</text>
 	</string>
 	<string id="st_lead_box_half_descr">
 		<text>납 내장식 금속 컨테이너 (LLMC)는 두꺼운 외벽과 압축 코팅 방식을 사용한 무거운 뚜껑과 함께 거품식 완충 구조로 되어 있는 단순한 금속 상자입니다. 방사능 물질을 운반하기 위한 특수한 설계를 바탕으로, 존에서 LLMC는 아티팩트 저장 및 운반 장비들 중 가장 흔하게 채용됩니다. 이 물건은 방사능이 새는 것을 모두 막아주기 때문에, 아티팩트를 가지고 다녀도 사용자가 방사능 및 으로부터 안전해지는 것을 보장해 줍니다. 하지만, 이 장치는 벨트에 장착할 수 없으므로, 아티팩트로 인한 긍정적인 효과나 부정적인 효과들은 모두 적용되지 않습니다. 내용물들은 아티팩트 집게로 다룰 수 있습니다.\n \n
@@ -137,7 +137,7 @@
 	</string>
 	
 	<string id="st_lead_box_closed_name">
-		<text>Lead-lined metal container (full)</text>
+		<text>납 내장식 금속 컨테이너 (가득 참)</text>
 	</string>
 	<string id="st_lead_box_closed_descr">
 		<text>납 내장식 금속 컨테이너 (LLMC)는 두꺼운 외벽과 압축 코팅 방식을 사용한 무거운 뚜껑과 함께 거품식 완충 구조로 되어 있는 단순한 금속 상자입니다. 방사능 물질을 운반하기 위한 특수한 설계를 바탕으로, 존에서 LLMC는 아티팩트 저장 및 운반 장비들 중 가장 흔하게 채용됩니다. 이 물건은 방사능이 새는 것을 모두 막아주기 때문에, 아티팩트를 가지고 다녀도 사용자가 방사능 및 으로부터 안전해지는 것을 보장해 줍니다. 하지만, 이 장치는 벨트에 장착할 수 없으므로, 아티팩트로 인한 긍정적인 효과나 부정적인 효과들은 모두 적용되지 않습니다. 내용물들은 아티팩트 집게로 다룰 수 있습니다.\n \n
@@ -151,7 +151,7 @@
 	</string>
 	
 	<string id="st_crowbar">
-		<text>Crowbar (reusable)</text>
+		<text>빠루 (재사용 가능)</text>
 	</string>
 	<string id="st_crowbar_descr">
 		<text>자물쇠나 경첩이 분리된 문을 열기 위한 가장 좋은 도구이다. 공업 지대에서 주로 발견됩니다. 몇몇 스토커들은 무거운 무게에도 불구하고 알 수 없는 이유로 짐에 넣어 가지고 다닙니다. 가치는 낮습니다. 한 유명한 스토커가 "블랙 메사의 자산" 이라고 쓰여진 유니크한 빠루를 들고 다녔다고 전해집니다. 이 물건은 몇몇 스토커들이 마치 희귀하고 값진 아티팩트라도 찾고 있는 것마냥 찾아다니고 있어 수요가 높습니다.\n \n
@@ -161,7 +161,7 @@
 	</string>
 	
 	<string id="st_bolts_pack">
-		<text>Pack of bolts</text>
+		<text>볼트 꾸러미</text>
 	</string>
 	<string id="st_bolts_pack_descr">
 		<text>볼트는 값싸고 흔한 물건이기 때문에, 이상현상을 탐지하는 데 저렴한 대체품처럼 쓰입니다. 많은 양의 볼트나 빈 탄피들을 담은 작은 꾸러미는 상인들이 항상 팔고 있을 것입니다.\n \n
@@ -172,7 +172,7 @@
 	
 	
 	<string id="st_swiss">
-		<text>Swiss knife</text>
+		<text>스위스 나이프</text>
 	</string>
 	<string id="st_swiss_descr">
 		<text>음식물이 든 캔을 따거나, 장비들을 유지하거나, 밧줄을 자르거나 탄환을 날카롭게 만들고 싶으신가요? 이 다용도 고급 스위스제 나이프를 사용하세요. 작은 상자에 포장되어 있습니다. 존에서 흔하게 찾을 수 있어, 가치는 낮습니다. 하지만, 이 물건은 무기나 장비를 수리하기 위한 보조 도구로서 사용할 수 있습니다.\n \n 
@@ -183,7 +183,7 @@
 	</string>
 	
 	<string id="st_grooming">
-		<text>Grooming kit</text>
+		<text>면도 도구</text>
 	</string>
 	<string id="st_grooming_descr">
 		<text>발리스틱 나일론 여행 케이스에 담긴 수염 빗과 소형 안면 가위, 남성 크기의 손가락에 거는 고리, 매우 날카로운 스테인리스강 면도날, 미끄럼 방지 고무 손잡이, 그리고 정밀한 손질용 막대로 구성되어 있는 면도용 키트입니다.\n
@@ -194,7 +194,7 @@
 	</string>
 	
 	<string id="st_drugs_kit">
-		<text>Small drug kit</text>
+		<text>작은 약물 키트</text>
 	</string>
 	<string id="st_drugs_kit_descr">
 		<text>약물을 관리하거나 만들어내는 작은 상자와 다양한 금속 부품들로 만들어진 키트입니다. 몇 개의 플라스틱 봉지에는 약제와 허브가 들어 있습니다.\n
@@ -208,34 +208,34 @@
 		<text>Sleeping bag</text>
 	</string>
 	<string id="st_itm_sleepbag_descr">
-		<text>A light sleeping bag that will keep you warm and dry when you need to rest. Be sure to pick a safe spot with a possible escape route. The bag is automatically picked up after sleeping or if hit "cancel" button.\n \n
-		%c[d_cyan]WARNING:\n \n
-		%c[ui_gray_1]Sleeping in the open may attract predators. Does not protect from radiation.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] sets up portable bed\n
-		%c[d_blue] • %c[ui_gray_2] infinite usages\n
-		%c[d_blue] • %c[ui_gray_2] everyday item\n</text>
+		<text>가벼운 침낭으로 쉬고 있을 때 몸을 따뜻하고 건조하게 유지해줄 수 있습니다. 반드시 탈출구가 있는 안전한 장소를 골라서 사용해야 합니다. 침낭은 잠을 잔 뒤나 잠자는 동안 "취소" 버튼을 눌렀을 때 자동으로 수거됩니다.\n \n
+		%c[d_cyan]경고: \n \n
+		%c[ui_gray_1]개방된 장소에서의 수면은 침입자를 끌어들일 수 있습니다. 방사능을 보호해 주지 않습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 휴대용 침낭을 설치함\n
+		%c[d_blue] • %c[ui_gray_2] 계속 사용 가능함\n
+		%c[d_blue] • %c[ui_gray_2] 일상 용품\n</text>
 	</string>
 	
 	<string id="st_compression_bag">
-		<text>Compression bag</text>
+		<text>압축 배낭</text>
 	</string>
 	<string id="st_compression_bag_descr">
-		<text>Holds a small sleeping bag or a small number of clothes\n \n
-		%c[ui_gray_2] PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] use near unrolled sleeping bag to pack it up\n
-		%c[d_blue] • %c[ui_gray_2] everyday item\n</text>
+		<text>작은 침낭이나 적은 양의 옷을 넣을 수 있습니다.\n \n
+		%c[ui_gray_2] 특징:\n
+		%c[d_blue] • %c[ui_gray_2] 근처의 포장되지 않은 침낭을 싸는데 사용함\n
+		%c[d_blue] • %c[ui_gray_2] 일상 용품\n</text>
 	</string>
 	
 	<string id="st_itm_tent_bag">
-		<text>Empty bag for camping tent</text>
+		<text>캠핑용 천막의 빈 가방</text>
 	</string>
 	<string id="st_itm_tent_bag_descr">
-		<text>A bag, intended for the storage and transportation of a camping tent. Disassembly and packing takes some time.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] everyday item\n
-		%c[d_orange] • %c[ui_gray_2] used for packing a tent\n
-		%c[d_blue] • %c[ui_gray_2] unlimited usages\n</text>
+		<text>캠핑 천막을 담고 운반하기 위해 만들어진 배낭입니다. 꺼내거나 담아 넣는 작업은 시간이 걸립니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 일상 용품\n
+		%c[d_orange] • %c[ui_gray_2] 천막을 포장하는 데 사용\n
+		%c[d_blue] • %c[ui_gray_2] 계속 사용 가능함\n</text>
 	</string>
 
 	<string id="st_itm_tent_name">
@@ -243,10 +243,10 @@
 	</string>
 	<string id="st_itm_tent_descr">
 		<text>A bag containing a tent for camping, sheltering from rain and wind. Assembly and installation takes some time. In the Zone, it is best deployed in a place with escape routes in case of danger.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 일상 용품\n
 		%c[d_orange] • %c[ui_gray_2] used for deploying tent\n
-		%c[d_blue] • %c[ui_gray_2] unlimited usages\n</text>
+		%c[d_blue] • %c[ui_gray_2] 계속 사용 가능함\n</text>
 	</string>
 	
 	<string id="st_lighter">
@@ -254,13 +254,13 @@
 	</string>
 	<string id="st_lighter_descr">
 		<text>A reliable, water-proof source of fire in the Zone is essential not only for cooking meals, but also for lighting a smoke or something stronger before - knock on wood - a fight with a controller. This durable and robust metal gas lighter is a perfect choice in light of the Zone's toxic and harmful environment.\n \n
-		%c[ui_gray_3]PROPERTIES: \n
+		%c[ui_gray_3]특징: \n
 		%c[d_orange] • %c[ui_gray_2] usable for: %c[ui_gray_1] cooking, smoking\n</text>
 	</string>
 	
 	<string id="st_lighter_refillers_descr">
 		<text>There is almost no point in carrying a lighter if you can't use it to light anything. Experienced stalkers always remember to fill their lighters with fuel before departing on longer excursions deep into the Zone. Commonly available "Carcinoleum" lighter fuel is relatively cheap and serves the purpose sufficiently well.\n \n
-		%c[ui_gray_3]PROPERTIES:\n 
+		%c[ui_gray_3]특징:\n 
 		%c[d_orange] • %c[ui_gray_2] usable for: %c[ui_gray_1] fuelling lighters (+100%)\n</text>
 	</string>
 	
@@ -285,7 +285,7 @@
 	</string>
 	<string id="st_itm_mapkit_descr">
 		<text>An untitled document that contains some hand-written sheets of paper, personal pictures and few worn paragraphs. Nothing really special except for one big printed map with some marked locations. Apparently the owner was an artefact hunter.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
+		%c[ui_gray_3]특징:\n
 		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
 		%c[d_green] • %c[ui_gray_2] informative\n
 		</text>
@@ -323,8 +323,8 @@
 	</string>
 	<string id="st_ammo_box_descr">
 		<text>Every stalker is aware of the importance of reliable weaponry. That's the reason a daily and thorough examination of your shooter is vital to your survival. Stalkers often count their ammo and clean it to minimise the risk of a weapon jam in the heat of battle.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 일상 용품\n
 		</text>
 	</string>
 	
