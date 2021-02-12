@@ -3,10 +3,10 @@
 
 <!-- Butcher -->
 	<string id="hunter_gar_trader_task_1_name">
-		<text>Cull Hunting</text>
+		<text>도태 사냥</text>
 	</string>
 	<string id="hunter_gar_trader_task_1_text">
-		<text>Butcher tracked down a mutant lair that needs clearing. I've agreed to do the dirty work of flushing it out.</text>
+		<text>Butcher는 정리해야 할 돌연변이 둥지를 찾아냈다. 돌연변이를 쫓아내는 더러운 일을 하기로 동의했다.</text>
 	</string>
 	<string id="hunter_gar_trader_task_1_about">
 		<text>Hmm. I've scouted out a mutant den that could do with clearing. It's starting to give local stalkers some trouble, but a well-prepared hunter shouldn't have any issue flushing it out. So, feel like some hunting today? I'll pay you for your skill, and you can sell me any meats or trophies you've collected once you get back.</text>
