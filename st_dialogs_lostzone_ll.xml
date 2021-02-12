@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="voronin_living_legend_0">
-		<text>General, Colonel Petrenko said you're looking for men to track down some stalker.</text>
+		<text>장군님, 페트렌코 대령이 말하길 어떤 스토커를 추적 할 사람을 찾고 계신다 들었습니다.</text>
 	</string>
 	<string id="voronin_living_legend_1">
 		<text>Indeed. Difficult times have come. Emissions are frequent and devastating. The Miracle Machine and the Brain Scorcher are active again. The Monolith relentlessly attempts to expand their territory. But an old ally, a legendary stalker who had almost managed to defeat them all returned. I knew him as the Marked One, although his true name is Strelok. While he was not a member of Duty, he was a determined warrior, and one of the few to assault the CNPP and live to tell the tale. After all this time, he may possess the secret knowledge required to destroy the Zone once and for all. Find him, or at least learn what he knows, so we can provide the manpower and resolve to achieve that goal.</text>
@@ -77,10 +77,10 @@
 	</string>
 	
 	<string id="sidorovich_living_legend_0">
-		<text>Wait, what's this commotion about Strelok?</text>
+		<text>잠깐만, 스트렐록에 관해서 왜이리 소란이야?</text>
 	</string>
 	<string id="sidorovich_living_legend_1">
-		<text>You see, back in 2012 Barkeep and I organised a campaign to gain access to the centre of the Zone. A stalker called Marked One, or rather Strelok, helped us a lot, he disabled the Brain Scorcher. The thing is, he's never returned from the CNPP. We thought he got swallowed up by a spatial anomaly, or kidnapped by Spetsnaz. But apparently Strelok's back in the Zone, more active than ever. And I bet he's now privy to some top secret knowledge. Valuable knowledge. How about you investigate the rumours of his return, find him and obtain that knowledge?</text>
+		<text>알다시피, 2012년에 바텐더와 나는 존의 중심부에 접근하기 위해 작전을 펼쳤지. 마크드원 이라고 불렸던 스토커, 스트렐록은 우리를 많이 도와줬고, 브레인 스코처를 무력화시켰지. 중요한 건, 스트렐록이 CNPP에서 돌아오지 않았다는 거야. 우린 스트렐록이 spatial 이상현상에 잡아먹혔다고 생각했거나 스페츠나즈에게 납치되었다고 생각했지. 하지만 듣자하니 스트렐록이 그 어느 때 보다 활동적인 지금의 존에 돌와왔다더군. 그리고 난 스트렐록이 지금 극비지식에 관여하고 있다고 장담하지. 귀중한 지식말이야. 스트렐록이 돌아왔다는 소문을 조사해서 그를 찾아 낸 다음 그 귀중한 지식을 얻는 건 어때?</text>
 	</string>
 	<string id="sidorovich_living_legend_2">
 		<text>Sounds exciting. Alrighty, I'll try to track him down.</text>
