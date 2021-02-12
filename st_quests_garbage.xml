@@ -9,44 +9,44 @@
 		<text>Butcher는 정리해야 할 돌연변이 둥지를 찾아냈다. 돌연변이를 쫓아내는 더러운 일을 하기로 동의했다.</text>
 	</string>
 	<string id="hunter_gar_trader_task_1_about">
-		<text>Hmm. I've scouted out a mutant den that could do with clearing. It's starting to give local stalkers some trouble, but a well-prepared hunter shouldn't have any issue flushing it out. So, feel like some hunting today? I'll pay you for your skill, and you can sell me any meats or trophies you've collected once you get back.</text>
+		<text>흠. 정리가 필요한 돌연변이 동굴을 정찰했어. 지역 스토커들에게 문제를 일으키기 시작했긴 하지만, 잘 대비된 사냥꾼은 그놈들을 쓸어버리는 데에 아무런 문제가 없을 거야. 그래서, 오늘 사냥할만한 기분이 들어? 난 네 기술에 대한 대가를 치르고 넌 돌아와서 얻은 고기나 전리품을 팔면 되지.</text>
 	</string>
 	<string id="hunter_gar_trader_task_1_finish">
-		<text>Once again the local ecosystem is in balance... hehe. Here's your reward for a job well done.</text>
+		<text>지역 생태계의 균형이 다시 맞춰졌군... 히히. 일을 잘 해준 대가야.</text>
 	</string>
 
 	<string id="hunter_gar_trader_task_2_name">
-		<text>Find %s for Butcher</text>
+		<text>Butcher에게 줄 %s를 찾아라</text>
 	</string>
 	<string id="hunter_gar_trader_task_2_text">
-		<text>The Butcher needs %s and has asked me to bring him some.</text>
+		<text>Butcher는 %s가 필요하다. 나에게 몇 개 가져와 달라고 했다.</text>
 	</string>
 	<string id="hunter_gar_trader_task_2_about">
-		<text>Some people pay good money for mutant meat.</text>
+		<text>어떤 사람들은 돌연변이 고기를 사기 위해 많은 돈을 지불하지.</text>
 	</string>
 	<string id="hunter_gar_trader_task_2_fetch_about">
-		<text>On occasion, I cure mutant meats and send them off to Barkeep and other traders to help them supplement their imported food. Right now, I'm looking to prepare %s to send off wholesale. If you can bring me the raw goods for this, it'll mean some good cash in your pocket.</text>
+		<text>가끔 돌연변이 고기를 보존한 다음 보내서 Barkeep과 다른 무역상들이 식자재를 보충하는걸 돕지. 지금은 도매로 보낼 %s를 준비하려고 해. 그래서 날고기를 나에게 가져다 준다면, 네 주머니가 두둑하게 찰 거란걸 의미하지.</text>
 	</string>
 	<string id="hunter_gar_trader_task_2_fetch_finish">
-		<text>Ah, brilliant! These meats may look disgusting now, but just you wait until they're prepared. They'll be delicious!</text>
+		<text>아, 훌륭하군! 이 고기들이 지금은 역겨워 보일지 모르지만, 준비 될 때 까지 기다리라구. 맛있을거야!</text>
 	</string>
 
 	
 <!-- Flea Market -->
 	<string id="baraholka_trader_night_task_1_name">
-		<text>Find the "%s" artefact</text>
+		<text>"%s"아티팩트를 찾아라</text>
 	</string>
 	<string id="baraholka_trader_night_task_1_text">
-		<text>The trader at the flea market wants me to find a %s.</text>
+		<text>flea market의 상인은 %s를 찾아주길 원한다.</text>
 	</string>
 	<string id="baraholka_trader_night_task_1_about">
-		<text>You want to earn some loot looking for artefacts of the less common variety? I can offer you some good equipment.</text>
+		<text>흔하지 않은 아티팩트를 찾아서 돈 좀 벌고싶어? 난 좋은 장비를 제공 해줄 수 있어.</text>
 	</string>
 	<string id="baraholka_trader_night_task_1_fetch_about">
-		<text>Feel like earning some loot while looking for rare artefacts? For a "%s", I can offer you some more stuff.</text>
+		<text>진귀한 아티팩트를 찾아서 돈 좀 벌고싶어? "%s"라면 좀 더 많이 지불해줄 수 있어.</text>
 	</string>
 	<string id="baraholka_trader_night_task_1_fetch_finish">
-		<text>Ah, great work, stalker. Here, for you.</text>
+		<text>아, 아주 잘했어 스토커. 자, 네 보수야.</text>
 	</string>
 
 
