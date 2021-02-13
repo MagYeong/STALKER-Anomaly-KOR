@@ -149,9 +149,9 @@
 	<string id="st_corn_descr">
 		<text>외부에서 들여온  옥수수통조림입니다. 그대로 먹을 수 있지만, 수프 재료로 사용하는 사람도 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] \n
-		%c[d_blue] • %c[ui_gray_2] imported\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입됨\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 영양 공급원\n
 		</text>
 	</string>
 	
@@ -160,10 +160,10 @@
 	</string>
 	<string id="st_beans_descr">
 		<text>(부대찌개에 들어가는 '그 콩' 통조림) 서쪽에서 가져온 강낭콩 통조림입니다. 토마토 소스 속의 강낭콩은 몇몇 사람들에게 좋은 추억을 가져다 줄지도 모릅니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] food\n
-		%c[d_blue] • %c[ui_gray_2] imported\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[ui_gray_3]특징 :\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입됨\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 영양 공급원\n
 		</text>
 	</string>
 	
@@ -172,10 +172,10 @@
 	</string>
 	<string id="st_chili_descr">
 		<text>서양에서 수입된 칠리소스 콩 통조림입니다. 존에서 일부 요리 재료로 인기 있습니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] food\n
-		%c[d_blue] • %c[ui_gray_2] imported\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입됨\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 영양 공급원\n
 		</text>
 	</string>
 	
@@ -184,10 +184,10 @@
 	</string>
 	<string id="st_conserva_descr">
 		<text>깡통 뒤의 유통기한 전까지 가장 좋으며, 맛을 기대하지 마십시오.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] food\n
-		%c[d_blue] • %c[ui_gray_2] imported\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입됨\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 영양 공급원\n
 		</text>
 	</string>
 	
@@ -196,10 +196,10 @@
 	</string>
 	<string id="st_tushonka_descr">
 		<text>투숀카(Tushonka)는 소비에트 연방과 다른 바르샤바 조약국들에서 생산되는 통조림, 스튜의 통칭입니다. 아이러니한 것은 이 아이디어가 원래 2차 세계대전의 원조 수송수단의 형태로 미국에서 러시아로 왔다는 것입니다. 그 이후, 다양한 종류의 투숀카가 오랜 기간 동안 육류를 보존하는 주요 수단이 되었으며, 이는 민간인들이 사용하는 것과 표준 문제인 붉은 군대의 식량 배급으로 사용되었습니다. 긴 유효기간에도 불구하고 투숀카는 높은 영양가(대부분 지방 함량이 높기 때문)와 비교적 좋은 맛으로 알려져 있습니다. 체르노빌 출입 금지 구역에는 수백 가지 종류와을 맛을 지닌 투숀카들이 보여져왔습니다. 2013년 봄, '아바칸' 분쇄육 브랜드는 의심의 여지가 없는 왕으로 남아있습니다. 그리고 존은 확실히 그것보다 더 나쁜 것을 보았습니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] food\n
-		%c[d_blue] • %c[ui_gray_2] imported\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입됨\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 영양 공급원\n
 		</text>
 	</string>
 	
@@ -209,11 +209,11 @@
 	</string>
 	<string id="st_salmon_descr">
 		<text>우크라이나산 훈제 연어. 존에 들여오자마자, 가장 높은 입찰자에게 떨어집니다. 매우 가치있습니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] food\n
-		%c[d_blue] • %c[ui_gray_2] imported\n
-		%c[d_blue] • %c[ui_gray_2] high quality\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입됨\n
+		%c[d_blue] • %c[ui_gray_2] 고품질\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 영양 공급원\n
 		</text>
 	</string>
 	
@@ -222,10 +222,10 @@
 	</string>
 	<string id="st_raisins_descr">
 		<text>건포도 한 팩. 영양소가 풍부하고, 혈당을 조절합니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] food\n
-		%c[d_blue] • %c[ui_gray_2] imported\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입됨\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 영양 공급원\n
 		</text>
 	</string>
 	
@@ -234,12 +234,12 @@
 	</string>
 	<string id="st_chocolate_descr">
 		<text>러시아산 초콜릿. 존에서는 매우 희귀하고 맛은 특별하지 않지만 꽤 가치가 있습니다. 존의 거칠고 가혹한 환경에서 사는 고통을 달래는 데 도움이 될 수 있는 많은 어린 시절의 추억을 떠올려줍니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] food\n
-		%c[d_blue] • %c[ui_gray_2] imported\n
-		%c[d_blue] • %c[ui_gray_2] high quality\n
-		%c[d_blue] • %c[ui_gray_2] valuable\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입됨\n
+		%c[d_blue] • %c[ui_gray_2] 고품질\n
+		%c[d_blue] • %c[ui_gray_2] 가치있음\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 영양 공급원\n
 		</text>
 	</string>
 	
@@ -248,12 +248,12 @@
 	</string>
     <string id="st_chocolate_p_descr">
 		<text>러시아산 초콜릿. 존에서는 매우 희귀하고 맛은 특별하지 않지만 꽤 가치가 있습니다. 존의 거칠고 가혹한 환경에서 사는 고통을 달래는 데 도움이 될 수 있는 많은 어린 시절의 추억을 떠올려줍니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] food\n
-		%c[d_blue] • %c[ui_gray_2] imported\n
-		%c[d_blue] • %c[ui_gray_2] high quality\n
-		%c[d_blue] • %c[ui_gray_2] valuable\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입됨\n
+		%c[d_blue] • %c[ui_gray_2] 고품질\n
+		%c[d_blue] • %c[ui_gray_2] 가치있음\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 영양 공급원\n
 		</text>
 	</string>
 	
@@ -262,7 +262,7 @@
 	</string>
 	<string id="st_mint_descr">
 		<text>서양에서 수입된 민트 향의 알토이즈(캔디). 그것들은 매우 상쾌하고 입에서 나오는 방사선 입자들을 제거합니다. 그것들은 또한 잠깐 동안 졸음을 줄여주는 것처럼 보입니다. 입에 잘 맞지 않기 때문에, 한 번에 10분 정도 드실 수 있습니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
+		%c[ui_gray_3]특징:\n
 		</text>
 	</string>
 	
@@ -271,7 +271,7 @@
 	</string>
 	<string id="st_nuts_descr">
 		<text>모듬 땅콩, 헤이즐넛, 캐슈넛, 아몬드 등이 우수하고 인기 있는 혼합 견과류입니다. 영양가가 상당히 높습니다. 남아프리카에서 수입합니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
+		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] food\n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] high quality\n
