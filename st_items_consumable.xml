@@ -12,12 +12,12 @@
 	</string>
 	<string id="st_vodka_descr">
 		<text>네미로프(Nemiroff)는 보드카와 양주에 특화된 우크라이나의 주류 생산업체로, 비니츠카 주의 네미리브에 본부를 두고 있습니다. 존에서-더 나아가- 세계에서 가장 좋은 보드카 중 하나입니다.\n \n
-		%c[ui_gray_3]NOTE:\n \n
+		%c[ui_gray_3]특이사항:\n \n
 		%c[ui_gray_1]It is commonly known that this brand of alcohol is preferred by the Ecologist's chef at Yantar. Rumours exist that he'll happily smuggle military gear into the hands of common stalkers in exchange for a few swigs from a bottle, but such stories have yet to be substantiated.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] drink\n
-		%c[d_blue] • %c[ui_gray_2] stimulant\n
-		%c[d_red] • %c[ui_gray_2] strong alcohol\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음료\n
+		%c[d_blue] • %c[ui_gray_2] 각성제\n
+		%c[d_red] • %c[ui_gray_2] 독한 술\n
 		</text>
 	</string>
 	
@@ -26,10 +26,10 @@
 	</string>
 	<string id="st_vodka2_descr">
 		<text>러시아 지도자들의 이름을 따서 보드카 브랜드를 명명하는 전통에 따라, 푸틴이 대통령에 당선된 후 푸틴카는 처음으로 생산에 들어갔습니다. 러시아에서 최고급 곡물과 시베리아 샘의 수정처럼 맑은 물로 생산됩니다. 이 음료의 특징은 3중 정수, 부드러운 목넘김, 독특한 맛뿐만이 아닙니다. 적당히 마십시오.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] drink\n
-		%c[d_blue] • %c[ui_gray_2] stimulant\n
-		%c[d_red] • %c[ui_gray_2] strong alcohol\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음료\n
+		%c[d_blue] • %c[ui_gray_2] 각성제\n
+		%c[d_red] • %c[ui_gray_2] 독한 술\n
 		</text>
 	</string>
 	
@@ -38,10 +38,10 @@
 	</string>
 	<string id="st_vodka_quality_descr">
 		<text>러시아인과 전세계의 많은 사람들 사이에서 인기가 있습니다. 고급 품질의 러시아 보드카입니다. 존에서 매우 인기있고, 아마 상인들 중 한 명이 외부와의 접촉 때문에 널리 쓰이고 있습니다. 존 주변에 주둔하고 있는 군부대의 눈을 피하기 위해 보통 군용 컨테이너나 금속 통에 담아 운송된 뒤 튼튼한 금속 병에 담아 유통됩니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] stimulant\n
-		%c[d_red] • %c[ui_gray_2] strong alcohol\n
-		%c[d_blue] • %c[ui_gray_2] high quality\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 각성제\n
+		%c[d_red] • %c[ui_gray_2] 독한 술l\n
+		%c[d_blue] • %c[ui_gray_2] 고품질\n
 		</text>
 	</string>
 	
@@ -50,13 +50,13 @@
 	</string>
 	<string id="st_beer_descr">
 		<text>우크라이나 맥주. 또 다른-보드카 비해- 존에서 인기 있는 음료입니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] drink\n
-		%c[d_blue] • %c[ui_gray_2] imported\n
-		%c[d_blue] • %c[ui_gray_2] stimulant\n
-		%c[d_red] • %c[ui_gray_2] light alcohol\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
-		%c[d_blue] • %c[ui_gray_2] high quality\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음료\n
+		%c[d_blue] • %c[ui_gray_2] 수입됨\n
+		%c[d_blue] • %c[ui_gray_2] 각성제\n
+		%c[d_red] • %c[ui_gray_2] 저알콜의 술\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 영양 공급원\n
+		%c[d_blue] • %c[ui_gray_2] 고품질\n
 		</text>
 	</string>
 	
@@ -65,9 +65,9 @@
 	</string>
 	<string id="st_bottle_metal_descr">
 		<text>존에서 생산한 보드카로 보이는 것이 들어 있는 철제 병입니다. 냄새가 강하지 않지만, 가스가 차있습니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] stimulant\n
-		%c[d_red] • %c[ui_gray_2] strong, low quality alcohol\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 각성제\n
+		%c[d_red] • %c[ui_gray_2] 독하지만, 저품질의 술\n
 		</text>
 	</string>
 	
@@ -78,11 +78,11 @@
 	<string id="st_energy_drink_descr">
 		<text>피곤할 때, 지치지 않게 해주는 효과로 인해 스토커가 장시간 여행을 할 때 자주 사용합니다. 또한 이 드링크는 당신이 술 취했을 때 당신을 약간 깨게해줄 뿐만 아니라 혈관에 아드레날린의 방출을 유도합니다. 과다복용을 금지합니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] drink\n
-		%c[d_blue] • %c[ui_gray_2] imported\n
-		%c[d_blue] • %c[ui_gray_2] stimulant\n
-		%c[d_blue] • %c[ui_gray_2] potent alcohol sobering effect\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[d_blue] • %c[ui_gray_2] 음료\n
+		%c[d_blue] • %c[ui_gray_2] 수입됨\n
+		%c[d_blue] • %c[ui_gray_2] 각성제\n
+		%c[d_blue] • %c[ui_gray_2] 강력한 숙취해소 효과\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 영양 공급원\n
 		</text>
 	</string>
 	
@@ -91,9 +91,9 @@
 	</string>
 	<string id="st_flask_descr">
 		<text>군용 플라스크는 소량의 물을 저장하기 위한 것입니다. 의료진과 과학자에 의해 쓰입니다. 첫째로, 물- 특별한 종류의 알코올과 넣어서-을 매우 높은 온도에서 끓여 정수와 소독을 합니다. 그 후, 그것을 매우 차가운 냉장고에서 식힙니다. 마지막 결과는 완전히 방사능이 없는 물입니다. 위와 같은 사항에도 불구하고 순도에 대한 의구심이 여전히 남아 있다면 언제든지 akvatab를 사용할 수 있습니다. 생산가격 때문에 군용 플라스크는 공급이 제한되어 있고, 적당한 가격에 판매됩니다. 의료진도 재고가 있지만, 운송비가 포함되어 있어 가격이 조금 더 비쌉니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] drink\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음료\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 영양 공급원\n
 		</text>
 	</string>
 		
@@ -102,8 +102,8 @@
 	</string>
 	<string id="st_kolbasa_descr">
 		<text>오래된 빵 한 덩이와 정체불명의 냄새 나는 고기가 갈색 종이로 싸여 있습니다. 모양과 냄새로 보아 일부가 곰팡이가 피었음을 알 수 있습니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_red] • %c[ui_gray_2] low quality\n</text>
+		%c[ui_gray_3]특징:\n
+		%c[d_red] • %c[ui_gray_2] 저품질\n</text>
 	</string>
 	
 	<string id="st_tea">
@@ -111,10 +111,10 @@
 	</string>
 	<string id="st_tea_descr">
 		<text>Beard(비어드)가 만든 유명하고 뜨거운 차는 설탕, 식용 건조 버섯, 그리고 방사능이 없는 끓인 물로 만들어 집니다. 이 차를 살 여유가 있는 스토커들은 종종 존에서 장거리 여행을 위해 이것을 가져갑니다. 피곤할 때나 추운 밤에 탐험할 때 건강에 좋습니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] drink\n
-		%c[d_blue] • %c[ui_gray_2] potent alcohol sobering effect\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음료\n
+		%c[d_blue] • %c[ui_gray_2] 강력한 숙취해소 효과\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 영양 공급원\n
 		</text>
 	</string>
 	
@@ -123,10 +123,10 @@
 	</string>
 	<string id="st_tomato_descr">
 		<text>잘게 잘라지고 다져진 토마토가 통조림되어 존으로 수입됩니다. 유통기한 전까지 신선하다고 알려져 있습니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] food\n
-		%c[d_blue] • %c[ui_gray_2] imported\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입됨\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 영양 공급원\n
 		</text>
 	</string>
 	
@@ -135,10 +135,10 @@
 	</string>
 	<string id="st_sausage_descr">
 		<text>쇠고기와 돼지고기로 만들어졌습니다. 훈제 및 진공 포장으로 장기간 보존이 가능합니다. 이 특별한 제품은 러시아 연방에서 수입된 것입니다. 뛰어난 맛과 향으로 러시아 마피아 두목들 사이에서 유명합니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] food\n
-		%c[d_blue] • %c[ui_gray_2] imported\n
-		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입됨\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 영양 공급원\n
 		</text>
 	</string>
 	
@@ -148,8 +148,8 @@
 	</string>
 	<string id="st_corn_descr">
 		<text>외부에서 들여온  옥수수통조림입니다. 그대로 먹을 수 있지만, 수프 재료로 사용하는 사람도 있습니다.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] • %c[ui_gray_2] food\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] \n
 		%c[d_blue] • %c[ui_gray_2] imported\n
 		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
 		</text>
