@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <!--===========================================================
 <
@@ -15,27 +15,27 @@
 
 	<!-- ACTOR:  Meets honcho after being sent by another honcho: -->
 	<string id="st_drx_sl_meet_honcho">
-		<text>I've come to see you.</text>
+		<text>당신을 만나러 왔어.</text>
 	</string>
 
 	<!-- ACTOR:  Accepts storyline task from honcho: -->
 	<string id="st_drx_sl_accept_task">
-		<text>Very well.</text>
+		<text>좋아.</text>
 	</string>
 
 	<!-- HONCHO:  Affirmation of task acceptance: -->
 	<string id="st_drx_sl_task_accepted">
-		<text>Good luck stalker.</text>
+		<text>행운을 비네 스토커.</text>
 	</string>
 
 	<!-- ACTOR:  Leaves honcho: -->
 	<string id="st_drx_sl_actor_exit">
-		<text>Thanks.</text>
+		<text>고마워.</text>
 	</string>
 
 	<!-- DEFAULT END GAME TEXT: -->
 	<string id="drx_sl_default_endgame">
-		<text>The Wish Granter is calling you, and your time is nearing its end. Go to it, and you'll be given what you deserve.</text>
+		<text>소원을 들어주는 자가 그대를 부르고 있군요, 시간이 얼마 남지 않았어요. 어서 가세요, 그리고 마땅히 받아야 할 것을 누리세요.</text>
 	</string>
 
 
@@ -48,15 +48,15 @@
 		<text>존의 중심부에 소원을 들어주는 자가 존재한다는 이야기를 들었어. 사실이야?</text>
 	</string>
 	<string id="sidorovich_questlines_about_dialog_1">
-		<text>그래, 소원을 들어주는 자는 체르노빌에 있으니까 어서 가봐. 어디로 도망가지 않으니 조급해하지는 말라고, 흐흐...
-		\n애송아 내 말 잘 들어, 이미 네가 오기 전에 수많은 사람들이 소원을 들어주는 자를 찾으러 떠났다. 그런데 그 녀석들이 지금 어떻게 된 지 알아? 사이좋게 구더기 밥 신세가 되었지. 물론 스트렐록은 살아남았지만... 어찌 됐던, 소원을 들어주는 자에 대한 이야기는 그냥 떠도는 전설이고 신화일 뿐이다. 다 허구라고. 하지만 내가 너한테 주는 돈은 진짜야. 내가 시키는 일만 잘 해내면 돈 좀 만질 수 있게 해주지.</text>
+		<text>그래, 소원을 들어주는 자는 체르노빌에 있으니까 어서 가봐. 어디로 도망가 버릴지도 모르니 서두르라고, 헤헤...
+		\n애송아 내 말 잘 들어, 이미 네가 오기 전에 수많은 사람들이 소원을 들어주는 자를 찾으러 떠났다. 그런데 그 녀석들이 지금 어떻게 되었는지 알아? 사이좋게 구더기 밥 신세가 되었지. 어쩌면 스트렐록은 살아남았을지도... 어찌 됐든, 소원을 들어주는 자에 대한 이야기는 그냥 떠도는 전설이고 신화일 뿐이야. 하지만 내가 너한테 주는 돈은 진짜다. 내가 시키는 일만 잘 해낸다면 큰돈을 만질 수 있을 거야.</text>
 	</string>
 	
 	<string id="drx_sl_esc_m_trader_game_start_dialog_1_0">
-		<text> 허구든 사실이든 어차피 장비를 갖추려면 돈이 필요해. 어떻게 하면 돈을 벌수 있지?</text>
+		<text>좋아, 그럼 어떻게 하면 돈을 벌수 있지?</text>
 	</string>
 	<string id="drx_sl_esc_m_trader_game_start_dialog_1_1">
-		<text>일단 네 PDA 이리 줘봐... 됐다. 시간 날 때 여기 내가 표시해둔 곳으로 가봐. 네 얼마 남지 않은 인생에 도움이 될만한 사람들이니까. 흐흐... 네가 일만 잘 하면 섭섭하지 않게 보수를 받을 수 있을 거야. 모두 정직한 일들이니까 걱정 말라고, 최소한 존에서는 말이야.</text>
+		<text>네 PDA 이리 줘봐...됐다. 시간 날 때 여기 내가 표시해둔 곳으로 가봐. 짭짤한 보수는 물론이고 네가 앞으로 살아가는데 좋은 인연이 되어줄 사람들을 만날 수 있을 거야. 모두 정직한 일이니까 걱정 마, 최소한 존 안에서는 말이지. 날 실망시키지 말게.</text>
 	</string>
 	
 	<!--string id="drx_sl_esc_m_trader_game_start_dialog_1_1">
@@ -65,7 +65,7 @@
 
 	<!-- SIDOROVICH STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_esc_m_trader_start_game_1_endgame_1">
-		<text>You've made quite a name for yourself around here, stalker. Wolf says some of the rookies are even whispering your tales over the campfire - haha! Thank you for all your help, and try not to die to anything stupid now.</text>
+		<text>이 근방에서 이름좀 날리셨더군, 스토커. 울프가 그러길 신참들이 캠프 파이어에 둘러 앉아 자네 이야기를 하기 바쁘다더군, 하하! 자네의 모든 도움에 감사하네. 바보같이 굴다 죽지만 말라고. </text>
 	</string>
 
 
@@ -268,110 +268,110 @@
 
 	<!-- ACTOR:  Requests to change factions: -->
 	<string id="st_drx_sl_change_factions_request">
-		<text>I'm thinking of changing factions.</text>
+		<text>내 소속을 바꾸고 싶어.</text>
 	</string>
 
 	<!-- ACTOR:  Accepts change factions task from npc -->
 	<string id="st_drx_sl_accept_change_factions_task">
-		<text>I'll be back once I have what you've asked for.</text>
+		<text>당신이 부탁한 것을 가지고 다시 올게.</text>
 	</string>
 
 	<!-- NPC:  Affirmation of task acceptance: -->
 	<string id="st_drx_sl_change_factions_task_accepted">
-		<text>Good. With some luck, maybe we'll see you around here soon.</text>
+		<text>좋아. 행운을 빌지, 곧 다시 만났으면 좋겠군.</text>
 	</string>
 
 	<!-- ACTOR:  Leaves npc: -->
 	<string id="st_drx_sl_change_factions_actor_exit">
-		<text>Until then.</text>
+		<text>그때 보자고.</text>
 	</string>
 
 
 
 <!-- GENERAL -->
 	<string id="dm_universal_actor_start">
-		<text>I want to ask you something.</text>
+		<text>물어보고 싶은 게 있어.</text>
 	</string>
 	<string id="dm_universal_actor_exit">
-		<text>Never mind.</text>
+		<text>아무것도 아니야.</text>
 	</string>
 	<string id="dm_universal_actor_agree">
-		<text>Okay.</text>
+		<text>좋아.</text>
 	</string>
 	<string id="dm_universal_actor_exit_thanks">
-		<text>Thanks.</text>
+		<text>고마워.</text>
 	</string>
 	<string id="dm_universal_npc_start_1">
-		<text>About what?</text>
+		<text>뭐가 궁금하지?</text>
 	</string>
 	<string id="dm_universal_npc_start_2">
-		<text>Sure.</text>
+		<text>그래.</text>
 	</string>
 	<string id="dm_universal_npc_start_3">
-		<text>Go ahead.</text>
+		<text>말해봐.</text>
 	</string>
 	<string id="dm_universal_npc_start_4">
-		<text>Yes?</text>
+		<text>응?</text>
 	</string>
 	<string id="dm_no_more_1">
-		<text>I already told you.</text>
+		<text>이미 말해 줬잖아.</text>
 	</string>
 	<string id="dm_no_more_2">
-		<text>I don't know much more.</text>
+		<text>더 이상은 몰라.</text>
 	</string>
 	<string id="dm_no_more_3">
-		<text>That's all I know. Ask someone else.</text>
+		<text>그게 내가 아는 전부야. 다른 사람한테 물어 봐.</text>
 	</string>
 	<string id="dm_no_more_4">
-		<text>God damn, man. You got a hard-on for me? Ask someone else.</text>
+		<text>젠장, 이 친구야. 나한테 발기라도 한 거야? 다른 사람한테 물어 봐.</text>
 	</string>
 	<string id="dm_no_more_5">
-		<text>Not much more I can tell ya, man.</text>
+		<text>더 이상 해줄 말이 없어, 친구.</text>
 	</string>
 	<string id="dm_no_more_6">
-		<text>You can keep asking the same shit, but I got nothing more to say.</text>
+		<text>나한테 계속 같은걸 물어봐도, 더 이상 해줄 말이 없어.</text>
 	</string>
 	<string id="dm_no_more_7">
-		<text>Drop the subject, dude.</text>
+		<text>이 주제에 대한 이야기는 그만하자고.</text>
 	</string>
 	<string id="dm_no_more_8">
-		<text>Some other time, man.</text>
+		<text>나중에 물어봐, 친구.</text>
 	</string>
 	<string id="dm_no_more_9">
-		<text>Drop by later and maybe I can tell you more.</text>
+		<text>나중에 다시 오면 내가 더 말해줄 게 있을지도 모르겠네.</text>
 	</string>
 	<string id="dm_no_more_10">
-		<text>Eh. I ain't getting into much more depth. You have any other questions?</text>
+		<text>더 자세하게 알려줄 수 있는 정보가 없어. 다른 질문은 없어?</text>
 	</string>
 	<string id="dm_do_not_know_1">
-		<text>Bro, if I had all the answers, I wouldn't be in this shit dump.</text>
+		<text>형씨, 내가 모든 답을 다 알고 있다면, 이런 데에 처박혀 있을 리가 없지.</text>
 	</string>
 	<string id="dm_do_not_know_2">
-		<text>Good question. If you find out, share that info with me, will you?</text>
+		<text>좋은 질문이네. 답을 알아내면 나한테도 알려줘, 알았지?</text>
 	</string>
 	<string id="dm_do_not_know_3">
-		<text>You are putting me on the spot here, man. I don't know.</text>
+		<text>날 곤란하게 만들고 있구만, 형씨. 난 몰라.</text>
 	</string>
 	<string id="dm_do_not_know_4">
-		<text>Hell if I know, man.</text>
+		<text>내가 그걸 어떻게 알아, 이 친구야.</text>
 	</string>
 	<string id="dm_do_not_know_5">
-		<text>There's always something going on in the Zone, but nothing I would like to share with you.</text>
+		<text>존에서는 항상 뭔가가 일어나고 있지만, 별로 알려주고 싶지 않아.</text>
 	</string>
 	<string id="dm_do_not_know_6">
-		<text>I've nothing to tell you, man. Nobody tells me shit.</text>
+		<text>말해줄 만한게 없어, 친구. 나한테도 알려주는 사람이 아무도 없다고.</text>
 	</string>
 	<string id="dm_do_not_know_7">
-		<text>You're asking the wrong guy.</text>
+		<text>다른 사람 알아봐.</text>
 	</string>
 	<string id="dm_do_not_know_8">
-		<text>I'd like to know that too.</text>
+		<text>나도 참 알고 싶군 그래.</text>
 	</string>
 	<string id="dm_do_not_know_9">
-		<text>Sorry. I can't help you.</text>
+		<text>미안. 도와줄 수 없어.</text>
 	</string>
 	<string id="dm_do_not_know_10">
-		<text>Sorry. Got nothing.</text>
+		<text>미안. 아는 게 없어.</text>
 	</string>
 
 	<!-- Greetings -->
@@ -379,7 +379,7 @@
 		<text>어떻게 지내?</text>
 	</string>
 	<string id="dm_hello_general_2">
-		<text>이봐 친구, 무슨 일이야?</text>
+		<text>이봐, 친구. 무슨 일이야?</text>
 	</string>
 	<string id="dm_hello_general_3">
 		<text>안녕. 어떻게 지내?</text>
@@ -388,7 +388,7 @@
 		<text>안녕, 형씨.</text>
 	</string>
 	<string id="dm_hello_2">
-		<text>어서 와, 스토커.</text>
+		<text>반가워, 스토커.</text>
 	</string>
 	<string id="dm_hello_3">
 		<text>난 괜찮아. 무슨 일이야?</text>
@@ -403,10 +403,10 @@
 		<text>원하는 게 뭐야?</text>
 	</string>
 	<string id="dm_hello_7">
-		<text>지금까지는, 꽤 괜찮아. 너는?</text>
+		<text>지금까지는, 별일 없어. 너는?</text>
 	</string>
 	<string id="dm_hello_8">
-		<text>괜찮게 지내는 중이야. 필요한 게 있어?</text>
+		<text>잘 지내는 중이야. 필요한 거라도 있어?</text>
 	</string>
 	<string id="dm_hello_9">
 		<text>반가워!</text>
@@ -418,13 +418,13 @@
 		<text>꺼져, 스토커.</text>
 	</string>
 	<string id="dm_hello_12">
-		<text>원하는게 뭐야?</text>
+		<text>원하는 게 뭐야?</text>
 	</string>
 	<string id="dm_hello_13">
-		<text>그래, 한 질문 만이야, 그 뒤에는 농땡이 치지 않는 게 좋을 거야.</text>
+		<text>그래, 질문 하나 만이야, 그 후에는 농땡이 부리지 않는게 좋을거야.</text>
 	</string>
 	<string id="dm_hello_14">
-		<text>필요한 게 뭐야, 스토커?</text>
+		<text>필요한 거라도 있나, 스토커?</text>
 	</string>
 
 	<!-- Help -->
@@ -432,7 +432,7 @@
 		<text>제발 도와줘... 죽을 거 같아...</text>
 	</string>
 	<string id="dm_help_2">
-		<text>나좀 도와줘, 형씨... 아, 젠장, 아파 죽겠네!</text>
+		<text>나좀 도와줘, 형씨... 아, 젠장, 아파 죽겠다고!</text>
 	</string>
 	<string id="dm_help_3">
 		<text>거기 친구, 메디킷... 메디킷 좀 줘...</text>
@@ -450,13 +450,13 @@
 		<text>너무 아파... 도와줘!</text>
 	</string>
 	<string id="dm_help_8">
-		<text>좆같네 씨발!</text>
+		<text>이 좆같은 곳 같으니!</text>
 	</string>
 	<string id="dm_help_9">
 		<text>메디킷!</text>
 	</string>
 	<string id="dm_help_10">
-		<text>친구, 나좀 도와줘!</text>
+		<text>도와줘, 친구!</text>
 	</string>
 	<string id="dm_help_11">
 		<text>메디킷! 빨리!</text>
@@ -465,7 +465,7 @@
 		<text>도와줘! 나 죽겠어!</text>
 	</string>
 	<string id="dm_help_13">
-		<text>친구들, 응급처치가 필요해, 빨리!</text>
+		<text>응급처치가 필요해, 친구들! 빨리!</text>
 	</string>
 	<string id="dm_help_14">
 		<text>메디킷이 필요해! 도와줘!</text>
@@ -477,10 +477,10 @@
 		<text>이봐, 형씨, 메디킷 좀 나눠줄 수 있을까?</text>
 	</string>
 	<string id="dm_help_17">
-		<text>씨발 빨리 의사 좀 불러줘! 으윽, 혹시 메디킷 가지고 있어? 제발! 메디킷이 필요해!</text>
+		<text>씨발 빨리 의사 좀 불러줘! 으윽, 혹시 메디킷 가지고 있어? 제발! 내가 필요해!</text>
 	</string>
 
-	<!-- Anomalies -->
+<!-- Anomalies -->
 	<string id="dm_anomalies_general_1">
 		<text>이상현상이나 아티팩트에 대해 알고 있는 게 있어?</text>
 	</string>
@@ -494,175 +494,175 @@
 		<text>뭔가 말해줄 기분이 아니야.</text>
 	</string>
 	<string id="dm_anomalies_1">
-		<text>Ever seen a Burner? Even in daylight it's a faint haze. Step in it though and you'll be flame grilled before you can say "shoulda tossed a bolt".</text>
+		<text>불판 이상현상은 다소 잘 보이지가 않아. 해가 떠 있을 때도, 희미한 일렁임밖에 보이지 않아. 만약에 네가 볼트 하나를 던져 넣는다면, 그 이상현상은 높이 치솟아 오르는 불기등을 위쪽으로 쏘아 올리니까, 거리를 두도록 해.</text>
 	</string>
 	<string id="dm_anomalies_2">
-		<text>Comets aren't always in the night sky. The other day I saw a giant fecking fireball blazing about one of the thermal anomalies - as if thermals aren't a pain in the ass already.</text>
+		<text>혜성 이상현상들은 불판이랑 많이 비슷해, 둘 다 불이고, 다만... 네가 그걸 찾을 때마다 하늘에 떠 있는 거대한 화염구가 보일 거야. 그것들 근처에서는 웅크리거나 땅바닥에 숨는 게 최선이야... 그렇지 않으면, 네 궁둥이가 다 타버릴 걸.</text>
 	</string>
 	<string id="dm_anomalies_3">
-		<text>You ever seen a Vortex, man? They're damned near invisible, but one foot too close, and they'll pull you in and splatter you all over the place.</text>
+		<text>볼텍스들은 근처에 있는 모든 것들을 끌어당겨서 안에서 돌려버리기 시작하는 둥둥 떠 있는 무언가야. 만약에 네가 거기에 휘말린다면, 넌 산산조각나서 흩뿌려질 거야.</text>
 	</string>
 	<string id="dm_anomalies_4">
-		<text>If you hear humming, stop right there. It could be a Springboard - a ball of gravity ready to explode in your face if you touch it. Nasty things are just about everywhere, so keep your bolts handy.</text>
+		<text>도약대 이상현상은 떠 있는 중력구를 말하는 거야... 네가 그걸 건드린다면, 그건 훅 하고 네 얼굴로 곧장 날아올 거야. 넌 이런 이상현상을 어디서나 찾을 수 있고, 그것들을 보기 전에 그게 내는 휘파람 소리 같은 게 들릴지도 몰라.</text>
 	</string>
 	<string id="dm_anomalies_5">
-		<text>Dirt and leaves blowing about? Might not be the wind. Whirligigs are nasty gravitational anomalies, and if you get caught in one, it'll spin you round and around...until the force tears you apart.</text>
+		<text>회전목마 이상현상을 주의하는 게 좋을 거야. 근처에서 먼지나 이파리들이 휘날리고 있다면 그게 근처에 있다는 괜찮은 신호가 될 거야. 내가 코돈에 있었을 때 살덩이 한 마리가 거기 빨려들어가는 걸 봤는데... 빙빙 돌아가다가 중력으로 산산조각 나서 떨어지더군.</text>
 	</string>
 	<string id="dm_anomalies_6">
-		<text>The "Fruit Punch" anomaly isn't as delicious as it sounds. It'll melt your damn face off if you get too close without proper chemical protection.</text>
+		<text>과일 화채 이상현상은 네가 지나갈 떄마다 쉿 하고 산성액을 뱉는 빛나는 녹색 똥덩어리야. 네가 그 옆으로 갈 만큼 용감하다면 좋은 아티팩트를 볼 수 있을지도 모르지만, 너무 가까이 갔다간 네 얼굴을 녹여 버릴거야.</text>
 	</string>
 	<string id="dm_anomalies_7">
-		<text>Don't trust the moss or vines around here, stalker. Locals call it "Burnt Fuzz" for a reason - touch it and you'll get perforated by microscopic spores.</text>
+		<text>불탄 솜털 이상현상들은 주로 실외에서 보이지. 마치 이끼나 덩굴처럼 생겨서, 커튼처럼 아래쪽으로 흘러내린 상태야... 만약 네가 그쪽으로 가서 만져본다면, 마치 방어 기제라도 작동하는 것처럼 포자들을 네 얼굴을 향해 뿌릴 거야.</text>
 	</string>
 	<string id="dm_anomalies_8">
-		<text>Look out for green Gas anomalies floating and wandering over the ground. It's acidic, and if you end up taking a stroll into the stuff, it'll start eating away at your legs.</text>
+		<text>땅 위에서 떠다녀 돌아다니는 녹색 가스 이상현상을 조심해. 그 가스는 산성이라, 네가 그 안으로 잘못 걸어들어간다면, 네 다리부터 먹어치우기 시작할 거야.</text>
 	</string>
 	<string id="dm_anomalies_9">
-		<text>Keep your eyes peeled for Gas Cloud anomalies. If you see a flying ball of acid darting around, go around or under that thing, or you'll wind up looking like a flesh.</text>
+		<text>가스 구름 이상현상을 잘 주시해야 해. 네가 그 날아다니는 산성으로 된 공이 떠다니는 걸 보고 나서, 그 주변에 있거나 밑으로 지나가. 그렇지 않으면 넌 살덩이처럼 변해버리고 말걸.</text>
 	</string>
 	<string id="dm_anomalies_10">
-		<text>Scientists say that electrical anomalies take time to rebuild their charge after they go off. If you time it right, this would mean you could pass through one safely after triggering it with your bolt.</text>
+		<text>땅에서 거대한 전기 웅덩이처럼 보이는 것들을 봤어? 과학자들은 그걸 일렉트로라고 부르더군. 대부분은 그 위로 뭔가 지나갈 때 자기들의 존재감을 드러내지만, 내가 보기에는 절반 정도가 아무것도 없는데도 그냥 터지더군. 몇 군데는 몇 초 동안 사라지는 것처럼 보이기도 했어. 만약에 정확한 시간을 잴 수 있는 상태에서 그것들이 잠잠해진 사이에 지나가면, 문제가 없을 거야.</text>
 	</string>
 	<string id="dm_anomalies_11">
-		<text>A few days ago, I saw this giant ball of electricity - the professors at Jupiter named it the "Tesla Anomaly" after an old inventor. It travels in a set pattern, so time your movements right and it can't hurt you.</text>
+		<text>며칠 전에, 이런 모양의 떠다니는 전기 구체를 봤어. 계란 머리 과학자들이 이 전기로 된 친구한데 이름을 붙여줬던 거 같은데... 테슬라던가, 아무튼 그럴 거야. 어쩄든, 내가 복도에 있었는데 그게 위아래에서 덮쳐왔었어... 아니, 위아래로 날아왔었지. 정확한 시간에 맞춰서 방을 조금씩 전진한 뒤에, 오래된 고물덩어리 뒤에 숨어서 그게 지나가도록 내버려둬야 했어.</text>
 	</string>
 	<string id="dm_anomalies_12">
-		<text>Stay away from Space Anomalies, man. It's a coin toss whether they'll teleport you somewhere useful or leave you to starve in some limbo. You'd have to be batshit crazy to take that sort of risk.</text>
+		<text>붉은 숲에 있는 포레스터 할배가 어떻게 이 공간 이상현상들 중 한 곳에 갇히게 되었는지에 대한 이야기를 알고 있어? 듣기로는 마치 탁 트인 초원 같이 생겼다고 하던데... 나갈 곳이 없는 끝없는 공간 말이야. 결국 그가 거기서 나침반 아티팩트를 찾아서 출구를 확인할 때까지 계속 되었다고 해, 소문으로는 그랬어. 그가 말하길 그 직후에 밴딧들 한 무리를 만나서 그걸 뺏겼다고 하던데, 근데 개인적으로는 그냥 그 노인네가 노망나서 그런 거라고 생각해.</text>
 	</string>
 	<string id="dm_anomalies_13">
-		<text>Clear Sky must've had some serious voodoo shit going on back in 2011. The way I hear it, Space Anomalies kept appearing to help them close in on this guy they were chasing. That weird or what?</text>
+		<text>몇 년 전에, 클리어 스카이가 발전소로 향하는 한 스토커를 쫒고 있었어. 우리들은 그게 어떻게 끝났는지를 모두 알고 있지만, 그들과 같이 다니던 사람들 중에 스카라는 용병이 있었어. 그 난리통에서 살아난 몇몇 사람들은 이상현상들이 갑자기 온갖 군데에서 튀어나와서 그를 그가 쫒는 스토커에게 가까이 데려다 주는 곳으로 순간이동시켰다고 했어, 마치 존이 그를 도와주기라도 하는 것처럼 말야. 이상한 일이지.</text>
 	</string>
 	<string id="dm_anomalies_14">
-		<text>Brave enough for the Red Forest? Heard the "Symbiont" anomaly field in that hellhole is practically a goldmine for artefacts. You can tell you've found it by the jagged rocks and warped trees around it. </text>
+		<text>근처에 순간이동된 나무가 있고 땅에서 삐죽삐죽한 돌덩이들이 솟아나온 모습을 본 적 있어? 나도 본 적은 없지만, 붉은 숲 군데군데에 그렇게 생긴 곳이 있다는 걸 들었어. 확실히, 이 공생 이상현상에는 아티팩트들이 아주 많이 있어. 거기서 온갖 종류의 아티팩트들을 찾을 수 있을 걸.</text>
 	</string>
 	<string id="dm_anomalies_15">
-		<text>You know, we don't really get earthquakes in this part of the world. And then you see the aftermath of a "Fault" anomaly...a giant crack in the ground, filled with Burners or weird gravity fields. Unnerving.</text>
+		<text>과학자들은 이런 단층 이상현상들 때문에 골머리를 앓고 있어. 그것들은 땅에 나 있는 갈라지고 거대한 균열들이야. 보통 수많은 혜성 이상현상이나 다른 이상현상들이 숨겨져 있지. 과학자들은 아직 그게 단지 이상현상 지역들 중 하나일 뿐인지 아니면 뭔가 다른 것들이 숨겨져 있는지 알아내지 못했어. 여기서 마지막으로 지진이 일어났다는 소식을 들은 게 언제였을거라고 생각해?</text>
 	</string>
 	<string id="dm_anomalies_16">
-		<text>I pity the fools who brag about the artefacts they find over the Network. They're lucky some vile opportunist hasn't hunted them down for their loot yet.</text>
+		<text>아티팩트를 찾기 위해서 언제나 이상현상들 사이를 기어다닐 필요는 없어. 누군가가 나에게 어떻게 그들이 평범한 들판에서 아티팩트를 찾아냈는지에 대한 이야기를 들려줬어. 그 스토커가 가지고 다니던 아티팩트 감지기가 갑자기 미친 듯이 울려서, 그는 처음에 콘덴서가 터진 줄 알았대. 그는 부품을 교체했는데, 다시 작동하기 시작했고, 이것 봐라, 아티팩트가 진짜로 그의 손 안으로 떨어진 거야.</text>
 	</string>
 	<string id="dm_anomalies_17">
-		<text>Gravitational anomalies - Whirligigs and the like - are absolute hell, but you can sometimes escape one if you're light enough on your feet. Just sprint and jump out like your life depends on it - it probably does.</text>
+		<text>회전목마와 볼텍스 이상현상을 조심해, 친구. 경험있는 스토커들에게도 굉장히 위험한 이상현상이야. 그것들은 널 낚아채서 마치 꼭두각시 인형처럼 마구 흔들어댈 거야. 언젠가, 난 이 친구가 그것들 중 하나에 잡혀 버린 걸 보았어. 난 내가 새로운 신발 한 켤레를 얻겠구나 라고 생각하고 있었는데, 이 새끼가 젖먹던 힘까지 짜내서 가능한 한 빨리 달려가기 시작한 거야. 그리고 나는 믿을 수 없는 광경을 보았어. 그 녀석이 갈려버리기 전에 밖으로 뛰쳐나오는 데 성공한 거야.</text>
 	</string>
 	<string id="dm_anomalies_18">
-		<text>Ever heard of a Gravi? Looks like a metallic dog turd, but scientists will pay through the nose for it because of its anti-gravity effects - effects most stalkers rather wouldn't part with.</text>
+		<text>그라비라는 걸 들어본 적이 있어? 마치 사칭견 한 마리가 싸지른 것처럼 생겼지만, 금속으로 되어 있어. 과학자들이라면 이 아티팩트를 비싼 값에 사 줄 거야. 하지만 나는 별로 찾고 싶지 않은데, 그걸 만진 사람은 한 달 안에 방사능으로 밝게 빛나게 된다고 하더라고. 그거랑 비슷한 아티팩트 중에 금붕어라는 게 있어. 어떻게 생겼는지는 상상할 수 있을 거라고 믿지만, 그건 더 희귀한 물건이야. 그래도 만약에 하나 찾게 된다면, 가지고 있는 게 좋을 거야.</text>
 	</string>
 	<string id="dm_anomalies_19">
-		<text>Always, always, ALWAYS have something on you to deal with radiation. I'm sick of watching rookies waste away because they forgot their meds, or couldn't reach a doctor...</text>
+		<text>처음으로 얻으려고 노력해야 할 물건은 최소한 메두사 정도겠지. 변형체나 거품 같은 더 많은 방사능 흡수 아티팩트를 얻으면 더 안전해질 거야. 나는 방사능 중독에 걸려서 의사들한테 가기도 전에 죽거나, 항방사능 약품들을 사기에는 너무 가난해서 천천히 죽어가는 스토커들을 너무 많이 봐 왔거든.</text>
 	</string>
 	<string id="dm_anomalies_20">
-		<text>Apparently all those new belt devices are based off of scientific artefact studies. Still, the money for more artefacts never ends, and they don't care whether the effect is good or bad - only that it's powerful...</text>
+		<text>난 과학자들이 존에서 아티팩트를 사 가서 뭘 얻을 지를 도저히 모르겠어. 내가 아는 건 이런 걸 사들이는 자금이 끝이 없는 것처럼 보인다는 거야. 그리고 이게 좋은 건지 아닌지는 모르겠지만... 아티팩트가 강력할 수록, 더 비싸.</text>
 	</string>
 	<string id="dm_anomalies_21">
-		<text>I've heard of rare artefacts capable of healing even fatal wounds, or of scabbing a gash up before your very eyes. If you ever find one, along with an AAM or something, it'd be best to keep it.</text>
+		<text>유리 아티팩트에 대한 걸 들어본 적이 있어? 좀 지저분하지만 그래도 반짝이는 유리공처럼 생겼어. 형씨, 이 아티팩트는 방사능에 대처할 만한 수단만 있다면 심한 상처에서 나는 출혈도 멈춰줄 수 있는 물건이야. 발견하면 바로 팔아치우지는 마.</text>
 	</string>
 	<string id="dm_anomalies_22">
-		<text>I keep hearing stories about some legendary artefact known as the "Compass". People say that if you have one, then no anomaly can touch you, let alone hurt you. I wonder if that's true?</text>
+		<text>나침반이라고 불리는 아티팩트에 대한 이야기를 몇 번 정도 들어본 적이 있어. 이 아티팩트는 내붐는 방사능만 빼면  거의 완벽한 물건이라고 하는데. 이 아티팩트는 존에 있는 수많은 위험으로부터 보호를 제공한다는 소문이 있는데, 그 중에서 가장 중요한 점은, 가장 끔찍한 이상현상 지역에서도 착용자가 길을 찾게 만들어주는 것처럼 보인다고 헤.</text>
 	</string>
 	<string id="dm_anomalies_23">
-		<text>Just talk to the more experienced stalkers you see sitting around campfires. You'll learn everything you need to soon enough.</text>
+		<text>모든 사람이 모닥불 근처에서 이야기해주는 것들 말고 어떤 것들을 더 말해줄 수 있을까? 조언을 구한다면, 그냥 모든 것들을 주의깊게 보도록 해.</text>
 	</string>
 	<string id="dm_anomalies_24">
-		<text>You want my advice? Stay away from artefacts. They're like the sweet nectar of a Venus Fly-Trap. They lure you in, then suddenly you find you're stuck in an anomaly field with no way out.</text>
+		<text>난 종종 가난하고 경험없는 스토커를 부자로 만들어 줄 수 있는 몇 군데의 발길 닿지 않은, 멋진 이상현상 지역에 대한 이야기들을 듣지. 내 생각엔 그런 것들은 모두 함정이야. 이성적으로 생각한다면 누가 그저 욕심만으로 그런 이상현상의 미로들 속으로 걸어들어가려고 하겠어?... 특히 이상현상이 움직여서, 모든 출구를 막을 수도 있다는 걸 알게 된다면... 만약 네가 조금만 생각해 본다면, 널 유혹하는 그 작고 반짝이는 물건들은 제 역할을 완벽하게 수행하고 있다는 걸 알게 될 거야.</text>
 	</string>
 	<string id="dm_anomalies_25">
-		<text>All I can really say is gear yourself up properly. Make sure you have enough LLCs, make sure your respirator is working, that you brought the right meds. Can't sell your treasures if you're dead now, can you?</text>
+		<text>내가 말해줄 수 있는 건 장비를 정말로 주의깊게 선택해야 한다는 것과 그 이유야. 무거운 외골격 장갑판을 입고 아티팩트 사냥을 떠나지 마. 그 외골격은 전기장판에 있는 피뢰침이 될 거고 화학 이상현상에서는 네 몸에 뜨거운 초콜릿처럼 달라붙을 테니까.</text>
 	</string>
 	<string id="dm_anomalies_26">
-		<text>The hardest thing about artefact hunting is starting. Once you have adequate protection and medication, all it asks for is patience, a decent detector, and lots and lots of practice.</text>
+		<text>아티팩트 사냥의 가장 어려운 부분은 바로 시작할 때야. 네가 보호 기능이 있는 아티팩트를 줍는다면, 다음에는 같은 형태의 이상현상을 좀 더 쉽게 탐험할 수 있을 거야. 그 다음에는 네가 찾은 것들을 팔고, 더 좋은 장비를 사서, 계속하는 거지. 그리고, 네가 이상현상들을 더 많이 헤쳐나갈 수록, 어떻게 행동해야 하는 지 더 잘 알 수 있게 될 거야. 그저 조심스럽게 행동하면 돼. 네가 초짜였을 때부터, 나중에 만약 경험있는 스토커가 된다고 해도, 존은 언제나 새로운 함정들을 준비해두고 있으니까.</text>
 	</string>
 	<string id="dm_anomalies_27">
-		<text>Get lots of rest and take care of yourself, man. Anomalies aren't always easy to spot, so you gotta make sure you can be alert. How can you expect to evade a field of Vortexes after a night of vodka abuse?</text>
+		<text>장비를 잘 관리해 둬. 그게 내가 해줄 수 있는 좋은 충고야. 존은 굉장히 험난하고 가끔은 그 때문에 완전히 지쳐버릴 때도 있어. 네 신체가 그걸 견뎌낼 준비가 되어 있다면 오랜 여정에서과 그 과정에서의 불가피한 위험들 속에서도 더 잘 살아남을 수 있을 거야. 그리고 그건 이상현상에 대해서도 마찬가지야. 정말로 네가 전날 밤에 보드카를 과음한 다음에, 뮤턴트들을 뒤에 이끌고 다니는 상태에서 화학 이상현상을 지나갈 수 있을 거라고 생각해?</text>
 	</string>
 	<string id="dm_anomalies_28">
-		<text>Do you hear the whispers? That's the Zone, talking to you. Closer to the centre, or during an emission, there are places where its voice becomes overpowering. Without psychic protection, you'll zombify for sure.</text>
+		<text>많은 스토커들은, 특히 보드카를 즐겨 마시는 친구들은, 존에 있는 정신적 위험에 대해 그다지 신경을 쓰지 않지... 그리고 그렇게 되면, 그들은 정신파 필드를 빠져나갈 수 있는 기회를 놓쳐버리게 되는 거야. 몇 가지 정신 보호 수단을 갖추는 건 바람직한 행동이야. 달빛 아티팩트는 결정적인 순간에 상황을 바꿀 수 있어. 게다가, 예를 들면 컨트롤러 같은 뮤턴트들을 상대할 때도 쓸만하지.</text>
 	</string>
 	<string id="dm_anomalies_29">
-		<text>Keep in mind that not everyone around here likes to hunt artefacts. Some hunt mutants...others hunt people. Be careful who you show your loot to.</text>
+		<text>여기에 있는 몇몇 사람들은 아티팩트를 사냥하는 데 신경쓰지 않는다는 사실을 명심해. 그런 자들은 인간을 사냥하는 걸 더 좋아하지... 그 말인 즉슨, 밴딧들을 조심하라는 말이야. 그 녀석들이 암시장에 아티팩트를 팔아넘기고 있다는 건 유명한 사실이지. 네가 어떤 아티팩트를 가지고 있는지 너무 많은 사람이 알게 하지도 않는 게 좋아.</text>
 	</string>
 	<string id="dm_anomalies_30">
-		<text>Did you know that artefacts are almost indestructible? Sometimes it's better to shoot at the artefact to make it jump out of the anomaly, instead of just being sucked directly into it.</text>
+		<text>아티팩트가 거의 파괴되지 않는다는 사실을 알고 있어? 가끔은 아티팩트에 총을 쏴서 이상현상으로부터 떨어트리는 게, 이상현상 속으로 직접 들어가서 줍는 것보다 나을 수 있어.</text>
 	</string>
 	<string id="dm_anomalies_31">
-		<text>I wish I'd been here during the good old days. Back then, artefacts wouldn't irradiate you just by carrying them. Guess the Zone is more protective over its treasures now, eh?</text>
+		<text>내가 존을 내가 들었던 모습처럼만 알고 있었다면 좋았을 텐데, 아무도 살지 않는 공간이라고 들었거든. 요즘처럼 에미션이 끝날 때마다, 스토커 무리들이 온갖 이상현상 지역에 들어가서 아티팩트를 수확한다면 우리가 어떻게 부자가 될 수 있겠어?</text>
 	</string>
 	<string id="dm_anomalies_32">
-		<text>Dude, the artefact business is competitive enough as it is. If you really wanna join the rat race though, go see the Ecologists. They can gear you up.</text>
+		<text>어째서 내가 돈을 버는 데 쓸 수 있는 사업들과 관련된 정보를 너한테 충고랍시고 넘겨줘야 하지? 뭐, 일단은 좋은 탐지기를 사서 써 보라고. 아마도 과학자들이 쓸만한 것들을 팔고 있을 거야.</text>
 	</string>
 	<string id="dm_anomalies_33">
-		<text>Many newcomers dream about "the artefact that makes you rich". While the Zone can be fruitful, it's a bad idea to treat it like some sort of lottery. Just work at things consistently and you'll get there.</text>
+		<text>많은 신입들은 자신들을 "부자로 만들어줄 수 있는 아티팩트들"에 대한 꿈을 꾸고는 하지. 존이 풍요로운 곳이 될 수 있는게 사실이라고 해도, 그만큼의 수확을 거두려면 널 가장 위험하면서도 값어치가 될 만한 곳으로 이끌어주는 장비들을 사기 위해 많은 시간과 수많은 비용을 들여야만 할 거야. 물론, 네가 운이 좋을 수도 있겠지... 하지만 이 곳이 그리 만만치 않다는 사실을 생각해 보면, 별로 그럴거라는 기대는 안 되는군.</text>
 	</string>
 	<string id="dm_anomalies_34">
-		<text>It's especially dangerous to hunt artefacts north of the Army Warehouses, but it's just as lucrative too. The few who can make it, make it well.</text>
+		<text>너 준설장이 어디에 있는지 알고 있어? 거긴 중력 이상현상들로 범벅이 된 곳이지만, 경험있는 스토커에겐 나쁘지 않은 곳이야. 평소처럼 볼트나 잘 던져보도록 해. 또, 거기에는 안팎으로 방사능이 흘러나오고 있어... 마치 주변에 거대한 우라늄 덩어리라도 있는 것 같아.</text>
 	</string>
 	<string id="dm_anomalies_35">
-		<text>Be thankful for every artefact you carry home safely. The Zone is a very complex maze of traps, and you're lucky to have lived thus far.</text>
+		<text>종종 아티팩트를 찾으러 갈 때 이상현상 속으로 뛰어들 필요가 없을 수도 있어. 나는 그냥 벌판에서 아티팩트가 발견되었다는 이야기를 들어본 적이 있어. 이 이야기의 주인공 스토커는 갑자기 감지기가 작동하는 소리를 들었고, 그래서 배터리가 다 된 줄 알고 교체하기로 했었대. 그 녀석이 건전지를 교체하자마자, 감지기가 신호를 보여주었고, 그리고 짜잔. 아티팩트가 손 안으로 굴러들어온 거야. 참 운도 좋은 놈이지? 그게 존이 널 대하는 방식이야. 가끔 널 벌하기도 하지만, 보상도 해주는 곳이지.</text>
 	</string>
 	<string id="dm_anomalies_36">
-		<text>There's a swamp in the west of Zaton, full of gas pockets and gravitational anomalies. Get some antidote for the toxic gas, however, and you're set - the water shows you where the grav anomalies are. Easy artefacts!</text>
+		<text>가장 확실한 곳은 산성 늪지대야. 중력 이상현상으로 가득 차 있는 곳이지만, 그런 것들은 발견하기 쉽거든. 물표면을 잘 보고만 있으면 이상한 곳으로 빠질 염려는 없을 거야. 가스 이상현상은 더 고통스러울 텐데, 왜냐면 숨쉴만한 공기가 거의 없기 때문이야. 거기에서 질식돼서 죽는 건 별로 재밌는 일은 아닐 걸. 그게 황산보다 네 방탄조끼를 더 빠르게 부식시킬 거야.</text>
 	</string>
 	<string id="dm_anomalies_37">
-		<text>The Iron Forest workshop in the south-west of Zaton is a real bounty. Old timers talk of entire clusters of artefacts! Sadly it's rumoured to be haunted, so most stalkers in the area just stay away.</text>
+		<text>여기엔 오래된 간이역이 있는데, 철의 숲이라고도 불리지. 가 보면 왜 그렇게 불리는 지 알 거야. 몇몇 사람들은 에미션이 끝난 뒤에 거기에서 많은 아티팩트를 찾았다고 말하더군. 그렇게 위험한 곳은 아니야, 전기 이상현상들이 주로 있고 방사능도 조금 있지... 그리고 네가 제때 숨지 않으면 너를 온갖 물건들로 묻어버릴 폴터가이스트 몇 마리도 있고.</text>
 	</string>
 	<string id="dm_anomalies_38">
-		<text>If you've got the gear for thermal anomalies, veterans say the Burnt Farmstead in the north-ish part of Zaton is the best place to be after an emission.</text>
+		<text>언덕 위에 있는 불탄 농장에 고열 이상현상들이 꽤 많이 있어. 사람들은 거기서 화염 아티팩트들을 찾지. 집 안을 찾아 봐. 에미션이 씉난 다음에는 거기에 가장 많은 이상현상이 있으니까, 아티팩트도 많이 있을 거야.</text>
 	</string>
 	<string id="dm_anomalies_39">
-		<text>For variety, I hear the most daring stalkers explore the caves underneath Zaton's Burnt Farmstead. Getting in is easy, getting out is insane. But if you do, I hear it's always with quite the treasure.</text>
+		<text>불탄 농장 아래에 있는 동굴에 아티팩트가 많이 있을 거야. 만약에 아티팩트를 가지고 언덕에 갈 일이 있으면, 신호가 멈추지 않을 거야. 그쪽으로 들어가는 건 정말 쉬워. 그냥 위에서 뛰어내리기만 하면 되니까. 나가는게 진짜 문제인데, 동굴 안에는 이상현상이 많이 있거든. 대부분은 볼텍스나 산성 이상현상이지. 몇몇 사람들은 그 틈 안에서 혜성 이상현상처럼 보이는 걸 봤다고도 말하더라고. 위험한 것들 투성이란 건 확실하지만, 그만큼 아티팩트들도 많다는 걸 의미하지.</text>
 	</string>
 	<string id="dm_anomalies_40">
-		<text>Have you seen a Circus anomaly? Veterans of the north say one can be found in the south of Zaton, and that it's truly a sight to behold. Best behold it from a distance, however, unless you want to get burnt alive.</text>
+		<text>서커스 이상현상을 본 적 있어? 두 개의 혜성 이상현상이 주위를 돌고 도는 거대한 도약대 이상현상이야... 꽤나 장관이지. 그렇지만 멀리서 바라보는 게 좋을 거야, 왜냐면 서커스 이상현상은 고열 이상현상들로 가득 차 있어서 지옥불처럼 뜨겁거든. 물론 아티팩트들도 많이 있지만, 짜증나는 화염 폴터가이스트들이 지키고 있어서 가까이 가면 그 녀석들이 널 구워버리려고 할 거야.</text>
 	</string>
 	<string id="dm_anomalies_41">
-		<text>Have you ever run into a psychic anomaly before? Can't say it was the best experience of my life. Within minutes your brain is so scrambled you begin to forget how to breathe, let alone know to get the hell out.</text>
+		<text>땅을 마치 도끼로 찍어놓은 것처럼 생긴, 상처라고 불리는 지역이 있어. 사람들은 거기서 아티팩트를 찾곤 하지만, 한 번 가보면 뭔가 이상한 일이 일어난대. 그 이상현상은 네 머리를 엄청 세게 때려서 네가 거의 숨쉬는 법을 잊어버릴 만큼 아프게 해서, 거기서 꽁지빠지게 달아나게 만들어줄 거야.</text>
 	</string>
 	<string id="dm_anomalies_42">
-		<text>Usually gravitational anomalies are nearly invisible, but I'll never stop being amazed by the shit they sometimes pull - some of the freakiest rock and water formations I've ever seen.</text>
+		<text>만약 중력 아티팩트를 찾는 데 관심이 있다면, 송곳니 이상현상에서 찾아봐. 거긴 찾기 쉬울 거야. 이상현상들이 나타나 언덕의 반을 파내서 없애버렸거든. 몇 개의 동굴이 언덕에서 밖으로 뚫려 있고 스노크들이 바로 차지해 집으로 삼기는 했지만, 다행히도 밖으로 자주 나오지는 않고 있어.</text>
 	</string>
 	<string id="dm_anomalies_43">
-		<text>Seasoned stalkers talk about the "Boiler" anomaly; a unique thermal anomaly in the north-east of Zaton, capable of grilling men alive with scalding jets of steam. The artefacts there are just regular fire ones though.</text>
+		<text>자톤에는 고온 이상현상이 물 속에서 솟아나는 장소가 있어. 땅에서 수증기랑 기타 잡것들이 솟아나오기 때문에 "보일러"라고 불리지. 수증기 정도야 아무것도 아닐 거라고 생각한다면, 다시 생각하는 게 좋을거야. 경험이 좀 쌓인 스토커들은 이런 수증기 이상현상이 최소한 일반적인 고온 이상현상만큼이나 사람에게 강한 충격을 준다고들 말하지... 더 강하지 않다면 말야. 온도는 상대적으로 낮다고 볼 수도 있지만, 그것만으로 널 삶아버리기에는 충분하거든. 거기서 나오는 아티팩트들은 흔히 볼 수 있는 화염 종류의 아티팩트들이야.</text>
 	</string>
 	<string id="dm_anomalies_44">
-		<text>If you are ever able to checkout the big-ass quarry near Yanov, do that. The gas is awful enough to make your eyes sting even with a mask, but the haul often makes up for it.</text>
+		<text>채석장 부근에 아티팩트가 많이 있는 괜찮은 장소가 있다고 하던데, 물론 이상현상들도 적지 않게 있긴 하지만 말야. 채석장 아래로 내려가보면, 가스 이상현상에서 수많은 거품들이 뿜어져 나오고 있지... 그것들은 네가 방독면을 쓰고 있더라도 눈을 따끔거리게 만들 거야.</text>
 	</string>
 	<string id="dm_anomalies_45">
-		<text>I hear a lot of ghost stories about Kopachy Village in Jupiter, but if you make it past the zombies, the thermal anomaly near the graveyard tends to guard a worthy bounty.</text>
+		<text>잿더미 이상현상 지역은 코파치 마을 근처에 있는 오래된 공동묘지에 있어. 고열 이상현상들이 많고, 가끔씩 좀비들도 나타나지. 사람들은 가급적이면 거길 피하려고 하지만, 그곳에서는 아티팩트를 찾을 수 있지.</text>
 	</string>
 	<string id="dm_anomalies_46">
-		<text>Vets say a good Electro field for artefact hunting would be the Parking Lot, west-ish of the four-way-stop at Jupiter. That's if you're up for the dangers of the north, of course.</text>
+		<text>주차장에서 아티팩트를 찾을 수 있다고 하더군. 아직도 첫 번째 체르노빌 참사 당시에 사용되었던 자동차들이 있는데, 이 녀석들한테 가까이 가면 방사능 계수기가 울리지. 게다가, 주차장에는 수많은 전기 이상현상들도 있다고.</text>
 	</string>
 	<string id="dm_anomalies_47">
-		<text>You know the Ecologist bunker near Yanov? They were intensely studying the Anomalous Grove a few years back. What they discovered was that it grew a little every time an artefact was removed. Scary, isn't it? </text>
+		<text>오염된 숲에 있는 나무들은 모두 산성 물질로 뒤덮여 있어. 거길 산 사람들이 말하길 가스 이상현상이 가득하다더군. 차마 앞을 똑바로 보기도 힘들 정도로 가스로 가득 차 있지만, 충분한 경험만 있다면 거기서 찾고 싶었던 아티팩트들을 찾을 수도 있어.</text>
 	</string>
 	<string id="dm_anomalies_48">
-		<text>If you're after artefacts, go for the acid kind. The best place to get those is the Concrete Bath in the southeast of Jupiter. You won't have a lot of competition: most stalkers find it too creepy for their liking.</text>
+		<text>네가 아티팩트들을 찾는 중이라면, 산성 이상현상 지역으로 가 봐. 그 중에서 가장 가볼만한 데는 콘크리트 욕조야. 그다지 경쟁자가 많지는 않을 거야. 왜냐면 주피터 공장에서 너무 가까운 데에 있어서 아무도 가고 싶어하지 않기 때문이지.</text>
 	</string>
 	<string id="dm_anomalies_49">
-		<text>Not far from the Jupiter plant, a piece of the road fell through. They call this place "Bitumen", because that's where the pavement melted. It's a thermal-gravitational hybrid. Pretty wizard, ain't it?</text>
+		<text>주피터 공장에서 멀지 않은 곳에, 도로의 일부분이 무너진 곳이 있어. 사람들은 그곳을 역청이라고 부르더군, 아스팔트 길이 녹아내린 곳이기 때문이지. 땅이 갈라진 곳에는 많은 이상현상들이 있어. 고열 이상현상들이 중력 이상현상들과 섞여 있지. 그리고 이상현상이 두 종류인 만큼, 거기서 나오는 아티팩트들도 서로 다른 종류가 섞여 있을 거야.</text>
 	</string>
 	<string id="dm_anomalies_50">
-		<text>Toxic gas anomalies are the worst. They create such stinging, bitter marshes. Sometimes the water isn't even water any more, and just turns to acid. Absolutely awful.</text>
+		<text>시멘트 공장을 넘어선 곳에 소택지라고 불리는 작은 나루터가 있는데, 가스 이상현상으로 가득 찬 끔찍한 냄새나는 늪지로 변해버린 곳이야. 이젠 더 이상 진짜 물이라고도 할 수 없는 곳이지... 오히려 산성 물질에 가까워. 사람들은 종종 거기서 아티팩트를 찾고는 하지만, 괴물들도 많이 사는 곳이야.</text>
 	</string>
 	<string id="dm_anomalies_51">
-		<text>The best place to find artefacts would be to search the anomaly fields no one else visits. The artefacts are probably gonna be harder to get, sure, but at least you can take your time clearing them out.</text>
+		<text>오래된 시멘트 공장 안을 살펴봐. 이상현상이 많지만, 그럴 만한 가치는 있어. 확실히, 거긴 아티팩트들을 더 쉽게 찾을 수 있는 곳이지만, 그만큼 경쟁도 심하지. 그리고, 네가 저 지하실 쪽으로 내려간다면 햄스터들과 겨뤄야 할 거야.</text>
 	</string>
 	<string id="dm_anomalies_52">
-		<text>Ever heard of the "Oakpine"? I hear it can be found in the northern parts of the Zone, and got its name from a scientist who genetically identified its bark as, well, both oak and pine. Too bad it's also toxic.</text>
+		<text>참소나무 숲 근처를 찾아 봐. 그 곳은 가스 이상현상 위에 있는, 언덕 사이로 자란 저 나무를 말해. 그런 이름이 붙여진 건 어떤 괴짜가 그 나무에서 가져온 나무껍질이 소나무랑 참나무 둘 다랑 비슷하게 생긴 걸 밝혀내서 그래. 거기서 아티팩트를 찾고 싶다면, 화학 방호력을 잘 갖춰야 할 거야. 탄약도 많이 가져가야 해, 왜냐면 저 언덕들에는 개떼들이랑 더 많은 개떼들이 살고 있거든.</text>
 	</string>
 	<string id="dm_anomalies_53">
-		<text>If you wanna snag some good artefacts, make sure to get there first - hop yourself up on caffeine and be ready to dash towards the nearest anomaly fields as soon as the next local emission ends.</text>
+		<text>경험있는 스토커들이 말하기를 가끔씩 아티팩트들이 이상현상 바깥으로 움직인다고 하더군. 네 감지기가 삑삑 소리를 내기 시작해서 꺼내면, 아무것도 보이지 않는 일이 있지. 그건 바로 "방랑하는" 아티팩트가 방금 네 근처를 지나갔다는 걸 의미해... 하지만 그걸 추적해봐야 소용이 없을 거야, 왜냐면 오직 존만이 그걸 받을 수 있는 사람들을 정하니까 말야.</text>
 	</string>
 	<string id="dm_anomalies_54">
-		<text>No one has looked for artefacts in Pripyat yet. Everyone I know has only been here a short while, so they stay cautious.</text>
+		<text>아직 아무도 프리피야트에서 아티팩트를 찾아본 적은 없어. 내가 아는 모든 사람들은 거기서 잠깐 동안만 있었다고 하니까, 조심스럽게 행동하는 거겠지.</text>
 	</string>
 	<string id="dm_anomalies_55">
-		<text>I don't know if anyone knows the good spots. Pripyat is poorly explored so far.</text>
+		<text>누가 괜찮은 장소를 알고 있을지는 잘 모르겠어. 프리피야트는 아직까지 그다지 탐사되지 않은 곳이거든.</text>
 	</string>
 	<string id="dm_anomalies_56">
-		<text>I'd look in the underground tunnels. They say there are tonnes of them underneath the city.</text>
+		<text>나라면 지하 터널을 찾아보겠어. 도시 지하에 수많은 아티팩트가 숨겨져 있다고들 하니까.</text>
 	</string>
 	<string id="dm_anomalies_57">
-		<text>Not much is known about these parts... Garry's stories, mostly. He says there's a place here where a huge grapevine grows out of an acid anomaly, as tall as a ten-story building. Think that's true?</text>
+		<text>그 지역에 대해서는 아직 많이 알려지지는 않았어... 대부분은 게리가 하는 이야기들 뿐이지. 그가 말하길 한 산성 이상현상으로부터 거대한 포도덩굴이 마치 10층 빌딩 높이만큼이나 자라난 장소가 있다고 해. 그는 아마 가지 말라고 만류하겠지만, 내가 그 덩굴을 본다면 아티팩트가 있는지 찾아보고 싶어.</text>
 	</string>
 
 	<!-- Information -->
@@ -679,333 +679,333 @@
 		<text>난 아무런 정보도 없어.</text>
 	</string>
 	<string id="dm_information_1">
-		<text>From what I've seen, the Military is still set up in Agroprom. What the hell are they still doing there? What have they got planned? It's making my nose twitch.</text>
+		<text>내무군이 아그로프롬 한가운데에 기지를 세워놨어. 개들이랑 뮤턴트들이 아무것도 막을 수 없다는 듯이 뛰어다니고 있는 곳이지. 그것만으로는 그다지 특별한 곳이 아니지만, 바로 아래에 이상현상으로 가득 찬 거대한 지하 공간이 있어. 거기에 병사들만 없었다면, 내가 거기 내려가서 지금쯤 아티팩트 한 아름을 들고 왔을 거야.</text>
 	</string>
 	<string id="dm_information_2">
-		<text>Well, apparently the Military are still set up in Agroprom. They're probably still searching the labs below for anything interesting. I've half a mind to do so myself, but I'm waaay too sober right now.</text>
+		<text>아그로프롬 지하는 연구 시설 건물 아래쪽에 있어. 난 언제나 그 곳에 대한 다양한 이야기들을 듣고 있지. 어느 날에는 그 지하가 이상현상으로 가득 차 있어, 아티팩트 사냥에 완벽한 곳이라는 말을 들었지만, 그 다음에는 그 곳은 뮤턴트밖에 없는 완전히 비어 있는 장소라는 말을 들었어... 그리고 그 다음에는, 그 장소에 컨트롤러들과 폴터가이스트들이 가득하다는 이야기를 들었지. 나는 어떻냐고? 도대체가 어떤 말을 믿어야 할 지도 모르겠어. 젠장, 그래도 언젠가 한 번 그 위쪽을 순찰하고 있는 철모 쓴 군바리들을 모두 데리고 한 번 들어가 봤으면 좋겠어.</text>
 	</string>
 	<string id="dm_information_3">
-		<text>Rostok's a great place for neutral stalkers to sleep. It's got a bar, it's got entertainment, and the whole place is looked after by Duty. Say what you like about them, but they know how to keep Bandits away.</text>
+		<text>로스토크로 가본 적 있어? 서로 길 건너편에 있는 100 라즈 바랑 투기장에 왔다갔다 하느라 바쁘게 될 거야. 지구 똥구멍 한가운데에 있는 정말로 밝게 빛나는 별이라고 할 만하지, 그렇지 않아? 이 지역 전체는 거대한 공업 단지로 사용돼서, 듀티가 작전 기지를 세우는 데 완벽한 조건이 되었지. 그래도 불평하지는 않겠어, 그들이 온갖 역겨운 것들을 몰아내는 일은 잘 하고 있거든. 거기 근처에서는 왠만하면 밴딧들이나 뮤턴트들을 볼 수 없을 거야.</text>
 	</string>
 	<string id="dm_information_4">
-		<text>The Cordon is not only good for newbies to get some experience under their belt, it's also a nice holiday spot for the vets. Compared to the rest of the Zone, it's a great place to unwind without getting too bored.</text>
+		<text>코돈은 다른 지역들보다 꽤 조용한 곳이지. 거기 사는 대부분의 사람들은 실제 군사 비상 경계선 구역의 북쪽에 있는 초보자 마을에서 충분한 장비를 얻고 경험을 쌓은 뒤에 존의 더 깊숙한 곳으로 향해. 거기서는 님블과 시도로비치라는 사람들을 찾을 수 있는데, 님블은 네가 정말로 끝장을 볼 수 있는, 최고 중의 최고로 엄선된 장비들을 얻는 걸 도와줄 거고, 한편 시드는 벙커 안에 앉아서 그가 밀수해온 상품들, 즉 음식, 의약품 같은 물건들을 팔 거야.</text>
 	</string>
 	<string id="dm_information_5">
-		<text>Darkscape and the Meadow are both great places if you just need to get away from everything for a while. Some days, I think of going myself.</text>
+		<text>검은 풍경은 검은 계곡의 남쪽 경계선과 코돈 동쪽에 있는 터널을 잇는 곳이야. 숲과 뮤턴트, 밴딧, 그리고 이상현상으로 가득한 곳이지만, 너는 거기서 어떤 이유던지 간에 거기에 살고 있는 한 무리의 로너들도 언제나 찾아낼 수 있을 거야. 나라면 거기서 길가에 너무 가까이 붙어 있지 않을 거야, 그렇지 않으면 방사능에 찌들어 몸이 빛나게 되거나, 개들한테 갈기갈기 물어 뜯겨 찢어질 거니까.</text>
 	</string>
 	<string id="dm_information_6">
-		<text>You wouldn't know it now, what with all the thugs, but Dark Valley used to be a facility for geodesists - scientists and the like. Heard that some of the labs were built for more than just measuring Earth though...</text>
+		<text>검은 계곡은 녹슨 고철더미와 무너져 내릴 것 같은 건물들로 가득한, 금지된 장소야. 거기엔 네 아티팩트 사냥의 운을 시험할 수 있는 몇 개의 이상현상들이 있지만... 밴딧들이 북쪽에 있는 공장을 점거하고 있으니까, 그 다음에 강도당하지 않기를 바랄 수밖에.</text>
 	</string>
 	<string id="dm_information_7">
-		<text>There's a whole sewer system running under Dead City. Even better, a grown man is able to fit and walk around in it. Used it a few times to steal from Merc stashes without getting caught.</text>
+		<text>죽은 도시는 얀타 호수와 리만스크 사이에 있고, 용병들이 그 한가운데에 모여 있어. 거기 어딘가에는 많은 양의 총기나 의약품들이 숨겨져 있는 곳이 있을 거야... 그렇지 않으면 그 용병 녀석들이 자기들 물건을 다 어디다 숨겨 놨겠어? 네 뒤통수를 쳐맞지 않고 거길 지나가고 싶다면, 하수도를 통해서 숨어들 수 있다고 들은 적이 있어. 그 외에 내가 말해줄 만한 건 별로 없어, 형씨.</text>
 	</string>
 	<string id="dm_information_8">
-		<text>I wouldn't trust the guys running Garbage's Flea Market. They say they're just traders, so why are they perched up on that vantage point? What are they watching? Who for? Why? I don't like it.</text>
+		<text>참사 이후에 모든 녹슨 기계들과 차량들을 그 쓰레기장에 묻어버린 건 알고 있지? 거기선 로너들이랑 밴딧들이 언제나 가장 많은 물건들을 털어가기 위해서, 뮤턴트한테 씹어먹히지 않으면서 서로를 향해 총질하려고 노력하고 있지. 작은 자동차 무덤에는 이상현상들이 모여있는 곳도 있어. 만약 에미션이 끝난 바로 직후에 갈 수만 있다면 높은 확률로 아티팩트를 하나 얻을 수 있을 걸.</text>
 	</string>
 	<string id="dm_information_9">
-		<text>If you want information, the best place to look would be your PDA Guide. All sorts of useful stuff there. Other than that, just go see Snitch in Rostok.</text>
+		<text>발생기 쪽에 가본 적 있어? 발전소에서 북쪽으로 더 넘어간 지역에 있어. 여섯 개의 구조물이 고리 모양으로 세워져 있고 남쪽으로 멀지 않은 곳에 오래된 전쟁 연구소가 있어. 몇 개의 오래된 연구소 외에는 별로 볼 것은 없지만, 네가 거기 볼 일이 있다면 수많은 뮤턴트들 때문에 총을 바쁘게 움직여야 할 거야.</text>
 	</string>
 	<string id="dm_information_10">
-		<text>You might have heard of the Deserted Hospital north of Limansk. It is anything but - place is crawling with madmen, and any worthwhile medical equipment has long since broken down or disappeared.</text>
+		<text>우리들은 폐허가 된 병원의 거의 모든 지역을 점거하고 있다. 체르노빌 원자력 발전소로 향하는 대부분의 통로는 기관총 진지나 다른 것들로 방비되고 있지. 어떤 스토커들도 거길 당장 뚫지는 못할 거다.</text>
 	</string>
 	<string id="dm_information_11">
-		<text>A lot of the stalkers I speak to keep telling me Jupiter's a great place for artefacts, but every single route between there and civilization is a deathtrap. Forests of mutants, mind control devices...it never ends...</text>
+		<text>주피터는 자톤과 비슷하게 아직 안정화되지 못한 곳이야... 그리고 그 놈들이 브레인 스코처를 다시 작동시켜셔, 목이 붙어있는 채로 거길 가는 건 거의 불가능해졌지. 뇌가 완전히 볶아져버리고 싶지 않으면, 붉은 숲으로 가는 길밖에는 선택지가 없어... 물론 네가 나무 뒤에 숨어있는 뮤턴트나 이상현상들을 뚫고 살아서 갈 수 있다는 이야기는 아니지만.</text>
 	</string>
 	<string id="dm_information_12">
-		<text>If you ever make it to Jupiter, be careful about using the Underground. Way I hear it, Monolith have blockaded the entrance, and mutants lurk in droves below them.</text>
+		<text>주피터 지하를 탐험할 생각이 있어? 거기로 가려면 지하의 가혹한 환경을 이겨낼 수 있는 폐쇄 순환 호흡 장치가 있는 보호복을 착용해야 하지만, 통로를 통하면 프리피야트의 지하를 거쳐 광신도를 피하면서 외곽지역으로 바로 갈 수 있을 거야.</text>
 	</string>
 	<string id="dm_information_13">
-		<text>Limansk, the "secret" city...some days it is quiet, others it is rough. Monolith push into it from the north, Mercs try to push in from the south, and there's seemingly endless anomalies and mutants in between.</text>
+		<text>리만스크는 버려진 건물들이나 자동차들로 가득한 비어있는 곳이야. 용병들이 죽은 도시에서부터 길을 뚫기 위해서 노력해왔다는 이야기를 들었지만, 아직까지 성공하지는 못한 것 같아... 이상현상과 뮤턴트들 때문에 너무 많은 사람들을 잃었다고 하는군.</text>
 	</string>
 	<string id="dm_information_14">
-		<text>Have you ever heard of Clear Sky's...ahem..."hidden" base? It's down in the south-west of the Great Swamps. They're a friendly bunch, if a little aloof. Next best place for a rookie after the Cordon.</text>
+		<text>늪지대는 대부분이 습하고 방사능에 찌든 웅덩이로 이루어져 있지만, 뒤져볼 만한 몇 개의 버려진 건물들이나 정착지를 찾을 수 있을 거야. 그리고 남쪽 어딘가에는 클리어 스카이의 본부가 있다고 하더군. 꽤나 고립된 곳이야.</text>
 	</string>
 	<string id="dm_information_15">
-		<text>Freedom keep saying they're protecting the Zone from the Monolith, but that's bullshit. If you won't even stand up to Bandits, how can you defend against fanatical zealots?</text>
+		<text>군 창고에 대한 이야기를 들어본 적 있어? 프리덤이 몇년 전에 밴딧들한테 너무 시달린 끝에 그쪽으로 이동해서 본부를 세웠다고 하더군. 자기들이 레이더로 통하는 곳에 있는 장벽을 방어함으로써 존을 지키겠다고 하던데. 난 그게 완전히 말이 안된다고 생각해. 만약에 밴딧들이 그 녀석들을 찢어버릴 수 있다면 모노리스들도 마찬가지라고.</text>
 	</string>
 	<string id="dm_information_16">
-		<text>Monolith reclaimed Pripyat and locked it up pretty tight when they returned. The only consolation is that the mutants now have something to eat other than my friends up in Outskirts.</text>
+		<text>내가 듣기로는, 모노리스들이 프리피야트에 모여있다고 해. 그 놈들이 계속해서 널 쏘고 있는 동안 모든 이상현상들과 뮤턴트들을 뚫고 지나가는 건 거의 불가능하지.</text>
 	</string>
 	<string id="dm_information_17">
-		<text>I hear a band of Mercs got themselves seperated from the rest of their group up in Outskirts. They must be desperate: they're selling great gear very cheaply, even to Free Stalkers!</text>
+		<text>프리피야트 외곽지역을 한 번 들러 보는 게 어때. 널 부자로 만들어줄 수 있는 수많은 이상현상들이 있고, 그쪽으로 가기 위해서 프리피야트 광장을 지나갈 필요도 없어. 주피터 지하의 통로를 따라가면 된다고, 그러면 모노리스들도 널 귀찮게 하지 않을 거야.</text>
 	</string>
 	<string id="dm_information_18">
-		<text>Just stay the hell away from Radar, that's all I can say. Doesn't even matter if the Brain Scorcher is active or not, that place is a waking nightmare. Got it? GOT IT?! Ahem...sorry. Just, just stay away.</text>
+		<text>그 개새끼들이 레이더를 점령하자마자 브레인 스코처를 다시 작동시켰어. 네가 야생동물들의 먹이감이 되는 기분을 느끼거나, 얀타 호수에서 봤던 것 같은 좀비들로 변하지 않고서는 존의 반대편으로 가는 방법이 없어.</text>
 	</string>
 	<string id="dm_information_19">
-		<text>I've only heard good things about Forester's skill as a technician - he does things with his bare hands that others would need entire kits for. Only issue is he charges a fortune...and he lives in the Red Forest.</text>
+		<text>레이더가 점령된 이후 점점 더 많은 스토커들이 붉은 숲을 지나가려다 죽고 있어. 포레스터는 오직 그 녀석들의 장비에 관한 부분만 도움을 주려고 하고, 나는 단지 몇 개의 아티팩트를 찾기 위해서 프라이팬에 내 불알을 굽고 싶은 기분은 아니어서 말야.</text>
 	</string>
 	<string id="dm_information_20">
-		<text>Wild Territory - or Evil Rostok, as I like to call it - is an awful place. Nothing but trigger-happy assholes and swarms of mutants. Wherever you're going, there's better ways to get there than through Evil Rostok.</text>
+		<text>무법지대는 한때 꽤 거대했던 제조공장의 일부였지만, 이제는 뮤턴트들과 이상현상으로 가득찬 곳이 되었어. 거길 지나갈 만한 이유는 정말로 로스토크에 가고 싶거나 약탈품에 굶주려 있을 때 뿐이고, 그 대신 사용할 더 안전한 길도 많이 있어.</text>
 	</string>
 	<string id="dm_information_21">
-		<text>You ever heard of the Wish Granter? My old mentor says it's buried somewhere beneath the NPP, and it'll grant you anything - even your wildest dreams - if you simply reach it and ask. I can't wait to get there!</text>
+		<text>네가 빌고 싶은 소원이 있어? 정말로 원하는 무언가가 있어? 만약 내가 소원을 들어주는 자를 찾는 걸 도와준다면, 그게 현실이 될 수도 있어. 듣기로는 그게 발전소 아래 어딘가에 묻혀있다고들 해. 아마도 모노리스들이 지키고 싶어하는게 그거 아닐까?</text>
 	</string>
 	<string id="dm_information_22">
-		<text>Yantar is sodden with death. Mindless husks keep spewing out of the factory there, and half the time you gun one of them down, you find it's one of your old friends who was shooting at you. It's real fucked.</text>
+		<text>얀타 호수는 죽음으로 흠뻑 젖어 있는 소름끼치는 곳이야. 그쪽으로 너무 깊숙히 들어가는 모든 사람들은 미쳐버리지. 자기들을 소개해주고 싶어서 환장한 좀비들과 스노크들이 온 사방에 널려 있어. 그 녀석들은 저 공장에서 계속 쏟아져 나오고 있고, 과학자들이 그 녀석들을 쏴 죽일 때, 총을 쏘는 좀비들의 절반 정도가 한때 자기들의 동료였다는 것을 깨닫게 되지. 정말로 엿같은 일이야.</text>
 	</string>
 	<string id="dm_information_23">
-		<text>If you're ever up in Zaton, check out the Skadovsk. It's got everything - a medic, technician, information trader, barman, gun runner...even Nimble has set up shop there again.</text>
+		<text>이봐, 스토커, 자톤에서 볼 일이 있을 때는 꼭 스카도브스크에 들러 봐. 그 오래된 녹슨 배는 자기를 베어드라고 부르는 스토커가 운영하고 있어, 아니면 최소한 자기가 운영한다고 여기는 걸 즐기는 건지는 모르겠지만. 거기에서는 잠을 자고, 장비를 수리하고, 전리품들을 팔아넘길 수 있어. 아울은 네가 가지고 있는 PDA에 괜찮은 정보가 있다면 언제나 기꺼이 사려고 할 거야.</text>
 	</string>
 	<string id="dm_information_24">
-		<text>One of the top 10 stalkers on the Network croaked not too long ago. People are scrambling to try find and loot his legendary stashes. Not sure where to start looking, but hopefully I'll luck out soon.</text>
+		<text>자, 들어 봐, 검은 도굴꾼이라고 불리는 친구에 대한 이야기를 들어본 적이 있어? 내가 듣기로는 꽤나 운수 좋은 친구였다고 하는데. 상당한 루블과 수많은 괜찮은 물건들을 가지고 있다고 하는군. 누군가가 말하기를 그가 고물이랑 기타 잡것들이 쌓여있는 쓰레기더미의 깊숙한 곳에 비밀 은닉처를 만들었다고 해. 언젠가 그를 찾아서 정보를 캐물어주고 싶지만, 아마도 그의 비밀은 그 녀석이 무덤까지 가지고 갈 것 같아.</text>
 	</string>
 	<string id="dm_information_25">
-		<text>It probably won't be long until either of us gets tasked with recovering information deep down in some derelict laboratory. Most of my friends who do that never come back. We'll have to make sure we're prepared.</text>
+		<text>아마도 몇몇 버려진 연구소로부터 정보를 되찾아 오는 임무를 받는 일이 일어난 건 그리 오래된 일이 아닐 거야. X18 연구소는 그나마 가볼만 해... X16 연구소는 네 정신이 견디기 더 힘들 거야, 그리고 하나 또는 두 개의 새로운 구덩이 속에 파묻을 인간 형태의 괴물들도 더 많이 있을 거고.</text>
 	</string>
 	<string id="dm_information_26">
-		<text>Seriously, man? Just consult your PDA Guide. I don't know who updates that thing, but I know it's helped me loads. Just check it out if you're stuck on something.</text>
+		<text>만약에 네가 주피터나 프리피야트의 동쪽 지역 및 외곽지역에 가야 할 일을 맡는다면, 발각되지 않고 프리피야트를 지나갈 수 있는 지하통로를 이용해 봐. 그러면 지상에서 광신도들을 상대할 필요가 없을 거야. 아마도 그냥 뮤턴트들이나 좀비들을 상대할 일이 더 많아지게 될 거야.</text>
 	</string>
 	<string id="dm_information_27">
-		<text>You know how they say you cannot capture a Monolith alive? Well, that just got a lot more true - a friend of mine died when he went to finish off a wounded fanatic...damn zealot just blew up in his face.</text>
+		<text>특정 지역에 있는 요새나 전략적 요충지에 있는 기관총 진지를 조심해. 네가 사수의 등 뒤를 보고 있을 때는 절대 그가 널 쏠 수 없으니까, 네가 발각되거나 그의 주변에 있는 모든 사람들한테 보여지지만 않는다면 그 녀석의 눈에 띄지 않게 다가가는 전략을 사용할 수 있어. 보통의 경우는, 누구나 공포에 빠져서 아무도 죽은 사수를 대신해서 기관총을 잡지 않게 될 거야. 그리고 수류탄을 던지는 것도 잊지 마. 만약 네가 궁지에 몰려 있고 엄폐물로부터 나갈 수 없다면 수류탄을 잘 던지는 게 너를 구해줄 수있는 방법이 될 거야.</text>
 	</string>
 	<string id="dm_information_28">
-		<text>Darkscape used to be the favoured path for Bandits to take between Cordon and Dark Valley. Ever since the Meadow was discovered, however, people quickly forgot about it...which makes it a great hiding spot these days.</text>
+		<text>오랫동안 산책을 하고 싶거나, 검은 계곡에 있는 밴딧 기지로 가는 길에 전초기지를 만들어놓고 싶다면, 코돈으 동쪽으로 가서 검은 풍경에 도착할 떄까지 계속 가. 가끔 한 두 분대 정도의 스토커가 거기서 순찰을 할 수도 있지만, 어쨌든 뮤턴트들은 조심해야 해. 상대적으론 조용한 곳이기는 하지만, 이 뮤턴트 새끼들은 어디서 번식해야 할 지 신경도 안 쓰나봐. 아까 내가 이야기했던 전초기지 말인데, 이 지역의 한 가운데 쯤 길이 굽어지는 곳 바로 근처에 있어.</text>
 	</string>
 	<string id="dm_information_29">
-		<text>Stay under Sultan's protection, and no Merc will dare screw with you - he's got some connections with their contractors. 'Course, abuse Sultan's protection and he'll leave you to the dogs.</text>
+		<text>정보를 좀 찾고 있다고? 만약 네가 우리들의 보호를 받는 상태로 남아만 있다면, 용병들은 네게 손찌검을 하지 않을 거야. 우리들은 그 놈들 고용주의 목표물이 될 만한 가치가 없어, 왜냐면 이전 지도자들이 모두 떠나버렸거든... 그들은 모두 없어졌든지, 사라졌든지, 인생에 작별을 고했던지, 뭐 아무렇게나 불러도 돼. 아무도 다시 리더십을 얻기 위해 지도자 자리에 오르려 하지 않는데다, 우린 이제 이런저런 일들이 잘못되는 거에 지쳐버렸거든. 지금까지 자그마한 구역이라도 지키고 앉아있는 사람은 술탄이 있기는 한데, 그 녀석의 영향력은 존에 있는 모든 밴딧들한테 손을 뻗을 만큼 널리 퍼지지는 않았어.</text>
 	</string>
 	<string id="dm_information_30">
-		<text>Most regular stalkers around here are nothing more than little boys with pop guns. They're weak, defiant as all hell, no respect for those stronger than them...those jackasses are perfect target practice.</text>
+		<text>누군가의 목숨을 빼앗고 싶다고 느껴본 적이 있어? 로너 놈들은 언제나 그런 일을 위한 가장 훌륭한 선택이 되어 왔지. 우리들은 처음 그 순간부터 그놈들을 잡아왔고, 그 병신들은 언제나 그럴 만한 가치가 있었지. 대부분은 그렇게 좋은 무기로 무장하지 않았지만, 그 놈들은 우리들을 싫어해서 한바탕 할 준비가 되어 있으니까, 넌 그 놈들한테서 괜찮은 장비와 전투 경험을 얻어낼 수 있을 거야.</text>
 	</string>
 	<string id="dm_information_31">
-		<text>Red, orange, yellow, green, blue, white. Sound like a child's badly drawn rainbow? It's also the colours the Ecologists use for their hazmat suits. Good thing their guards have more sense than to dress like that.</text>
+		<text>이봐, 한 오렌지색 난쟁이가 울창한 갈대밭을 지나가느라 낑낑대는 걸 본 적 있어? 나는 봤어, 그리고 이 쓰레기봉투 같은 놈들은 너무 똑바로 서 있어서 쌍안경을 안 쓰고 봐도 한 마일이나 떨어져 있는 과학자 놈들을 잘 볼 수 있게 만들지. 최근에, 나는 그 놈들이 다양한 색깔의 옷들을 입어서 과학자 놈들이 자주 입고 있는 저 구토를 유발할 것 같은 쓰레기들을 좀 더 낫게 보이도록 하는 걸 발견했어.</text>
 	</string>
 	<string id="dm_information_32">
-		<text>The only things that have less brains than the idiots at Cordon or Skadovsk are members of the Monolith. They seem like they're all retards on a one-track mind. Too bad they're too stupid to fear death either.</text>
+		<text>저 똥개같은 로너들보다 대가리 속에 더 든게 없는 놈들은 모노리스 새끼들밖에 없을 거야. 그 새끼들과 걔네들 행동에 대한 이야기들을 듣는 건 참 재밌는 일이지. 그 새끼들은 마치 오직 하나밖에 생각할 줄 모르는 존의 저능아들 같단 말야. 걔네들이 너무 멍청해서 죽음을 덜 두려워하는게 좀 안타깝군.</text>
 	</string>
 	<string id="dm_information_33">
-		<text>All these fucking eggheads are weak as shit. They think they're so smart, yet they don't even know how to live on what the Zone gives them, or even how to hold a gun in their hands!</text>
+		<text>이봐 친구, 난 오래 전에 휘장에 전갈을 그려넣은 친구들이 파란색 파자마를 입고 있는 녀석들을 쫒아냈다는 이야기를 기억해. 모두들 그 놈들이 둥지에서 기어다니는 눈 먼 새끼 블러드써커보다 약해 빠진 바람에 언제나 그 놈들과 걔네들 복장을 놀려대고는 했지... 오, 기다려봐, 이제 기억나는구만, 그래야 말이 되지... 모든 계란머리 놈들은 총을 더럽게 못 쏘기로 유명해. 그 놈들은 존이 주는 걸 어떻게 받아먹어야 할지도 모르는 놈들이야.</text>
 	</string>
 	<string id="dm_information_34">
-		<text>Fucking Duty, man. They may be well armed, and have fancy uniforms, but they're not that different from some of the gangs and mafias I knew in the outside world. They're just too self-righteous to see it.</text>
+		<text>로스토크를 휩쓸고 다닐 만큼의 수많은 뮤턴트 무리들에 대해 내가 무슨 말을 할지 알고 있을려나 모르겠군. 우리들이 그 근처로 접근할 때마다, 검은색과 빨간색을 한 저 멍청이들한테 쫒겨나고 말지. 그 놈들은 거기에 존나게 잘 짱박혀 있더라고, 심지어 우리같은 침입자들을 쫒아낼 PKM 한 쌍까지 배치해 놓았더라. 그 놈들은 꽤나 잘 무장하고 다니지만, 걔네들의 지휘 체계는... 헤헤헤, 그 놈들은 존에서 가장 순수한 놈들이 아냐. 우리들과 듀티 놈들 사이에는 수많은 비밀 거래가 있었지만, 이제 그 놈들은 모두가 그 일에 대해 입다물어 주기를 원하고, 우리들의 암거래상과 가까워지는 것을 원하지 않게 되었어. 그 놈들이 자기들 자존심이 상했다고 성질머리를 부리는 걸 언제 그만둘지는 신만이 알고 있겠지.</text>
 	</string>
 	<string id="dm_information_35">
-		<text>Don't believe Freedom's bullshit, pal. We kicked their asses out of Dark Valley and they're too afraid to do anything about it. Think about that next time they claim to be the Zone's freedom fighters and protectors.</text>
+		<text>프리덤은 한때 자기들의 힘과 "존의 자유"를 떠들고 다니고는 했지. 우리들은 프리덤이 여기서 할 수 있는게 뭔지를 보여줬고, 그 녀석들은 우리들과 멀리 떨어져 있는 곳으로 자기들의 더러운 궁둥짝을 치워주어야만 했지. 요즘 걔네들은 사람들의 생각을 바꾸려고, 마치 "뮤턴트로부터 더 안전하다"거나 "침략자들을 저지하는 임무를 더 쉽게 수행하기 위해서"라거나 라는 등 다른 이유로 기지를 옮겼다고 생각하게 만들려는 것 같아. 기억해둬, 친구. 그건 다 개소리야. 그 놈들은 단지 우리들이 그 녀석들의 지도층에게 공포를 심어주었다는 걸 인정하고 싶어하지 않을 뿐이야.</text>
 	</string>
 	<string id="dm_information_36">
-		<text>Word is that Zone Military operations are going down the gutter. It's like a legion of sheep commanded by wankers. After all their failures you kinda pity them, hoping some sense gets knocked into their skulls soon.</text>
+		<text>군바리 친구들은 예전만큼 존에 자주 나타나지는 않는것 같아. 그 놈들의 임무수행 상태가 밑바닥까지 떨어졌다는 소문이 돌아다니고 있어. 난 자기만의 이익을 위해 나한테 뮤턴트 한 무리를 죽여버리라던가 스토커 무리를 몰살하라고 시키고 싶어하는 좆같은 새끼의 명령을 따른다면 기분이 좆같아질 게 분명한데. 확실히 그 놈들은 힘든 일을 겪었겠지, 그렇지만 아마도 실패한 것 때문에 걔네들 대가리에 드디어 생각이라는 게 들어가는 데 성공한 것처럼 보이네.</text>
 	</string>
 	<string id="dm_information_37">
-		<text>Sakharov's team recently proved that a single Flash artefact contains more power than both the reactors of a Nimitz Carrier combined. They're being awfully quiet about it though - can't imagine why.</text>
+		<text>아티팩트의 등장과 이를 심층 연구하는 일은 가끔씩 나로 하여금 이게 얼마나 끔찍한 일들을 불러올 수 있을까라는 생각이 들게 만들어. 이 물건들은 알려지지 않은 능력들을 가지고 있어서, 몇몇 아티팩트들로는 지금까지 만들어진 어떤 무기보다도 강력한 무기들을 만들어낼 수 있을 정도로 파괴력이 강해. 다양한 아티팩트들로 만들어낸 에너지를 이용한 폭탄이 만들어지는 걸 상상해 보라고!</text>
 	</string>
 	<string id="dm_information_38">
-		<text>Duty had to pull out of Yantar not too long ago. Kinda sad to see them go - they were of great comfort and help to our scientists, and a relief for our guards. Hope they get back to their old strength soon.</text>
+		<text>참 아이러니하게도 존을 모두가 이용하자고 계속 주장하고 있는 세력은 프리덤인데도, 존을 없애는 새로운 방법을 알아봐 달라고 얀타 호수로 와서 우리 선임 과학자들한테 아티팩트를 가져다 주면서 우리들을 보호해주는 세력은 바로 듀티들이란 말이지.</text>
 	</string>
 	<string id="dm_information_39">
-		<text>I don't like to put people down but, I swear, Bandits are the lowest form of life here in the Zone. No morals, no ethics, just a shitty attitude, cocky swagger and insatiable greed. Wish they'd all sod off for good.</text>
+		<text>밴딧들은 돈이랑 귀중한 물건들을 빼앗기 위해 계속해서 인질들을 납치해가고 있어. 그 놈들은 정직하거나 약속을 지키는 데는 전혀 신경쓰지 않고, 그저 멍청이나 인간쓰레기처럼 행동하고 있다는 사실을 잊지 마. 비록 저 놈들이 지금 잠시 동안은 몸을 낮추고 있고,  존에 있는 모든 밴딧 무리들을 통제할 수 있는 헌신적인 지도자들이 나타나지는 않았지만, 만약 좀 더 똑똑한 놈들이 찾아온다면 그 놈들의 상황이 좀 더 나아질 거야. 지금은, 밴딧들은 주로 소규모로 조직된 그룹들만이 흩어진 형태를 고수하고 있어서, 그들 중 누군가 중요한 인물이 죽더라도 그 놈들 사이에서 혼란이나 공포가 퍼지는 게 어려워.</text>
 	</string>
 	<string id="dm_information_40">
-		<text>Even the most foreboding places in the Zone have a safe path through. The guides who hang out in some of the camps know this, and their expertise is often well worth the price.</text>
+		<text>몇몇 지역들은 보기에 실제보다 더 불길해 보이지. 아그로프롬 지하가 바로 그런 곳인데, 왜냐면 지금 그 지역의 상당 부분이 폐쇄된 상태라, 뮤턴트들이 들끓을 만한 장소가 많지 않기 때문이야. 네가 거기에 장비를 버리고 싶거나 진짜로 거기 놓여 있는 쓰레기더미에서 뭔가를 가지러 갈 게 아니라면 거기 가는 걸 별로 추천하지 않아. 어찌됐든 네 전리품들을 땅 위에 있는 발길 닿기 어려운 곳에 은닉해 두는 것도 괜찮은 방법일 거야.</text>
 	</string>
 	<string id="dm_information_41">
-		<text>Try camp in a vantage point sometime. Study the patterns and formations anomalies make as they hum and discharge, or how the colours change when the sun sets. The Zone can be fatal, but it can be beautiful too.</text>
+		<text>존은 때때로 매혹적인 모습을 보여 줄 수 있어. 그저 네가 감시탑이나 다른 높은 구조물 위에 올라가서 아래를 내려다보며, 거기서 돌아다니는 생물들이나, 이상현상이 만들어내는 흘륭한 형태들을 감상하거나, 100 라드 바에서 흘러나오는 노래를 들으면서 하루를 보내주는 밤하늘을 구경하거나... 그게 내가 존을 좋아하는 이유야. 목숨을 걸어야 할 곳이지만, 동시에 아름다운 곳이기도 하거든.</text>
 	</string>
 	<string id="dm_information_42">
-		<text>I'm getting real tired waiting for Voronin to send me out on an actual mission, rather than this rookie-tier crap I've been saddled with. If this keeps up, I've half a mind to strike out on my own.</text>
+		<text>만약 내가 그냥 여기 죽치고 앉아서 내가 가진 총으로 몇몇 하찮은 뮤턴트들이나 쏘는 거 말고는 아무 것도 하지 않게 된다면, 듀티에 가입하는 선택을 다시 생각해 보았을 거야. 매일 나는 여기저기로 임무를 하라고 떠밀어지지만, 그래서 내가 얻는게 뭐야? 거의 없지. 나는 여기보다 훨씬 더 위험한 지역에 파견되어 본 적이 있을 정도로 오랫동안 있었지만, 다른 수많은 친구들도 내가 빠져들었던 구멍이랑 같은 곳으로 떨어지는 것 같단 말야. 마치 윗대가리들이 좋은 기회가 생겨 그들의 의자를 박차고 나오게 만들기 전까지는 진짜 심각한 일들에 휘말리지 않고 그저 기지에서 안전하게 궁둥이나 붙이고 있고 싶어하는 것처럼 보여.</text>
 	</string>
 	<string id="dm_information_43">
-		<text>Unlike Freedom, Duty takes action against the real dangers of the Zone, defending the world against the Zone's mutant abominations and protecting the common stalker from the corrupt brutality of Bandits.</text>
+		<text>프리덤 놈들은 마치 게으름 피우며 의자에 죽치고 앉아있는 미친놈들 한 무리처럼 보일 수도 있지만, 필요하다먼 꽤나 능수능란하게 행동할 수도 있어. 그 녀석들은 이전에 다른 스토커들이 듀티에 대해 갖는 평판을 떨어트리기 위해 우리들에 대한 잘못된 정보들을 퍼뜨리는 데 성공했단 말이지. 게다가, 그 놈들은 자기들이 얼마나 장벽을 잘 지키고 있는지를 계속 떠들어대면서 그게 우리보다 자기들이 더 나은 이유라고 한다고. 그 놈들이 떠들어대는 헛소리는 절대 믿지 마. 걔들은 장벽을 그렇게 오래 지키고 있지 않았고, 그렇게 큰 규모의 일은 아직 벌려본 적이 없었어... 그 자식들이 군 창고를 박살내러 오기 전까진 말야. 언젠가는 우리가 군 창고를 되찾아서 그 "방어" 활동의 규모를 더 크게 만들거야.</text>
 	</string>
 	<string id="dm_information_44">
-		<text>I haven't seen a lot of military stalkers around lately. The SSU used to send these highly trained and well-armed operatives into the Zone for special tasks, but now all I see are grunts. Things are quiet. Too quiet.</text>
+		<text>난 존에서 돌아다니는 동안 많은 것들을 봐 왔어, 그리고 대부분은 내가 듀티에 속해있지 않았을 때였지. 젠장, 네가 만나게 될 녀석들 중에서 내무군 스토커들이 아마도 가장 빡센 놈들일 거야, 북쪽에서 계속해서 밀려드는 미친 놈들을 빼면 말이지. 존에 그다지 깊숙이 들어가지 않거나 여기에 그다지 오래 있지 않은 일반적인 군인들과는 다르게, 그 놈들은 특수한 훈련을 받았거나, 스스로가 충분한 경험을 가지고 있어. 그리고 대부분의 스토커들을 우습게 뛰어넘을 수 있는 장비들도 가지고 있지. 녀석들은 꽤나 맹렬하게 싸우는 적이지만, 네가 총 쏘는 일을 꽤 잘 할 줄 안다면, 너 혼자 힘만으로 그들을 쫒아낼 수도 있을 거야... 그래도 나라면 별로 추천하고 싶지 않은 게 우리들이 내무군 스토커랑 꽤 잘 지내고 있기는 하지만, 일반적인 징집병들보다는 못하거든.</text>
 	</string>
 	<string id="dm_information_45">
-		<text>Unlike Duty, Freedom takes action against the real dangers of the Zone, defending the Barrier against the Monolith and protecting the common stalker from the corrupt brutality of the Military.</text>
+		<text>난 다른 모든 사람들이 우리들을 그냥 존이나 존이 만들어낸 것들을 찬미하기만 하는 대마초 중독자들로 여기는 거에 진절머리가 나. 우리들은 진짜로 우리들이 얻은 유용한 정보들을 필요한 사람들한테 나누어주도록 노력해야 하고, 충분한 위협이 있는 상태에서 필요할 때만 적대적인 행동을 취해야 해. 마치 듀티같이 그냥 몸만 커진 어린애들 같이 행동하면서, 그냥 기지에 죽치고 앉아서 개들이나 쏴죽일 때 말고는 불쌍한 밴딧들이나 약한 뮤턴트들이나 괴롭히고 있으면서 자꾸 딴소리만 하는 놈들과는 다르게 말야.</text>
 	</string>
 	<string id="dm_information_46">
-		<text>Freedom's leaders earn their place through common respect. If Forester were to join us, he'd probably have enough pull to sway the entire faction. Pity he's grown too weary for Zone politics.</text>
+		<text>우리들이 상당히 중요하게 여기는 인물들 중 하나가 바로 포레스터야. 그는 빽빽한 숲을 가로질러 가는 다양한 길들을 찾아낼 수 있는 예리한 눈을 가졌지만, 나이가 먹으면서 빛이 바래고 말았지... 이제 그는 자기가 있는 안전한 안식처 밖에서 벌어지는 일들에는 더 이상 많은 신경을 쓰지 않아. 그는 스카에게 많은 도움을 주었고, 그래서 레베데프에게도 도움을 줄 수 있었지. 붉은 숲에서는 아직 포레스터를 찾아볼 수 있을 거야... 아마도 그는 그저 우리 마음 속에서 흐릿하게 기억되는 이미지로만 남아있을 때까지 남은 일생을 거기서 지낼 듯해.</text>
 	</string>
 	<string id="dm_information_47">
-		<text>Sorry, man. I don't have any information for you. I just keep thinking back to the Death Trucks that came through in 2012, and all the old friends they carried from the NPP down to Cordon or Darkscape, all dead...</text>
+		<text>몇년 전에, 우리들을 이끌던 사람은 레베데프였어. 정말 개같은 나날들이었지만, 어느 날 한 용병이 와서 우리들이 늪지대에서 발판을 마련하는 데 도움을 줬어. 하지만 그 때, 스트렐록 문제가 커져서 감당할 수 없을 지경에 이르렀지. 대부분의 클리어 스카이 대원들은 레베데프와 그 용병을 따라가 북쪽으로 가서 모든 걸 정리하려고 했어... 그래, 그게 어떻게 끝장났을 지 알고 있겠지. 뭐 어쨌든, 우리들은 코돈의 시체 트럭이 우리들의 옛 친구들을 계속해서 실어나른다는 이야기를 듣고 있어. 아주 드문 경우에는 아직 생존자들에 대한 증거가 나오기는 하지만, 아마도 그들이 거대한 휩쓸림 같은 거에 당한 거 같아.</text>
 	</string>
 	<string id="dm_information_48">
-		<text>Before Colonel Kuznetsov took command, the Ukrainian Military didn't seem to mind us hanging around too much, but now it's like they can't distinguish between us and common criminals!</text>
+		<text>존에 뭐 새로운 소식이 있냐고? 잘 생각해 봐, 넌 저 바깥에 있는 개새끼들이랑 거의 똑같은 말을 하고 있다고. 정보라고, 하... 쿠츠네초프 소령에 대한 이야기를 들어본 적 있어? 참 대단한 인간이지. 할레츠카이 소령이 자기가 일으킨 문제 때문에 해임된 뒤에, 쿠츠네초프 소령이 들어와서 똑같은 짓거리를 하고 있었다고! 언제나 윗대가리들은 다 썩어 있다고. 권력과 통제하는 맛을 잠깐 보고 나서는, 존에 있는 범죄자들과 내통하려 하고 있지! 내가 듣기론 그가 그 녀석과 마주치면서 끔찍한 운명을 맞이했다고 들었어... 이름은 잘 기억나지 않지만, 그를 프리피야트에서 만났다고 하더군. 그가 정말로 중요한 정보를 가지고 있어서 만났다고 하는데.</text>
 	</string>
 	<string id="dm_information_49">
-		<text>After the next emission ends, more of our guys will be flown in to bolster our teams here. Rumour has it there are some French, Finnish, and British operatives coming in this time... Should be interesting.</text>
+		<text>우리들은 한 달쯤 안에 새롭게 배치되는 신병들을 만나게 될 거야. 그저 파일럿들이 뜨고 내릴 수 있도록 존이 우리들에게 휴식 시간을 약간 주기를 기다리고 있지. 소문으로는 프랑스, 핀란드, 그리고 영국 출신의 대원들이 이번에 들어온다고 하더라... 재미있겠어.</text>
 	</string>
 	<string id="dm_information_50">
-		<text>Things may be rough out here, but that doesn't mean the research has stopped. Thanks to Novikov, and an unofficial collab with the Ecologists, we've made superb scientific strides. Lebedev would be proud...</text>
+		<text>요즘은 일이 꽤나 험난하게 돌아가지만, 그게 연구를 중단할 거라는 이야기는 아니야. 우리들은 수제 장비들을 좀 손보고 있고, 언제나 그렇듯이 과학자들로부터 장비를 좀 가져오는 데 성공했어. 우리들이 블러드써커들의 항응고 작용과 살덩이 눈에서의 수정체 복구 작용에 대해 얼마나 알고 있는지 들으면 놀라게 될 걸.</text>
 	</string>
 	<string id="dm_information_51">
-		<text>We're still losing friends to the Brain Scorcher. For one reason or another, they take pills, put foil on their heads and then brave the Radar...usually they come back barely able to speak, if they come back at all.</text>
+		<text>아직도 우리들은 브레인 스코처 때문에 친구들을 잃고 있어. 경험있는 스토커들이 약을 먹거나 머리에 양동이를 뒤집어 썼다는 이야기를 들어본 적이 있을 거야... 그들은 두통과 환각들을 견뎌내서 전리품들과 아티팩트들을 조금 챙기는 데 성공했고 캠프로 무사히 돌아왔어. 물론, 그들은 가끔씩 제대로 말하지 못하거나, 제정신이 아닌 것처럼 보일 때가 있어. 하지만 사람들은 그들이 서로 축하하거나 은퇴하는 걸 보고, 그들과 똑같은 일을 하기로 결정했어.</text>
 	</string>
 	<string id="dm_information_52">
-		<text>Sakharov is making greater strides in psychic research. From what I hear, he's started making quality anti-telepathic gear on commission. If he advertised better - or at all, even - he'd make a killing.</text>
+		<text>만약 네가 하고 싶어할 정도로 충분히 멍청하다면, 정신파 필드 근처에 있는 얀타 호수에서 일거리가 있다고 하더군. 그들은 앞으로 전진해서 북쪽으로 갈 수 있도록 만들어주는 약물이나 보호복을 실험해 보려 하고 있어. 문제는 네가 돌아올 수 있다는 보장이 없다는 거야. 그들이 말하길 네 머리통은 삶아질 거고 네 몸은 말을 제대로 듣지 않을 거래. 그리고 환각이나 실어증을 겪기 시작할 수 있다고 하는군. 네 가장 친한 친구가 갑자기 네가 맞서야 할 최악의 적으로 변해버릴 수도 있어. 아마 지금 할 수 있는 것들 중 가장 위험한 일일지도 몰라.</text>
 	</string>
 	<string id="dm_information_53">
-		<text>What do you think are in all those underground labs? Way I hear it, most people who go down in them never come back up, but those who do always have a wealth of loot, artefacts or information with them.</text>
+		<text>브레인 스코처 말야, 친구. 보호복을 입고서든, 거길 통과하는 터널 같은 걸 찾아서든, 거길 지나가는 길을 찾기 위한 수많은 시도들이 이루어지고 있어. 당연히, 과학자들부터 군인까지도 거길 지나가는 길을 찾고 싶어하고, 거길 맨 처음으로 통과하는 사람은 아티팩트, 전리품, 그리고 정보들로 가득 찬 보물 상자를 열게 될 거야.</text>
 	</string>
 	<string id="dm_information_54">
-		<text>Man, I miss the old base back in Dark Valley. It was creepy as shit, sure, but still better than camping south of Radar. Wish Lukash would get tough on those Bandits' asses so we can move our boys south again.</text>
+		<text>이봐, 난 검은 계곡에 있는 옛 기지가 그립다고. 거긴 가끔씩은 좆같이 음침한 곳이었지만, 그때는 꽤나 괜찮은 캠프가 있었지. 하지만 밴딧들이 쓰레기장을 돌아다니기 시작하자마자, 거기에 발을 붙이고 사는 일이 더욱 더 어려워졌어. 듀티가 밀고, 밴딧들이 누르고 있는 그 상태에서 우리들은 결국 체에 걸러지는 물처럼 동료들과 전초기지들을 다 잃게 되었을 거야. 그래도, 어찌됐든 여기에 정착했어. 밤에 잠을 잘 곳이 생겼고, 이상한 꿈을 꾸는 것만 제외한다면... 그리고 아침에 숙취 비슷한게 생기는 것만 빼면 괜찮아.</text>
 	</string>
 	<string id="dm_information_55">
-		<text>Well, if you need to save money, you can always stick to eating the meat from mutants you kill. Not the healthiest lifestyle, but it'll do while you're saving up for a shiny new suit or detector.</text>
+		<text>여기서 만들어진 음식들을 먹어본 적이 있어? 저 밖의 야생동물들은 살짝 맛이 가기는 했지만, 어쨌든 살덩이나 멧돼지들의 고기로 괜찮은 식사를 할 수 있을 거야. 게다가 내가 듣기로는 몇몇 친구들이 스노크 손을 구워 먹는다고도 하는데... 내 말은, 그거 식인 아니야? 그리고 블러드써커 촉수나 살덩이 눈 같은 것들도 있지. 아마도 베테랑들 중 몇몇은 통조림된 음식 같은 것들의 존재를 모르고 있는 게 아닐까.</text>
 	</string>
 	<string id="dm_information_56">
-		<text>You know Leshiy? Heard he got stuck in a Spatial Anomaly, back in 2011. He was there for days, trapped on the same patch of grass, a city perpetually on the horizon, with no comms or supplies. He's lucky to be alive.</text>
+		<text>나는 언젠가 조금 나이 많은 친구들이랑 함께 일하러 간 적이 있었어. 그들은 여기에 몇 년 동안 있었으니까, 네 머릿속에도 잘 그려질 거야. 그는 나한테 그의 분대가 공간 이상현상 속에 어떻게 갇히게 되었는지를 이야기해 주었어. 맞아, 그건 회전목마나 불판처럼 목숨이 위태로운 이상현상은 아니지만, 그들을 며칠 동안 가둬 놓았다고 했어... 그저 똑같이 생긴 풀밭 위에서 아무런 보급품이나 통신장치 없이 갇혀 있었다고 해.</text>
 	</string>
 	<string id="dm_information_57">
-		<text>Patrol duties are always shitty, but if you gotta do it, the best spot would be Cordon. You hardly even have to walk up and down the road any more. Certainly much better than getting eaten by Swamp mutants.</text>
+		<text>저 곳에는 꽤나 빡센 순찰대가 돌아다니고, 그 다음에는 조금 약한 게 돌아다니지. 만약 네가 늪지대에 있다면, 공격헬기 하나가 공중 지원을 해 줄거야, 그리고 우리들이 점거한 전초기지는 이런 황무지에서는 꽤 편안한 곳이지. 하지만 거기 살고 있는 스토커들이나 밴딧들이 가끔씩 밀고 들어와서 영토를 차지하러 온단 말이야. 그러니 네가 몸을 숙이고 있다면, 공격헬기가 그 놈들을 쫒아내 줄 거야. 검은 풍경은 여기부터 검은 계곡을 잇는 북동쪽으로 뻗은 길을 말해. 거긴 꽤나 우중충한 곳이고, 밴딧들이 길을 돌아다니는 사람들을 꾸준히 습격하고 있고 밤에는 뮤턴트들이 아주 휘젓고 다니지. 그리고 아그로프롬이 있어. 아그로프롬은 뒤섞인 장바구니와도 같지. 넌 저녁 쯤이 되면 우리들의 군 시설에서 쉴 수 있지만, 네가 순찰을 나간다면 왼쪽에서는 스토커들이, 오른쪽에서는 뮤턴트들이 공격해올 거야. 그래서 이 이야기의 요점이 뭐냐고? 그냥 비상 경계선 구역에 짱박혀 있으란 말이야.</text>
 	</string>
 	<string id="dm_information_58">
-		<text>I'm hoping to get a post in Yantar soon, maybe even become a permanent member of the Ecologists' Guard. Better bunks, kinder bosses, less hatred from the locals...yeah, I'd love to get a post up in Yantar.</text>
+		<text>그래서 존이 처음으로... 음... 터진게 언제라고?... 뭐 어쩄든, 우리는 여기로 날아온 과학자들을 계속 업어키우고 있지. 그 녀석들은 과학적인 잡것들로 가득한 그들만의 작은 벙커에서 살면서, 저 멍청해보이는 고무 보호복을 입고 산책을 나온다니까. 그 동안 우리들은 피곤에 찌들은 채 진흙에 뒤덮여서 잘 곳도 없는 상태로 지내고 있지. 밤이 올 때마다 하늘이 밝은 빨간색으로 빛난다면, 밖에 나가 있는 순찰대원들은 좀비가 되서 돌아오고 말아. 우리들이 블러드써커한테 쪽 빨리거나 이상현상 속에서 갈갈이 찢겨지는 동안, 그 계란머리들은 자기들 연구나 아티팩트 따위에 더 관심을 가진다고. 결국, 우리들은 거길 떠났어. 우리들은 아그로프롬으로 자리를 옮겼고 가끔씩 최소한의 지원 병력만을 보냈어. 이제, 과학자들은 그저 다른 사람들의 화력에만 의지할 수 없게 되었다는 걸 깨달았지. 그들은 스스로 무기를 갖추고, 방어구들에 두꺼운 케블라를 덧대기 시작했어... 그리고 매일 밤마다, 나를 기다리는 침대와 보드카 한 병이 생겼지. 그게 바로 정의란 거야.</text>
 	</string>
 	<string id="dm_information_59">
-		<text>A cool trick I picked up off some stalkers is to always carry some bolts or bullet shells on you. You throw the bolt ahead of you to check for anomalies. Sounds ridiculous, but in the Zone, it's a lifesaver.</text>
+		<text>난 여기 온 지 얼마 안 됐지만, 다른 친구들한테서 몇 가지를 배웠어. 언제나 볼트 몇 개를 지니고 다니는 게 좋아, 특히 실이 달린 걸로. 보통은 스토커한테서 하나 챙기지. 이상현상을 확인하기 위해서 볼트를 네 앞으로 던져볼 수 있어. 이상한 소리처럼 들리겠지만, 존에서는 이게 네 목숨을 지켜줄 수 있어.</text>
 	</string>
 	<string id="dm_information_60">
-		<text>With logistics being the way they are, be sure to stash any meds you pick off of dead stalkers. Might not be as sterile as our proper kits, but it'll still be better than nothing when your buddy gets downed.</text>
+		<text>네가 싸웠던 스토커나 밴딧들 몸을 뒤져서 의료용품이 나오면 다 챙겨 둬. 다른 군용이나 과학자용 메디킷만큼 치료 효과가 좋다거나 소독이 되었다는 건 장담 못하겠지만, 네 동료가 쓰러졌을 때 구해줄 수 있어. 네가 존에서 사귀는 친구들은 바로 네가 사귈 수 있는 가장 좋은 친구들이니까, 예비용 메디킷을 항상 가지고 다니도록 해.</text>
 	</string>
 	<string id="dm_information_61">
-		<text>I do not know what's worse - the Renegades or the Military. What the hell do they think they're doing in the Great Swamps anyways? Maybe one day a Merc like Scar will come back and help us push them out again.</text>
+		<text>한때 우리들은 레니게이드 놈들이랑 큰 문제가 있었지. 그 놈들은 늪지대로 쳐들어왔던 무법자 놈들이야. 우리들은 함께 싸웠고, 스카의 도움으로 그 놈들의 궁둥이를 걷어차버릴 수 있었지. 지금은 내무군이 주둔해서, 헬기가 돌아다니고 있어. 솔직히 말하면, 그때가 지금보다는 힘들었지만, 정말로 그때가 그리워. 내무군은 정말로 깊게 파고들어가고 있다고.</text>
 	</string>
 	<string id="dm_information_62">
-		<text>There's a real demand for toolkits in the Zone - most serious technicians like having at least one kit of each type, if not more. Too bad most kits just get lost to the Zone when their previous owners die.</text>
+		<text>존에서는 무기나 방어구를 손볼 수 있는 더 정교한 도구들에 대한 수요가 매우 높아. 나는 두 달쯤 전에 내가 쐈던 녀석에게서 한 세트를 발견했지만, 서둘러 은닉처로 숨겨둘 수밖에 없었어. 우리가 그걸 어디 숨겼는지는 잘 모르겠지만, 아마도 네가 상인들의 일을 좀 해결해 준다면 그들이 좌표를 알려줄 거야.</text>
 	</string>
 	<string id="dm_information_63">
-		<text>You looking for information? I've been here three years and I don't even know what I'm looking for any more. All my friends are buried under one cross or another, all for some stupid adventure. Might join them myself.</text>
+		<text>그거 알아? 난 여기에 거의 3년 동안이나 있었어... 내가 뭘 찾으려고 여기 왔는지도 기억이 안 나는구만. 알아들었어? 3년 동안이나 이런 쓰레기더미에서 다음에는 뭔가 큰 걸 얻겠지라고 생각하면서 돌아다니고 있단 말이야. 근데 그거 알아? 그런 일은 우리에게 있을 수 없어. 네게 줄 충고 하나가 있어. 네가 이런 저주받은 곳에 어떤 이상적인 생각을 하고 왔는지는 몰라도, 그딴 건 다 집어 치우는게 좋아. 살아남고 싶다면 그저 여기에 동화되어 살고 숨쉬는 법을 배우도록 해. 나는 수많은 젊은 초짜들이 자기들이 추구하던 스릴과 많은 아티팩트를 찾아다니는 걸 보았어. 그 녀석들 중 대부분이 우리들이 걷는 외로운 길 옆에 세워져 있는 십자가 밑에 묻혀 있지. 난 그런 것들을 보면서 이상한 기분을 느껴... 난 이제 존 밖에서의 삶은 더 이상 상상할 수 없어, 그저 언젠가 꾸었던 꿈처럼, 그리고 두 번 다시는 겪어볼 수 없는 사실처럼 느껴진다고. 마치 내가 그동안 살아왔던 모습들을 모두 두고 온 무덤처럼, 영원히 잃어버린 듯한 삶이 되어버렸단 말이야. 웃고 있군 그래. 불쌍해 보이지? 행운을 빌어, 스토커.</text>
 	</string>
 	<string id="dm_information_64">
-		<text>I heard the Bloodsucker Village in Army Warehouses is actually empty these days. 'Course, with bloodsuckers there's no way to be sure until it's too late, and I'm not inclined to believe everything I hear...</text>
+		<text>언젠가 이상한 일이 일어난 적이 있어... 우리들에게 이 새로운 친구가 찾아왔는데, 그는 여기에 온 지 몇 주 정도 지났다고 하더라고, 그래서 우리들은 그에게 로스토크와 바를 보여주려고 생각했어. 내 말은, 괜찮은 친구였지만, 너무 어렸고 경험이 없었지. 우리들에게 돈이나 돈버는 법, 막대한 부, 아티팩트 같은 것들을 계속해서 물어보았어... 평범한 초짜들이 말하거나 꿈꾸는 것들이지. 어쨌든, 우리들이 잠깐 듀티 군의관을 만나러 간 사이에 그 친구가 사라졌어. 바텐더가 말하길 그 녀석이 몇몇 스토커들과 이야기를 나누고 나서 그냥 나가버린 걸 보았다는 거야. 분명히 몇몇 개같은 스토커 놈들이 군 창고 지역에 있는 버려진 마을에 숨겨져 있는 은닉처에 대해 이야기해 주었을 거야. 우리들은 정말로 겁에 질렸고, 듀티 경비병들에게 우리를 도와 순찰대를 파견해달라고 말했지만, 그들은 거절했어. 누가 그들을 원망하겠어, 그저 몇몇 이름모를 로너따윈 안중에도 없었겠지, 그렇지? 그리고 사실, 모두들 그곳이 어떤 이유 때문에 블러드써커 마을로 불린다는 걸 알고 있었지. 그 멍청이는 단 혼자서 거기로 가버린 거야. 스토커, 너도 알다시피 거긴 뮤턴트만 있는 게 아니라, 용병들도 있고 모노리스 광신도 놈들도 돌아다니고 있지. 아주 좆된 거야. 어쨌든, 듀티들은 평소처럼 쓸모없었고 우리들이 가야만 했어. 솔직히, 내가 좀 더 똑똑했으면 그 새낀 그냥 집어치우고 그냥 돈 몇 푼 벌려다 죽게 내버려 두었겠지만, 난 더 이상 견딜 수 없었어. 나는 이미 너무 많은 친구들이 병신같은 것들 때문에 죽은 걸 봐 왔으니까... 어느 쪽이든, 우린 이 일이 엄청나게 위험한, 거의 자살 수준이라는 걸 알고 있었어. 특히나 준비도 거의 하지 않은 상황이었거든. 하지만 우리들은 총알 몇 발과 보급품만 챙겨서 현장으로 향했어. 마을은 평화로워 보였고, 매우 고요했어. 우리들은 오직 근처에 있는 몇 개의 유명한 이상현상이 내는 지지직거리는 소리만 들을 수 있었어. 그리고 나는 핏자국이 집들 중 한 곳 안으로 이어져 있는 것과, 풀이 빨개진 것을 보았고 누군가 혹은 무언가가 그 안쪽으로 끌어당겨졌다는 것이 확실해 보였어. 이봐, 정말로 얼굴에 식은땀이 흐르는 게 느껴졌다고. 핏자국은 집 안쪽에서 지하실 안으로 계속 이어졌고, 마침내 우리들은 그를 발견했어... 그 운 좋은 녀석은 정말로 블러드써커 한 마리한테 잡혀갔지만, 아마도 그 괴물이 그를 한 번에 죽이는 대신 지하실 안으로 끌고 간 것처럼 보였고, 그는 마지막 기회가 왔을 때 그 촉수 괴물한테 칼로 배빵을 놔 주는 데 성공했어. 그는 피로 뒤덮여 있었지만, 자기 피는 아니었고 아마도 블러드써커가 우리 친구한테 찔려죽기 전에 어떤 불쌍한 친구를 잡아서 빨아마신 피가 쏟아져 나온 것 같았어. 와 씨발, 거의 핏 속에서 익사할 수도 있었다고. 우리 멍청한 친구는 가벼운 부상만 입고 살아났어. 아마도 그 블러드써커가 어린 개체였거나 경험이 없었거나 그랬겠지... 뭐 집어치우고, 난 그 녀석이 이 일이 있고 나서 며칠 뒤에 군 장교 몇몇에게 뇌물을 주며 존 밖으로 꺼내달라고 했다는 소식을 들었어, 아마도 그게 우리들이 해야 할 가장 현명한 일이 아닐까.</text>
 	</string>
 	<string id="dm_information_65">
-		<text>Everyone is here for a reason, friend. Take me, for instance: I'm here because I have a grandfather who never got evacuated from the accident in '86. I'm hoping to find him, or at least bury his remains someday.</text>
+		<text>여기 있는 모든 사람들은 사연이 있다고, 친구. 방금 코돈에 내 형제를 묻고 온 참이야. 그 녀석의 친구가 말하기를 존의 깊은 곳 어딘가에서 범죄자들이 살해했다고 하더군. 그들이 말하길 내 형제는 트럭 묘지 근처에 있는, 군 창고의 듀티 거점에서 좀 떨어진 곳에서 발견되었대. 몇몇 친구들이 그의 시신을 찾아서 시도로비치 쪽으로 운반했어. 아마도 그가 아티팩트를 몇 개 찾았다는 걸 너무 많은 사람들에게 말하고 다녔었나봐. 너도 그런 일을 하면 어떻게 되는 지 알고 있을 거야. 나는 돈이나 아티팩트같은 건 상관 없어. 오직 복수만을 원해. 내가 듣기로는 충분한 돈만 있다면 누군가를 처리해 줄 용병을 고용할 수 있다던데... 하지만 내가 그들을 고용할 만한 돈을 가지고 있을지는 모르겠어. 게다가, 난 그 좆같은 밴딧 새끼한테 직접 칼날을 쑤셔박고 싶거든. 비겁한 놈, 내 형제같은 녀석을 죽이다니... 그는 너무 착했어. 그는 만약 자기가 돈을 좀 벌어 온다면 우리 모두들이 좀 더 편하게 지낼 수 있을 거라고 생각했었어. 그는 너무 순진한 나머지, 언제나 저 구석을 지나서 바로 손만 뻗으면 막대한 부를 얻을 수 있을 거라고 생각하고 다녔지... 씨발, 내가 왜 너같은 스토커에게 이 모든 걸 말해주는 지도 모르겠지만, 항상 그 좆같은 밴딧 새끼들을 조심하도록 해. 그 새끼들은 주로 쓰레기장, 검은 계곡 그리고 트럭 묘지에 있어. 만약 그 새끼들을 보면 그냥 쏴버려, 협상 같은 건 시도하지도 마. 그 놈들은 네가 등을 돌리자마자 뒤통수를 칠 놈들이야. 나로 말할 거 같으면, 이미 내 형제에게 좆같은 짓거리를 한 걸로 추정되는 놈의 이름을 알아냈어, 그리고 그 놈한테 칼을 쑤셔박으며 천천히 이 말을 속삭여줄 거야. "이건 니키타의 몫이다, 개새끼야!" 그리고 그 놈의 마지막 숨소리를 즐기겠지... 이런 지옥같은 곳에서 살아남는 방법은 네 주변에 있는 사람들의 실수를 잘 보고 똑같은 짓을 하지 않으려 노력하는 거야, 그렇지 않으면 넌 너보다 좀 더 똑똑하고 관찰력 있는 친구들이 이야기해주는 또다른 예시가 될 수도 있어.</text>
 	</string>
 	<string id="dm_information_66">
-		<text>Apparently there are places in the Zone so horribly twisted and unforeseeable that even mutants avoid them. Just thinking about that puts my teeth on edge - what could possibly be scarier than the mutants?</text>
+		<text>나는 너무 북쪽으로 떨어진 곳까지 가지는 않았지만, 여기서 더 오래 머무른 경험많은 친구들이 계속해서 들려주는 이야기를 들어보면 완전히 좆같은 것들 뿐이야... 들어보면 존에는 끔찍하게 뒤틀려 있고 예측할 수 없어서 뮤턴트조차 피하는 곳들이 있대. 여기 있는 어떤 친구는 꽤 경험이 많고 많은 곳을 여행해 봤는데, 존에서 많은 사람들이 전혀 가지 못한 곳들을 많이 보았다는군. 그가 이따금 말해준 이야기들은 그저... 믿을 수 없었어.  리만스크 근처에 있는, 북쪽으로 멀리 떨어진 곳에 있는 병원에는 광신도들이 가득하고... 어두울 때 수 킬로미터 밖에서도 환하게 보이는 푸른 광선을 뿜어내는 발생기들이 모여있는 지역들까지... 하지만 내가 들었던 것들 중 가장 이상한 부분은 그가 언젠가 프리피야트의 멀리 떨어진 곳에 도착했을 때의 이야기인데... 그가 거기서 본 광신도들은 뭔가 동맹 같은 걸 맺고 있었다는데, 내 말은 내가 제대로 기억하고 있다면 그가 동맹이라고 불렀던 건데, 바로 존에서 마주칠 수 있는 이성 없는 좀비들과 동맹을 맺었다는 거야. 그 모습은 거의... 평화로웠대. 마치 총을 든 시체같은 것 옆에서 서있는 모습을 상상해볼 수 있어? 그 광신도들은 마치 조금의 방해도 없이 좀비들과 뮤턴트로 가득찬 곳을 돌아다닐 수 있을 만큼 어떤 인간의 감정을 닮은 것들조차 없는 게 틀림없어. 내가 듣기론 옛날에 시도로비치의 친구들 중 한 명이 모노리스에게 당했을 때, 그들이 그 놈의 다리 같은 곳을 쏜 뒤에 그가 그저 모노리스 또는 뭔가에 대해 횡설수설 지껄이면서 비명을 지르고 있었다고 해... 그들이 그 광신도를 확인하려고 가까이 다가갔을 때 그 놈은 자기 몸에 두르고 있었던 IED를 터뜨렸어... 그때부터 그들은 부상당한 광신도들을 멀리서 쏴버렸지, 그게 네가 포로로 잡힌 모노리스들에 대한 이야기를 듣지 못하는 이유야.</text>
 	</string>
 	<string id="dm_information_67">
-		<text>Bandits have invented  yet another 'sport'. They call it the "Rookie Marathon" - they'll strip their victim down to his underwear and have him run back to base...only to die horribly from radiation exposure. Nice.</text>
+		<text>이 주변에서는 조심해야 할 거야. 밴딧 놈들의 습격이 점점 심해지고 있거든... 이 새끼들은 도대체가 거의 쉴 틈을 주지 않는다니까. 그 놈들은 우리 물건을 훔쳐가고, 우리 친구들을 납치해가고... 내가 듣기론 그 놈들이 새로은 놀잇거리를 생각해냈다는데, 주로 초짜인 스토커를 하나 잡아서, 그 녀석의 모든 장비들을 뺏고, 속옷 차림으로 근처에 우호적인 거점까지 뛰어가게 한다는 거야. 그걸 "뉴비 마라톤" 이라고 부른다더군. 그렇게 당한 친구들 대부분은 나중에 방사능 노출 때문에 끔찍하게 죽어간다더군. 하지만 그 놈들은 당연히 존나 웃기다고 생각하겠지. 나중에 그 친구들 사이에 많은 이야기가 오고 갔어. 대부분은 정말로 겁을 먹어 버렸지 뭐야. 몇몇 친구들은 밴딧들을 쫒아내기 위한 용병을 고용하자고 했지만, 그건 돈이 너무 많이 들어서 아무도 그 돈을 내고 싶어하는 사람이 없었어. 다른 녀석들은 약품이랑 총알 그리고 총을 쟁여놓고 있어. 그들은 분대를 조직해 검은 계곡에 있는 밴딧 새끼들을 협공하면 대부분의 문제들이 해결될 거라고 생각하지... 내 직감으로는 곧 있으면 정말로 좆같아질 예정이니까, 온갖 잡것들이 머리 위로 날아다니기 시작하면 머리를 숙이고 다니는 게 좋을 거야. 군바리들도 최근 들어서 바쁘게 움직이고 있어... 다음에 무슨 일이 벌어질 지는 신만이 아시겠지... 몸조심해, 스토커.</text>
 	</string>
 	<string id="dm_information_68">
-		<text>The best hitmen around here never go in without a disguise. Not sure how they can afford to keep so many spare suits in believable condition, but their victim is almost certain to never see them coming.</text>
+		<text>몇 주일 쯤 전부터 이 이상한 친구가 여기를 돌아다니고 있어... 이름이 뭐였더라? 지금은 잘 기억나지 않는데... 어쨌든, 모든 친구들이 그를 시닉이라고 불러. 아 맞아, 내 생각에는 그가 보코 시닉인가 뭔가 하는 걸 따른다는 거 같아. 그는 어느날 그냥 우리 기지 안으로 들어왔어. 아마도 신디케이트가 처리할 사람들이 있어서 그를 보낸 것 같아. 그는 남동부 유럽쪽인가 거기서 왔다고 했어. 존에 있는 이 망할 놈의 모든 초짜들과 비슷하지. 그래, 그 친구는 별로 말이 많지는 않아서, 우린 그냥 우리 일이나 신경쓰고 있었고, 아무도 그에 대해 그다지 관심을 주지 않았어. 아슬란이 말하길 그는, 너도 알다시피 보통 때와 다를 바 없이 그날 밤에 우리들이 일일 브리핑을 하는 동안 일을 하러 나갈 거라고 했어... 그 뒤에 아침이 왔는데, 우린 몇몇 용병들이 죽은 도시 한 가운데에서 몇 명의 듀티 녀석들이 자기들 쪽으로 곧바로 온다고 아슬란에게 보고하는 통신을 들었어. 그 녀석들은 너무 혼란스러운 나머지 걔네들한테 총을 쏘지도 않았지. 내 말은, 도대체 듀티 녀석이 이런데서 혼자 뭘 하느냐는 거야? 우린 아마도 그가 전령같은 거라고 생각했었어. 어쩄든, 결국엔 그 얼빠진 보코 친구가 변장을 하고 놀고 있던 걸로 밝혀졌어. 그는 어떤 불쌍한 놈한테 벗겨낸 발라클라바랑 헬멧, 그리고 몇몇 듀티 또는 로너 방어구를 입고 그대로 일을 하러 간 거야. 그런 일이 있은 날로부터 좀 지난 뒤에 우린 그날 밤에 실제로 어떤 일이 일어났는지를 들을 수 있었어. 먼저 우린 우리 정보원들 중 한 명으로부터 이야기를 전해들을 수 있었는데, 어떤 로너가 과학자 하나랑 다른 스토커 한 명을 로스토크 한가운데에서 쏴 버렸다는 거야. 정말 이상하지? 자, 이제 더 이상한 사실을 알려줄게. 같은 날에 우린 몇몇 듀티 통신을 가로채서 그들이 로스토크의 쓰레기더미에서 어떤 로너 형식의 방어구를 찾았다는 사실을 알아냈어. 그리고 맞춰봐, 누가 그날 아침에 비밀스럽게 듀티 장비를 찾고 있었을까? 빌어먹을 시닉... 아마도 그 녀석이 죽은 사람한테서 방어구를 벗겨냈다면 좀 일이 좆같아졌을 수도 있지만, 그렇지 않아, 정말로 새 장비처럼 보였었다고... 우리 친구들 중 한 명이 그 녀석에게 만약에 그가 죽여버린 듀티 녀석한테 그 방어구를 벗겨냈다면, 어떻게 총알 자국이 하나도 없을 수 있는지를 물어봤어.  그에게 물어봤던 친구들이 아무런 말을 하지 않은 채로 그를 바라보자, 그 녀석은 이렇게 말했지. "머리를 조준하면 된다" 라고 어눌한 영어로 말한 뒤에, 이렇게 들리는 말을 덧붙였어. "U glavu, razumijes”... 그 보코 친구 좀 허풍떠는 거 같긴 했는데... 지난 몇 주 동안은 그를 본 적이 없는데, 아마도 일을 끝낸 뒤에 존에서 빠져나간 게 아닐까.</text>
 	</string>
 	<string id="dm_information_69">
-		<text>Used to be that Mercs operated in many independent teams, but it seems our main employers have banded together. Don't know what the end goal is, but we're being paid a fortune, so guess I don't really care.</text>
+		<text>이제 우리들은 존에서 통일된 모습을 보여줄 수 있게 되었지만, 그건 좀 다른 문제야. 어딘가에 있는 누군가는 계약이나 암살 의뢰를 넘어선 좀 더 특별한 관심을 가지고 있지... 예전에는 존에 많은 용병 집단이 있었지만 그때는 통합된 지휘 체계라던지 우리들의 지휘권에 대한 절대적인 권한을 주장할 수 있는 사람이 없었어. 하지만 지금은 달라. 우리들의 노력은 죽은 도시에서 몇 명의 경험있는 친구들로부터 시작되었지. 혹시 소원을 들어주는 자에 대한 소문들을 들어본 적이 있어? 맞아, 존 밖에 있는 누군가가 그걸 찾으라고 많은 자금을 무기와 용병들에게 투자하는 것처럼 보여... 그게 우리들이 어째서 북쪽으로 가는 데 온 힘을 쏟고 있는지를 설명해줄 수 있을 거야, 그 때문에 우리들은 리만스크에서 모노리스들을 몰아내려고 하고 있고, 이제 프리피야트에도 몇 명의 대원들을 두게 되었지. 개인적인 의견이지만, 난 그게 존재한다고 생각하지는 않아. 거기에 뭔가 있기는 하겠지만 나는 지금 발전소 근처에서 돌아다니는 멍청이들처럼 두뇌를 세척당해버리고 싶지는 않거든. 아마도 뭔가 엄청나게 과학적인 게 뒤에 숨겨져 있겠지만, 우리들은 대부분 돈을 벌려고 여기에 왔으니까... 고객이 왕이잖아, 그렇지?</text>
 	</string>
 	<string id="dm_information_70">
-		<text>Most of the guys here have some sort of military background?I've met Mercs who were once Foreign Legion, Spetsnaz, insurgents, special forces...many different walks of life, but all true fighters to a man.</text>
+		<text>여기에 모여있는 친구들 대부분은 군 같은 곳에서 활동한 적이 있어... 우리들 중에서는 전직 군단병이나, 전직 스페츠나츠, 참전 용사들이나, 심지어는 빌어먹을 해병대들도 있지... 장점이 있다면 이 사람들 중 대부분이 무기를 잘 다루고 기본적인 전술을 알고 있다는 거지. 우리들의 가장 큰 문제는 바로 존 그 자체야. 우리들은 이상현상이나, 존의 지역들, 그리고 뮤턴트들에 대한 경험이 아직 부족해. 너도 알다시피 이 친구들은 여기서 일이 어떻게 돌아가는 지를 알기 위해 말 그대로 맨땅에 헤딩해야 했다고. 가끔 우리들의 고용주들이 약간의 조언을 구하려 계란머리 과학자 놈들한테 뇌물을 좀 주기는 하지만 그 놈들은 과학자 자신들을 항상 최우선시해서, 그 놈들이 가르쳐준 조언이 물론 어느 정도 쓸모가 있긴 하지만 그게 이런 좆같은 곳에서 몇 달이나 몇 년 동안 구른 친구의 조언보다 더 쓸모가 있지는 않단 말이야. 어쨌든, 우리는 좀 더 쓸모있는 정보들을 찾으면서 부수입까지 챙길 수 있는 방법을 알아냈어. 우리들은 이곳 저곳에서 로너들을 기습하고 있었는데, 정말로 그 녀석들은 우리들에게 상대도 되지 않아서 현상금이 걸려 있지 않으면 오히려 총알이 아까울 정도야. 어쨌든, 우리는 그 녀석들을 기습해서, 죽은 도시로 끌고 와서 가능한 한 많은 정보를 캐물었어. 주로 그 녀석들에게 안대를 씌워서 이상한 생각을 품지 못하게 만든 다음 그 상태로 놔두는 거야. 우리가 그 녀석한테서 얻을 수 있는 정보를 다 얻고 나면 그 녀석을 돈이나 아티팩트를 받고 기꺼이 풀어주지. 그 녀석들은 보통 순순히 가격을 지불하고, 그러고 나면 결국 모두가 좋게좋게 가는 거야, 그렇지 않아? 하하하!</text>
 	</string>
 	<string id="dm_information_71">
-		<text>Don't know who're worse - the Free Stalkers we take hits on, or the Bandits we work with. Some days I wish someone'd pay me to feed a bunch of those skull-patched assholes into the nearest anomaly.</text>
+		<text>난 어느 날 코돈 어딘가에서 돌아다니던 적이 있어... 아래쪽에 있는 로너들 거점 근처에서 숨어다니면서, 그들을 조금 살펴보고 있었지. 난 곧 있으면 그들과 관련된 새로운 계약들이 있을지도 모른다는 소식을 들어서, 그렇게 된 김에 정찰하면서 우리들이 가진 오래된 정보들을 갱신하기 위해 지도를 좀 그릴 수 있겠다고 생각했어. 어쩄든, 나는 다시 돌아가려다 이 로너가 내 쪽으로 다가오는 걸 보았어. 그는 등 뒤에 총을 가만히 놔둔 채 손을 흔들고 있었는데, 마치 싸우러 온 게 아니라는 걸 나타내고 싶었던 것 같았어. 난 호기심이 들어서 그를 가까이 오도록 놔두었어. 난 그에게 총기를 내려놓고 천천히 다가오라고 말했지. 우린 이야기를 나누기 시작했고 이 친구는 나에게 내가 맡았던 것들 중 가장 이상한 일을 부탁했어... 그에 따르면 몇 명의 밴딧들의 그의 형제를 죽였다고 했고, 우리들이 그 녀석들을 포박한 뒤 속옷 차림으로 벗겨서 우리가 찾을 수 있는 가장 강한 방사능에 찌든 장소로 밀어넣기를 원하더군. 가장 멋진 대목은, 그가 그 과정을 지켜보고 싶다는 거야! 내 말은, 우린 보통 그런 일은 하지 않지만 적절한 보수만 있다면 윗선의 허락을 받고 어떤 일이든 할 수 있다고 말해주었어. 그는 100 그란드 가치가 있는 아티팩트를 줄 수 있다고 말했어... 러시아 계열의 통화는 아니지만, 달러지! 그는 아직 돌아오지는 않아서, 내 생각으론 그가 진짜로 보수를 줄 수는 없는 것 같아. 난 로너를 별로 좋아하지 않고, 그 놈들 대부분은 머릿 속이 텅텅 빈 저능아같은 놈들이기는 하지만, 적어도 우리들이 쏴제끼는 밴딧 새끼들이랑 비교한다면 천재나 다를 바 없으니, 나쁠 게 뭐가 있겠어? 자 이제 보자고, 만약에 그 녀석이 진짜로 돌아온다면 일을 같이 할 동료가 필요할 지도 모르겠어. 혹시 관심있어? SEVA 슈트는 가지고 있지? 생각해 놓은 곳이 있거든.</text>
 	</string>
 	<string id="dm_information_72">
-		<text>Dead City's location may not be a secret any more, but we still don't get many visitors other than the damned Monolith . Considering how fucked all our surrounding locations are, I'm not exactly surprised.</text>
+		<text>우리는 죽은 도시를 돌고 있는 순찰대를 정말로 강도 높게 돌리고 있어. 그리고 지금이야말로 그게 몹시 필요한 상황이야! 뮤턴트들이 거기서 문자 그대로 우리 똥구멍 뒤쪽으로 기어들어오고 있다고. 정말이야, 하수도망 안에서 좆같은 블러드써커들이 살고 있다고. 우린 계속해서 수류탄을 거기에 까넣어 쫒아내고 있지만 이 빌어처먹을 괴물들은 계속 나타난단 말이야. 그리고 요즘 들어 좀비들도 더 많이 보이고 있어. 그 놈들은 우리 기지 옆에 있는 공산당 블록 너머에 있는 구멍 속에서 나타나고 있어. 두쉬맨이랑 그의 대원들은 완전히 빡쳤고, 우리들은 인원이 부족한데, 내가 인원이 부족하다고 말한 건 빌어먹을 최전방마다 계속해서 엿같은 동료들을 잃고 있다는 뜻이야. 모노리스 놈들은 리만스크에서 우리들의 목을 조이고 있고, 그 씹새끼들은 헬리콥터도 가지고 있어서 야전에서 우리들을 진짜로 엿먹이고 있다고. 얀타 쪽은 악몽이야. 거기에 가면 네 머릿속만 튀겨지게 될 거야. 군 창고 쪽이 그나마 우리들의 "안전한" 선택지인데, 거긴 약쟁이들이랑 듀티 놈들을 적절한 숫자의 바위 성애자들과 함께 상대하면 되거든. 난 두쉬맨한테 빌어먹을 120mm 박격포를 수입해오든 군바리들한테 뇌물을 줘서 얻어오든 해야 한다고 말해왔어. 내 말은, 그걸 리만스크에 있는 모노리스 새끼들한테 좀 쏴주면 재미가 있지 않겠어? 그런 게 있으면 진짜로 그 놈들을 밀어붙일 수 있을텐데. 하지만 지금으로선 새로운 정보가 없으니, 우리들이 지금 있는 곳에 갇혀 지내는 거지.</text>
 	</string>
 	<string id="dm_information_73">
-		<text>I'm sick of how cocky some of the rookies are. Boasting loudly about their loot, playing on their PDAs when they're out in the field, thinking they can kill a rifleman with just a PM...they're too dumb to live, man.</text>
+		<text>이봐, 이 멍청한 초짜들은 배움이라는 걸 모르나봐. 어느 날 우린 한 놈이 트럭 묘지를 한가롭게 산책하는 걸 발견했어. 아마도 군 창고 쪽의 듀티 거점을 지나서 로스토크로 가려고 했던 모양인데. 어쨌든, 우린 그 친구를 몇 시간 동안 미행했어. 우리가 듣기로는 그 녀석이 과학자들이 원하는 아티팩트 같은 걸 찾았다고 했었어. 물론 내 말은, 계란머리 놈들이랑 그 놈들이 가진 찐따같은 잡것들은 다 좆같긴 하지만, 돈 만큼은 잘 준다는 말이지. 어쨌든, 그 녀석은 자기 물건을 내보이면서, 그걸 팔아서 얼마나 부자가 될 건지에 대해 떠들어 댔어. 너도 알다시피 그런 소식들은 존에서 빨리 퍼져나가고, 우리들은 딱 알맞은 계약을 따낸 거지... 기본적으로, 우리들은 누군가가 진짜로 좋은 물건을 파낸다면 그와 관련된 소식들을 모두 알고 있어. 그래서 우리들은 트럭 묘지 한가운데에서 그 녀석을 멈춰세웠어. 우리들 중 두 명만 앞으로 나왔고 나머지 사수들은 대기하고 있었지. 내 말은, 그 녀석이 방사능 구덩이 한 가운데에서 PDA를 보고 있었을 만큼, 충분히 초짜였을 거라고 상상해 볼 수 있을 거야. 그 녀석은 잠시 동안 굳어 있더니 진짜로 권총을 향해 손을 뻗었지. 하지만 내 동료 아나톨리가 곧바로 AK 소총의 개머리판으로 그 녀석을 때렸어. 그리고 그 불쌍한 꼬맹이가 빌기 시작하면서, 주머니에서 돈을 꺼내 우리들이 마치 동물인지 뭔지인 것처럼 우리 발바닥에 던져버리는 모습을 상상해 봐. 우리들은 그 녀석이 가졌던 아티팩트, 배낭, 총 그리고 그 밖에 모든 물건을 다 챙겼어... 아나톨리는 그 때 우리들이 그 녀석을 팬티만 입고 듀티 거점까지 뛰어가게 놔두어서, 그 길에 있는 방사능을 모두 처먹게 놔두었으면 재밌었겠다고 생각했다고 했었어. 그렇지만 우리들이 계속 이야기를 나누고 있었을 때 그 멍청이가 갑자기 뛰기 시작해서, 아나톨리가 바로 그 녀석을 덮쳐서 뒤통수를 때렸지. 우리들이 가까이 가 있을 때 그 녀석은 계속 숨을 쉬고 있었고, 빌면서 뭔가를 중얼거리고 있더군. 나는 그 놈의 목을 찌르고 개먹이로 놔두고 갔어, 병신새끼, 도망가려 하지만 않았으면 살 수도 있었을 텐데. 우리들은 그의 시체에서 니키타가 어쩌고 저쩌고 하는 쪽지를 좀 찾아냈어. 우리들은 심부름을 시켜서 사하로프한테 아티팩트를 보냈으니, 돈을 꽤 벌 수 있을 거야. 고마워 니키타, 헤헤헤!</text>
 	</string>
 	<string id="dm_information_74">
-		<text>Perhaps the best thing about the Zone is there's no real government here. Sure, there's Military and Ecologists, but they hardly run the place. No rules, no taxes. Just liberty and adventure. Gotta love it.</text>
+		<text>여기 있는 친구들 중 대부분은 항상 법의 "반대편"에 서 있었지. 존은 내게 있어서 돈을 좀 벌고 자유를 어느 정도 누릴 수 있는 유일한 방법이야. 내가 가진 연줄을 이용하는 건 어렵지는 않았지만, 이제 더 이상은 존 밖에서 살아갈 수 없게 되었어. 나는 주로 무기나 마약을 거래해 왔는데, 꽤나 쏠쏠한 돈벌이가 되었었지... 어쨌든, 누군가가 맺은 계약에 끼어들어서, 그 사람을 어떤 식으로든 죽이려는 녀석들은 항상 있어. 난 그 놈들을 죽일 암살자를 고용하기 위해  많은 돈을 지불했지만, 다른 놈들도 괜찮은 연줄이랑 돈이 있었던 모양인지, 그 놈도 나한테 달려들더군. 짧게 이야기하자면, 그 놈이 어느날 밤에 내 집으로 쳐들어 왔는데, 나는 마침 운이 좋게도 장전된 총을 가지고 있었고, 그 놈한테는 안좋게도 내가 먼저 쏠 기회를 잡았지. 경찰이 그때까지 이루어진 모든 살해 사건의 증거를 잡았고 그 이후 어떤 대령한테 몇천 루블을 쥐어준 뒤에 내가 여기로 오게 된 거야...</text>
 	</string>
 	<string id="dm_information_75">
-		<text>If you've got balls of steel, try get the drop on some Mercs or even the Monolith to shake out their loot - they're some of the best armed and equipped dudes in the Zone. Me though, I prefer sticking to rookies.</text>
+		<text>내가 너였다면 용병 놈들이나 특히 그 바위성애자 광신도 놈들을 피하면서 다닐 거야... 그 놈들은 강한 화기를 갖추고 아주 잘 무장되어 있지. 그리고 그 놈들은 존에서 그다지 환영받지 못하는 장소들을 돌아다니고 있어. 돈을 빠르게 벌 수 있는 가장 좋은 방법은 역시 불쌍한 로너 몇 명을 쓰러트리는 거야. 우린 그 놈들을 납치해서 그 놈 동료들을 좀 쥐어짜내려고 했지만, 그런 짓도 예전만큼 잘 되지 않아. 다른 괜찮은 돈벌이는 바로 코돈이나 초보자 마을에서 도라다니는 멍청이들과 관련된 것들인데 계속해서 새로운 녀석들이 들어오고 있거든. 먼저, 그 말인 즉슨 그 놈들은 경험이 없어서 다루기 쉽다는 거지만, 흥미로울 만한 다른 건 바로 우리들이 언제나 거길 지켜볼 수 있다는 거지. 발라클라바나 거지같은 로너들이 입고 있는 것 같은 장비들을 우리 친구들이 입고 간다면 놀라운 결과가 따르게 된다고. 그 놈들은 아무 것도 예측하지 못한다고... 너도 알다시피, 얼간이들 뿐이지. 그리고 나서 그 놈들은 왜 자기들이 언제나 좆같이 습격당하고 털리는 지 궁금해할 거야.</text>
 	</string>
 	<string id="dm_information_76">
-		<text>Don??в„ўt mess with the Military around here. The only worthwhile loot they have are their weapons and armour, but you'll never take it off them without something breaking. There are far better targets to pick on.</text>
+		<text>군인들한테는 개기지 마, 그 놈들 중 대부분은 어리고 총쏘는 걸 좋아하는 신병들이라서 겁대가리나 누구 또는 어떤 것들도 기다릴 수 있는 인내심을 가지고 있지 못해서 매우 위험하다고. 그 놈들은 네 하루를 좆같게 만들어 버릴 수 있는 장비들이나 탄약들을 가지고 있어. 그리고, 사수들을 제외한다면 그다지 잡을 만한 가치도 없지. 그 놈들의 부패한 간부들한테 장비를 사는 편이 그 놈들 주위를 돌아다니면서 훔치려고 하는 것 보다는 더 나을 거야. 그들은 지금 아그로프롬에 기지를 가지고 있으니, 네가 그 녀석들을 너무 괴롭힌다면 헬리콥터를 끌고 와서 네 똥구멍에 총알을 쑤셔박아 줄 거야. 우리 동료들 중 한 놈이 군 기지에 숨어들어가서 그 놈들의 모든 "상품"들을 다 훔쳐냈다고 했던 녀석이 있어. 아마도 변장 같은 걸로 거기 숨어들어갔던 모양이야. 그 녀석은 아마도 여기 길가 어딘가의 배수로에서 썩어가고 있을 거야. 내가 말했다시피, 더 쉽고 매력적인 표적들이 돌아다니고 있는데 굳이 그 놈들을 자극할 필요는 없어.</text>
 	</string>
 	<string id="dm_information_77">
-		<text>Some of the boys are itching to raid one of the Ecologist bunkers. Retards. Even if they break through those defences, you can't keep shaving a bear once you've skinned it alive!</text>
+		<text>여기엔 언제나 저 계란머리들의 벙커를 습격하고 싶어서 안달이 난 녀석들이 꼭 있지. 거기에는 수많은 좋은 장비들이 있을 거야... 그치만, 난 언제나 그게 별로 좋은 생각이 아니라고 여겨 왔어. 그 놈들은 공식적으로는 범죄자들과 거래하지 않는다고 말했지만 우리들은 로너들한테서 뜯어낸 아티팩트들을 그들에게 팔아치울 수 있는 방법이 마련되어 있지. 그리고 우리들이 벙커를 다 털어버릴 수 있다고 해도 군인들이 몰려와서 우리들을 다 쓸어버리게 될 거야. 너도 알다시피, 여기 있는 이 병신들은 지들 더러운 코앞에 있는 것들 밖에 못 본다니까. 게다가, 여기 있는 좆같은 녀석들의 고삐를 쥐고 있어줄 몇 명의 경험많은 친구들이 있기 때문에 계란머리들을 다 쓸어버리고 스페츠나츠 놈들의 습격이나 그보다 더한 것들을 버티는 대신에 그 놈들과 거래해서 안정적인 수입을 얻는 게 더 낫다는 걸 알게 되었지...</text>
 	</string>
 	<string id="dm_information_78"> <!-- army -->
-		<text>Morale's at an all time low, and it's no surprise why. What even is our objective? Is this an invasion? A peacekeeping mission? Keeping people out? Keeping mutants in? Hell if I know. This place is a mess.</text>
+		<text> 가끔 난 작전 참모 놈들 머릿속에 뭐가 들었는지 정말로 궁금하다니까! 그저 이 고기 분쇄기 안에 더 많은 신병들을 밀어넣고, 뚜렷한 목표 같은 것도 주지 않잖아. 대체 우리들은 여기서 뭘 하고 있는 걸까? 이게 전투 임무인가? 아니면 평화 유지? 아니 씨발 우리가 대체 여기서 뭘 해야 하는 거야? 존과 뮤턴트들을 억제하는 거? 그 누구도 가장 그럴싸한 생각을 해내지 못하고 있어... 아니 내 말은, 제발 우리한테 빌어먹을 한 사단이라도 보내 줘서 우리가 그 녀석들을 일 주일동안 존나게 굴려서 염병할 발전소를 습격할 수 있게 해 달란 말야. 그렇지만 그 놈들은 그저 더 많은 신병들이랑, 더 많은 구식 장비들이랑 아무도 안 쓸 병신같은 쓰레기들이나 보내고 있다고. 가끔 나는 이게 그저 통제받고 있는 실험이고, 우리들이 이 버림받은 정글에 있는 사육사가 된 것처럼 느껴져...</text>
 	</string>
 	<string id="dm_information_79">
-		<text>Contraband exports from the Zone are at an all-time high and the brass barely give us anything to stop it. I swear, half the General Staff profit from smugglers, and the other half either don't know or don't care.</text>
+		<text>우리들은 존 안에 두 곳의 방위 거점을 보유하고 있어. 우리들의 주 기지는 지금 아그로프롬에 있고 비상 경계선 구역의 거점에서는 중무장한 경비대를 두고 있지. 그리고 간부들 사이에서 우리한테도 흘러들어오는 몇 가지 소문들도 있어. 듣자하니 윗선에서는 "임무 변경" 인지 뭔지에 대한 걸 꽤나 두려워하고 있고, 존에서의 일상적인 임무 수행에 최소한의 개입만이 있기를 바라고 있더군. 가끔씩 우리에게 과학자들에 대한 위협 요소들을 제거하라는 뚜렷한 임무가 주어지기도 하지만 그게 전부야. 게다가, 과학자들은 용병들이나 경비병을 두어서 스스로 문제를 해결하려 하고 있으니, 어찌되었든 우리들이 그렇게 필요하지는 않다는 말이지. 그게 초보자 마을이나 시도로비치가 우리들이 있는 곳에서 불과 수백 미터밖에 떨어지지 않은 곳에서 일하고 있는 이유야. 내가 말해두는데, 이런 상황이 계속된다면 누군가가 이런 짓이 평소처럼 이루어지는 걸 보고 관심을 가지게 될 거야. 밀수가 상당히 활발하게 이루어지고 있으니, 내 생각에는 윗선 놈들이 무기랑 보급품을 존으로 들여오면서 꽤나 큰 돈을 만지고 있는 거 같아.</text>
 	</string>
 	<string id="dm_information_80">
-		<text>Our radars must be on the fritz - they keep picking up aircraft flying into the centre of the Zone...and then out again. Obviously, that's impossible - no aircraft can safely travel that close to the NPP.</text>
+		<text>우리 레이더는 존으로 들어오는 것들을 거의 매일 탐지하고 있어. 소문으로는 용병들이 리만스크의 남쪽을 중심 거점처럼 만들고 있다고 하더군. 그 놈들이 뭘 하려는 지는 모르겠지만 그 주변에서 활발한 활동이 몇 번 이루어지고 있는 걸 보았어. 아마도 주로 리만스크 북쪽으로 밀고 나가려는 것처럼 보였어. 우리가 가진 정보에 의하면 리만스크가 바위 숭배자들로 가득하고, 꽤나 잘 주둔해 있다고 하는군. 우리 공군이나 헬기들이 그다지 많이 활동하지는 않아서, 존의 주요 거점들에 순찰대를 두고 있기는 하지만 우리가 직접적인 위협을 받지 않는 이상 대규모 전투 작전을 위한 준비는 되어 있지 않은 것 같아. 신병들이 총 맞아 죽기에는 딱 좋은 조건이지.</text>
 	</string>
 	<string id="dm_information_81">
-		<text>The Military here has special ways of sorting people out. If you fuck up too much, or ask too many questions, I hear you get sent north of the Barrier without air support or medevac. Can't say I envy those bastards.</text>
+		<text>네가 여기 있는 동안에 진짜로 좆같은 상황을 마주했을 때 그들이 네게 뭔 짓을 할지 들어본 적 있어? 듣기로는 너무 많은 질문을 하거나 명령을 제대로 따르지 않는 병사들에게 부여되는 징벌적인 전투 임무가 있다고 해. 방사능에 찌든 곳이나 광신도들이 가득 찬 건물 단지를 골라서 거기 있는 것들을 다 소탕하라고 보낸다는군. 항공 지원이나 의료품 없이 말이지... 거기서 돌아오는 사람이 많다는 이야기는 들어본 적 없고, 돌아오는 사람들은 이후 이상할 정도로 명령을 잘 따른다고 하더군. 뭐, 군대에서는 언제나 사람들을 골라내는 특별한 방법이 준비되어 있기 마련이니까.</text>
 	</string>
 	<string id="dm_information_82">
-		<text>Have you heard? The Security Service of Ukraine's basically running the show here. Some of the vets aren't too happy about that, but I'm honestly not sure what the deal is. Isn't it good we're all working together?</text>
+		<text>아마도 장군들이 우리들에게도 전문가가 몇 명 필요하다는 사실을 깨닫기하도 한 모양이야... 내무군과 국가보안부에 의해 조직된 새로운 합동 프로그램이 생겼어. 아마도 그 특급 기밀 프로그램 때문에 아그로프롬에서 돌아다니는 친구들이 더 많아졌다는 소문이 퍼지는 것 같아... 어쨌든, 보안부에서는 존의 베테랑들과 접촉해서, 군에 합류한다면 모든 편의을 제공해주고 요구사항을 들어주겠다고 하고 있어. 그들은 존에서만 활동하면서 외부 작전에 투입되지 않고, 그들이 가진 경험은 우리들이 얻는 소득을 확장하는 데 사용될 거야. 뭐, 우리들이 이상현상이나, 존의 특정 지역 그리고 뮤턴트들에 대한 경험이 부족한 만큼 지금 당장은 좋은 생각인 거 같아. 우린 몇몇 사람들이 기지를 돌아다니는 걸 봤는데, 확실히 새로 고용된 스토커들로 보였고, 몇몇 스토커들은 여기에서 오래 근무했던 병사들한테도 잘 알려진 녀석들이었어.</text>
 	</string>
 	<string id="dm_information_83"> <!-- monolith -->
-		<text>Do not forget your duty as a custodian of the Monolith. Its blessing demands we serve It. It has foretold our future victory as visionaries of a new world order. All It asks is that It suffers no trespass.</text>
+		<text>불신자들은 제거되어야 한다. 그들은 무단침입자이며, 사물의 본질과 이 위대한 숭배의 장소의 의미, 그리고 우리의 영광스러운 사원의 가치를 꿰뚫어보지 못하는 불신하고 무지한 자들이다. 형제여, 그들은 침입자이며, 위대하신 모노리스님께서는 이 모든 것들을 예언하셨다. 우리들의 최후의 승리가 가까워졌다! 우리들은 사원의 수호자이며, 새로운 세계의 질서를 목도하는 선구자이니라.</text>
 	</string>
 	<string id="dm_information_84">
-		<text>Brother, should you ever be captured by an infidel, see to it that you give your life before you give a word. The secrecy and protection of the Monolith is imperative. All else is secondary.</text>
+		<text>형제여, 절대 폭발물 벨트 없이 나가지 말지어다. 불신자들이 널 포박한다면 영혼을 구제받을 수 없을 것이다. 저 욕심많은 괴물들과, 우리들의 사원을 파괴하려는 불신자들을 파괴하여 모노리스님께 생명을 바친다면, 또다른 아침을 보게 될 것이고, 또다른 삶을 살아갈 수 있다는 사실을 명심해야 한다... 한때 진실과 마주했지만 이제 다시 거짓된 삶으로 돌아간 불신한 표류자로서 모노리스님의 그림자에 가려진 삶을 살아갈 의미가 대체 어디에 있단 말인가?</text>
 	</string>
 	<string id="dm_information_85">
-		<text>Pray with me brother! 
-		\n\nBlessed is the man who walks not on the paths of the infidel, nor stands in the way of the sinner. But his delight is the glory of the Monolith alone, and his glory he contemplates day and night. He is like a cliff, planted in streams of water, a stronghold of faith. The infidels are not so, they are like chaff that the wind drives away. Therefore the infidel will not stand before you; no sinner will be in the congregation of your glory. For our Monolith knows the way of the righteous, but the ways of the infidel will perish.</text>
+		<text>나와 함께 기도할지어다 형제여! 
+		\n\n불신자의 길을 걷지 않는 사람들과 죄를 지은 자들의 길에 서 있지 않은 자들을 축복하소서. 하지만 그의 기쁨은 모노리스 당신만의 영광이며, 그로 하여금 그의 영광을 밤낮으로 떠올리게 해 주소서. 그는 마치 절벽과도 같은, 물길 사이에 놓인 신앙의 요새와도 같사오니. 그러나 불신자들은 마치 껍데기와도 같아, 바람에 날아갈 것과도 같사옵니다. 그러니 불신자들은 절대 당신 앞에 서지 못할 것일지니, 죄을 지은 자들은 절대 당신의 영광을 따르는 신도가 되지 못할 것이옵니다. 오직 모노리스님만이 정의의 길을 알고 계시니, 불신자들의 길은 사라질 것이옵니다.</text>
 	</string>
 	<string id="dm_information_86">
-		<text>Do you ever think of your past life? I remember family, a wife, a child. They all seem so distant now, as if from another existence. All I can do is serve the Monolith. The Monolith will provide for them.</text>
+		<text>가끔씩 나는 과거의 삶이 기억난다, 주로 꿈을 꿀 때 내 무의식 저 아래편에서 울려오는 거짓된 악곡의 모습으로 내게 들려오지. 마치 다른 존재같이 보이는 것들이 내게 의무와 기억들에 대한 이야기를 해 주고는 한다. 내가 사랑했던 사람들, 친구들, 아내, 그리고 한 꼬마 아이의 얼굴들이 보였어... 내가 이 모든 것에 대해 얼마나 많은 잘못을 저질렀는가, 그리고 모든 것들을 어찌 그렇게 쉽게 잡을 수 있었겠는가! 진실은 너무나도 명확했지만, 내가 존의 깊은 곳으로 갔을 때 처음으로 날 붙잡았던 에너지로부터의 충격을 느끼기 전에는 도달할 수 없었다. 참으로, 얼마나 쉬운 일이었던가... 난 모든 것들을 보았다. 내 안에 숨겨두었던 모든 진실을 바닥까지 파헤쳐보고 만 것이다. 모든 것들이 거짓이었고, 내가 이곳에 와서 목도하기 전까지는 아무 것도 참되지 않았다.</text>
 	</string>
 	<string id="dm_information_87">
-		<text>Do ye think it be the Gauss, or the Exoskeleton, that shields us from the infidel? Nay! 'Tis but our hearts, our pure hearts that carry us through the turmoil of the greedy, the destructive, the degenerate!</text>
+		<text>너를 담당하는 설교자는 누구인가? 우리들이 전에 했던 설교를 들어본 적이 있었나? 모노리스님께서는 우리들에게 어디에도 비할 바 없는 무기와 이 세상에 있는 어떤 군대라도 갖지 못한 기술, 방어구, 보급품들을 주셨으나... 아직 충분하지 않다. 모든 사악한 존재들과, 파괴를 추구하는 모든 불신자들, 그리고 우리들의 사원을 망가뜨리려는 모든 스토커들을 물리치기 전까지는 절대로 충분하지 않을 것이다. 오직 우리들의 심장과, 우리들의 신앙심만이 우리들을 저 그림자 속에 숨어있는 탐욕스러운 짐승들과, 우리들의 영광스러운 요새를 차지하고, 우리들의 성역을 찾아 그들의 무심한 마음으로 망쳐버리려는 계획을 매일 매 시간마다 꾸미고 있는 모반자들 그리고 거짓말쟁이들과 구분지을 수 있게 할지어다.</text>
 	</string>
 	<string id="dm_information_88">
-		<text>The Zone poses a singular threat to Humanity, the likes of which the world has never seen. We can only hope more stalkers recognize the truth and join us before it is too late. We can only hope...</text>
+		<text>많은 스토커들은 로스토크에 있는 우리들의 기지를 지나가고, 그 중에서 많은 사람들이 여기서 지내고 싶어해. 그들은 여기를 존에서 가장 안전한 장소 중 하나라고 생각하나봐. 그들 중 많은 사람들은 존이 위험한 존재이고 여기 있는 모두에게 심각한 위협을 가할 수 있다는 걸 알고 있고, 몇몇 사람들은 아티팩트를 밀수하거나 다른 방법으로 부자가 되려는 탐욕스러운 망상을 포기하려고 하고 있지. 존은 반드시 파괴되어야 하고 그게 바로 우리들의 확고한 목표야. 사람들은 진실을 마주하기를 두려워하고, 그걸 대수롭지 않게 여기기 위한 방법을 찾지만, 그건 이곳에서의 생활이 보여주는 사실을 부정하는 거야. 저 프리덤 무정부주의자 놈들을 봐, 그들 하나하나는 그저 자기 코앞에 닥친 일만 신경쓰고, 앞으로 닥칠 미래를 예견하지 못하면서, 자기들의 사상이 존에서 자리잡을 경우 이 세상에 어떤 영향을 미치는지 전혀 모르는 것 같아. 우리는 그런 일이 절대로 일어나지 않게 만드려고 여기에 온 거야.</text>
 	</string>
 	<string id="dm_information_89">
-		<text>I'm sick of all the Freedomers getting stalkers hooked on drugs. They take driven, dedicated individuals and reduce them to lazy bums who think bloodsuckers are a fun time.</text>
+		<text>프리덤 쓰레기들에게는 어떠한 구원의 여지도 없다는 것이 명백하지만, 최소한 우리 분대와 접촉하는 로너들과는 협력해야 한다고 생각해. 프리덤은 타락했고, 그 이름조차 원래의 의미에 대한 모욕이야. 그 놈들은 아마 자기들이 마약을 하거나 반드시 지켜야할 규칙들이 없기 때문에 자기들이 자유롭다고 생각하겠지? 그건 아마 게으르고, 비전이 없고, 지도자를 갖는 거나 확실한 목표를 설정하는 일이 인간으로써 해로운 짓이라고 생각하는 멍청이들만이 누릴 수 있는 자유겠지... 어쨌든, 로너들은 마약이나 다른 잡것들에 쉽게 빠져들고, 프리덤은 그들의 "여유로운" 삶의 방식을 계속해서 주입시키고 있어. 우리들의 사상적 프로파간다도 가능한 한 강해져야 할 필요가 있어. 로스토크를 지나가는 모든 스토커들에게 존의 위험성과 그걸 간과하고, 길들이려 하고, 이용하려는 사람들의 위험성을 확실히 알게 만들어야 해. 그건 단지 환상일 뿐이고, 거기에 빠져들면 수많은 목숨이 희생될 거야.</text>
 	</string>
 	<string id="dm_information_90">
-		<text>It is imperative that we remind the Free Stalkers: not even the Ecologists fully understand artefacts yet, and to spread them without record or regulation is akin to laying dormant landmines across the globe.</text>
+		<text>만약에 네가 로스토크를 지나간다면 아마도 스토커들이 군 창고라고 부르는 곳에 도착할 거야. 아마 너도 이전 군 기지가 프리덤 놈들로 득실댄다는 걸 알고 있겠지. 우린 그 근처에 그 놈들의 활동을 감시하기 위한 거점을 만들어놓기는 했지만 우리의 주된 문제는 아니야. 거점 근처에는 블러드써커 마을이 있어... 내 말은, 내가 그 곳에 대해 더 많은 이야기를 한 적이 있던가? 그곳은 매우 위험하고, 뮤턴트들은 매일 밤마다 사냥에 나서서 이미 우리 병사들 몇 명을 잃었어. 그 마을에는 아마도 그 괴물들의 커다란 둥지가 있겠지만, 프리덤 놈들 때문에 가볼 수가 없어. 그 지역 전체는 아주 개판인데, 마을의 북쪽에는 용병들이 신나게 총을 쏴제끼고 있고, 프리덤 놈들은 거점 주위로 순찰을 오는데다 가끔 저 북쪽에서 모노리스들이 찾아오고는 하지. 아마도 프리덤이 최소한의 용기는 있어서 자기들한테도 위험한 블러드써커 둥지를 없애버리려 하지 않을까 생각할 수도 있지만, 그렇지 않아, 그 놈들은 그저 존의 생태계를 보고 "감탄할" 뿐이었지. 완전히 미친 놈들 한 무더기 아니야... 우리는 로너들에게 돈을 좀 주고 그것들을 몰아내달라고 할까도 생각해 봤지만 그들 대부분은 그럴만한 가치가 전혀 없다고 하더군. 내가 들어본 소문으로는 페트렌코가 지원자를 모집해서, 한밤중에 거기 있는 집에 지뢰를 설치한 다음에 블러드써커들이 쉬려고 돌아오는 아침에 폭파하려고 하고 있다는군. 우리들이 기회만 잘 잡으면, 프리덤 애송이들이 아침에는 술이나 마약에 찌들어 있을 테니 아마도 뮤턴트들만 상대할 수 있지 않을까라고 말하고 싶네.</text>
 	</string>
 	<string id="dm_information_91">
-		<text>You should join Duty. The belief we're fighting for is simple: just because I lost someone to the Zone, doesn't mean anyone else should have to. When your friend zombifies before your eyes, you'll understand.</text>
+		<text>나는 부자가 되고 싶어서 존으로 왔어. 나는 특별한 군사적 훈련 같은 건 받지 않았어. 내가 어렸을 때 기본적인 훈련 과정을 거치기는 했지만 그게 다야. 그래서, 내가 처음 들어왔을 때 총을 어떻게 잡고 있어야 하는지도 잘 알지 못했어. 나는 내 고향에서 온 친구들과 같이 세 명으로 이루어진 분대로 활동했어. 우리들은 존의 "안전한" 장소에서 머물면서, 시체를 뒤지거나 물건 혹은 아티팩트를 배달하거나 해서 돈을 모으기로 했어. 우린 아주 적은 돈밖에 벌 수 없었고, 하루하루를 고군분투하며 지내야 했고, 때때로 굶주린 채 잠을 자야만 하기도 했어. 그래도 우리들은 아직 우리들을 부자로서 존에서 나가게 만들어 줄 마법같은 보물을 발견할 수 있을 거라는 희망을 가지고 있었어. 뭐, 결국은 완전히 다른 결말을 맞았지만. 우리들은 지금 스토커들이 쓰레기장이라고 부르는 지역에 있었어. 어느날 밤 우리들은 반쯤 무너진 건물 아래쪽에 캠프를 세웠어. 내 친구들은 이미 잠들었었는데 그때... 맹세코 갑자기 아무런 징조도 없이 그 빌어처먹을 에미션이 발생해버려서, 우리들은 시간도, 좋은 은신처도 없었고, 난 친구들을 깨우려 했지만 그럴 수 없었어. 마치 그 녀석들이 코마 상태에 빠진 것처럼, 아무리 흔들고 소리를 질러봐도 깨울 수 없었어. 그때 나는 지하실이 있는 걸 발견했어. 하지만 그 녀석들을 놔두고 갈 수가 없었어. 친구들 중 한 명을 지하실 쪽으로 끌고 가려고 했지만 그때 무언가가 나를 때렸어... 지금도 설명하기가 좀 힘들지만, 마치 번개 같았는데, 그렇지만 수류탄처럼 폭발했었어... 아무튼, 그게 날 지하실 안으로 튕겨내 기절시키는 바람에 일단 나는 목숨을 건질 수 있었어. 그 뒤에 나는 눈을 떴고, 주위는 아무런 소리도 들리지 않은 채로 아주 평화롭고 고요했어. 나는 지하실에서 나왔고, 내 친구들이, 생기없고, 정신이 망가져서, 그저 생기 없는 껍데기에 지나지 않는 좀비로 변해버린 걸 보았어. 내 말은, 그런 운명을 상상해 봐, 문자 그대로 죽음보다 더한, 부자연스럽고, 사악한 운명을 말야. 난 그 녀석들을 쏘았어... 둘 다. 나는 그 녀석들에게 마지막 호의를 베풀어주고 싶었어. 나는 그 녀석들의 가족과 아내들 그리고 친한 사람들에게, 그 녀석들이 화재 때문에 죽었다고 쓴 편지를 보냈어. 그들이 이런 걸 알 필요는 없어서, 난 그 녀석들의 시신을 화장했어. 아무튼, 나는 그 후 듀티에 가입했고, 이 부자연스럽고, 사악한 장소는 파괴되고 불살라버려야 한다는 걸 깨달았어. 우리들은 이 곳으로부터 우리들과 다른 사람들을 보호해야만 해. 나는 비록 친한 사람들을 잃었지만, 다른 사람들은 그럴 필요가 없잖아. </text>
 	</string>
 	<string id="dm_information_92">
-		<text>Right now, it's too easy for a Bandit or Merc to dress up as a Free Stalker and slip into Rostok unnoticed. We had entry requirements for a reason, and I still can't believe they were revoked.</text>
+		<text>너희들 모두 조심하길 바라, 정신 바짝 차리고 준비하고 있으라고... 우리 기지 주변에서 몇 개의 버려진 방어구를 발견했어. 아무도 그걸 버려놓지 않았다고 하더군. 몇몇 용병들이 로너처럼 차려입고 우리 대원들을 지나쳐 기지로 간 뒤에 암살 임무를 했다는 말을 들은 적이 있어. 너희들이 이 하나 만큼은 완벽하게 숙지하기를 바라, 절대 망설이지 말고! 의심가는 목표물은 모두 쏴 버려. 우리들은 지금 로너들과 접촉해서 최소한 몇몇 인원들 만큼은 확실하게 식별하려고 하는 중이야. 대원들에게 알린다, 00시 00분 이후 암구호는 "보안 철저"이다. 모든 간부들에게도 전파한다. 듀티 방어구를 입은 자들 중 암구호를 모르는 자들이 최우선 목표이다. 만약에 전멸시키지 않았다면, 가능한 생포하라. 더 이상 개짓거리에 당해줄 수는 없지.</text>
 	</string>
 	<string id="dm_information_93">
-		<text>Fuck Duty, man. They have no idea about the Zone or what it could mean for the future of Mankind. There is a world of wonder around them and all they think to do is enable piss-poor officers on their power trips.</text>
+		<text>듀티? 걔네들은 그냥 자기들 권력이나 과시하려는 미화된 경찰 노릇이나 하고 있을 뿐이야. 걔넨 존이나 그게 인류의 미래에 어떤 의미를 가지는 지 아무것도 몰라. 듀티 병사들은 존의 경이로움보다는 자기들 신발에 광내는 거에 더 관심이 많을 걸. 그 군바리들 중 하나가 된다고 상상해봐, 네 주위에 비록 위험하기는 하지만, 그만큼 보상도 두둑하게 주는 경이로운 세상이 펼쳐져 있는데, 네가 생각하는 건 오직 간부한테 어떻게 변명을 해서 그 녀석의 권력욕을 만족시킬지에 대한 형편없는 방법을 찾는 것 뿐이겠지. 아주 좆되는 거야...</text>
 	</string>
 	<string id="dm_information_94">
-		<text>Emissions are serious business if you live near the Barrier, or close to Pripyat. Monolith bastards know they're immune and you're not, so they use the psy-waves as cover to come ruin your day even more.</text>
+		<text>듀티가 그냥 로스토크에 앉아서 똥구멍이나 후비고 있는 동안 우리들은 레이더로 향하는 장벽과 대치하고 있어. 요즘 들어 모노리스들의 활동이 늘어나서, 우리들은 언제나 더 많은 대원들을 보내고 있지. 걔네들은 뇌가 맛이 갔을지는 몰라도, 절대 멍청하지는 않아. 정신파 폭풍이 몰아칠 때가 바로 그 때인데, 모노리스들은 그 좆같은 것에 면역이라 우리들이 그걸 피해 숨을 걸 알고서 폭풍이 몰아칠 때마다 몇 놈들이 기어들어온단 말야. 걔네들이 여기서 뭘 하려 왔는지는 잘 모르겠지만, 많은 경우에는 우리 순찰대나 용병들이 그 놈들을 쫒아 보내지. 아마도 우리들이 레이더 지역에 있는 그들의 기지에 너무 가까워서 우리들을 쫒아내고 구역을 더 넓히려 하는 걸지도 모르겠어. 누가 알겠어...</text>
 	</string>
 	<string id="dm_information_95">
-		<text>Mercs are kinda shady, but otherwise alright. Haven't really seen them take any hits out on our boys, and they consistently piss off Duty so...who knows? Maybe they aren't as bad as some of the Free Stalkers say.</text>
+		<text>용병들이 우리 대원들을 죽이지 않는 한 그들과는 잘 지낼 수 있겠지, 아직 그 놈들이 프리덤 대원들을 습격했다는 소식은 듣지 못했지만, 아마도 시간문제일 수도 있어. 확실히 불편한 평화 상태이기는 해. 현장에서 마주치는 순찰대들을 제외한다면 그들과 그다지 많이 접촉하지는 않으니까. 그들은 비겁하기는 하지만, 어쨌든 듀티랑 싸우고 있으니까, 너도 알다시피 그들이 듀티를 이곳에서 몰아내는 역할을 한다면야 잠시 동안 돌아다니게 놔두는 것도 괜찮은 것 같아.</text>
 	</string>
 	<string id="dm_information_96">
-		<text>For all their talk about protecting the world from "dangerous mutants and bandits", Duty can't even clear out the Wild Territory, or even protect the eggheads any more. I think that says it all, really.</text>
+		<text>소문에 의하면 듀티가 블러드써커 마을에 대해 고민하고 있는 것 같아. 걔네들은 아마도 거길 급습하려는 계획인 것 같은데. 내 말은, 그 블러드써커 씨발놈들이 우리 대원들도 공격하기는 하지만 듀티 놈들이 정말로 우리가 바보라고 생각하는 건가? 아마도 그 놈들이 로너들을 이용해서 거짓 정보를 퍼뜨리는 거일 수도 있어... 그쪽에서는 자기들이 뮤턴트를 몰아내는 동안 우리들이 그들을 가만히 놔둘 거라고 생각하는가 본데. 유일한 문제는, 우리들은 그 놈들이 겁쟁이라는 걸 알기 때문에, 절대로 그 놈들이 블러드써커 둥지를 직접 공격하지 않을 거라는 사실을 안다는 거야. 아마도 우리 친구들을 대신 몰아내려는 특수작전 같은 걸 만들고 있겠지. 지난 수십번의 전투에서 보여준 바와 같이, 듀티 놈들은 절대로 공정하게 싸울 생각이 없어.</text>
 	</string>
 	<string id="dm_information_97">
-		<text>I don't know how, but Duty managed to steal a bunch of grenade launchers from right under our noses. Just gotta hope they use 'em on the mutants and not on us.</text>
+		<text>네가 군 창고에 있는 우리 기지에 있다면 조심해야 할 거야. 듀티가 저 작은 마을에 있는 거점에서 매우 활발하게 움직이고 있으니까. 우리 대원들 중 몇 명이 어느날 밤에 제대로 경비 임무를 맡은 곳에 있지 않았던 적이 있는데, 걔네들이 잠깐 술을 마시러 경비탑을 벗어난 틈에 듀티 놈들이 기회를 잡았어. 걔네 대원들 중 몇 명이 울타리 근처로 숨어들어 수류탄 한 뭉텅이를 던졌어. 우리 대원들이 몇 명 부상당했지만 그걸로 끝이었지, 듀티 놈들의 무능함을 잘 모여준 사건이었어. 그렇게 많은 폭탄을 던지고도 그 정도밖에 못 하다니, 하지만 어쨌든 조심해, 걔네들이 언제 다른 방법을 쓸 지도 모르니까. 너도 알다시피 듀티 친구들은 저능아들이지만 어쨌든 총알은 총알이니까, 맞아, 저능아라도 널 언제든지 죽일 수 있지.</text>
 	</string>
 	<string id="dm_information_98">
-		<text>While we always pay handsomely for artefacts, mutant samples are just as important too! The various tissues often give us greater insights into the field of genetics, or even inspire new cures for various diseases.</text>
+		<text>우리의 주된 목표는 이곳에서 모을 수 있는 어떠한 기술적 진보라도 지켜내는 거야. 아티팩트들은 많은 물리적 특성과 희귀한 외형적 특성이 평범한 물질들과 결합되어, 비정상적인 행태와 효과를 가지고 있어서 우리들의 주요 관심사가 되었어. 생물학자들은 뮤턴트 부분에 관심이 있어서, 경이적인 면역 능력과 방사능 노출에 대한 저항성 등을 가진 뮤턴트들의 변이를 특정한 질병을 치료하기 위한 긍정적인 방향으로 연구하고 있어. 이런 것들은 과학을 위한 전례없는 기회가 될 거야.</text>
 	</string>
 	<string id="dm_information_99">
-		<text>The real reason our lab professors pay so much for artefacts is because we're afraid of the hidden potential they might have. Every artefact that leaves the Zone illegally is a potential time bomb ticking away...</text>
+		<text>우리들은 스토커들이 모노리스라고 부르는 종교 집단이 가진 새로운 기술적 진보에 대한 이야기를 들었어. 듣기로는 그들의 모든 종류의 무기들과 다른 기술적 장비들이 모노리스 과학자들에 의해 만들어지고 있다고 해. 지난 클리어 스카이들의 습격이 실패로 끝난 이후 모노리스들이 주운 가우스 라이플과는 달리, 이것들은 전에는 볼 수 없었던 물건들이야. 어쨌든, 그런 물건들을 잘 찾아봐, 아주 유용할 지도 몰라. </text>
 	</string>
 	<string id="dm_information_100">
-		<text>Our scientists have begun to study not only mutants and artefacts, but stalker behaviour as well. Look at how they adapt; it's apparent that not only has the Zone changed nature, but it's changing its visitors too.</text>
+		<text>스토커들은 이상현상이나 뮤턴트들에 대처하는 독특한 전략을 가진 것처럼 보여. 정말로, 인간의 정신에는 뭔가 창조적인 원동력처럼 보이는 게 있는 것 같아. 나는 거기서 인간이 가장 끔찍한 위기를 맞이했을 때도 살아남을 수 있는 희망을 보았어. 새로운 상황을 견디기 위한 우리 인간들의 능력은 타의 추종을 불허한단 말야. 저 스토커들을 봐, 모든 사람들이 존의 가장 깊은 구석으로 들어가는 데 성공했잖아. 그들이 가진 동기들은... 가볍고 하찮아 보일 수도 있지만, 그들의 생존 방법은 완벽해. 존은 단지 자연만을 바꾸고 있는 것이 아니라, 우리들마저도 바꾸고 있는 게 확실해.</text>
 	</string>
 	<string id="dm_information_101">
-		<text>Freedom, Duty...it matters not. Neither side seems to grasp the whole truth - that to understand how to deal with the Zone, one needs a scientific approach above all else. Only then can we make the best of it.</text>
+		<text>듀티의 방식은... 의문스러워. 그렇지만 그들은 아티팩트나 뮤턴트 표본의 믿음직한 공급원이지. 우리들과 그들의 목표는 비록 같지는 않지만, 그들은 훌륭한 병사들이고, 자신들을 지키기 위해 최선을 다하고 있어. 우리들의 관계는 결실을 맺었고, 그들은 우리들의 벙커를 안전하게 지키는 데 도움을 주고 있어. 그들은 군인 계급일 뿐, 그 이상도 이하도 아니야. 우린 그들에게 우리들의 연구의 궁극적인 목적을 이해하라고 강요하지 않아. 그들은 아마 우리들이 존을 파괴하기를 원하는 것처럼 생각하겠지만, 사실은 그렇지 않아. 가장 완벽한 지점은 한쪽은 듀티로, 반대쪽에는 프리덤으로 대표되는 두 극단 사이에서 찾아야 할 거야. 오직 우리가 완전히 이해할 수 있는 단 하나의 과학적인 접근방법이 필요하게 될 거야.</text>
 	</string>
 	<string id="dm_information_102">
-		<text>The Brain Scorcher and Miracle Machine seem to operate on a different psychic frequency from most other psy-fields. Sakharov has perfected devices for near immunity to the Scorcher, yet not to Controllers.</text>
+		<text>모노리스의 브레인 스코처의 작동방식은 놀라워. 우리들은 아직 자세한 것들까지는 확실하게 알지 못하지만 아마도 조만간 그걸 중화시킬 방법을 찾아낼 수 있을 것 같아, 중요한 건, 그게 경제적인 방법이라는 거지. 싸이 블록은 약간의 정신파 노출에 대처하기 위한 효율적인 방법이지만, 이 약품만으로는 기적의 기계나 브레인 스코처에 가까이 갔을 때 방출되는 수준의 정신파에 대처하기에는 역부족이야. 다소 흥미로운 점은, 스토커들이 상당한 시행착오를 거친 뒤, 헬멧에 특수한 물질로 이루어진 부착물을 붙여서 최소한 정신파 간섭의 영향력 일부를 중화하는 데 성공했다는 거야. 하지만 아직 보편적인 해결법은 찾아내지 못해서, 우리들에게는 아직 모노리스들이 사용하고 있는 정확한 기술에 대한 더 많은 정보가 필요해.</text>
 	</string>
 	<string id="dm_information_103">
-		<text>Duty, Freedom, even the Ecologists don't seem to understand that the Zone needs to be healed. Whether you fight it, invasively study it or use it for your own naive agenda, it writhes in agony, begging for help.</text>
+		<text>스토커, 과학자, 군인, 듀티... 이 모든 세력들은 똑같은 문제를 가지고 있어. 그들은 이 땅이 치유되어야 한다는 사실을 모르고 있어. 우린 아직 그 방법을 찾아내지는 못했어. 듀티의 경직된 접근방식은 파괴에 치우쳐져 있고, 과학자들의 방법은 때때로 지나친 간섭을 요구하지. 아무도 존의 문제에 대한 섬세한 방법을 찾아내지 못했어. 그 방법은 반드시 찾아내야 하고, 더 많은 연구가 필요하기 때문에 우리들의 접근 방식은 반드시 세심한 주의를 기울여야 해. 우리들은 절대로 침략자가 되선 안 돼, 하지만 필요하다면 우리 힘으로 해결할 수도 있어야만 하지.</text>
 	</string>
 	<string id="dm_information_104">
-		<text>Hey Stalker, if you run into any interesting scientific material, be sure to visit our home in the Swamps and let Professor Kalancha take a look. It'll help make the Zone a better place, one sample at a time.</text>
+		<text>이봐 스토커, 뭔가 흥미롭거나 새로운 것, 또는 이상한 걸 발견했다면, 우리 기지로 와 봐. 우린 과학적인 물건들을 가져오는 사람들을 위한 특별한 숙소를 마련하고 있고, 언제나 그런 물건을 취급하고 있다고. 우린 발전소 공격을 실패한 이후 별로 운이 없었지만 다시 무대에 복귀할 기회를 노리고 있어... 그러니, 값은 잘 쳐줄게.</text>
 	</string>
 	<string id="dm_information_105">
-		<text>Ever since Kuznetsov took the reigns, the Military has become interested in shutting us down. They don't seem to be trying too hard yet, but we always worry what they might destroy in their ignorance.</text>
+		<text>밴딧들은 아직도 여기서 문제를 일으키고 있어. 심지여 요즘 여기에 군인들이 돌아다니고 있는데도, 우리 사업에 간섭하고 있지. 우리들은 여기서 확고한 입지를 다져야 하고, 그저 한가롭게 서 있을 수는 없다고. 우리가 평화롭게 협력할 수 있다면 기꺼이 하겠지만, 우리의 작전을 무너뜨리려는 자들한테는 관용을 베풀지 않을 거야. 내무군은 꽤나 고집스럽게 행동하고 있어서, 난 모든 대원들에게 우리 영역에서 보이는 군 소속 헬기는 모두 격추시켜야 한다고 말해두었어. 그 헬기들은 차후의 작전 지역을 정찰하고 있으니까 그런 일은 절대 용납할 수 없어.</text>
 	</string>
 	<string id="dm_information_106">
-		<text>Lately the radiation trapped in all the Zone's vehicles has been released...and is being pulled into all the water instead. Can't say that's a fair trade - purifying drinkable liquid has become that much harder now.</text>
+		<text>늪지대는 이상한 곳이야. 방사능이 땅이랑 물 속에 깊숙히 찌들어 있는 것처럼 보이지만, 최근에는 특별한 변화가 없었어. 늪지는 방사능을 흡수해서, 인체에 독성이 있는 공기를 만들어내고 있어. 하지만 동물들이나 뮤턴트들은 번성하고 있는데, 특히 멧돼지들이 많이 보이지. 이런 현상에는 한 가지 규칙이 있어. 방사능의 영향은 절대로 일정했던 적이 없어, 네가 만약에 어떤 지역에서 높은 수준의 방사능 수치를 측정했다면, 그 특정한 지역의 방사능 수준이나 그 영향이 항상 일정하지 않는다는 거야. 방사능은 가끔 이상한 패턴을 따라 퍼지는 걸로 보여. 우린 이게 중력 이상현상과 특정한 관계가 있는 걸로 추정하고 있어. 아직 안정적인 가설을 세우지는 않았지만 이런 현상은 더 심도있게 논의하고 존에 대한 기존의 과학 연구들과 비교되어야 할 필요가 있어.</text>
 	</string>
 	<string id="dm_information_107">
-		<text>Professor Kalancha says that the Monolith are the key to many of the Zone's mysteries. Certainly, their occupation of Pripyat and the NPP alone is impressive, let alone their technology...I wonder how they did it?</text>
+		<text>이 모든 이야기의 핵심은 모노리스와 관계가 있다는 느낌이 들어. 확실히, 그들은 두뇌가 맛이 갔고 언어는 뒤틀려 있고 거짓되어 있지만, 그들은 발전소와 존에 있는 과학자들에게 매우 흥미가 있을 만한 정보들을 담고 있을 시설들을 지키고 있어. 하지만, 최근에는 이들을 몰아낼 만한 합동 작전이 전혀 이루어지지 않았지. 지난 몇 달 동안 그들은 더욱 강력해졌어. 용병들이 리만스크에서 작전을 수행하고 있다는 소문을 들은 적이 있는데, 아마도 이 존의 어딘가에서 똑같은 생각을 하는 사람이 있을 거라고 생각해. 유감스럽게도 우리들은 어떠한 폭력적인 해결책을 제공할 상대가 될 만한 무기나 화력이 부족한 상태야.</text>
 	</string>
-	<string id="dm_information_108"> <!-- Living Legend -->
-		<text>People have been talking a lot about that legendary stalker who made it to the CNPP several years ago. Apparently, he reappeared a few days ago. Why is he still in the Zone? Fuck if I care. Better ask the right people if you want a clue.</text>
+	<string id="dm_information_109"> <!-- Living Legend -->
+		<text>사람들은 몇년 전에 체르노빌 원전에 들어가는 데 성공한 전설적인 스토커에 대한 이야기들을 많이 나누고 있지. 듣기로는, 그가 몇 년 전에 다시 나타났다는군. 왜 아직도 그가 존에 있을까? 젠장, 뭐 내가 상관할만한 일은 아니지만. 단서를 찾고 싶으면 더 적당한 사람한테 물어보라고.</text>
 	</string>
-	<string id="dm_information_109"> <!-- Mortal Sin -->
-		<text>My friends and I were having a nice meal at the campfire last night. But then that creepy guy came out of nowhere to preach to us about his silly cult, wonders of the Zone and some other shit that I can't quite remember. Apparently, they are recruiting new members... Hell! I can't tell if he was serious or high.
-		\nThe whole thing seems fishy, you should be careful. I heard that many other groups met him the other day. I'm pretty sure that some can be crazy enough to believe his crap.</text>
+	<string id="dm_information_110"> <!-- Mortal Sin -->
+		<text>나랑 내 친구들은 전날 밤에 모닥불에서 괜찮은 식사를 하고 있었어. 그런데 갑자기 그 이상한 녀석이 아무것도 없는 곳에서 나타나더니 우리들에게 그의 이상한 종교집단과 존의 경이로움, 그리고 잘 기억나지 않는 기타 잡것들에 대해 설교를 하더군. 듣자하니, 새로운 단원을 모집하고 있는 것 같았어... 젠장! 그 녀석이 진지한 건지 약이라도 빨았던 건지 모르겠군.
+		\n일이 수상하게 흘러가니까, 조심하도록 해. 다른 많은 사람들도 그를 언젠가 만났다고 하더군. 아마도 그의 개소리를 믿을 만큼 미친 친구들이 한 둘쯤은 있겠지.</text>
 	</string>
 	<!-- Brain Scorcher is off -->
 	<string id="dm_information_110">
@@ -2870,37 +2870,37 @@
 		<text>어디서 일거리를 찾을 수 있는지 알아?</text>
 	</string>
 	<string id="dm_job_0">
-		<text>Well, if the local traders don't have anything for you, maybe try the regular guys? Most of them need help with one thing or another.</text>
+		<text>미안, 난 몰라.</text>
 	</string>
 	<string id="dm_job_1">
-		<text>Spore is always looking for someone to do odd jobs every now and again. He is also an information broker, and will pay well for other stalkers' PDAs.</text>
+		<text>스포어가 궂은 일을 처리할 사람들을 매일 찾고 있어. 그는 정보 중개인이야. 혹시 존에서 뭔가 큰 일이 벌어지는 걸 알고 있어? 그럼 스포어가 값을 잘 쳐줄 거야.</text>
 	</string>
 	<string id="dm_job_2">
-		<text>Librarian always wants stalkers to go into the Swamps to clear out mutants, bandits and the like. He pays well too; surprised we don't get more Dutyers taking up his offers.</text>
+		<text>듣기로는 라이브러리안이 늪지대의 험한 곳에서 돌아다니는 뮤턴트들을 사냥할 경험있는 사냥꾼들을 찾고 있다고 해. 한밤중에 사냥을 나가려는 지원자들은 별로 없으니까, 그 때는 더 쉽게 일거리를 찾을 수 있을 거야.</text>
 	</string>
 	<string id="dm_job_3">
-		<text>Sidorovich always has something that needs done. He usually pays well, but I wouldn't recommend you take his jobs unless you're ready to get your hands really, really dirty.</text>
+		<text>시도로비치가 언제나 일할 사람을 찾고 있지. 그는 대개 보수를 잘 쳐주는 편이지만, 만약 네가 초짜라면 그가 주는 일을 별로 추천하지는 않아.</text>
 	</string>
 	<string id="dm_job_4">
-		<text>Wolf has been looking for help. He pays stalkers to hunt mutants in the local area to ensure the safety of the village.</text>
+		<text>울프가 도와줄 사람을 찾고 있어. 그는 마을을 보호하기 위해 그 주위의 뮤턴트들을 사냥해오는 스토커에게 보수를 주지.</text>
 	</string>
 	<string id="dm_job_5">
-		<text>Owl, who hangs out at the Skadovsk, is always looking to buy or sell information. I would go ask him.</text>
+		<text>스카도브스크에서 지내는 아울은 언제나 정보를 사거나 팔고 싶어하지. 나라면 그를 찾아가 보겠어.</text>
 	</string>
 	<string id="dm_job_6">
-		<text>Sultan's seeking people with balls of steel for some shit. He hangs out back at base, in the throne room.</text>
+		<text>술탄이 잡것들을 처리할 용기가 있는 사람들을 찾고 있어. 그는 기지 뒤편에 있는 알현실에서 지내고 있어.</text>
 	</string>
 	<string id="dm_job_7">
-		<text>Head toward the scientists' bunker. I'm sure they have something. They are always looking for mercs or stalkers to help them out.</text>
+		<text>과학자의 벙커 쪽으로 가 봐. 분명히 그들이 뭔가 일거리를 가지고 있을 거야. 언제나 그들을 도와줄 만한 용병이나 스토커들을 구하고 있지.</text>
 	</string>
 	<string id="dm_job_8">
-		<text>Olivius is the man to see if you are looking to do some odd jobs. He is a trader who stays at the Dark Valley camp.</text>
+		<text>만약 네가 이상한 일들을 찾고 있다면 올리비우스에게 가 봐. 그는 검은 계곡 캠프에서 머무는 상인이야.</text>
 	</string>
 	<string id="dm_job_9">
-		<text>Yeah, here's a job. From here, head west. Then keep going west. And when you've done that, don't come back.</text>
+		<text>좋아, 여기 일거리가 있어. 여기서부터 서쪽으로 향해 가 봐. 그리고 쭉 서쪽으로 가. 그리고 충분히 가 봤으면, 두 번 다시 돌아오지 마.</text>
 	</string>
 	<string id="dm_job_10">
-		<text>Sorry, man, I've got nothing for you. Just dig in and help us hold on to what we've got.</text>
+		<text>미안해 친구, 알려줄 만한 게 없어. 그냥 여기 머물면서 우리들이 가진 걸 지켜주는 게 어때.</text>
 	</string>
 
 	<!-- Tips -->
@@ -2917,118 +2917,118 @@
 		<text>정말로 네게 해줄 조언이 아무 것도 없어.</text>
 	</string>
 	<string id="dm_tips_1">
-		<text>You shoot a guy in the face a couple times, and he's finished. It won't matter what he's wearing as long as it ain't an exo.</text>
+		<text>어떤 놈 면상에 대고 몇 발 쏘다 보면, 그 녀석은 죽어있을 거야. 그 녀석이 입고 있는 게 외골격만 아니라면 어떤 걸 걸치고 있든 상관 없지.</text>
 	</string>
 	<string id="dm_tips_2">
-		<text>Use a grenade or two to get a guy to shift his ass. He won't be hiding there much longer if he sees a pineapple roll up next to him.</text>
+		<text>어떤 놈을 숨어있던 곳에서 뛰쳐나오게 만들기에는 수류탄 한 두발 만한 게 없지. 자기 옆에 파인애플처럼 생긴 게 굴러오는 걸 본다면 거기 오래 숨어있지 못할 걸.</text>
 	</string>
 	<string id="dm_tips_3">
-		<text>If you have a fast enough trigger finger, you can fire off both barrels of a shotgun at the same time. Keep that in mind if you run into a bloodsucker.</text>
+		<text>네 손가락이 방아쇠를 빨리 당길 수 있을 정도로 튼튼하다면, 더블 배럴 샷건을 한 번에 모두 쏴버릴 수 있지. 만약에 블러드써커라도 마주치게 된다면 떠올려 봐.</text>
 	</string>
 	<string id="dm_tips_4">
-		<text>Don't underestimate pistols, stalker. They're pretty handy if you ain't got much ammo left for your main shooter, and they'll waste anything with light armour.</text>
+		<text>권총을 절대 무시하지 마, 스토커. 주무기에 쓸 총알이 별로 없을 때 쓸만하고, 경갑을 걸치고 있는 적 정도는 쓸어버릴 수 있으니까.</text>
 	</string>
 	<string id="dm_tips_5">
-		<text>If you're running a hit, you can waste the poor bastard without being seen using a sniper rifle; you'll be able to whack him from much further than with your other shooters.</text>
+		<text>만약 네가 습격에 나선다면, 저격 소총을 사용해서 보이지 않는 곳에서 불쌍한 적들을 쓸어버릴 수 있어. 다른 종류의 총들보다 더 먼 거리에서 그 놈을 족쳐버릴 수 있지.</text>
 	</string>
 	<string id="dm_tips_6">
-		<text>You ain't gonna be able to hit shit if you're running while shooting. Find some cover to hide behind and lean out to shoot; you'll be far more accurate.</text>
+		<text>네가 달리면서 총을 쏜다면 아무 것도 맞출 수 없을 거야. 숨을 만한 엄폐물을 찾아서 몸을 기울이면서 쏘라고. 그럼 더 정확하게 쏠 수 있을 거야.</text>
 	</string>
 	<string id="dm_tips_7">
-		<text>Keep your gear in good condition. Your gun will jam and your suit will be full of holes if you don't see a technician every now and then.</text>
+		<text>장비를 좋은 상태로 유지하도록 해. 네가 그때그때 기술자를 찾아가지 않는다면 네 총이 걸리거나 방어구가 구멍으로 가득해질 거야.</text>
 	</string>
 	<string id="dm_tips_8">
-		<text>Last time I went to see a technician, he couldn't upgrade half my shit... Asked me to go out and fetch tools for him. What, am I his errand boy now?</text>
+		<text>내가 마지막으로 기술자를 보러 갔을 때, 그 녀석은 내 장비의 절반조차 개조하지 못하더군... 나더러 나가서 쓸만한 도구들을 찾아달라는 거야. 내가 무슨 그 자식 조수라도 되는 줄 아나봐?</text>
 	</string>
 	<string id="dm_tips_9">
-		<text>Ever met a guy who stood outside during an emission? Of course you haven't! Hide your ass whenever one hits unless you feel like having your brain boiled.</text>
+		<text>에미션이 발생하는 동안 밖에서 서 있는 녀석을 만난 적이 있어? 그럴 리가 없지! 뇌가 삶아지고 싶지 않다면 에미션이 일어났을 때 몸을 숨기는 게 좋을 거야.</text>
 	</string>
 	<string id="dm_tips_10">
-		<text>Almost lost my legs the other day. Planted a whole cluster of butterfly mines to cover my ass when scavenging and forgot about them on my way back. They'll go off no matter who planted 'em.</text>
+		<text>언젠가 내 다리를 거의 잃을 뻔한 적이 있었지. 수색하기 전에 내 등 뒤를 지켜줄 버터플라이 지뢰들을 쫙 깔아놓고는 돌아갈 때 잊어버렸던 거야. 그것들은 자기들을 심은 사람을 구별하지 않는다고.</text>
 	</string>
 	<string id="dm_tips_11">
-		<text>Just because the trader don't have a job for you doesn't mean none of us do. You can make some good money running errands for others. Might find some good loot in the meantime, too.</text>
+		<text>상인들이 일거리가 없어도 네가 할 수 있는 일이 없지는 않아. 다른 사람들의 심부름을 해 주면 돈을 좀 벌 수 있어. 그러는 중에 전리품도 좀 챙길 수도 있겠지.</text>
 	</string>
 	<string id="dm_tips_12">
-		<text>Keep hold of any meds you might find; you never know when they might be useful. Hercules is pretty good when you're hauling goods, and psi-block will help you against any controllers.</text>
+		<text>네가 찾는 의약품들을 다 챙기도록 해. 언제 그 의약품들을 사용할 때가 올 지 모르니까 말야. 허큘리스는 물건을 나를 때 꽤 좋고, 싸이-블록은 컨트롤러 같은 녀석들을 상대할 때 도움이 될 거야.</text>
 	</string>
 	<string id="dm_tips_13">
-		<text>Carry some spare ammo on you even if you don't think you need it. Nothing worse than having to fight off a horde of mutants with just your blade.</text>
+		<text>네가 필요 없다고 생각하더라도 예비 탄약을 좀 들고 다니는 게 좋아. 그냥 칼 한자루 가지고 뮤턴트 떼와 맞서야 하는 것만큼 끔찍한 것도 없지.</text>
 	</string>
 	<string id="dm_tips_14">
-		<text>You tried artefact hunting? Get a detector and go near some anomalous area; if the thing starts bleeping at you, then there's one nearby. Though you'll need one of the expensive models to find the good shit.</text>
+		<text>아티팩트 사냥을 해본 적 있어? 탐지기를 가지고 이상현상 지역 근처로 가 봐. 만약 그게 울린다면, 근처에 아티팩트가 있는 거야. 물론 좀 더 좋은 아티팩트를 찾으려면 더 비싼 탐지기가 필요할 거야.</text>
 	</string>
 	<string id="dm_tips_15">
-		<text>Don't run face first straight into an anomaly. If you think there's one nearby, toss a few bolts at it. Rather the bolts than you, right?</text>
+		<text>이상현상 속으로 곧바로 직진하지 마. 근처에 이상현상이 있다고 생각한다면, 볼트를 몇 개 던져 봐. 너보다는 볼트가 맞는 게 더 나으니까, 그렇지?</text>
 	</string>
 	<string id="dm_tips_16">
-		<text>If you ain't feeling too good, then try eating some food. Might not have the same effect as a medkit, but it'll perk you up enough to keep you going.</text>
+		<text>몸 상태가 별로라고 느낀다면, 음식을 좀 먹어 봐. 메디킷만큼의 효과는 없겠지만, 네가 계속 움직이게 할 수 있을 정도로는 충분할 거야.</text>
 	</string>
 	<string id="dm_tips_17">
-		<text>Don't ignore your PDA. It'll keep track of your tasks and help you find your way around the Zone if you're lost or planning on going somewhere.</text>
+		<text>PDA를 살펴보는 걸 잊지 마. 네가 맡은 일을 추적해 주고 만약에 네가 존에서 길을 잃었거나 어딘가로 가려고 할 때 길을 찾는 걸 도와줄 거야.</text>
 	</string>
 	<string id="dm_tips_18">
-		<text>Holster that shooter if you're going to talk to someone. Nobody likes having the end of a barrel being waved in front of their face.</text>
+		<text>누군가에게 말을 걸 때는 총을 잠시 넣어 둬. 총구를 자기 앞에서 흔들고 있는 녀석과 말하고 싶어하는 사람은 없을 걸.</text>
 	</string>
 	<string id="dm_tips_19">
-		<text>Make sure to pack energy drinks with you. They'll come in handy if you keep tiring out when carrying loot back to camp.</text>
+		<text>에너지 드링크를 좀 가지고 다니는게 좋아. 전리품들을 캠프에 가지고 올 때 네가 지치지 않도록 도와줄 거야.</text>
 	</string>
 	<string id="dm_tips_20">
-		<text>If your helmet has night vision, make sure to upgrade it. You'll be able to see further and clearer if you let a technician screw around with it for some cash.</text>
+		<text>만약 네가 끼고 있는 헬멧에 야시경이 달려있다면, 업그레이드 하는 게 좋아. 기술자한테 돈을 좀 주고 손봐달라고 하면 더 멀리, 더 뚜렷하게 볼 수 있다고.</text>
 	</string>
 	<string id="dm_tips_21">
-		<text>You aren't defenceless if you're out artefact hunting. So what if you're carrying your detector? You can still hold a pistol in the other hand.</text>
+		<text>네가 아티팩트 사냥을 나선다고 해도 반드시 무방비한 상태가 되는 건 아냐. 만약에 탐지기를 들고 있을 때는 어떻게 대처하면 좋을까? 바로 다른 손에 권총을 들고 있으면 돼.</text>
 	</string>
 	<string id="dm_tips_22">
-		<text>Plenty of places to sleep at if you need to pass the time. There's always a free bed at most camps, but you can take a sleeping bag out with you anywhere.</text>
+		<text>만약 시간을 보내야 한다면 잠시 잘 수 있는 곳이 꽤 많이 있어. 많은 캠프에는 공짜로 쓸 수 있는 침대가 있지만, 어디로 가든 침낭을 들고 다닐 수도 있지.</text>
 	</string>
 	<string id="dm_tips_23">
-		<text>Artefacts aren't all good news; they'll kill you slowly with their radiation unless you're protected. Keep in mind that there are artefacts which can absorb radiation, too, though.</text>
+		<text>아티팩트를 발견하는 게 꼭 좋은 소식만 전해주지는 않아. 적절한 보호 수단이 없다면 방사능을 뿜어서 너를 천천히 죽어가게 만들겠지. 그러니 방사능을 흡수할 수 있는 수단을 마련하는 걸 잊지 말라고.</text>
 	</string>
 	<string id="dm_tips_24">
-		<text>Your knife ain't just a weapon for sneaking up on people with; you can bust open boxes, chests, and locks with it, too. Who knows, might find something cool inside...</text>
+		<text>네가 가진 칼은 단지 누군가를 은밀하게 암살할 수 있는 무기로서의 기능만 할 수 있는 건 아니야. 그걸로 상자나 자물쇠 같은 걸 열 수도 있어. 누가 알겠어, 그 안에서 괜찮은 물건들이 나올 지...</text>
 	</string>
 	<string id="dm_tips_25">
-		<text>If you keep finding yourself running out of breath, then stop carrying so much shit. You can stash it away somewhere in a backpack, or sell it to a trader.</text>
+		<text>만약에 길을 가다가 숨이 찬다면, 너무 많은 물건을 들고 있지는 않은지 확인해 봐. 남는 물건은 배낭에 넣어서 어딘가에 숨겨 두거나, 상인에게 팔 수 있어.</text>
 	</string>
 	<string id="dm_tips_26">
-		<text>If you want meds, then go see a medic, and if you want booze, then go see barkeep; a lot of traders out here specialise in certain types of goods.</text>
+		<text>약이 필요하면 의사한테 가고, 술을 좀 마시고 싶다면 바텐더에게 가 봐. 여기 있는 많은 상인들은 각자 전문적으로 취급하는 물건이 다르다고.</text>
 	</string>
 	<string id="dm_tips_27">
-		<text>You won't find artefacts at the same place all the time; they all change about after an emission. Remember that next time you're near an anomaly.</text>
+		<text>언제나 같은 장소에서만 아티팩트를 찾을 수는 없을 거야. 에미션이 한 번 일어난 뒤에는 모든 것들이 바뀌지. 다음 번에 이상현상 근처에 있을 때 이걸 잘 기억해 둬.</text>
 	</string>
 	<string id="dm_tips_28">
-		<text>The Zone has a life of its own, stalker. Just because there weren't any freaks about the last time you went some place doesn't mean they haven't moved in since.</text>
+		<text>존은 그 자체만의 생활 패턴이 있어, 스토커. 그 말인 즉슨 네가 이전에 어떤 곳에 갔을 때 거기에 아무 것도 없었다고 해서 그 다음번에도 없을 거라는 보장이 없다는 거야.</text>
 	</string>
 	<string id="dm_tips_29">
-		<text>If you ain't got nothin' to deal with radiation poisoning, then try to keep yourself alive until you can reach a medic. But then ask yourself: why aren't you carrying any vodka?</text>
+		<text>만약에 네가 방사능 중독에 대처할 만한 것들을 가지고 있지 않으면, 어떻게든 살아서 의사한테 가보도록 노력해 봐. 하지만 그 전에, 왜 보드카 한 병이라도 챙겨서 나오지 않았는지 반성하도록 해?</text>
 	</string>
 	<string id="dm_tips_30">
-		<text>Run and jump if something looks too far away; your momentum will carry you farther. Easy way to get away from some muties, as they won't think to jump over shit.</text>
+		<text>일이 뭔가 잘못된 것 같으면 무조건 뛰어. 가속도가 빨리 붙을 수록 더 멀리 도망갈 수 있을 거야. 뮤턴트들은 그렇게 뛰어다닐 생각은 안 하니까, 그것들로부터 쉽게 도망칠 수 있을 거야.</text>
 	</string>
 	<string id="dm_tips_31">
-		<text>Selling artefacts isn't the only way to make some cash: offloading unneeded equipment can be a profitable business, too. Keep in mind that traders aren't usually interested in items that are broke.</text>
+		<text>아티팩트를 판매하는 것만이 돈을 벌 수 있는 유일한 방법은 아니야. 필요 없는 장비들을 파는 것도 꽤 이익이 남는 장사지. 상인들이 부서진 장비를 거래하는 데엔 그다지 관심이 없다는 걸 명심하도록 해.</text>
 	</string>
 	<string id="dm_tips_32">
-		<text>Crouch and sneak about if you don't wanna get seen or heard. Not every battle is worth fighting, or maybe you just want to get the jump on someone?</text>
+		<text>만약 네가 은밀하게 움직이고 싶다면 몸을 낮추고 숨어다녀. 싸울 만한 가치가 없을 떄나, 누군가를 기습하고 싶을 때 유용할 걸?</text>
 	</string>
 	<string id="dm_tips_33">
-		<text>You can attach scopes and launchers to your shooter, y'know? You'll have to find or purchase the parts yourself, but they're well worth it. Scopes let you engage with accuracy from much further away, while underbarrel launchers let you keep a tonne of explosive hurt on standby for emergencies.</text>
+		<text>총기에 조준경이나 유탄발사기를 장착할 수 있다는 걸 알고 있어? 기술자들이 못하는 일이 없지는 않지. 그러니 그런 부품들은 스스로 찾아야 할 거야...</text>
 	</string>
 	<string id="dm_tips_34">
-		<text>There are different ways to take down different types of mutants; they all have their own weak spots. You can kick tushkanos and rats, too, y'know?</text>
+		<text>다양한 종류의 뮤턴트를 잡는 데는 다양한 방법들이 존재하지. 각각의 뮤턴트들은 그들만의 약점을 가지고 있어. 투스카노들이나 쥐들은 발로 찰 수도 있다는 사실을 알고 있어??</text>
 	</string>
 	<string id="dm_tips_35">
-		<text>Don't go hiding behind a door if some guy's shooting at you. Bullets don't care if there's anything between the two of you... It'll go straight through anything weak.</text>
+		<text>누군가 널 향해 총을 갈길 때 문 뒤에 숨지 마. 총알은 그 녀석과 너 사이에 있는 것들은 신경쓰지 않으니까... 약한 물체라면 곧바로 뚫고 지나갈 거야.</text>
 	</string>
 	<string id="dm_tips_36">
-		<text>Bandage yourself up if you get blasted or torn up by a mutant. The bleeding will cost you more in medkits than if you use a bandage to stop it before it gets too serious.</text>
+		<text>네가 총에 맞아 피를 흘리거나 뮤턴트에게 찢겨버렸을 때는 붕대를 감도록 해. 출혈이 너무 심각해지기 전에 붕대를 감아 지혈하지 않으면 메디킷으로도 치료하기 힘들 만큼 큰 대가를 치르게 될 거야.</text>
 	</string>
 	<string id="dm_tips_37">
-		<text>If you're looking for tools for weapon modifications or suit upgrades, a good place to start is by rifling through stashes. Some traders sell stash coords too, so maybe go check that out.</text>
+		<text>만약에 무기나 방어구를 개조하기 위한 도구들을 찾고 있다면, 시도로비치에게 가 봐. 그가 주는 일을 마치면 돈과 함께 은닉처가 있는 좌표를 건네줄 거야. 밴딧들의 시체를 뒤지는 것보다는 은닉처에서 장비를 찾을 가능성이 더 높을 거야.</text>
 	</string>
 	<string id="dm_tips_38">
-		<text>Pay attention to radio chatter, because it's a damn good way to find out what's going on in the area. You'll be able to provide assistance to anyone in a gunfight or surrounded by mutants.</text>
+		<text>라디오로 들려오는 잡담을 잘 들어 봐, 왜냐면 여기서 어떤 일이 벌어지는지를 알 수 있는 끝내주는 방법이거든. 총격전을 하고 있는 사람들이나 뮤턴트에게 습격받고 있는 사람들을 지원해줄 수도 있을 거야.</text>
 	</string>
 
 	<!-- Wounded -->
@@ -3055,7 +3055,7 @@
 		<text>물론이지. 함께 다니면 더 재미있을 거야.</text>
 	</string>
 	<string id="dm_traveler_stalker_actor_companion_no">
-		<text>아니, 미안해, 나는 혼자 일하는 게 좋거든.</text>
+		<text>아니, 미안해. 나는 혼자 일하는 게 좋거든.</text>
 	</string>
 	<string id="dm_traveler_actor_go_with_squad">
 		<text>가자.</text>
@@ -3073,16 +3073,16 @@
 		<text>마음이 바뀌었어.</text>
 	</string>
 	<string id="dm_traveler_stalker_i_cant_travel">
-		<text>지금은 안돼.</text>
+		<text>지금은 안 돼.</text>
 	</string>
 	<string id="dm_stalker_doing_nothing_1">
 		<text>아, 아무것도.</text>
 	</string>
 	<string id="dm_stalker_doing_nothing_2">
-		<text>아무것도 안해. 그냥 쉬고 있어.</text>
+		<text>아무것도 안 해. 그냥 쉬고 있어.</text>
 	</string>
 	<string id="dm_stalker_doing_nothing_3">
-		<text>뭐 하는 것처럼 보여? 그냥 게으름피우는 중이야...</text>
+		<text>뭐하는 것처럼 보여? 그냥 게으름피우는 중이야...</text>
 	</string>
 	<string id="dm_stalker_chasing_squad_monster">
 		<text>뮤턴트를 사냥하고 있어.</text>
@@ -3094,13 +3094,13 @@
 		<text>용병 몇 놈들을 추적 중이야... 아주 개새끼들이지.</text>
 	</string>
 	<string id="dm_stalker_chasing_squad_monolith">
-		<text>광신도 한 분대를 추적하고 있어. 자기들을 '모노리스' 라고 부르더군...</text>
+		<text>광신도 한 분대를 추적하고 있어. 자기들을 "모노리스" 라고 부르더군...</text>
 	</string>
 	<string id="dm_stalker_chasing_squad_zombied">
-		<text>좀비를 하나 쫓고 있어. 한때는 훌륭한 스토커였던 껍데기지. 불쌍한 사람 같으니...</text>
+		<text>좀비를 하나 쫒고 있어. 한때는 훌륭한 스토커였던 껍데기지. 불쌍한 사람 같으니...</text>
 	</string>
 	<string id="dm_traveler_travel_cost">
-		<text>좋아. 이 정도 비용이 들 거야.</text>
+		<text>좋아. 이 정도 비용이 들 거야:</text>
 	</string>
 	<string id="dm_traveler_actor_dont_go_with_squad">
 		<text>마음이 바뀌었어.</text>
@@ -3121,34 +3121,34 @@
 		<text>용병 한 무리를 따라가는 중이야. 돈을 받고 우리들을 공격하러 올 테니까.</text>
 	</string>
 	<string id="dm_freedom_chasing_squad_monolith">
-		<text>모노리스에서 온 몇몇 미친 놈들을 쫓고 있지.</text>
+		<text>모노리스에서 온 몇몇 미친 놈들을 쫒고 있지.</text>
 	</string>
 	<string id="dm_freedom_chasing_squad_duty">
 		<text>듀티가 이 근처 어딘가에 있어... 이 새끼들은 멀리 가지 못했을 거야.</text>
 	</string>
 	<string id="dm_duty_doing_nothing_1">
-		<text>아무 것도 안하는 중이다.</text>
+		<text>아무 것도 안해.</text>
 	</string>
 	<string id="dm_duty_chasing_squad_monster">
-		<text>이 주변의 뮤턴트들을 퇴치하고 있다.</text>
+		<text>이 주변의 뮤턴트들을 퇴치하고 있어.</text>
 	</string>
 	<string id="dm_duty_chasing_squad_bandit">
-		<text>밴딧 약탈꾼 하나를 추적하는 임무를 수행하는 중이다.</text>
+		<text>밴딧 약탈꾼 하나를 추적하는 임무를 수행 중이야.</text>
 	</string>
 	<string id="dm_duty_chasing_squad_killer">
-		<text>우리들은 용병들로부터 공격받았다. 그놈들이 모두 죽기 전까지 휴식은 없다.</text>
+		<text>우리들은 용병들로부터 공격받았어. 그 놈들이 죽기 전까지는 쉬지 않을거야.</text>
 	</string>
 	<string id="dm_duty_chasing_squad_monolith">
-		<text>모노리스 놈들 한 부대를 사냥하러 가고 있다.</text>
+		<text>모노리스 놈들 한 부대를 사냥하러 가고 있어.</text>
 	</string>
 	<string id="dm_duty_chasing_squad_freedom">
-		<text>자기들을 '프리덤' 이라고 부르는 쓰레기들을 청소하러 가고 있다.</text>
+		<text>자기들을 "프리덤"이라고 부르는 쓰레기들을 청소하러 가고 있지.</text>
 	</string>
 	<string id="dm_stalker_searching_artefacts_1">
 		<text>아티팩트를 찾고 있어.</text>
 	</string>
 	<string id="dm_stalker_searching_artefacts_2">
-		<text>그냥 버섯들이나 모으는... 아니 대체 우리가 이런데서 뭘 하고 있다고 생각하는거야, 멍청아? 아티팩트를 찾고 있다고.</text>
+		<text>그냥 버섯들이나 모으는... 아니 대체 우리가 이런데서 뭘 하고 있다고 생각하는 거야, 멍청아? 아티팩트를 찾고 있다고.</text>
 	</string>
 	<string id="dm_stalker_searching_artefacts_3">
 		<text>아티팩트 사냥 중이야.</text>
@@ -3156,7 +3156,7 @@
 
 	<!-- Technician -->
 	<string id="st_mechanic_query_items">
-		<text>내가 맡긴 장비들 중에 수리가 다 된게 있어?</text>
+		<text>내가 맡긴 장비들 중에 수리가 다 된 게 있어?</text>
 	</string>
 	<string id="st_mechanic_repair_done">
 		<text>응. 여기 있어.</text>
@@ -3170,20 +3170,20 @@
 		<text>...항복하겠어.</text>
 	</string>
 	<string id="st_surrender_query_victim_1">
-		<text>무기를 내려놓고 쓸모있는 정보들을 넘겨. 은닉처의 장소, 보급품 교환 장소, 습격할 예정인 지역의 위치, 그런 것들을 알려주면 살려주지. </text>
+		<text>무기를 내려놓고 쓸모있는 정보들을 넘겨. 은닉처의 장소, 보급품 교환 장소, 습격할 예정인 지역의 위치, 그런 것들을 알려주면 살려주지.</text>
 	</string>
 	<string id="st_surrender_query_victim_2">
-		<text>네 빌어먹을 물건들을 어디다 숨겼어? 나에게 털어놓으면 그 유감스런 궁둥이를 건사하는 걸 고려해 주지!</text>
+		<text>네 빌어먹을 물건들을 어디다 숨겼어? 목숨을 건지고 싶으면 당장 털어놓는 게 좋을 거야!</text>
 	</string>
 	<string id="st_surrender_query_victim_3">
 		<text>메디킷을 받아... 하지만 무기는 가져가겠어.</text>
 	</string>
 	<string id="st_surrender_query_victim_4">
-		<text>남길 말은 있나? 네 머리에 걸린 현상금을 수집하러 왔다.</text>
+		<text>남길 말은 있나? 네 목에 걸린 현상금을 수집하러 왔다.</text>
 	</string>
 
 	<string id="st_surrender_actor_1">
-		<text>살려 줄게.</text>
+		<text>살려 주지.</text>
 	</string>
 	<string id="st_surrender_actor_2">
 		<text>행운을 빌어...</text>
@@ -3192,13 +3192,13 @@
 		<text>죽을 시간이다.</text>
 	</string>
 	<string id="st_surrender_victim_answer_1">
-		<text>알았어, 알았어, 날 죽이지만 말아줘!</text>
+		<text>알았어, 알았다고, 날 죽이지만 말아줘!</text>
 	</string>
 	<string id="st_surrender_victim_answer_2">
 		<text>씨발! 알았어!</text>
 	</string>
 	<string id="st_surrender_victim_answer_3">
-		<text>진형해, 형씨! 다 말할게!</text>
+		<text>진정해, 형씨! 다 말할게!</text>
 	</string>
 	<string id="st_surrender_victim_answer_4">
 		<text>제발, 날 죽이지 말아줘! 내 PDA를 가져가! 네가 알고 싶은 게 다 들어 있어!</text>
@@ -3211,7 +3211,7 @@
 	</string>
 
 	<string id="st_surrender_victim_answer_default_bounty_1">
-		<text>알았어, 알았어, 날 죽이지만 말아줘!</text>
+		<text>알았어, 알았다고, 날 죽이지만 말아줘!</text>
 	</string>
 	<string id="st_surrender_victim_answer_default_bounty_2">
 		<text>씨발! 알았어!</text>
@@ -3227,31 +3227,31 @@
 	</string>
 
 	<string id="st_surrender_victim_answer_esc_m_trader_bounty_1">
-		<text>그 개같은 Sidorovich가 널 보냈냐? 원하는 게 뭐야? 돈?! 여기, PDA랑 내가 가진 돈을 다 줄게... 그냥 날 보내줘!</text>
+		<text>그 개같은 시도로비치가 널 보냈냐? 원하는 게 뭐야? 돈?! 여기, 네 PDA랑 내가 가진 돈을 다 줄게... 그냥 날 보내 줘!</text>
 	</string>
 	<string id="st_surrender_victim_answer_esc_m_trader_bounty_2">
-		<text>네가 나를 왜 죽이러 왔는지는 알고 있어? 잠깐이라도 생각해 봤냐고? 지옥에나 떨어져라, Sidorovich!</text>
+		<text>니가 나를 왜 죽이러 왔는지나 알고 있어? 잠깐이라도 생각해 봤나고? 지옥에나 떨어져라, 시도로비치!</text>
 	</string>
 	<string id="st_surrender_victim_answer_esc_m_trader_bounty_3">
 		<text>좆까!</text>
 	</string>
 	<string id="st_surrender_victim_answer_esc_m_trader_bounty_4">
-		<text>그냥 내 불행한 삶을 끝내줘! 어서!</text>
+		<text>그냥 내 불행한 삶이나 끝내줘! 어서!</text>
 	</string>
 	<string id="st_surrender_victim_answer_esc_m_trader_bounty_5">
 		<text>...</text>
 	</string>
 	<string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_1">
-		<text>그 개같은 Sultan이 널 보냈냐? 원하는 게 뭐야? 돈?! 여기, PDA랑 내가 가진 돈을 다 줄게, 그냥 날 보내줘!</text>
+		<text>그 개같은 술탄이 널 보냈냐? 원하는 게 뭐야? 돈?! 여기, 네 PDA랑 내가 가진 돈을 다 줄게, 그냥 날 보내줘!</text>
 	</string>
 	<string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_2">
-		<text>이 양심도 없는 새끼야! 네가 나를 왜 죽이러 왔는지는 알고 있어? 잠깐이라도 생각해 봤냐고? 지옥에나 떨어져라 Sultan!</text>
+		<text>이 양심도 없는 새끼야! 니가 나를 왜 죽이러 왔는지나 알고 있어? 잠깐이라도 생각해 봤냐고? 지옥에나 떨어져라 술탄!</text>
 	</string>
 	<string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_3">
 		<text>좆까!</text>
 	</string>
 	<string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_4">
-		<text>그냥 내 좆같이 불행한 삶을 끝내줘! 어서!</text>
+		<text>그냥 내 좆같이 불쌍한 삶이나 끝내줘! 어서!</text>
 	</string>
 	<string id="st_surrender_victim_answer_zat_b7_bandit_boss_sultan_bounty_5">
 		<text>...</text>
@@ -3280,13 +3280,13 @@
 		<text>내가 팔 만한 정보를 좀 가지고 있는데.</text>
 	</string>
 	<string id="st_broker_query_more">
-		<text>네가 관심 있을 지도 모르는 걸 가지고 있는데.</text>
+		<text>네가 관심있을 지도 모르는 걸 가지고 있는데.</text>
 	</string>
 	<string id="st_broker_query_pda">
 		<text>PDA를 하나 발견했어. 뭔가 쓸모있는 정보가 있을 거야.</text>
 	</string>
 	<string id="st_broker_query_pdas">
-		<text>%s개의 PDA들을 발견했어. 몇 개 정도는 쓸모있는 정보가 있을 거야.</text>
+		<text>%s 개의 PDA들을 발견했어. 몇 개 정도는 쓸모있는 정보가 있을 거야.</text>
 	</string>
 	<string id="st_broker_query_valuable">
 		<text>쓸모있는 정보가 있을지도 모르는 물건을 발견했어.</text>
@@ -3298,378 +3298,378 @@
 		<text>여기.</text>
 	</string>
 	<string id="st_broker_npc_start_1">
-		<text>I'll be the judge of that. What do you have?</text>
+		<text>내가 판단하지. 뭘 가지고 왔는데?</text>
 	</string>
 	<string id="st_broker_npc_start_2">
-		<text>You better hope so. Time is money.</text>
+		<text>그러길 바라지. 시간은 금이라고.</text>
 	</string>
 	<string id="st_broker_npc_start_3">
-		<text>This better be worth my time. What do you have?</text>
+		<text>내 시간을 들일 가치가 있으면 좋겠군. 뭘 가지고 왔는데?</text>
 	</string>
 	<string id="st_broker_npc_answer_pda_query">
-		<text>All right. Let me see.</text>
+		<text>좋아. 보여 줘.</text>
 	</string>
 	
 	<string id="st_broker_npc_about_pda_junk_1">
-		<text>Nothing useful.</text>
+		<text>쓸만한 건 없군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_2">
-		<text>Contacts on local drug dealers.</text>
+		<text>이 근방 마약상들의 거래 기록이로군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_3">
-		<text>A journal.</text>
+		<text>일기네.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_4">
-		<text>Just some more bullshit.</text>
+		<text>그냥 쓸데없는 잡담이네.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_5">
-		<text>Nothing useful on this one.</text>
+		<text>여기에 쓸만한 건 없어 보이는군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_6">
-		<text>Useless, but someone might buy it.</text>
+		<text>쓸모는 없지만, 누군가는 살 만한 정보군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_7">
-		<text>Mostly junk. I could find a buyer.</text>
+		<text>대부분은 쓰레기들이야. 하지만 구매할 사람들은 찾을 수 있겠군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_8">
-		<text>Ain't much on this one.</text>
+		<text>여기엔 별로 쓸만한 게 없어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_9">
-		<text>This one mentions a local meeting going down.</text>
+		<text>이 PDA에는 근처에서 접선이 이루어질 거라는 정보가 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_10">
-		<text>Detailed observations regarding mutations on local flora.</text>
+		<text>이 지역 화초들의 변이에 대한 자세한 관찰 기록이 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_11">
-		<text>Looks like an awesome game on this one.</text>
+		<text>이건 꽤 멋진 물건처럼 보이는군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_12">
-		<text>Detailed observations regarding fleshes.</text>
+		<text>살덩이들에 대한 자세한 관찰 정보가 담겨 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_13">
-		<text>Detailed observations regarding boars.</text>
+		<text>멧돼지들에 대한 자세한 관찰 정보가 담겨 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_14">
-		<text>Detailed observations regarding Whirligig anomalies.</text>
+		<text>회전목마 이상현상들에 대한 자세한 관찰 정보가 담겨 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_15">
-		<text>Photos of a Freedomer trying to bone a bloodsucker...</text>
+		<text>블러드써커의 뼈를 발라내고 있는 프리덤 대원의 사진이군...</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_16">
-		<text>Crazy journal entries on this one.</text>
+		<text>정신나간 일지가 쓰여 있는 걸.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_17">
-		<text>This mentions a meeting between Duty and a local gang of thugs.</text>
+		<text>듀티와 이 근방의 깡패 무리들의 접선 정보가 담겨 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_18">
-		<text>Detailed information about rats and hamsters.</text>
+		<text>쥐와 햄스터에 대한 자세한 정보가 적혀 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_19">
-		<text>Porn... This one is full of porn.</text>
+		<text>포르노... 포르노로 가득하군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_20">
-		<text>Detailed observations on a variety of anomalies.</text>
+		<text>다양한 이상현상들에 대한 자세한 관찰 기록이 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_junk_21">
-		<text>Lots of chat logs, might have something useful.</text>
+		<text>대화 기록이 많이 있어, 쓸모있는 게 있을 것 같네.</text>
 	</string>
 	
 	<string id="st_broker_npc_about_pda_info_1">
-		<text>A couple of stashes.</text>
+		<text>은닉처 위치 두어 개 정도네.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_2">
-		<text>Coordinates of a stash.</text>
+		<text>은닉처의 좌표로군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_3">
-		<text>Some useful contact information.</text>
+		<text>쓸만한 접선 정보들이 몇 개 있네.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_4">
-		<text>Some useful information.</text>
+		<text>몇 개의 쓸모있는 정보들이 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_5">
-		<text>A list of passwords.</text>
+		<text>비밀번호 목록이군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_6">
-		<text>There are some bank details.</text>
+		<text>은행 계좌 정보 몇 개가 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_7">
-		<text>I know some people who will want this one.</text>
+		<text>이런 물건을 원할 만한 사람들을 좀 알고 있지.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_8">
-		<text>This one mentions a stash location.</text>
+		<text>여기에는 은닉처의 위치가 적혀 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_9">
-		<text>Some useful contact information.</text>
+		<text>쓸만한 접선 정보들이 몇 개 있네.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_10">
-		<text>Smuggling route information.</text>
+		<text>밀수 경로에 대한 정보가 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_11">
-		<text>I could find a buyer for this one here.</text>
+		<text>이런 물건들을 구매할 사람들은 얼마든지 찾을 수 있지.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_12">
-		<text>Some useful information on this one.</text>
+		<text>여기엔 몇 개의 쓸모있는 정보들이 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_13">
-		<text>Bank account information.</text>
+		<text>은행 계좌 정보야.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_14">
-		<text>There are coordinates here for a supply exchange point.</text>
+		<text>보급품 교환 장소의 좌표가 적혀 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_15">
-		<text>Information on a short-cut through Red Forest.</text>
+		<text>붉은 숲을 가로지르는 지름길에 대한 정보가 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_20">
-		<text>Fantastic. Some dirt on Beard.</text>
+		<text>멋지군. 베어드에 대한 더러운 소문들이 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_21">
-		<text>Mentions of a huge stash... I'll take this for sure.</text>
+		<text>엄청난 은닉처에 대한 것들이 적혀 있군... 당연히 가져야지.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_23">
-		<text>Great! This mentions a drug smuggler making deals with the military.</text>
+		<text>대단하군! 여기에는 마약상들이 내무군과 거래를 했던 내용이 적혀 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_24">
-		<text>This one mentions a location of a stash.</text>
+		<text>은닉처의 위치가 적혀 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_25">
-		<text>Unencrypted passwords and bank account information.</text>
+		<text>암호화되지 않은 비밀번호와 계좌번호에 대한 정보가 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_26">
-		<text>This mentions a meeting between some mercs and local thugs.</text>
+		<text>여기에는 용병과 근처의 깡패들 사이의 접선 기록이 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_27">
-		<text>There are coordinates here for a supply exchange point.</text>
+		<text>보급품 교환 장소의 좌표가 적혀 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_28">
-		<text>This one mentions a local meeting going down in a few days.</text>
+		<text>이 PDA에는 근처에서 며칠 내에 접선이 이루어질 거라는 정보가 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_29">
-		<text>Maps! A regular cartographer! This one is very useful.</text>
+		<text>지도야! 정규직 지도제작자가 만들어낸 것 같군! 이건 꽤나 쓸모 있겠어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_30">
-		<text>Short-cut information through an anomaly field.</text>
+		<text>한 이상현상 지대를 지나가는 지름길에 대한 정보야.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_31">
-		<text>Upcoming supply exchange point here.</text>
+		<text>다음 번의 보급 교환 장소가 적혀 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_info_32">
-		<text>Scientists might want this one.</text>
+		<text>과학자들이 좋아할 만한 물건이군.</text>
 	</string>
 	
 	<string id="st_broker_npc_about_pda_encrypted_1">
-		<text>Encrypted. Might be valuable.</text>
+		<text>암호화되어 있군. 가치가 좀 있겠어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_encrypted_2">
-		<text>This one is encrypted.</text>
+		<text>암호화됐어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_encrypted_3">
-		<text>Encrypted. Might be valuable; I'll keep this one.</text>
+		<text>암호화되어 있군. 가치가 좀 있겠어. 내가 가져가겠어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_encrypted_4">
-		<text>Encrypted. If they have something to hide, it may be something I want.</text>
+		<text>암호화됐어. 그들이 뭔가 숨기고 있는 게 있다면, 그게 바로 내가 원하는 뭔가일지도 모르겠네.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_encrypted_5">
-		<text>Alleged location of the Oasis.</text>
+		<text>오아시스의 위치로 추정되는 장소가 나와 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_encrypted_6">
-		<text>An encrypted one, I will take it.</text>
+		<text>암호화되어 있군. 내가 가져가겠어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_encrypted_7">
-		<text>An encrypted PDA. Interesting...</text>
+		<text>암호화된 PDA야. 흥미롭군...</text>
 	</string>
 	<string id="st_broker_npc_about_pda_encrypted_8">
-		<text>This one must be valuable. It's encrypted.</text>
+		<text>이건 좀 가치가 있겠어. 암호화되어 있군.</text>
 	</string>
 	
 	<string id="st_broker_npc_about_pda_kill_the_strelok_1">
-		<text>What the...? This one just says 'Kill Strelok'.</text>
+		<text>이게 대체...? 그저 "스트렐록을 죽여라"라는 문구만이 적혀 있어.</text>
 	</string>
 	
 	<string id="st_broker_npc_about_pda_common_1">
-		<text>Nothing useful.</text>
+		<text>쓸만한 건 없군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_2">
-		<text>A couple of stashes.</text>
+		<text>은닉처 위치 두어 개 정도네.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_3">
-		<text>Contacts on local drug dealers.</text>
+		<text>이 근방 마약상들의 거래 기록이로군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_4">
-		<text>A journal.</text>
+		<text>일기네.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_5">
-		<text>Coordinates of a stash.</text>
+		<text>은닉처의 좌표로군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_6">
-		<text>Just some more bullshit.</text>
+		<text>그냥 쓸데없는 잡담이네.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_7">
-		<text>Nothing useful on this one.</text>
+		<text>여기에 쓸만한 건 없어 보이는군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_8">
-		<text>Some useful contact information.</text>
+		<text>쓸만한 접선 정보들이 몇 개 있네.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_9">
-		<text>Useless, but someone might buy it.</text>
+		<text>쓸모는 없지만, 누군가는 살 만한 정보군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_10">
-		<text>Mostly junk. I could find a buyer.</text>
+		<text>대부분은 쓰레기들이야. 하지만 구매할 사람들은 찾을 수 있겠군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_11">
-		<text>Some useful information.</text>
+		<text>몇 개의 쓸모있는 정보들이 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_12">
-		<text>A list of passwords.</text>
+		<text>비밀번호 목록이군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_13">
-		<text>There are some bank details.</text>
+		<text>은행 계좌 정보 몇 개가 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_14">
-		<text>Ain't much on this one.</text>
+		<text>여기엔 별로 쓸만한 게 없어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_15">
-		<text>This one mentions a local meeting going down.</text>
+		<text>이 PDA에는 근처에서 접선이 이루어질 거라는 정보가 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_16">
-		<text>Detailed observations regarding mutations on local flora.</text>
+		<text>이 지역 화초들의 변이에 대한 자세한 관찰 기록이 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_17">
-		<text>Looks like an awesome game on this one.</text>
+		<text>이건 꽤 멋진 물건처럼 보이는군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_18">
-		<text>Detailed observations regarding fleshes.</text>
+		<text>살덩이들에 대한 자세한 관찰 정보가 담겨 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_19">
-		<text>Detailed observations regarding boars.</text>
+		<text>멧돼지들에 대한 자세한 관찰 정보가 담겨 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_common_20">
-		<text>Detailed observations regarding Whirligig anomalies.</text>
+		<text>회전목마 이상현상들에 대한 자세한 관찰 정보가 담겨 있군.</text>
 	</string>
 
 	<string id="st_broker_npc_about_pda_uncommon_1">
-		<text>I know some people who will want this one.</text>
+		<text>이런 물건을 원할 만한 사람들을 좀 알고 있지.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_2">
-		<text>Photos of a Freedomer trying to bone a bloodsucker...</text>
+		<text>블러드써커의 뼈를 발라내고 있는 프리덤 대원의 사진이군...</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_3">
-		<text>A contact on a drug dealer.</text>
+		<text>마약상과의 접촉 기록이야.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_4">
-		<text>Encrypted. Might be valuable.</text>
+		<text>암호화되어 있군. 가치가 좀 있겠어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_5">
-		<text>This one mentions a stash location.</text>
+		<text>여기에는 은닉처의 위치가 적혀 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_6">
-		<text>This one is encrypted.</text>
+		<text>암호화가 되어 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_7">
-		<text>Crazy journal entries on this one.</text>
+		<text>정신나간 일지가 쓰여 있는 걸.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_8">
-		<text>Some useful contact information.</text>
+		<text>쓸만한 접선 정보들이 몇 개 있네.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_9">
-		<text>Smuggling route information.</text>
+		<text>밀수 경로에 대한 정보가 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_10">
-		<text>I could find a buyer for this one here.</text>
+		<text>이런 물건들을 구매할 사람들은 얼마든지 찾을 수 있지.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_11">
-		<text>Some useful information on this one.</text>
+		<text>여기엔 몇 개의 쓸모있는 정보들이 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_12">
-		<text>Bank account information.</text>
+		<text>은행 계좌 정보야.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_13">
-		<text>This mentions a meeting between Duty and a local gang of thugs.</text>
+		<text>듀티와 이 근방의 깡패 무리들의 접선 정보가 담겨 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_14">
-		<text>There are coordinates here for a supply exchange point.</text>
+		<text>보급품 교환 장소의 좌표가 적혀 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_15">
-		<text>This one mentions a local meeting going down.</text>
+		<text>이 PDA에는 근처에서 접선이 이루어질 거라는 정보가 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_16">
-		<text>Detailed information about rats and hamsters.</text>
+		<text>쥐와 햄스터에 대한 자세한 정보가 적혀 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_17">
-		<text>Information on a short-cut through Red Forest.</text>
+		<text>붉은 숲을 가로지르는 지름길에 대한 정보가 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_18">
-		<text>Porn... This one is full of porn.</text>
+		<text>포르노... 포르노로 가득하군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_19">
-		<text>Detailed observations on a variety of anomalies.</text>
+		<text>다양한 이상현상들에 대한 자세한 관찰 기록이 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_uncommon_20">
-		<text>Lots of chat logs, might have something useful.</text>
+		<text>대화 기록이 많이 있어, 쓸모있는 게 있을 것 같네.</text>
 	</string>
 
 	<string id="st_broker_npc_about_pda_rare_1">
-		<text>Fantastic. Some dirt on Beard.</text>
+		<text>멋지군. 베어드에 대한 더러운 소문들이 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_2">
-		<text>Mentions of a huge stash... I'll take this for sure.</text>
+		<text>엄청난 은닉처에 대한 것들이 적혀 있군... 당연히 가져야지.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_3">
-		<text>Great! This mentions a drug smuggler making deals with the military.</text>
+		<text>대단하군! 여기에는 마약상들이 내무군과 거래를 했던 내용이 적혀 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_4">
-		<text>Encrypted. Might be valuable; I'll keep this one.</text>
+		<text>암호화되어 있군. 가치가 좀 있겠어. 내가 가져가겠어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_5">
-		<text>This one mentions a location of a stash.</text>
+		<text>은닉처의 위치가 적혀 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_6">
-		<text>Encrypted. If they have something to hide, it may be something I want.</text>
+		<text>암호화됐어. 그들이 뭔가 숨기고 있는 게 있다면, 그게 바로 내가 원하는 뭔가일지도 모르겠네.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_7">
-		<text>This one has detailed information about Duty... Freedom might want this.</text>
+		<text>듀티에 대한 자세한 정보가 적혀 있어... 아마도 프리덤이 좋아할 것 같군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_8">
-		<text>Bank account and credit card information.</text>
+		<text>계좌 번호와 신용카드 정보야.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_9">
-		<text>Alleged location of the Oasis.</text>
+		<text>오아시스의 위치로 추정되는 장소가 나와 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_10">
-		<text>I could find a buyer for this one here.</text>
+		<text>이런 물건들을 구매할 사람들은 얼마든지 찾을 수 있지.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_11">
-		<text>Some useful information on this one.</text>
+		<text>여기엔 몇 개의 쓸모있는 정보들이 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_12">
-		<text>Unencrypted passwords and bank account information.</text>
+		<text>암호화되지 않은 비밀번호와 계좌번호에 대한 정보가 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_13">
-		<text>This mentions a meeting between some mercs and local thugs.</text>
+		<text>여기에는 용병과 근처의 깡패들 사이의 접선 기록이 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_14">
-		<text>There are coordinates here for a supply exchange point.</text>
+		<text>보급품 교환 장소의 좌표가 적혀 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_15">
-		<text>This one mentions a local meeting going down in a few days.</text>
+		<text>이 PDA에는 근처에서 며칠 내에 접선이 이루어질 거라는 정보가 있어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_16">
-		<text>Maps! A regular cartographer! This one is very useful.</text>
+		<text>지도야! 정규 지도제작자가 만들어낸 것 같군! 이건 꽤나 쓸모 있겠어.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_17">
-		<text>Short-cut information through an anomaly field.</text>
+		<text>한 이상현상 지대를 지나가는 지름길에 대한 정보야.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_18">
-		<text>Upcoming supply exchange point here.</text>
+		<text>다음 번의 보급 교환 장소가 적혀 있군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_19">
-		<text>Scientists might want this one.</text>
+		<text>과학자들이 좋아할 만한 물건이군.</text>
 	</string>
 	<string id="st_broker_npc_about_pda_rare_20">
-		<text>What the...? This one just says 'Kill Strelok'.</text>
+		<text>이게 대체...? 그저 "스트렐록을 죽여라"라는 문구만이 적혀 있어.</text>
 	</string>
 
 	<string id="st_broker_npc_about_pda_bonus_coords">
-		<text>As a bonus, here are some coordinates to stashes I don't really care to get.</text>
+		<text>보너스로, 나에게 그다지 필요하지 않은 은닉처의 좌표를 전송해 줄게.</text>
 	</string>
 
 	<!-- Tasks -->
@@ -3680,7 +3680,7 @@
 		<text>일을 끝냈어.</text>
 	</string>
 	<string id="st_ordered_task_not_given_task">
-		<text>뭐라고? 넌 아직 내가 시켰던 일을 마치지 않은 것 같은데.</text>
+		<text>뭐라고? 넌 아직 내가 시켰던 일을 마치치 않은 것 같은데.</text>
 	</string>
 	<string id="st_ordered_task_accept">
 		<text>그러겠어.</text>
@@ -3689,10 +3689,10 @@
 		<text>다른 일은 없어?</text>
 	</string>
 	<string id="st_ordered_task_already">
-		<text>내가 준 일을 먼저 끝내고 이야기하자.</text>
+		<text>내가 먼저 시켰던 일부터 끝낸 다음에 이야기하자고.</text>
 	</string>
 	<string id="st_ordered_task_already_reply">
-		<text>알겠어.</text>
+		<text>그래.</text>
 	</string>
 	<string id="st_accepted_task_1">
 		<text>좋아! 일이 끝나면 내게 알려줘.</text>
@@ -3713,10 +3713,10 @@
 		<text>알았어, 이제 보수를 줄게.</text>
 	</string>
 	<string id="st_no_available_task">
-		<text>미안, 줄 수 있는 일이 없군.</text>
+		<text>미안, 이제 아무 것도 없군.</text>
 	</string>
 	<string id="st_about_fetch_task_default">
-		<text>내가 뭐라고 하려 했는지 기억이 안 나네... 그냥 가서 가져와! 내가 뭘 원하는지 알고 있을 텐데!</text>
+		<text>내가 뭐라고 하려 했는지 기억이 안 나네... 그냥 가서 가져 와! 내가 뭘 원하는 지 알고 있을 텐데!</text>
 	</string>
 	<string id="st_return_for_reward">
 		<text>보수를 받기 위해 돌아가자.</text>
@@ -3753,30 +3753,30 @@
 
 	<!-- Repair -->
 	<string id="st_inventory_upgrade_reply_1">
-		<text>Your %s will be ready in %s minutes. Come back then.</text>
+		<text>네 %s 은(는) %s 분 안에 다 고쳐질 거야. 그때 다시 오라고.</text>
 	</string>
 	<string id="st_inventory_upgrade_reply_2">
-		<text>Soon, your %s will be ready. Come back in %s minutes.</text>
+		<text>곧, 네 %s 이(가) 다 고쳐질 거야. %s 분 뒤에 다시 와.</text>
 	</string>
 	<string id="st_inventory_upgrade_reply_3">
-		<text>Urgh, piss off. I'm not drunk yet.</text>
+		<text>으으, 저리 가. 아직 충분히 취하지 않았다고.</text>
 	</string>
 	<string id="st_inventory_upgrade_reply_4">
-		<text>Your bloody %s will be ready in an hour and %s minutes. I'll be drunk by then.</text>
+		<text>네 망할 %s 은(는) 한 시간하고 %s 분 안에 다 고쳐질 거야. 난 그때쯤이면 술에 취해 있겠지.</text>
 	</string>
 	<string id="st_inventory_upgrade_reply_5">
-		<text>It's not easy to repair something when you have the shakes... Come back in about an hour for your %s.</text>
+		<text>네가 거기서 계속 쨰려보고 있으면 뭔가를 수리하는 일이 쉽지 않다고... %s 을(를) 가지러 오려면 한 시간 쯤 뒤에 다시 와.</text>
 	</string>
 	<string id="st_inventory_upgrade_reply_6">
-		<text>Hey, stal??вЂќoh, heck, I forgot I was repairing your equipment. Come back for your %s in an hour and %s minutes.</text>
+		<text>이봐, 스토- 오, 염병할, 네 장비를 수리한다는 걸 잊어버렸네. %s 을(를) 찾으려면 한 시간하고 %s 분 뒤쯤에 다시 와.</text>
 	</string>
 	<string id="st_inventory_upgrade_reply_7">
-		<text>Your %s will be ready in an hour and %s, so come back then, okay?</text>
+		<text>네 %s 은(는) 한 시간하고 %s 분 뒤에 수리가 끝날거야, 그러니까 그때 다시 오라고, 알았지?</text>
 	</string>
 	<string id="st_inventory_upgrade_reply_8">
-		<text>Your %s will be ready in about %s hours and %s. Come back then.</text>
+		<text>네 %s 은(는) %s 시간 %s 분 뒤에 수리가 끝날거야. 그때 다시 오라고.</text>
 	</string>
 	<string id="st_inventory_upgrade_reply_9">
-		<text>It's almost ready.</text>
+		<text>거의 다 됐어.</text>
 	</string>
 </string_table>
