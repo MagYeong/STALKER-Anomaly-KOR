@@ -102,13 +102,13 @@
 		<text>분명히 만났지. 심지어 한동안 스트렐록의 팀에 합류하기도 했어. 스트렐록은 많은 것을 말해 줬고, 나도 내 두눈으로 많은 것들을 봤지. 우린 석관에 갔었어. 알고 보니 소원을 들어주는 자는 순진한 스토커들을 위한 파리 덫이었지. 그래, 소원을 들어주는 자는 존재하기는 해. 단지 사람들을 존의 중심부로 유인해서 세뇌하고 좀비나 모노리스로 만들기 위해 존재 할 뿐이지. 꿈이 아니고 빌어먹을 악몽이야.</text>
 	</string>
 	<string id="sidorovich_living_legend_finish_3">
-		<text>Oh, I see. Sounds about right. There must've been a reason no stalker has suddenly become the most powerful or the wealthiest man on the planet yet. It'll be easier to discourage rookies from that bullshit with actual proof to back this up. Because you've got some proof, stalker. Right?</text>
+		<text>아, 그렇군. 대충 맞는 것 같군. 갑자기 세상에서 가장 강력하거나 최고가는 부자가 된 사람이 아직까지 없는 건 그만한 이유가 있어서겠지. 이걸 뒷받침 할 수 있는 진짜 증거로 루키들이 헛소리 하는 걸 그만두게 하기가 더 쉬워지겠군. 네가 그 증거를 가지고 있으니까 말이지 스토커, 그렇지?</text>
 	</string>
 	<string id="sidorovich_living_legend_finish_4">
-		<text>Yeah, not just my word. Strelok gave me a pendrive with a lot of encrypted data. The copy of his findings. Here.</text>
+		<text>그래, 나만 그렇게 말하는게 아냐. 스트렐록이 암호화된 데이터가 많이 들어있는 펜드라이브를 줬어. 여기. 그 사람이 조사한 것들의 사본이야.</text>
 	</string>
 	<string id="sidorovich_living_legend_finish_5">
-		<text>Excellent job, stalker. You managed to finish what the Marked One had started a few years ago. The Brain Scorcher is inactive again, so we can access the north. And now we know that the Wish Granter is a bait. That should help everyone focus on the real treasures in the depths of the Zone. Great. By the way, here's a reward for you.</text>
+		<text>정말 잘했어 스토커. 마크드 원이 몇 년 전에 시작했던 걸 간신히 끝냈구나. 브레인 스코쳐가 다시 꺼졌기 때문에 이제 북쪽으로 갈 수 있어. 소원을 들어주는 자가 미끼라는 것도 이제 알지. 그게 모든 사람들이 존의 깊숙한 곳에 있는 진짜 보물에 집중하도록 도울거야. 잘됐군. 그나저나, 여기 네 보상이야.</text>
 	</string>
 	
 	<string id="cold_living_legend_0">
@@ -217,51 +217,51 @@
 	</string>
 	
 	<string id="doctor_living_legend_0">
-		<text>I've heard that Strelok is still alive. Do you know where he is?</text>
+		<text>스트렐록이 아직 살아있다고 들었습니다. 그 사람이 어디있는지 아십니까?</text>
 	</string>
 	<string id="doctor_living_legend_1">
-		<text>Strelok? Are you sure?</text>
+		<text>스트렐록? 자네 정말 확실한가?</text>
 	</string>
 	<string id="doctor_living_legend_2">
-		<text>Quite certain. The entire Zone can't stop talking about him. I need to find him. Have you got any ideas where he might be?</text>
+		<text>아주 확실합니다. 존 전체가 그 사람에 대해서 이야기를 끊임없이 하고 있습니다. 그를 찾아야만 합니다. 그 사람이 어디에 있을지 짐작 가는게 있습니까?</text>
 	</string>
 	<string id="doctor_living_legend_3">
-		<text>Well, well, even after all these years... regrettably, I do not know for certain. The man is like a ghost. But if there is one place he would visit somewhat frequently, it would be his hideout in the Agroprom Underground. You may be able to find him there, or at least some clues. To get there, enter via a manhole somewhere around the northern complex, then check the walls underground for any large circular openings you could climb into. One of them will lead into his hideout.</text>
+		<text>음, 음, 오랜 세월이 흘렀지만... 유감스럽지만 확실하게는 모르겠다네. 그 남자는 유령 같아. 하지만 그 남자가 자주 방문하는 곳이 하나 있다면 아마 아그로포롬 지하에 있는 그 사람의 은신처일테지. 거기서 그 사람을 찾을 수도 있고, 아니면 적어도 단서라도 찾을 수 있을거야. 그곳에 가려면, 북쪽 단지 근처에 있는 맨홀을 통해 들어간 다음, 올라갈 수 있는 큰 원형 구멍이 있는 벽을 지하에서 찾아보게나. 그 중 하나가 스트렐록의 은신처로 이어지는 것이지.</text>
 	</string>
 	<string id="doctor_living_legend_4">
-		<text>Okay, thanks for the info. I suppose it's time for an adventure.</text>
+		<text>알겠습니다. 정보를 주셔서 감사합니다. 모험을 할 때가 된 것 같군요.</text>
 	</string>
 	<string id="doctor_living_legend_5">
-		<text>If you find him... please tell him to visit an old friend every once in a while.</text>
+		<text>그 사람을 찾는다면... 가끔은 옛 친구를 방문해달라고 전해주게나.</text>
 	</string>
 	<string id="doctor_living_legend_6">
-		<text>Will do. See you.</text>
+		<text>그렇게 하죠. 안녕히.</text>
 	</string>
 	
 	<string id="doctor_living_legend_strelok_0">
-		<text>Hey, Doc. I met Strelok. I told him about your request.</text>
+		<text>저기, 닥터. 스트렐록을 만났습니다. 그 사람에게 당신이 요구했던걸 말했습니다.</text>
 	</string>
 	<string id="doctor_living_legend_strelok_1">
-		<text>Thank you. I wonder if he will listen, though.</text>
+		<text>고맙네. 하지만 그 남자가 그렇게 할 지는 의문이군.</text>
 	</string>
 	<string id="doctor_living_legend_strelok_2">
-		<text>He seemed rather busy, I admit. He's still trying to figure out the Zone.</text>
+		<text>스트렐록은 꽤 바빠보였다고 인정하죠. 그 사람은 아직도 존에 대해서 알아내려고 노력중입니다.</text>
 	</string>
 	<string id="doctor_living_legend_strelok_3">
-		<text>Well, I hope he will succeed eventually. Both of us shall carry on, then. At least I'm glad he's still alive. And, once again, thank you.</text>
+		<text>음, 언젠가 그 사람이 성공했으면 좋겠군. 그럼 우리 둘 다 계속해야겠구만. 그래도 그 남자가 살아있어서 다행이야. 그리고 내 다시한번 감사를 드리지.</text>
 	</string>
 	
 	<string id="barkeep_living_legend_0">
-		<text>Hey, Barkeep, I need information. I have a reason to believe Strelok stopped by here. Is he still around?</text>
+		<text>어이 바텐더, 정보가 필요해. 내가 스트렐록이 여기 들렀다고 믿는데에는 이유가 있지. 그 사람은 아직 근처에 있나?</text>
 	</string>
 	<string id="barkeep_living_legend_1">
-		<text>What, here in the Bar? No, you narrowly missed him. He passed by yesterday. I told him that a lot of people were looking for him, but he was adamant that he couldn't stay to chat. He was with four other stalkers, headed north. I reminded him that the Brain Scorcher is active again, but he didn't seem to mind. Bought up half the food in my kitchen and off they went. I'd call him a fool if he hadn't already survived all those years in the most dangerous parts of the Zone.</text>
+		<text>뭐? 여기 바에? 아니, 아슬아슬하게 놓쳤어. 그 남자는 어제 거쳐갔어. 많은 사람들이 그를 찾고있다고 그 사람에게 말했지만, 그는 수다나 떨기 위해서 여기 머물러 있을 순 없다고 단호하게 말했지. 그는 다른 네 명의 스토커들과 함께 북쪽으로 향했어. 브레인 스코처가 다시 활동한다고 알려줬지만 신경도 쓰지 않는 것 같더군. 내 부엌에 있는 음식 반을 사 가지고는 그 일행은 떠나버렸어. 만약에 그 남자가 존의 가장 위험한 구역에서 그 모든 세월을 살아남은 사람이 아니었다면, 난 그 사람을 바보라고 불렀을거야.</text>
 	</string>
 	<string id="barkeep_living_legend_2">
-		<text>You say he wasn't alone?</text>
+		<text>혼자가 아니라고?</text>
 	</string>
 	<string id="barkeep_living_legend_3">
-		<text>He had a few companions with him. Tough, experienced stalkers from the looks of it, not a bunch of greenhorns for sure. Part the reason I didn't really try to stop them. They all seemed to know what they were doing.</text>
+		<text>스트렐록은 몇 명의 일행이 있었어. 보아하니 터프하고, 경험 많은 스토커들이지 풋내기는 확실히 아니었어. 내가 그들을 막으려고 노력하지 않았던 이유 중에서 일부는. 그 일행들 모두 자기가 뭘 하고 있는지 알고 있는 것 같았기 때문이야.</text>
 	</string>
 	<string id="barkeep_living_legend_4">
 		<text>So Strelok was last seen going past the Barrier? I'm on a mission to find him, and it seems it just got that much harder...</text>
