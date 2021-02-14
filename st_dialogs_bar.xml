@@ -114,7 +114,7 @@
 	
 <!-- Mangun (Duty Mechanic) -->
 	<string id="story_dolg_m_0">
-		<text>자기소개 좀 부탁하지.</text>
+		<text>자기소개 좀 부탁해.</text>
 	</string>
 	<string id="story_dolg_m_1">
 		<text>흠, 그래, 알았어. 뭘 알려줄까?\n \n내가 진급하기 전에는 아그로프롬 연구 단지에 있었어. 그 전에, 그러니까 존이 생기기 전에는, 자동차 정비공이었지. 내가 존에 머무르는 동안 듀티에서 내 기술자로서의 손재주를 알아봐줬지, 그래서 결국 날 이곳의 기술자로 배정한 거야. 난 중화기나 돌격용 무기들을 만지작거리는 걸 좋아해...하지만 저격총은 별로야, 특히 NATO에서 취급하는 건 더더욱.</text>
@@ -132,78 +132,78 @@
 	
 <!-- Snitch (Informer) at the Bar -->
 	<string id="talk_to_inf_trader_0">
-		<text>Who are you?</text>
+		<text>당신은 누구야?</text>
 	</string>
 	<string id="talk_to_inf_trader_1">
-		<text>I'm a local informant, and I can offer you all kinds of services. At the moment, I have different types of information and maps with routes to various locations. My sources are some of the most reliable in the Zone, but they'll also kill to preserve their secrecy, so don't go asking where I learn this stuff - the answer isn't pretty.</text>
+		<text>난 여기의 정보원이고, 어떤 서비스라도 제공해 줄 수 있어. 지금, 나는 다양한 종류의 정보와 다양한 곳으로 통하는 길의 지도를 가지고 있지. 내 정보원들은 존에서 꽤 믿을 만한 사람들이지만 자기들의 비밀 유지를 위해서는 사람도 기꺼이 죽이는 놈들이니까, 내가 이것들을 어디서 배웠는지는 묻지 말라고, 그렇게 아름다운 대답이 돌아오지는 않을 거니까.</text>
     </string>
 	
 	<string id="talk_to_maps_0">
-		<text>Any free info can you share about the surrounding area?</text>
+		<text>주변 지역에 대해 공짜로 알려줄 수 있는 정보는 없어?</text>
 	</string>
 	<string id="talk_to_maps_1">
-		<text>Usually info is how I make a living, but since everything's quiet anyway, I can give you a bit of an insight. On the house.</text>
+		<text>나는 주로 정보로 먹고 살고 있지만, 어쨌든 지금은 조용하니까 내가 알고 있는 걸 조금 알려 줄게. 공짜 정보야.</text>
 	</string>
 	<string id="talk_to_maps_2">
-		<text>I'm all ears.</text>
+		<text>듣고 있어.</text>
 	</string>
 	<string id="talk_to_maps_3">
-		<text>Well, you're probably already familiar with everything south of here. Right now, you're in Rostok. It's completely safe if you're on good terms with Duty. East is the Truck Cemetery - like the Garbage, but much bigger, much more radioactive and much, much more dangerous. West is the Wild Territory - the parts of Rostok that Duty can't patrol regularly. That place is an absolute nightmare, and most stalkers recommend avoiding it unless you need to get to Yantar. North are the Army Warehouses, owned by Duty's "best friend", Freedom. Further north than that quickly becomes Monolith territory, defended by ruthless fanatics and brain-melting anomalous fields.</text>
+		<text>자, 여기서 남쪽 지역이라면 이미 너도 익숙하겠지. 지금, 너는 로스토크에 있어. 듀티와 잘 지내는 사람들에게는 완전히 안전한 장소지. 동쪽은 트럭 묘지야. 쓰레기장과 비슷하지만, 더 넓고, 방사능도 더 많고, 더욱 더 위험한 곳이지. 서쪽은 폐허 지역이야. 로스토크의 일부지만 듀티가 규칙적으로 순찰하지 않는 곳이지. 거긴 완전히 악몽같은 곳이니까, 네가 얀타 호수로 가려 하지 않는다면 많은 스토커들이 거길 피하라고 조언할 거야. 북쪽에는 군 창고가 있는데, 듀티의 "절친"인 프리덤이 점거하고 있어. 더 북쪽으로 간다면 곧바로 모노리스의 영역에 들어서게 될 거야, 무자비한 광신도들과 뇌를 녹여버리는 이상현상 필드가 지키고 있는 곳이지.</text>
 	</string>
 	<string id="talk_to_maps_4">
-		<text>What can you tell me about the Monolith?</text>
+		<text>모노리스에 대해 알려줄 만한 게 있어?</text>
 	</string>
 	<string id="talk_to_maps_5">
 		<text>Allegedly, they are the guardians of an ancient alien crystal known as the "Wish Granter". The Monolith believe this crystal created the Zone, and that it will grant wishes to those it finds worthy. To this end, they'll fiercely defend it from anyone who dares step further than the northern Barrier at Army Warehouses. Of course, there are legends of people being found worthy of the Wish Granter, but it's all bullshit. There are easier ways to get rich, and you'd think by now someone would've wished for the mutants here to disappear, or for an end to disease, or even world peace - ha! But... I guess by the time you reach the Wish Granter, you don't give a shit about anyone else.  </text>
 	</string>
 	<string id="talk_to_maps_6">
-		<text>Thanks for the info.</text>
+		<text>정보 고마워.</text>
 	</string>
 
 	<string id="buy_information_from_trader_0">
-		<text>Got any fresh information?</text>
+		<text>새로운 정보라도 좀 있어?</text>
 	</string>
 	<string id="buy_information_from_trader_1">
-		<text>I've got information about the swamp doctor. You know, the crazy old man with the legendary healing powers? That's what they say, at least. I can tell you the truth, for seven thousand.</text>
+		<text>늪지대의 닥터에 관한 정보가 있어. 알다시피, 전설의 치료약을 가진 미친 늙은이 말이지? 그게 내가 말할 수 있는 최소한의 정보야. 7천 루블을 주면 사실을 알려줄 수 있어.</text>
 	</string>
 		<string id="buy_information_from_trader_6">
-			<text>I'm listening.</text>
+			<text>듣고 있어.</text>
 		</string>
 		<string id="buy_information_from_trader_11">
-			<text>As you might know, he lives in the Great Swamp. What you might not know is why he's there. He's waiting for his old friend, Strelok. With Strelok's rumoured return, many people want to meet the Doctor, but few ever find him. It's quite easy though - look for a breach in the fence along the northwest of the swamp, and watch out for the rads and anomalies along the way. </text>
+			<text>너도 알지도 모르지만, 닥터는 대습지에 살고 있어. 네가 모를만한 건 바로 왜 거기에 있냐는 거지. 그 사람은 옛 친구인 스트렐록을 기다리고 있어. 스트렐록이 돌아왔다는 소문이 돌자, 많은 사람들이 닥터를 만나고 싶어했지만, 진짜 만난 사람은 손에 꼽을 거야. 하지만 생각보다는 쉽게 찾을 수 있을 거야. 습지 북서쪽에서 울타리가 끊어진 곳을 찾아, 그리고 방사능과 이상현상을 주의하면서 그 너머로 나 있는 길을 따라 가면 돼. </text>
 		</string>
 		<string id="buy_information_from_trader_2">
-			<text>Got information about some stalker who recently raided the CNPP, for ten grand.</text>
+			<text>최근에 체르노빌 원자력 발전소를 습격했던 스토커에 대한 정보가 있어, 1만 루블이야.</text>
 		</string>
 		<string id="buy_information_from_trader_7">
-			<text>I'm all ears.</text>
+			<text>다 듣고 있어.</text>
 		</string>
 		<string id="buy_information_from_trader_12">
 			<text>So, before the Monolith got all angry and rose up in earnest once again, this stalker was exploring the Sarcophagus for loot and - get this - he comes across a completely unique artefact! Apparently it's a shard of the Wish Granter itself! The Monolith didn't like that though, and he was forced to leave it behind to stop pursuit. One can only wonder what it is worth...</text>
 		</string>
 		<string id="buy_information_from_trader_3">
-			<text>I have information that sheds light on Strelok's group, but only for fifteen grand.</text>
+			<text>스트렐록의 분대에 대한 실마리를 잡을 수 있는 정보가 있어, 1만 5천 루블만 달라고.</text>
 		</string>
 		<string id="buy_information_from_trader_8">
-			<text>Gimme.</text>
+			<text>줘 봐.</text>
 		</string>
 		<string id="buy_information_from_trader_13">
 			<text>Everyone knows Strelok recently managed to assemble a new team, but no one knows who they are. They're a band of uniquely skilled individuals - Stitch, Pathfinder, Rogue and Scope. A combat medic, a gifted guide, a military deserter and a top-tier sniper respectively. One can only wonder where they are now, or what they are up to.</text>
 		</string>
 		<string id="buy_information_from_trader_4">
-			<text>I can reveal information about the adventures of a mysterious stalker who explored the Generators for twenty-four thousand.</text>
+			<text>발생기를 탐험했던 수수께끼의 스토커의 모험에 대한 정보를 2만 4천 루블에 팔지.</text>
 		</string>
 		<string id="buy_information_from_trader_9">
-			<text>Pass it.</text>
+			<text>넘겨 줘.</text>
 		</string>
 		<string id="buy_information_from_trader_14">
 			<text>Have you heard much about the Generators? Until recently, they were only considered a myth... but after Strelok's second campaign to the center of the Zone, there's no doubt they're real. There have been constant disputes about what they are, but old satellite imagery suggests some kind of weird infrastructure, in whose honor the entire area was named. Apparently, that's the place where Monolith carry out their orders and all important processes on the territory of the Zone. So, the stalker's already gone there and I think he's serious - his intervention might have a major impact on the Zone. The leaders of a few groups have already expressed their discontent regarding this information.</text>
 		</string>
 	<string id="buy_information_from_trader_5">
-		<text>Not at the moment.</text>
+		<text>지금은 때가 아니군.</text>
 	</string>
 	<string id="buy_information_from_trader_10">
-		<text>Not interested.</text>
+		<text>관심 없어.</text>
 	</string>
 
 	<string id="st_top_10_task_about_dialog_0">
