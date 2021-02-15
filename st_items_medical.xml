@@ -34,7 +34,7 @@
 		<text>빈카</text>
 	</string>
 	<string id="st_drug_coagulant_descr">
-		<text>우크라이나산 비카솔럼 - an artificial equivalent of vitamin K. 이 약품의 주 목적은 혈액 응고 속도를 빠르게 하는 것입니다. 상처의 회복과 뮤턴트에게 입은 열상의 빠른 봉합을 바라는 스토커들의 강한 수요를 갖습니다. 약효는 오래 지속됩니다. 1회 2알을 투약합니다.\n \n
+		<text>우크라이나산 비카솔럼 - an artificial equivalent of vitamin K. 이 약품의 주 목적은 혈액 응고 속도를 빠르게 하는 것입니다. 상처의 회복과 뮤턴트에게 입은 열상의 빠른 봉합을 바라는 스토커들의 강한 수요를 갖습니다. 약효는 오래 지속됩니다. 1회 2정을 복용하십시오.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_red] • %c[ui_gray_2] 어지름증 유발\n</text>
 	</string>
@@ -43,7 +43,7 @@
 		<text>아나바이오틱스</text>
 	</string>
 	<string id="st_drug_anabiotic_descr">
-		<text>과학 연구팀을 위해 오저스키 교수에 의해 개발된 실험적인 약품입니다. 약품의 안쪽에는 "좀비 가루" 라고도 알려진 테트로도톡신이 들어 있습니다. 이는 신체의 중추신경계를 완전히 정지시켜, 투약시 피난처 밖에서 만난 에미션 폭풍에서 살아남을수도 있습니다. 6년간에 걸친 현장 실험후에, 사려깊은 스토커들은 예상치 못한 블로우아웃을 대비해 몇알 정도 챙겨 놓습니다.\n \n
+		<text>과학 연구팀을 위해 오저스키 교수에 의해 개발된 실험적인 약품입니다. 약품의 안쪽에는 "좀비 가루" 라고도 알려진 테트로도톡신이 들어 있습니다. 이는 신체의 중추신경계를 완전히 정지시켜, 투약시 피난처 밖에서 만난 에미션 폭풍에서 살아남을수도 있습니다. 6년간에 걸친 현장 실험후에, 사려깊은 스토커들은 예상치 못한 블로우아웃을 대비해 몇 개 정도 챙겨 놓습니다.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_cyan] • %c[ui_gray_2] 의약품\n
 		%c[d_blue] • %c[ui_gray_2] 존에서 생산됨\n
@@ -54,7 +54,7 @@
 		<text>정신 차단제</text>
 	</string>
 	<string id="st_drug_psy_blockade_descr">
-		<text>눈사태와도 같은 신경 충동을 차단해주는 약품입니다. A drug that blocks avalanche-like nerve impulses. 투약시 단기간의 감정 상실을 야기합니다. 존 내부에서 정신 이상현상 지대에 대응하기 위해서 사용합니다. 약품의 효능은 오래 지속됩니다. 1회 2알을 복용하십시오.\n \n
+		<text>눈사태와도 같은 신경 충동을 차단해주는 약품입니다. A drug that blocks avalanche-like nerve impulses. 투약시 단기간의 감정 상실을 야기합니다. 존 내부에서 정신 이상현상 지대에 대응하기 위해서 사용합니다. 약품의 효능은 오래 지속됩니다. 1회 2정을 복용하십시오.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
 		%c[d_blue] • %c[ui_gray_2] 의약품\n
 		%c[d_red] • %c[ui_gray_2] 극심한 어지름증 유발\n
