@@ -179,7 +179,7 @@
 			<text>다 듣고 있어.</text>
 		</string>
 		<string id="buy_information_from_trader_12">
-			<text>So, before the Monolith got all angry and rose up in earnest once again, this stalker was exploring the Sarcophagus for loot and - get this - he comes across a completely unique artefact! Apparently it's a shard of the Wish Granter itself! The Monolith didn't like that though, and he was forced to leave it behind to stop pursuit. One can only wonder what it is worth...</text>
+			<text>자, 모노리스 놈들이 다들 빡쳐서 다시 한 번 진심으로 덤벼들기 전에, 그 스토커는 털만한 걸 찾기 위해 석관을 탐험하고 있었지. 그리고 봐봐, 그 녀석은 아주 진귀한 아티팩트를 발견하고 만 거야! 듣자하니 그 아티팩트는 소원을 들어주는 자에게서 직접 떨어져 나온 조각이라더군! 모노리스 놈들한테는 그게 별로 좋은 소식은 아니었나봐, 그래서 그 스토커 녀석은 놈들을 따돌리기 위해 그 조각을 놔두고 가야 했다고 하더라. 과연 그 아티팩트의 가치가 얼마나 될까...</text>
 		</string>
 		<string id="buy_information_from_trader_3">
 			<text>스트렐록의 분대에 대한 실마리를 잡을 수 있는 정보가 있어, 1만 5천 루블만 달라고.</text>
@@ -188,7 +188,7 @@
 			<text>줘 봐.</text>
 		</string>
 		<string id="buy_information_from_trader_13">
-			<text>Everyone knows Strelok recently managed to assemble a new team, but no one knows who they are. They're a band of uniquely skilled individuals - Stitch, Pathfinder, Rogue and Scope. A combat medic, a gifted guide, a military deserter and a top-tier sniper respectively. One can only wonder where they are now, or what they are up to.</text>
+			<text>모든 사람들이 최근에 스트렐록이 새로운 팀을 만들어냈다는 사실을 알고 있을 거야, 하지만 그 팀에 누가 있는지 아는 사람들은 없지. 그 팀에는 특별한 기술을 가진 능력자들이 모여있어. 바로 스티치, 패스파인더, 로그와 스코프야. 각각 야전 의무병, 축복받은 안내인, 탈영병과 1등 저격수를 대표하지. 그 녀석들이 어디에 있을지, 혹은 녀석들의 속셈이 무엇일지가 정말로 궁금해.</text>
 		</string>
 		<string id="buy_information_from_trader_4">
 			<text>발생기를 탐험했던 수수께끼의 스토커의 모험에 대한 정보를 2만 4천 루블에 팔지.</text>
@@ -197,7 +197,7 @@
 			<text>넘겨 줘.</text>
 		</string>
 		<string id="buy_information_from_trader_14">
-			<text>Have you heard much about the Generators? Until recently, they were only considered a myth... but after Strelok's second campaign to the center of the Zone, there's no doubt they're real. There have been constant disputes about what they are, but old satellite imagery suggests some kind of weird infrastructure, in whose honor the entire area was named. Apparently, that's the place where Monolith carry out their orders and all important processes on the territory of the Zone. So, the stalker's already gone there and I think he's serious - his intervention might have a major impact on the Zone. The leaders of a few groups have already expressed their discontent regarding this information.</text>
+			<text>발생기에 대해 들어 본 적 있나? 얼마 전까지는, 그저 단순한 미신으로만 여겨졌었지... 하지만 스트렐록의 존의 중심을 향한 두 번째 작전이 끝나고 나서, 그게 진짜라는 건 의문의 여지가 없어졌어. 그게 대체 뭔가에 대해서는 계속 논란이 있어왔지만, 오래된 위성 사진을 보니 일종의 희한한 기반 시설물들이 있었다더군, 그것도 모든 지역마다 이름이 붙여진 상태로 말야. 떠도는 말에 의하면, 거기서 모노리스 놈들이 임무나 존의 영역 내부에서 벌어지는 모든 중요한 일들을 수행한다고 해. 어쨌든, 그 스토커는 이미 거기로 가버렸고 꽤나 진심인 거 같아. 그 녀석이 뭘 조사하건 간에 존 안에서는 커다란 충격을 가져다 줄 거야. 몇몇 세력의 지도자급 인사들은 이 정보를 듣고 이미 불편한 감정을 드러내기도 했다고.</text>
 		</string>
 	<string id="buy_information_from_trader_5">
 		<text>지금은 때가 아니군.</text>
@@ -207,47 +207,47 @@
 	</string>
 
 	<string id="st_top_10_task_about_dialog_0">
-		<text>So, what do you do here for fun?</text>
+		<text>그럼, 여기서 좀 재미난 일은 뭐가 있지?</text>
 	</string>
 	<string id="st_top_10_task_about_dialog_1">
-		<text>Fun? This place can get boring fast, man. Customers nowadays barely seek anything interesting. Just a bunch of amateurs who want to get their hands on artefacts and such, you know what I mean?</text>
+		<text>재미? 이런 데에서는 금방 지루해지기 쉽다고, 형씨. 요즘 손님들은 말야, 흥미로운 일을 별로 찾고 싶어하지 않단 말야. 그저 아티팩트나 뭐 그따위 것들을 집어들고 싶어하는 아마추어들 뿐이라고, 뭔 소린 지 알아?</text>
 	</string>
 	<string id="st_top_10_task_about_dialog_2">
-		<text>That's just the way it goes, isn't it?</text>
+		<text>그게 세상이 돌아가는 방식이잖아, 안 그래?</text>
 	</string>
 	<string id="st_top_10_task_about_dialog_3">
-		<text>Yeah, but don't any of them ever dream of doing something epic, something legendary? Like you, for instance - you seem experienced. Don't you want to accomplish something that people will never forget? </text>
+		<text>그건 맞지, 그렇지만 과연 그 녀석들 중 아무도 뭔가 큰 물에서 놀거나, 전설이 되고 싶어한 적이 없을까? 예를 들면, 너처럼 말야. 경험 좀 쌓은 거 같은데. 다른 사람들이 절대 잊지 못할 만한 뭔갈 해 볼 생각 없어? </text>
 	</string>
 	<string id="st_top_10_task_about_dialog_4">
-		<text>Go on...</text>
+		<text>말해 봐...</text>
 	</string>
 	<string id="st_top_10_task_about_dialog_5">
-		<text>I have a very special contact who is offering a huge reward for taking down ten stalkers. Fifty grand, plus sweets. Sounds like great cash for a simple list of bounties, right? Here's the interesting part: your targets just happen to be the top ten stalkers in the entire Zone. This means you could be hunting down regulars, Dutyers, mercs or even the fucking Monolith themselves! You can see the list on your PDA if you want. This guy wants them dead, doesn't matter how.</text>
+		<text>열 명의 스토커를 쓰러트리는 녀석에게 큰 보상을 해준다는 특별 계약을 주선해줄 수 있어. 5만 루블에, 보너스도 있지. 간단한 현상금 목록에 걸린 거 치고는 많은 금액인 거 같지 않나, 그렇지? 여기가 꽤 재밌는 부분인데, 네 목표물은 바로 존에 있는 모든 스토커들 중 상위 열 손가락 안에 드는 녀석들이지. 그건 바로 네가 중립 스토커들부터, 듀티, 용병, 심지어는 그 빌어쳐먹을 모노리스 새끼들까지 사냥할 수 있다는 걸 말한다고! 원한다면 지금 PDA를 열어서 목록을 확인해 볼 수도 있어. 계약을 제시한 녀석이 말하길, 무슨 수를 써서든 상관없이 다 죽여버리라더군.</text>
 	</string>
 	<string id="st_top_10_task_about_dialog_61">
-		<text>What? That's insane! Why would anyone want this?</text>
+		<text>뭐? 이건 미친 짓이야! 그런 짓을 하고 싶어할 놈들이 어디 있겠어?</text>
 	</string>
 	<string id="st_top_10_task_about_dialog_62">
-		<text>Count me in.</text>
+		<text>나도 끼지.</text>
 	</string>
 	<string id="st_top_10_task_about_dialog_63">
-		<text>No thanks, I'm out of this.</text>
+		<text>됐어, 난 관심 없어.</text>
 	</string>
 	<string id="st_top_10_task_about_dialog_7">
-		<text>I asked my contact something similar. Well, he said he's tired of walking dreadnoughts vaccuuming up all the loot with their fancy rifles and expensive suits. He wants to give the common man more of a chance. Anyways, the pay will be incredible, so who cares?</text>
+		<text>나도 계약을 제시한 녀석에게 비슷한 이야기를 했었지. 뭐, 그 녀석이 말하길 걸어다니는 쇳덩어리 놈들이 끝내주는 총과 비싼 방어구를 가지고 모든 전리품들을 쓸어담는 게 아니꼬왔다고 하더군. 보통 사람들도 더 많은 기회를 가져야 한다나. 어쨌든, 보수는 끝내주게 지급할 거니까, 무슨 상관이겠어?</text>
 	</string>
 	<string id="st_top_10_task_about_dialog_8">
-		<text>Fantastic! I will upload the location of your first target onto your PDA. Every time you kill one of them, you get the location of the next guy. Have fun.</text>
+		<text>멋지군! PDA에 네 첫 번째 목표의 위치를 업로드해 줄게. 네가 한 놈을 죽일 때마다, 다음 친구의 위치 정보를 받게 될 거야. 즐거운 시간 되길.</text>
 	</string>
 	<string id="st_top_10_task_about_dialog_9">
-		<text>Suit yourself. The offer is still there if you change your mind.</text>
+		<text>맘대로 해. 계약은 유효하니까 생각이 바뀌면 언제든 다시 찾아오라고.</text>
 	</string>
 	
 	<string id="st_top_10_task_finish_dialog_0">
-		<text>Okay Snitch. It's done. Those ten targets are as good as dead.</text>
+		<text>좋아 스니치. 다 끝났어. 열 놈 모두 이제 죽은 거나 다름없지.</text>
 	</string>
 	<string id="st_top_10_task_finish_dialog_1">
-		<text>Splendid work, pal! Our client is very happy with your results. As promised, here's your reward. Glad you were up to it after all - even now, I can hear people talking about your deeds. The killer of legends! This is gonna shake things up a bit, hehe...</text>
+		<text>아주 끝내주는구만, 친구! 의뢰인이 결과에 아주 흡족해하던데. 약속대로, 여기 보수야. 결국 네가 해내서 정말 기쁘다. 지금 너의 업적에 대해 떠들어대는 소리가 들려오고 있는데. 전설 킬러라니! 이걸로 조금은 떠들썩해지겠는데, 해해...</text>
 	</string>
 	
 <!-- modified by Tronex -->
