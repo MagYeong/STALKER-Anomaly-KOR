@@ -27,115 +27,115 @@
 	<!-- Petrenko (Duty Trader) Default Storyline Task -->
 
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_name">
-		<text>Get Next Task</text>
+		<text>다음 임무 받기</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_text">
-		<text>I have a job waiting. I should get to it as soon as I can.</text>
+		<text>해야 할 일이 있다. 가능한 한 빨리 임무를 받으러 가야 한다.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_about">
-		<text>Someone I know needs help. He is a scumbag but he deserves assistance nonetheless. Report to him and see what he wants.</text>
+		<text>내 지인 중 한 명에게 도움이 필요해. 완전 쓰레기 같은 놈이지만 어쨌건 도움받을 자격은 있는 놈이야. 찾아가서 원하는 게 뭔지 확인해 봐.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_default_task_finish">
-		<text>Good luck stalker.</text>
+		<text>행운을 빌지 스토커.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Petrenko (Duty Trader) Raid Enemy Camp Storyline Task- -->
 
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_name">
-		<text>Raid Enemy Camp for Duty</text>
+		<text>듀티를 위한 적 야영지 습격/text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_text">
-		<text>Lead a Duty raid against an enemy camp.</text>
+		<text>적 야영지에 대한 듀티의 습격을 이끌어라.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_about">
-		<text>We're preparing a raid on an enemy camp. I need you to lead the assault.</text>
+		<text>우린 적의 야영지 중 한 곳에 습격을 준비하고 있다. 자네가 앞장서서 공격해 줬으면 해.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_1_finish">
-		<text>Excellent work. You are a fine warrior.</text>
+		<text>훌륭하다. 자네는 멋진 전사야.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Petrenko (Duty Trader) Locate Brain Scorcher Equipment Storyline Task -->
 
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_2_name">
-		<text>Locate Brain Scorcher Equipment</text>
+		<text>브레인 스코처 장비를 찾아라</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_2_text">
-		<text>A stalker has removed a part of the Brain Scorcher and stashed it somewhere in the Zone. Find it and return it to Colonel Petrenko</text>
+		<text>한 스토커가 브레인 스코처의 부품 중 하나를 빼서 존의 어딘가에 은닉해 놓았다. 찾아서 페트렌코 대령에게 가져다 주어야 한다.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_2_about">
-		<text>I have information that a stalker has managed to steal a piece of equipment from the Brain Scorcher and stashed it somewhere. We must recover it, it could be a powerful weapon and must not fall into the wrong hands. There are a few places it could be hidden. I have half the base out looking for it right now. I want you to check one of the possible locations. If you find it, bring it here immediately.</text>
+		<text>한 스토커가 브레인 스코처에서 장비부품들 중 하나를 훔쳐서 어딘가에 은닉했다는 정보를 얻었어. 그건 우리가 반드시 확보해야 해, 왜냐면 그게 아주 강력한 무기가 될 수 있기 때문에 잘못된 누군가의 손에 들어가는 걸 반드시 막아야 하기 때문이지. 그 물건이 숨겨져 있을 만한 몇 군데의 은닉처가 있어. 지금 기지 병력의 절반을 돌려서 수색하고 있는 참이었지. 자네가 은닉처 후보 장소들 중 한 곳을 확인해봤으면 해. 찾는 즉시, 내게 가져와주길 바라.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_2_finish">
-		<text>You have done well. Thank you.</text>
+		<text>정말 잘해주었어. 고맙다.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Petrenko (Duty Trader) Most Wanted Storyline Task -->
 
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_name">
-		<text>Petrenko's Most Wanted</text>
+		<text>페트렌코의 현상금</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_text">
-		<text>A certain faction member has risen to the top of Colonel Petrenko's most wanted list and he wants him executed.</text>
+		<text>특정 세력의 소속 대원이 페트렌코 대령의 현상금 목록 최상위로 올라오게 되었고, 대령은 그 자가 죽기를 바란다.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_about">
-		<text>There is a member of a certain faction who has caused me more trouble than anyone else in the Zone. So far none of my men have been able to get to him. If you can kill him, I will reward you well.</text>
+		<text>특정 세력에 소속된 한 대원이 요즘 존 안의 다른 누군가보다 나를 더 골치아프게 하고 있어. 지금까지 내 부하들 중 누구도 그 놈을 잡지 못했지. 자네가 그 놈을 죽여준다면, 보수는 후하게 쳐주겠다.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_finish">
-		<text>Good, you got rid of that asshole! Good job. Here is your payment.</text>
+		<text>좋아, 그 개새끼를 처리했군! 잘했다. 여기 보수야.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Petrenko (Duty Trader) Search Lab X-19 (Radar) Storyline Task -->
 
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_4_name">
-		<text>Search Lab X-19</text>
+		<text>X-19 연구소를 수색하라</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_4_text">
-		<text>Colonel Petrenko will pay handsomely for any documents found inside Lab X-19 in Radar.</text>
+		<text>페트렌코 대령이 레이더 기지 안의 X-19 연구소 안에서 찾아오는 모든 서류에 대해 후한 보상을 약속했다.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_4_about">
-		<text>My sources tell me you plan on infiltrating the Brain Scorcher in Radar. I think you are out of your mind but if you are really going to go through with it I have an offer for you. Bring back any documentation you find in there. I will reward you well.</text>
+		<text>내 정보원에 의하면 자네가 레이더에 있는 브레인 스코처에 침투하려는 계획을 세웠다고 하더군. 내가 보기에는 자네가 제정신이 아닌 거 같긴 하지만 정말로 거길 뚫고 갈 생각이라면 내가 제안을 하나 하지. 그곳에서 어떤 문서라도 발견하면 내게 가져다 주길 바란다. 보상은 후하게 해주겠어.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_4_finish">
-		<text>Excellent work. You have done well.</text>
+		<text>훌륭하군. 아주 잘해 주었네.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Mangun (Duty Mechanic) Default Storyline Task -->
 
 	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_name">
-		<text>Get Next Task</text>
+		<text>다음 임무를 받아라</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_text">
-		<text>Mangun has lined up another job for me. I should go see who needs help.</text>
+		<text>망건이 내게 다른 일거리를 제안했다. 도움이 필요한 사람이 누구인지 알아봐야 한다.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_about">
-		<text>A friend of mine could use your help. Go see him.</text>
+		<text>내 친구 중 한 명에게 도움이 필요해. 그를 만나 줬으면 해.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_finish">
-		<text>Good luck stalker.</text>
+		<text>행운을 빌게 스토커.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Mangun (Duty Mechanic) Find Replacement Weapon Storyline Task- -->
 
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_name">
-		<text>Find Replacement %s for Mangun</text>
+		<text>망건을 위해 대체용 %s 을/를 찾아라</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_text">
-		<text>Mangun screwed up a repair and needs a replacement %s for his client.</text>
+		<text>망건이 수리작업 중 하나를 망쳐버려서 고객을 위한 대체용 %s 이/가 필요하다.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_about">
-		<text>I need some help, bro. A Dutier brought me in his rifle for repairs but I messed it up pretty bad. I need to find a replacement for him before he comes to pick it up.</text>
+		<text>도움이 좀 필요해, 형씨. 듀티 대원 한 명이 내게 총기 수리를 하나 맡겼는데 그만 꽤나 망쳐버리고 말았어. 그 녀석이 찾으러 오기 전에 대체할 만한 걸 찾아야 해.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_fetch_about">
-		<text>If you come across a %s, bring it to me. I don't have much money but I have something I can trade you for it.</text>
+		<text>만약 %s 을/를 찾게 된다면, 내게 가져와 줘. 돈은 많지 않지만 다른 물건으로 보답해줄 수 있어.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_fetch_finish">
-		<text>Hey, great! You found one. Thanks bro, you saved my ass.</text>
+		<text>이봐, 멋진데! 찾아냈구나. 고마워, 형씨 덕분에 살았어.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
