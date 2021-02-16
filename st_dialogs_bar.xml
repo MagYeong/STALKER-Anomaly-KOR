@@ -222,7 +222,7 @@
 		<text>말해 봐...</text>
 	</string>
 	<string id="st_top_10_task_about_dialog_5">
-		<text>열 명의 스토커를 쓰러트리는 녀석에게 큰 보상을 해준다는 특별 계약을 주선해줄 수 있어. 5만 루블에, 보너스도 있지. 간단한 현상금 목록에 걸린 거 치고는 많은 금액인 거 같지 않나, 그렇지? 여기가 꽤 재밌는 부분인데, 네 목표물은 바로 존에 있는 모든 스토커들 중 상위 열 손가락 안에 드는 녀석들이지. 그건 바로 네가 중립 스토커들부터, 듀티, 용병, 심지어는 그 빌어쳐먹을 모노리스 새끼들까지 사냥할 수 있다는 걸 말한다고! 원한다면 지금 PDA를 열어서 목록을 확인해 볼 수도 있어. 계약을 제시한 녀석이 말하길, 무슨 수를 써서든 상관없이 다 죽여버리라더군.</text>
+		<text>열 명의 스토커를 쓰러트리는 녀석에게 큰 보상을 해준다는 특별 계약을 주선해줄 수 있어. 5만 루블에, 보너스도 있지. 간단한 현상금 목록에 걸린 거 치고는 많은 금액인 거 같지 않나, 그렇지? 여기가 꽤 재밌는 부분인데, 네 목표물은 바로 존에 있는 모든 스토커들 중 상위 열 손가락 안에 드는 녀석들이지. 그건 바로 네가 중립 스토커들부터, 듀티, 용병, 심지어는 그 빌어쳐먹을 모노리스 새끼들까지 사냥할 수 있다는 걸 말한다고! 원한다면 지금 PDA를 열어서 목록을 확인해 볼 수도 있어. 의뢰인이 말하길, 무슨 수를 써서든 상관없이 다 죽여버리라더군.</text>
 	</string>
 	<string id="st_top_10_task_about_dialog_61">
 		<text>뭐? 이건 미친 짓이야! 그런 짓을 하고 싶어할 놈들이 어디 있겠어?</text>
@@ -234,7 +234,7 @@
 		<text>됐어, 난 관심 없어.</text>
 	</string>
 	<string id="st_top_10_task_about_dialog_7">
-		<text>나도 계약을 제시한 녀석에게 비슷한 이야기를 했었지. 뭐, 그 녀석이 말하길 걸어다니는 쇳덩어리 놈들이 끝내주는 총과 비싼 방어구를 가지고 모든 전리품들을 쓸어담는 게 아니꼬왔다고 하더군. 보통 사람들도 더 많은 기회를 가져야 한다나. 어쨌든, 보수는 끝내주게 지급할 거니까, 무슨 상관이겠어?</text>
+		<text>나도 의뢰인에게 비슷한 이야기를 했었지. 뭐, 그 녀석이 말하길 걸어다니는 쇳덩어리 놈들이 끝내주는 총과 비싼 방어구를 가지고 모든 전리품들을 쓸어담는 게 아니꼬왔다고 하더군. 보통 사람들도 더 많은 기회를 가져야 한다나. 어쨌든, 보수는 끝내주게 지급할 거니까, 무슨 상관이겠어?</text>
 	</string>
 	<string id="st_top_10_task_about_dialog_8">
 		<text>멋지군! PDA에 네 첫 번째 목표의 위치를 업로드해 줄게. 네가 한 놈을 죽일 때마다, 다음 친구의 위치 정보를 받게 될 거야. 즐거운 시간 되길.</text>
@@ -252,428 +252,428 @@
 	
 <!-- modified by Tronex -->
 	<string id="inf_trader_buy_transitions_0">
-		<text>I'd like to buy intel on a few routes.</text>
+		<text>몇몇 샛길에 대한 정보를 좀 사고 싶어.</text>
 	</string>
 	<string id="inf_trader_buy_transitions_1">
-		<text>Certainly. Here's what I've got.</text>
+		<text>알겠어. 이게 내가 알고 있는 곳들이야.</text>
 	</string>
 	<string id="inf_trader_buy_transitions_2">
-		<text>From the Army Warehouses to Radar %c[d_orange][7000 RU]</text>
+		<text>군 창고에서 레이더로. %c[d_orange][7000 RU]</text>
 	</string>
 		<string id="inf_trader_buy_transitions_9">
-			<text>So, do you have the money for it?</text>
+			<text>좋아, 돈은 있어?</text>
 		</string>
 		<string id="inf_trader_buy_transitions_11">
-			<text>Yes, here you are.</text>
+			<text>그래, 여기 있어.</text>
 		</string>
 	<string id="inf_trader_buy_transitions_3">
-		<text>From Radar to the bunker below it. %c[d_orange][11,000 RU]</text>
+		<text>레이더에서 그 아래에 있는 벙커까지. %c[d_orange][11,000 RU]</text>
 	</string>
 		<string id="inf_trader_buy_transitions_12">
-			<text>Got the dough?</text>
+			<text>돈은 있지?</text>
 		</string>
 		<string id="inf_trader_buy_transitions_13">
-			<text>Of course. Here.</text>
+			<text>물론. 여기.</text>
 		</string>
 	<string id="inf_trader_buy_transitions_4">
-		<text>From Radar to Pripyat. %c[d_orange][9000 RU]</text>
+		<text>레이더에서 프리피야트로. %c[d_orange][9000 RU]</text>
 	</string>
 		<string id="inf_trader_buy_transitions_14">
-			<text>Have you got the cash?</text>
+			<text>현금은 가져왔지?</text>
 		</string>
 		<string id="inf_trader_buy_transitions_15">
-			<text>Here you go.</text>
+			<text>여기 있어.</text>
 		</string>
 	<string id="inf_trader_buy_transitions_5">
-		<text>From central Pripyat to the Outskirts. %c[d_orange][9000 RU]</text>
+		<text>프리피야트 중심지에서 외곽지역으로. %c[d_orange][9000 RU]</text>
 	</string>
 		<string id="inf_trader_buy_transitions_16">
-			<text>I'll need the paper, first.</text>
+			<text>먼저 돈을 좀 확인해야겠어.</text>
 		</string>
 		<string id="inf_trader_buy_transitions_17">
-			<text>Yeah, here it is.</text>
+			<text>그래, 여기 있어.</text>
 		</string>
 	<string id="inf_trader_buy_transitions_6">
-		<text>From Pripyat to the Chernobyl NPP. %c[d_orange][30,000 RU]</text>
+		<text>프리피야트에서 체르노빌 원전으로. %c[d_orange][30,000 RU]</text>
 	</string>
 		<string id="inf_trader_buy_transitions_18">
-			<text>Have you got any money with you?</text>
+			<text>돈은 가져온 거지?</text>
 		</string>
 		<string id="inf_trader_buy_transitions_19">
-			<text>Yes, there you go.</text>
+			<text>응, 여기 있어.</text>
 		</string>
 	<string id="inf_trader_buy_transitions_7">
-		<text>Between the southern and northern parts of the Chernobyl NPP. %c[d_orange][35,000 RU]</text>
+		<text>체르노빌 원전의 남쪽과 북쪽을 잇는 길. %c[d_orange][35,000 RU]</text>
 	</string>
 		<string id="inf_trader_buy_transitions_20">
-			<text>Money first.</text>
+			<text>선불이야.</text>
 		</string>
 		<string id="inf_trader_buy_transitions_21">
-			<text>Here you are.</text>
+			<text>여기 있어.</text>
 		</string>
 	<string id="inf_trader_buy_transitions_10">
-		<text>I don't have the money.</text>
+		<text>돈이 없군.</text>
 	</string>
 	<string id="inf_trader_buy_transitions_8">
-		<text>I've changed my mind.</text>
+		<text>생각이 바뀌었어.</text>
 	</string>
 
 
 <!-- Guide -->
 	<string id="meet_guid_bar_0">
-		<text>Are you a guide?</text>
+		<text>당신이 가이드인가?</text>
 	</string>
 	<string id="meet_guid_bar_1">
-		<text>Yep, Navigator's the name. I can take you to a few places for a modest fee. Rookies are my customers most of the time, but I can lead any experienced stalker as well - no shame in it. I'll break it down: you pay, I get you wherever you want to go and I return here. I can take you to Yantar, the Great Swamp, the Army Warehouses, the Garbage, the Cordon and Jupiter.</text>
+		<text>응, 네비게이터라고 해. 적절한 가격으로 몇몇 지역으로 데려다줄 수 있어. 대부분은 초짜들이 내 주된 고객들이지만, 경험있는 스토커들도 데려다줄 수 있어. 절대 부끄러운 일이 아니야. 요약하자면, 넌 돈을 내고, 나는 네가 원하는 곳 어디든지 널 데려다 준 다음에 다시 여기로 돌아오는 거야. 나는 얀타 호수나, 대습지, 군 창고, 쓰레기장, 코돈 그리고 주피터로 데려다줄 수 있어.</text>
 	</string>
 
 	<string id="meet_guid_bar_list_0">
-		<text>Sorry, where can you escort me?</text>
+		<text>미안하지만, 어디로 데려다줄 수 있다고 했지?</text>
 	</string>
 	<string id="meet_guid_bar_list_1">
-		<text>To the the Garbage for seven hundred, the Army Warehouses for one thousand, the Rookie Village in the Cordon for three thousand, Yantar for thirty-five hundred, Yanov station in Jupiter for six thousand and the Great Swamp, also for six thousand.</text>
+		<text>7백 루블에 쓰레기장, 1천 루블에 군 창고, 3천 루블에 코돈에 있는 초보자 마을, 3천 5백 루블에 얀타 호수, 6천 루블에 주피터의 야노브 역이나 대습지야.</text>
 	</string>
 
 	<string id="travel_guid_bar_0">
-		<text>I need to be led somewhere.</text>
+		<text>어딘가에 가야 할 일이 생겼어.</text>
 	</string>
 	<string id="travel_guid_bar_1">
-		<text>Yeah, where?</text>
+		<text>그래, 어디로 갈 거야?</text>
 	</string>
 	<string id="travel_guid_bar_2">
-		<text>To the Cordon. %c[d_orange][3000 RU]</text>
+		<text>코돈으로. %c[d_orange][3000 RU]</text>
 	</string>
 	<string id="travel_guid_bar_3">
-		<text>To the Garbage. %c[d_orange][700 RU]</text>
+		<text>쓰레기장으로. %c[d_orange][700 RU]</text>
 	</string>
 	<string id="travel_guid_bar_4">
-		<text>To the Army Warehouses. %c[d_orange][1000 RU]</text>
+		<text>군 창고로. %c[d_orange][1000 RU]</text>
 	</string>
 	<string id="travel_guid_bar_5">
-		<text>To Yantar. %c[d_orange][3500 RU]</text>
+		<text>얀타 호수로. %c[d_orange][3500 RU]</text>
 	</string>
 	<string id="travel_guid_bar_6">
-		<text>To Jupiter. %c[d_orange][6000 RU]</text>
+		<text>주피터로. %c[d_orange][6000 RU]</text>
 	</string>
 	<string id="travel_guid_bar_7">
-		<text>To the Great Swamp. %c[d_orange][6000 RU]</text>
+		<text>대습지로. %c[d_orange][6000 RU]</text>
 	</string>
 	<string id="travel_guid_bar_8">
-		<text>I've changed my mind.</text>
+		<text>생각이 바뀌었어.</text>
 	</string>
 
 <!-- Medic -->
 	<string id="bar_dolg_medic_talking_0">
-		<text>Who are you?</text>
+		<text>당신은 누구지?</text>
 	</string>
 	<string id="bar_dolg_medic_talking_1">
-		<text>I'm the local sawbones, although I used to just be a paramedic. Lieutenant Sostradov's the name, but the stalkers around here call me Aspirin. Yeah, really. I've gotten quite good at treating a wide range of illnesses and injuries over the years. I also act as the resident pharmacist - after all, you need some meds with you in the field if you hope to return alive for proper treatment. </text>
+		<text>난 여기서 외과의사 일을 하고 있어, 예전에는 그저 의무병이었을 뿐이었지만. 원래 직함은 소스트라도프 중위지만, 여기 있는 스토커들은 날 아스피린이라고 불러. 맞아, 진짜로. 지난 수 년간 난 다방면의 질병들과 부상들을 치료하는 일에 꽤 능숙해졌어. 거기다 이곳의 약사 역할도 겸하고 있지. 결국에는, 네가 여기로 살아 돌아와서 적절한 치료를 받으려면 현장에 나갈 때도 의약품이 조금이나마 필요할테니까. </text>
 	</string>
 	<string id="bar_dolg_medic_talking_2">
-		<text>How did you come to be a medic for Duty?</text>
+		<text>어쩌다가 듀티 소속 군의관이 된 거야?</text>
 	</string>
 	<string id="bar_dolg_medic_talking_3">
-		<text>How does anyone come to be in Duty? The Zone takes something from you. And then it takes again, and then again. Until you have nothing left but the Zone itself. Medic or no, that's how a stalker comes to be in Duty.\n \nWe're the ones who lost everything to this hellhole, yet stuck around to keep others from suffering the same fate. Of course, most Dutyers choose to protect people by trying to kill the Zone. That's not me.\n \nI'm here to undo all the injuries it leaves on people. To make sure the stalkers of this town get to live another day when their friends drag their bloodied bodies through the streets from whatever fool expedition they went on.\n \nAs long as you get yourself back here alive, I'll make you feel good as new. I won't even overcharge you, unlike some other traders around here.</text>
+		<text>어쩌다가 사람들이 듀티에 가입하게 되는 거냐고? 존은 우리들한테서 무언가를 앗아간단 말야. 그리고 나서도 계속, 계속해서 빼앗아가겠지. 우리들한테 유일하게 남은 게 존 그 자체가 될 때까지 말야. 군의관이든 아니든 상관없이, 그게 스토커가 듀티로 변하는 이유라고.\n \n우리들은 이 지옥구덩이에서 모든 것들을 잃어버린 사람들이자, 다른 사람들도 똑같은 운명을 맞이하는 걸 막기 위해 남아있는 사람들이야. 물론, 대부분의 듀티 대원들은 존을 파괴함으로써 사람들을 지키는 길을 선택했지. 난 그렇지 않았고.\n \n난 다른 사람들이 겪은 모든 상처들을 없애주기 위해 이곳에 있는 거야. 이 마을에 있는 스토커들이 어떤 바보같은 모험에서 피투성이가 된 채 동료들에게 질질 끌려 오더라도 살아서 훗날을 기약할 수 있게 만들어 주기 위해서 말이지.\n \n네가 여기로 살아서 돌아올 수만 있다면, 다친 몸을 마치 새 몸이 된 것처럼 고쳐줄 수 있어. 물론 여기 있는 몇몇 장사치들 처럼 바가지를 씌우는 짓은 안 해.</text>
 	</string>
 	<string id="bar_dolg_medic_talking_4">
-		<text>Thanks, Aspirin.</text>
+		<text>고마워, 아스피린.</text>
 	</string>
 	
 <!-- ARENA -->
 	<string id="bar_arena_man_job_0">
-		<text>Who do you have for me to fight?</text>
+		<text>누구랑 싸우면 되지?</text>
 	</string>
 	<string id="bar_arena_man_job_11">
-		<text>So, your first fight? Your opponent is a piece of meat just like you. He's here because of his debts and he only has two options: to come out and fight, or to land himself in the nearest anomaly. He's gonna fight like a cornered animal. Equipment for today... Lemme think... How about you two use basic pistols, two boxes of ammo should be plenty. Either kick his ass or we feed you to the dogs - not much of a choice. Go on now.</text>
+		<text>그래, 네 첫 번째 싸움 말인가? 네놈 상대는 너랑 똑같은 고깃덩어리야. 그 녀석은 빚 때문에 여기에 왔고 오직 두 가지 선택지만이 남아 있지. 나가서 싸우거나, 나가서 가장 가까운 이상현상 속으로 뛰어들거나. 그 녀셕은 궁지에 몰린 짐승이 된 것처럼 싸울 거라고. 오늘의 장비는... 생각해 볼까... 너네들 둘 다 기본적인 권총만 가지고 싸우는 게 어때, 두 탄창 정도의 총알이면 충분할 거야. 그 녀석을 걷어 차 주지 않으면 우리가 네 시체를 개들한테 먹이게 될 거야, 그다지 선택지가 많지 않다고. 이제 가 봐.</text>
 	</string>
 	<string id="bar_arena_man_job_111">
-		<text>I'm ready.</text>
+		<text>준비가 됐어.</text>
 	</string>
 	<string id="bar_arena_man_job_112">
-		<text>I'm not ready.</text>
+		<text>아직 준비가 안 됐어.</text>
 	</string>
 	<string id="bar_arena_man_job_12">
-		<text>Your last fight didn't mean shit, you're still the same piece of meat you were before and no self-respecting person will bet a single mag on you. If you wanna earn some proper cash you're gonna have to make a few more appearances in the arena. Your new opponent also got through the first round, and his fight was a lot harder than yours. I don't like him, to be honest - he kills too quickly and the crowd doesn't like that. So, go and show us what you can do! The stakes will increase after this fight - all you gotta do is stay alive. Move it!</text>
+		<text>네 지난 번 싸움은 별 볼일 없었어, 넌 아직 이전처럼 고깃덩이일 뿐이고 정신이 똑바로 박혀 있는 사람은 네게 한 탄창을 투자할 가치도 없다고 생각하겠지. 만약에 이걸로 돈을 좀 만져보고 싶다면 이 아레나에서 좀 더 인상깊은 모습을 보여야 할 거야. 네 새로운 상대도 첫 번째 경기를 통과했고, 그 녀석의 싸움 실력은 너보다 더 거칠었지. 솔직히 말하면 그 녀석이 썩 마음에 들지는 않아, 너무 빨리 상대를 죽이는 바람에 관중들이 좋아하지 않았거든. 자, 나가서 네가 뭘 할 수 있는지 보여봐! 이 싸움이 끝나면 배당금이 늘어나게 될 거야, 네가 할 일은 그저 살아있는 것 뿐이지. 어서 움직여!!</text>!</text>
 	</string>
 	<string id="bar_arena_man_job_121">
-		<text>I'm ready.</text>
+		<text>준비가 됐어.</text>
 	</string>
 	<string id="bar_arena_man_job_122">
-		<text>I'm not ready.</text>
+		<text>아직 준비가 안 됐어.</text>
 	</string>
 	<string id="bar_arena_man_job_13">
-		<text>Well, well... You're not as much of a pussy as you first seemed. Now it's time to test you out in a real fight. You're up against two guys. The first one's called Swede and I don't remember the second one's name. They were paired up intentionally as they hate each other's guts so don't worry about them working as a team - they're more likely to shoot each other. Today is rifle day so don't let them get too close or we'll have to pick you up piece by piece. The odds are 10:1 so if you win you'll make a fair amount. Off you go!</text>
+		<text>그래, 그래... 넌 처음 봤던 것처럼 계집애처럼 구는 녀석은 아니었던 모양이로군. 이제 진짜 싸움터에서 널 시험할 시간이 왔어. 너는 두 녀석을 상대하게 될 거야. 첫 번째 녀석은 스위드라고 불리고 두 번째 녀석의 이름은 잘 기억나지 않는군. 그 녀석들은 서로 찢어 죽일 것처럼 굴어서 일부러 한 팀으로 묶어 놓았으니까 그 녀석들이 팀워크를 발휘할까 걱정하지는 말라고. 오히려 서로를 쏘고 싶어할 걸. 오늘은 소총을 쏘는 날이니까 그 녀석들과 너무 가까이 붙지 마, 안 그러면 우리가 조각조각난 네 시체를 주워야 할 지도 모르니까. 배당율은 10:1이니까 네가 이기면 상당한 금액을 받게 될 거야. 어서 가!</text>
 	</string>
 	<string id="bar_arena_man_job_131">
-		<text>I'm ready.</text>
+		<text>준비가 됐어.</text>
 	</string>
 	<string id="bar_arena_man_job_132">
-		<text>I'm not ready.</text>
+		<text>아직 준비가 안 됐어.</text>
 	</string>
 	<string id="bar_arena_man_job_14">
-		<text>Well, now I can safely say that you're a fighter, a real fighter. Now it's time for a team fight. You get to fight with two rookies - two brothers - on your side. They haven't fought yet but they're brothers, so I had to put them into a team fight. I wouldn't expect any real help from them if I were you. You're fighting an experienced team, they're contenders for the final this season. A dangerous lot. They use different weapons but one has an automatic shotgun - be very careful with him. Good luck, pal... You're gonna need it.</text>
+		<text>그래, 이제 널 싸움꾼, 진짜 싸움꾼으로 부를 수 있겠군. 이번에는 팀 경기야. 너는 두 명의 초짜들, 즉 두 명의 형제들과 함께 싸우게 될 거야. 그 녀석들은 아직까지 제대로 싸워본 적이 없지만 서로 형제니까, 그 녀석들을 팀 경기에 넣었어. 만약 내가 너였다면 그 녀석들한테 어떤 도움도 기대하지 않겠지. 너는 경험있는 팀에 맞서 싸우게 될 거야, 그 녀석들은 이번 시즌의 우승 경쟁자이기도 하지. 꽤나 위험할 거야. 그 녀석들은 다양한 무기를 쓰지만 그 중에서 한 명은 자동 샷건을 쓰고 있으니까, 그 녀석을 특히 조심하라고. 행운을 빌어, 친구... 정말로 행운이 필요할 거야.</text>
 	</string>
 	<string id="bar_arena_man_job_141">
-		<text>I'm ready.</text>
+		<text>준비가 됐어.</text>
 	</string>
 	<string id="bar_arena_man_job_142">
-		<text>I'm not ready.</text>
+		<text>아직 준비가 안 됐어.</text>
 	</string>
 	<string id="bar_arena_man_job_15">
-		<text>You've got a special fight today. Even the army has heard about you! Don't be surprised, they fight here too - there's even a general in the crowd. These guys are from the Spetsnaz or OMON. They're well armed and their armour is as good as you'd expect. Don't worry though, I ain't gonna leave you out in the rain, either. You'll get a vest used by Freedom - it's light so it won't slow you down. Go on, show them that stalkers ain't no whipping boys. Good luck!</text>
+		<text>오늘은 특별한 싸움을 하게 될 거야. 무려 내무군까지 네 소문을 듣게 됐다고! 그렇게 놀라지는 말라고, 그 녀석들도 여기 싸우러 온 거니까. 관중들 중에 장군이 하나 있었거든. 이 친구들은 스페츠나츠나 OMON (소련 경찰기동대) 에서 왔지. 잘 무장되어 있고 네가 상상할 수 있을 만큼 튼튼한 방어구를 걸치고 있어. 그래도 걱정은 하지 마, 널 그 아수라장 속에 그냥 내버려둘 생각은 없으니까. 넌 프리덤이 사용하던 방탄조끼를 받게 될 거야. 가벼워서 움직임이 방해되지 않을 거야. 가 봐, 가서 스토커한테 깝치면 좆된다는 걸 보여주라고. 행운을 빌어!</text>
 	</string>
 	<string id="bar_arena_man_job_151">
-		<text>I'm ready.</text>
+		<text>준비가 됐어.</text>
 	</string>
 	<string id="bar_arena_man_job_152">
-		<text>I'm not ready.</text>
+		<text>아직 준비가 안 됐어.</text>
 	</string>
 	<string id="bar_arena_man_job_16">
-		<text>Time for you to show what you can do. Duty captured a group of bandits that had been causing problems for stalkers near Rostok. Duty took 'em at night so most of the bandits were taken alive. They were all gonna be executed anyway so I convinced Duty to give them a chance. If any of them survive, they'll go in the can outside the Zone, which is better than dying here. They've been given good gear, and there's six of them, so watch yourself. Go on now!</text>
+		<text>네가 뭘 할 수 있는 지 보여줄 시간이 왔어. 듀티가 로스토크 근방에서 스토커들에게 해코지를 하는 밴딧들을 잡아왔어. 듀티가 그들을 밤에 급습한 덕에 대부분의 밴딧들이 생포되었지. 그 녀석들은 어차피 모두 처형될 운명이었으니까 내가 듀티한테 그 놈들에게 기회를 좀 달라고 설득했었지. 만약에 그들 중 누구라도 살아남는다면, 그 녀석들은 여기서 죽는 대신에 존 바깥에 있는 교도소로 가게 될 거야. 그 녀석들은 그다지 잘 무장하고 있지 않아, 아마도 권총 몇 자루나 소드 오프 샷건 정도겠지. 하지만 여섯 명이니까 조심하라고. 이제 가 봐!</text>
 	</string>
 	<string id="bar_arena_man_job_161">
-		<text>I'm ready.</text>
+		<text>준비가 됐어.</text>
 	</string>
 	<string id="bar_arena_man_job_162">
-		<text>I'm not ready.</text>
+		<text>아직 준비가 안 됐어.</text>
 	</string>
 	<string id="bar_arena_man_job_17">
-		<text>Well, you're almost in the final. Now you'll be fighting a real stalker. He's alone but he's got an assault rifle and he's inside a protective suit. Catch one burst and you're toast. There will be a surprise that I can't tell you about too... Here's my advice: be prepared, it's gonna be tough. The winner makes it through to the final. Fight to the death, go!</text>
+		<text>좋아, 너는 거의 결승전 문턱까지 와 있어. 이제 너는 진짜 스토커와 싸우게 될 거야. 그는 혼자서 참전했지만 돌격 소총과 방탄복을 착용하고 있지. 반짝하고 쏘면 네가 걸레짝이 되겠지. 그리고 내가 말해주지 않았던 깜짝 선물도 준비되어 있을 거야... 충고를 하나 해 줄게. 마음의 준비를 해, 힘든 싸움이 될 거야. 이 경기의 승자가 결승전으로 갈 거야. 필사적으로 싸워봐, 가!</text>
 	</string>
 	<string id="bar_arena_man_job_171">
-		<text>I'm ready.</text>
+		<text>준비가 됐어.</text>
 	</string>
 	<string id="bar_arena_man_job_172">
-		<text>I'm not ready.</text>
+		<text>아직 준비가 안 됐어.</text>
 	</string>
 	<string id="bar_arena_man_job_18">
-		<text>Congratulations, you're in the final! One more to go and this one is to the death, every man for himself. There will be 4 other stalkers in the arena: all real pros in exoskeletons but it's a fair deal this time - you'll get exactly what they have. The only thing is, you don't get medkits or bandages in a fight to the death. Ready? Go prove you're the best, GO!</text>
+		<text>축하해, 드디어 결승전에 왔군! 이번 마지막 경기는 만인의 만인에 대한 죽음의 투쟁이 될 거야. 경기장에는 네 명의 다른 스토커들이 있을 거야. 모두 외골격을 입은 프로들이지만 이번에는 좀 더 공정한 싸움이지. 넌 그들이 가진 장비들과 똑같은 장비를 입고 싸우게 될 거야. 한 가지 주의할 게 있다면, 너는 메디킷이나 붕대를 받지 않고 죽거나 죽일 때까지 싸우게 된다는 거지. 준비됐어? 네가 최고라는 걸 증명해 봐, 가라!</text>
 	</string>
 	<string id="bar_arena_man_job_181">
-		<text>I'm ready.</text>
+		<text>준비가 됐어.</text>
 	</string>
 	<string id="bar_arena_man_job_182">
-		<text>I'm not ready.</text>
+		<text>아직 준비가 안 됐어.</text>
 	</string>
 	<string id="bar_arena_man_start_111112">
-		<text>Yo! You paid me for a fight but you just walked away!</text>
+		<text>이봐! 나한테 대전료를 내고 그냥 가버리면 어떡해!</text>
 	</string>
 	<string id="bar_arena_man_start_11">
-		<text>Yo! I've got a new fight for you.</text>
+		<text>이봐! 새로운 경기가 준비되었어.</text>
 	</string>
 	<string id="bar_arena_man_start_21">
-		<text>Go have a drink or something. The Arena ain't ready yet.</text>
+		<text>뭐라도 좀 마시고 와. 아직 경기 준비가 안 됐어.</text>
 	</string>
 	<string id="bar_arena_man_start_31">
-		<text>You've already become a pro!!!</text>
+		<text>넌 이미 프로야!!!</text>
 	</string>
 	<string id="bar_arena_man_start_41">
-		<text>You won! Here's your reward.</text>
+		<text>네가 이겼어! 여기 상금이야.</text>
 	</string>
 	<string id="bar_arena_man_start_51">
-		<text>You're not experienced enough for this fight.</text>
+		<text>넌 아직 이 싸움을 할 만큼 경험이 없어.</text>
 	</string>
 	<string id="bar_arena_manager_game_0">
-		<text>What challenge do you have for me?</text>
+		<text>내가 할 만한 도전이 뭐지?</text>
 	</string>
 	<string id="bar_arena_manager_game_1">
-		<text>There is nothing to fight, come again later when we have some more mutants.</text>
+		<text>아직 싸울 만한 게 없어, 우리가 뮤턴트를 더 잡아왔을 때 다시 와.</text>
 	</string>
 	<string id="bar_arena_manager_game_100">
-		<text>There's a fee for participation. 1,000 RU.</text>
+		<text>대전료를 받고 있어. 1,000 루블이야.</text>
 	</string>
 	<string id="bar_arena_manager_game_101">
-		<text>Fine, here's your money.</text>
+		<text>좋아, 여기 대전료야.</text>
 	</string>
 	<string id="bar_arena_manager_game_105">
-		<text>I don't have enough money.</text>
+		<text>돈이 없군.</text>
 	</string>
 	<string id="bar_arena_manager_game_1051">
-		<text>Then get out of here, stalker.</text>
+		<text>그럼 여기서 나가, 스토커.</text>
 	</string>
 	<string id="bar_arena_manager_game_110">
-		<text>You owe me 2,000 RU for participation.</text>
+		<text>대전료로 2,000 루블이야.</text>
 	</string>
 	<string id="bar_arena_manager_game_111">
-		<text>Fine, here's your money.</text>
+		<text>좋아, 여기 대전료야.</text>
 	</string>
 	<string id="bar_arena_manager_game_11111112">
-		<text>I already paid you!</text>
+		<text>이미 돈을 냈잖아!</text>
 	</string>
 	<string id="bar_arena_manager_game_115">
-		<text>I don't have enough money.</text>
+		<text>돈이 없군.</text>
 	</string>
 	<string id="bar_arena_manager_game_1151">
-		<text>Then stop asking so many questions.</text>
+		<text>그럼 너무 많은 질문은 삼가했으면 좋겠군.</text>
 	</string>
 	<string id="bar_arena_manager_game_120">
-		<text>Pay 3,000 RU for participation and the bloodsucker is yours.</text>
+		<text>대전료로 3,000 루블을 내면 블러드써커는 네 몫이야.</text>
 	</string>
 	<string id="bar_arena_manager_game_121">
-		<text>Fine. Here's your money.</text>
+		<text>좋아. 여기 대전료 받아.</text>
 	</string>
 	<string id="bar_arena_manager_game_125">
-		<text>I don't have enough.</text>
+		<text>그만큼은 없군.</text>
 	</string>
 	<string id="bar_arena_manager_game_1251">
-		<text>Don't waste my time, stalker.</text>
+		<text>내 시간을 낭비하지 마, 스토커.</text>
 	</string>
 	<string id="bar_arena_manager_game_130">
-		<text>Not so fast. The price for participation is 5,000 RU.</text>
+		<text>기다려봐. 대전료는 5,000 루블이야.</text>
 	</string>
 	<string id="bar_arena_manager_game_131">
-		<text>Fine. Here's the money.</text>
+		<text>좋아. 여기 돈이야.</text>
 	</string>
 	<string id="bar_arena_manager_game_135">
-		<text>I don't have enough money.</text>
+		<text>돈이 없군.</text>
 	</string>
 	<string id="bar_arena_manager_game_1351">
-		<text>Don't try pretending to be a beggar.</text>
+		<text>거지처럼 굴지 말라고.</text>
 	</string>
 	<string id="bar_arena_manager_game_140">
-		<text>The price for participating is 5,000 RU.</text>
+		<text>대전료는 5,000 루블이야.</text>
 	</string>
 	<string id="bar_arena_manager_game_141">
-		<text>Fine. Here's your money.</text>
+		<text>좋아. 여기 대전료 받아.</text>
 	</string>
 	<string id="bar_arena_manager_game_145">
-		<text>I don't have enough money.</text>
+		<text>돈이 없군.</text>
 	</string>
 	<string id="bar_arena_manager_game_1451">
-		<text>Let me guess. Someone stole your roubles?</text>
+		<text>맞춰 볼까. 누가 네 지갑이라도 털었나?</text>
 	</string>
 	<string id="bar_arena_manager_game_2">
-		<text>There's a pseudodog. A large specimen, but quite beaten up. On the other hand it's a very fierce one, just like my mother-in-law.</text>
+		<text>사칭견 한 마리야. 큰 녀석이지만, 꽤 많이 얻어맞았지. 그렇지만 아주 사나운 녀석이야, 마치 내 계모를 떠올리게 하는구먼.</text>
 	</string>
 	<string id="bar_arena_manager_game_200">
-		<text>Deal. Before you fight you should place a stake on the time you need to make the kill. If you manage to pull it off you'll make yourself a little extra spending money.</text>
+		<text>좋아. 네가 싸우기 전에 죽이기까지 걸리는 시간이 얼마나 될 지 배당을 해야 해. 만약 시간 내로 죽이는 데 성공하면 네가 건 돈보다 좀 더 많은 돈을 벌 수 있을 거야.</text>
 	</string>
 	<string id="bar_arena_manager_game_201">
-		<text>30 seconds, triple win.</text>
+		<text>30초, 배당금은 세 배야.</text>
 	</string>
 	<string id="bar_arena_manager_game_202">
-		<text>One and a half minutes, double win.</text>
+		<text>1분 30초, 배당금은 두 배야.</text>
 	</string>
 	<string id="bar_arena_manager_game_203">
-		<text>Without a time limit. A half-stake win.</text>
+		<text>시간 제한 없이. 배당금의 절반을 얹어서 줄 거야.</text>
 	</string>
 	<string id="bar_arena_manager_game_204">
-		<text>I changed my mind.</text>
+		<text>생각이 바뀌었어.</text>
 	</string>
 	<string id="bar_arena_manager_game_2041">
-		<text>Tough shit. You've already paid.</text>
+		<text>꽤나 터프하군, 배당이 되었어.</text>
 	</string>
 	<string id="bar_arena_manager_game_21">
-		<text>I can do that. I'll fight your dog.</text>
+		<text>그 정도야 할 수 있지. 네가 준비한 개와 싸우겠어.</text>
 	</string>
 	<string id="bar_arena_manager_game_22">
-		<text>A dog? Is that all you have?</text>
+		<text>개 한마리? 그게 다야?</text>
 	</string>
 	<string id="bar_arena_manager_game_221">
-		<text>Aw, is our girl afraid of a little doggie? Don't be upset.</text>
+		<text>오, 우리 숙녀분께서 귀여운 강아지가 무서우신가? 화내지 말라고.</text>
 	</string>
 	<string id="bar_arena_manager_game_3">
-		<text>There is a freak in a gas-mask, called a snork. Thin and feeble-looking but quite agile.</text>
+		<text>스노크라 불리는 방독면을 쓴 괴짜야. 말라 비틀어졌고 약해 보이지만 상당히 날렵하지.</text>
 	</string>
 	<string id="bar_arena_manager_game_300">
-		<text>Great, we'll get everything ready. Enter the arena.</text>
+		<text>훌륭해, 모든 것들을 준비하고 있을게. 경기장으로 들어가.</text>
 	</string>
 	<string id="bar_arena_manager_game_31">
-		<text>Bring it on. I'll fight your snork.</text>
+		<text>어서 해보자고. 네가 준비한 스노크와 싸우겠어.</text>
 	</string>
 	<string id="bar_arena_manager_game_32">
-		<text>They make my stomach turn. Hell no.</text>
+		<text>내 속을 뒤집어 놓는군. 안 해.</text>
 	</string>
 	<string id="bar_arena_manager_game_321">
-		<text>Scared by a half-rotten gas-masked freak?</text>
+		<text>반쯤 썩은 저 방독면 쓴 괴짜가 무서운 거야?</text>
 	</string>
 	<string id="bar_arena_manager_game_4">
-		<text>This time we've gotten truly lucky. We caught a young bloodsucker. Still dumb, but already with bad manners.</text>
+		<text>이번에는 운이 좋았어. 어린 블러드써커를 잡아왔어. 여전히 멍청하지만, 이미 영 좋지 못한 습관을 갖추었지.</text>
 	</string>
 	<string id="bar_arena_manager_game_41">
-		<text>Go ahead, get the bloodsucker ready.</text>
+		<text>해보자고, 블러드써커를 준비해 줘.</text>
 	</string>
 	<string id="bar_arena_manager_game_42">
-		<text>A bloodsucker? Fuck that!</text>
+		<text>블러드써커? 좆까!</text>
 	</string>
 	<string id="bar_arena_manager_game_421">
-		<text>What? You love bloodsuckers now? When did you join Freedom?</text>
+		<text>뭐야? 블러드써커랑 사랑에라도 빠진 건가? 대체 너 언제 프리덤에 가입한 거야?</text>
 	</string>
 	<string id="bar_arena_manager_game_5">
-		<text>This time we've a fat little midget in a black cloak - the locals call it a burer.</text>
+		<text>이번에는 검은 코트를 입은 뚱뚱한 난쟁이를 데려왔지. 사람들은 버러라고 부르더군.</text>
 	</string>
 	<string id="bar_arena_manager_game_51">
-		<text>Fat and short? Easy. I'll do it.</text>
+		<text>살찐 난쟁이 말이지? 쉽군. 해보겠어.</text>
 	</string>
 	<string id="bar_arena_manager_game_52">
-		<text>I've heard all about those things. I'll pass.</text>
+		<text>그 녀석에 대한 이야기는 많이 들어봤지. 넘기겠어.</text>
 	</string>
 	<string id="bar_arena_manager_game_521">
-		<text>He hardly reaches your waist in height. And he scares you?</text>
+		<text>그 녀석은 네 허리에도 거의 안 닿을 텐데. 그게 그렇게 무서웠나?</text>
 	</string>
 	<string id="bar_arena_manager_game_6">
-		<text>Today is a special day. I don't know where they found... Him... But he's a real beast.</text>
+		<text>오늘은 특별한 날이야. 어디서 찾아냈는지는 모르겠지만... 그 녀석을... 하지만 진짜로 짐승이지.</text>
 	</string>
 	<string id="bar_arena_manager_game_61">
-		<text>Deal. I'll put him out of his misery.</text>
+		<text>좋아. 그 녀석의 불행을 끝내주지.</text>
 	</string>
 	<string id="bar_arena_manager_game_62">
-		<text>I don't feel like dying, find someone else.</text>
+		<text>벌써 죽고 싶지는 않은데, 다른 사람을 알아보라고.</text>
 	</string>
 	<string id="bar_arena_manager_game_621">
-		<text>Well, frankly even I find the beast scary. But I'm not fighting in the arena, so who cares?</text>
+		<text>뭐, 솔직히 나도 그 짐승이 무섭기는 해. 하지만 내가 경기장에서 싸우는 것도 아닌데, 누가 신경쓰겠어?</text>
 	</string>
 	<string id="bar_arena_manager_info_0">
-		<text>Got a couple of questions.</text>
+		<text>물어볼게 좀 있어.</text>
 	</string>
 	<string id="bar_arena_manager_info_1">
-		<text>Shoot.</text>
+		<text>해봐.</text>
 	</string>
 	<string id="bar_arena_manager_info_10">
-		<text>Never mind.</text>
+		<text>신경쓰지 마.</text>
 	</string>
 	<string id="bar_arena_manager_info_11">
-		<text>What is this establishment?</text>
+		<text>여긴 언제 만들어진 거야?</text>
 	</string>
 	<string id="bar_arena_manager_info_111">
-		<text>This is the arena, my little business. A place where stalkers can test their mettle and earn their fame by fighting against the horrors of the Zone.</text>
+		<text>여기는 아레나고, 내 작은 사업이라고 할 수 있지. 스토커들이 자신들의 패기를 시험하고 존에 있는 공포와 맞서 싸우는 일로 명성을 쌓는 곳이야.</text>
 	</string>
 	<string id="bar_arena_manager_info_12">
-		<text>How do you get the mutants here?</text>
+		<text>뮤턴트를 어떻게 잡아오는 거야?</text>
 	</string>
 	<string id="bar_arena_manager_info_121">
-		<text>We made a deal with Duty, instead of killing all the mutants they find they bring the weaker ones here in exchange for cash. Duty gets paid, the mutants get killed, and then I get paid. Everybody wins.</text>
+		<text>우리들은 듀티와 거래를 했어, 그들이 찾아내는 모든 뮤턴트들을 죽이는 대신 약한 것들을 생포해오면 보상금과 바꾸는 식이지. 듀티는 돈을 받고, 뮤턴트들이 죽으면 내가 돈을 받는 거지. 모두에게 이득이라고.</text>
 	</string>
 	<string id="bar_arena_manager_info_13">
-		<text>Where are you from?</text>
+		<text>당신은 어디 출신이지?</text>
 	</string>
 	<string id="bar_arena_manager_info_131">
-		<text>I am from many places. I heard about this little backwater and understood that I could earn a good little penny here. So here I am.</text>
+		<text>나는 여러 곳을 돌아다녔어. 이 작은 깡촌에 대한 소문을 들었고 내가 여기서 돈을 좀 만져볼 수 있겠다고 생각했지. 그래서 여기 와 있는 거야.</text>
 	</string>
 	<string id="bar_arena_manager_rules_0">
-		<text>What are the rules?</text>
+		<text>규칙은 어떻지?</text>
 	</string>
 	<string id="bar_arena_manager_rules_1">
-		<text>Oh, the rules are pretty simple. I invented them myself. For challenges, there's a cage, and a mutant is let inside the cage. You pay money and tell me the time you need to kill the monster. If you make it - you win, if you don't - I win.\nBut for the main course, bandits and the Zone's other degenerates captured by Duty fight in the arena for their crimes. Some are just stalkers who fancy a fight, and not actually criminals, but whoever leaves the arena in the least amount of pieces gets a sizeable reward. If they keep on winning fights, then more stalkers will come to watch, and the combatants win larger rewards.</text>
+		<text>아, 규칙은 꽤 간단해. 내가 고안해 냈지. 도전으로 말할 것 같으면, 우리가 하나 있고, 뮤턴트가 그 안에서 돌아다니지. 너는 돈을 낸 뒤에 괴물을 죽이기 위해 필요한 시간을 말해주면 돼. 죽이는 데 성공하면 네가 이기는 거고, 그렇지 않으면 내가 이기는 거야.\n하지만 이 곳의 주요 행사는 바로 밴딧이나 듀티가 잡아온 존의 다른 부랑자들이 죄를 씻기 위해 아레나에서 싸우는 거야. 그 중 일부는 범죄자가 아니라 그저 싸움을 좋아하는 스토커들이지만, 최후에 아레나을 떠나는 자에겐 상당한 보상이 준비되어 있지. 그들이 싸움에서 계속 이긴다면, 더 많은 스토커들이 보러 올 거고, 참가자들은 더 많은 보상을 받게 될 거야.</text>
 	</string>
 	<string id="bar_arena_manager_start_11">
-		<text>Good to see you stalker, welcome to the arena.</text>
+		<text>만나서 반갑군 스토커, 아레나에 온 걸 환영해.</text>
 	</string>
 	<string id="bar_arena_manager_start_21">
-		<text>So, what are you waiting for? Get into the cage.</text>
+		<text>자, 뭘 망설이는 거야? 우리 속으로 들어가.</text>
 	</string>
 	<string id="bar_arena_manager_start_31">
-		<text>Sorry, there's nothing to fight against yet. Wait for a day or two until we can catch a new mutant.</text>
+		<text>미안하지만, 아직은 싸울 상대가 없군. 새로운 뮤턴트를 잡을 때까지 하루나 이틀 정도 기다리라고.</text>
 	</string>
 	<string id="bar_arena_manager_start_41">
-		<text>There you are! Well done! Here's your win. If you desire another fight for money then just drop in whenever.</text>
+		<text>여기 있었군! 잘했어! 여기 네 상금이야. 만약 돈을 벌기 위해 다시 싸우고 싶다면 언제든지 들러 줘..</text>
 	</string>
 	<string id="bar_arena_manager_start_51">
-		<text>Sorry, bro, but you lose. Come again next time if you want.</text>
+		<text>미안하군, 형씨, 넌 패배했어. 원한다면 나중에 다시 오라고.</text>
 	</string>
 
 	<!-- bar_visitors_stalker_mechanic -->
 	<string id="bar_visitors_stalker_mechanic_start_dialog_1">
-		<text>Another stalker, here to visit old Mangun? Ugh, alright. Show me what's broken, and I'll fix it. Just hope you can pay for the parts. </text>
+		<text>또다른 스토커가, 이 늙은 망건을 찾아왔나? 어, 좋아. 부서진 걸 보여줘 봐, 고쳐줄 테니까. 부품 값만 잘 내주길 바라. </text>
 	</string>
 </string_table>
