@@ -81,10 +81,10 @@
 		<text>특정 세력의 소속 대원이 페트렌코 대령의 현상금 목록 최상위로 올라오게 되었고, 대령은 그 자가 죽기를 바란다.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_about">
-		<text>특정 세력에 소속된 한 대원이 요즘 존 안의 다른 누군가보다 나를 더 골치아프게 하고 있어. 지금까지 내 부하들 중 누구도 그 놈을 잡지 못했지. 자네가 그 놈을 죽여준다면, 보수는 후하게 쳐주겠다.</text>
+		<text>특정 세력의 누군가가 요즘 존 안에서 나를 아주 골치아프게 하고 있어. 지금까지 내 부하들 중 누구도 그 놈을 잡지 못했지. 자네가 그 놈을 죽여준다면, 보수는 후하게 쳐주겠다.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_task_3_finish">
-		<text>좋아, 그 개새끼를 처리했군! 잘했다. 여기 보수야.</text>
+		<text>좋아, 그 개새끼를 처리했군! 잘했어. 여기 보수야.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -110,7 +110,7 @@
 		<text>다음 임무를 받아라</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_text">
-		<text>망건이 내게 다른 일거리를 제안했다. 도움이 필요한 사람이 누구인지 알아봐야 한다.</text>
+		<text>맨건이 내게 다른 일거리를 제안했다. 도움이 필요한 사람이 누구인지 알아봐야 한다.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_default_task_about">
 		<text>내 친구 중 한 명에게 도움이 필요해. 그를 만나 줬으면 해.</text>
@@ -123,10 +123,10 @@
 	<!-- Mangun (Duty Mechanic) Find Replacement Weapon Storyline Task- -->
 
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_name">
-		<text>망건을 위해 대체용 %s 을/를 찾아라</text>
+		<text>맨건을 위해 대체용 %s 을/를 찾아라</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_text">
-		<text>망건이 수리작업 중 하나를 망쳐버려서 고객을 위한 대체용 %s 이/가 필요하다.</text>
+		<text>맨건이 수리작업 중 하나를 망쳐버려서 고객을 위한 대체용 %s 이/가 필요하다.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_about">
 		<text>도움이 좀 필요해, 형씨. 듀티 대원 한 명이 내게 총기 수리를 하나 맡겼는데 그만 꽤나 망쳐버리고 말았어. 그 녀석이 찾으러 오기 전에 대체할 만한 걸 찾아야 해.</text>
@@ -142,10 +142,10 @@
 	<!-- Mangun (Duty Mechanic) Clear Out Mutants Storyline Task -->
 
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_name">
-		<text>망건을 위해 뮤턴트들을 처리해라</text>
+		<text>맨건을 위해 뮤턴트들을 처리해라</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_text">
-		<text>망건이 바 외곽의 도로에서 뮤턴트들을 치워달라고 요구했다.</text>
+		<text>맨건이 바 외곽의 도로에서 뮤턴트들을 치워달라고 요구했다.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_about">
 		<text>이봐 형씨, 내가 부탁 하나만 해도 될까? 지금 어딘가로 가야 하는데 바에서 나가는 길에 뮤턴트들이 있다고 들었어. 난 총 쏘는 일은 잘 못해서, 왠지 모르겠지만 조준이 자꾸 흔들려서 말이야. 나 대신 뮤턴트들을 다 없애주면 안될까? 어떤 손님이 두고 가서 안 찾으러 오는 총 하나를 형씨한테 줄 수 있을 거 같은데.</text>
@@ -276,32 +276,32 @@
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_3_name">
-		<text>Neutralize Target for Petrenko</text>
+		<text>페트렌코 대령의 목표물을 무력화하라</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_3_text">
-		<text>Colonel Petrenko has ordered me to find and eliminate a target.</text>
+		<text>페트렌코 대령이 한 암살대상을 찾아서 제거하라고 의뢰했다.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_3_about">
-		<text>I have some subjects that need removal. The targets are usually murderers, rapists, defectors, enemy operatives or strategists. This target is currently our most urgent. Take him out, and you'll help not only Duty but all right-minded people who work in the Zone.</text>
+		<text>내겐 제거해야할 몇몇 목표물이 있지. 암살 대상은 대개 살인자, 강간범, 배신자, 적 간부나 참모들이야. 지금 가장 우선적으로 처리해야 할 목표물은 이 녀석이지. 놈을 처리하면, 자네는 우리 듀티뿐만 아니라 존에서 일하는 모든 정의로운 사람들에게 도움을 주게 되는 거야.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_3_finish">
-		<text>Great! You do us proud, and such diligence shall not go unrewarded.</text>
+		<text>멋지군! 자네는 우리들에게 자긍심을 줬어, 그러니 이런 수고엔 당연히 보상을 줘야겠지.</text>
 	</string>
 	
 	<string id="bar_dolg_general_petrenko_stalker_task_4_name">
-		<text>Knowing is Half the Battle</text>
+		<text>싸움에서는 아는 것이 반이다</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_4_text">
-		<text>Colonel Petrenko wants me to find a %s for Duty to study.</text>
+		<text>페트렌코 대령은 듀티의 연구를 위해 %s 을/를 찾아와달라고 부탁했다.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_4_about">
-		<text>The general wants Duty's grunts to get more educated on the horrors they're expected to kill. For that, we'll need some fresh samples to analyze. Are you interested in helping us get some?</text>
+		<text>장군님께서는 듀티의 병사들로 하여금 자신들이 죽여야 할 공포들에 대해 더 많은 지식을 얻기를 원하시지. 그래서, 우리들에겐 연구를 위해 신선한 표본들이 좀 필요해. 표본을 조달하는 일에 관심 없나?</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_4_fetch_about">
-		<text>The general wants Duty's grunts to get more educated on the horrors they're expected to kill. For that, we'll need some fresh samples to analyze. Bring back a %s, and you'll be well rewarded.</text>
+		<text>장군님께서는 듀티의 병사들로 하여금 자신들이 죽여야 할 공포들에 대해 더 많은 지식을 얻기를 원하시지. 그래서, 우리들에겐 연구를 위해 신선한 표본들이 좀 필요해. %s 을/를 가져다준다면, 괜찮은 보상을 받게 될 거야.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_4_fetch_finish">
-		<text>You have earned our gratitude, soldier. Here is your commission.</text>
+		<text>감사를 표하겠네, 병사여. 여기 자네의 보수야.</text>
 	</string>
 	
 
