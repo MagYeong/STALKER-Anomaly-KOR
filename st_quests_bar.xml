@@ -234,45 +234,45 @@
 	<!-- Petrenko (Duty Trader) Payoff Change Factions Task -->
 
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_name">
-		<text>Joining Duty</text>
+		<text>듀티에 가입하기</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_text">
-		<text>I've been asked to gather 12,000 RU and bring it to Colonel Petrenko as a token of my commitment to Duty.</text>
+		<text>듀티에 대한 헌신의 증표로서 페트렌코 대령에게 12,000 루블을 납부해야 한다.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_about">
-		<text>And I suppose you want to join Duty, eh? You have requested quite an honour. Do you think you have what it takes? To defend the world against the horrors of the Zone? To confront criminals and anarchists wherever you find them, whether they're alone or in groups? To place the values and security of both the innocent, and Duty as a whole, above your own?\n \nWe shoulder the burdens that no one else will. If you're serious, bring 12,000 RU as a token of your commitment and I will put in a recommendation to the General for you.</text>
+		<text>아무래도 듀티에 가입하고 싶은 모양이로군? 자네의 요청은 상당한 명예를 요하는 일이지. 과연 자네가 그럴 만한 자격을 갖추고 있다고 생각하나? 존의 공포로부터 세상을 지킬 수 있겠나? 범죄자들과 무정부주의자들을 볼 때마다, 그들이 혼자 있던지 여럿 있든지 상관없이 맞서 싸울 수 있겠나? 자기 자신보다 다른 무고한 이들, 그리고 듀티 전체가 가진 가치와 안전을 우선시 할 수 있겠나?\n \n우리들은 아무도 짊어지려 하지 않는 짐을 지고 있는 존재야. 그 마음이 진심이라면, 내게 12,000 루블을 증표로서 가져오면 장군님께 자네를 추천해 주지.</text>
 	</string>
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_cf_task_1_finish">
-		<text>You are now officially a member of Duty. May you live up to our name.</text>
+		<text>자넨 이제 공식적으로 듀티의 대원이야. 우리 이름에 걸맞는 사람이 되길 바라네.</text>
 	</string>
 
 
 	<!-- Petrenko (Duty Trader) Defend Rostok Task -->
 	
 	<string id="bar_dolg_general_petrenko_stalker_task_1_name">
-		<text>Defend Rostok</text>
+		<text>로스토크 방어</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_1_text">
-		<text>Colonel Petrenko has asked me to eliminate a group of stalkers that have been posing a threat to Duty.</text>
+		<text>페트렌코 대령이 듀티를 위협하고 있는 한 무리의 스토커들을 제거해 달라고 부탁했다.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_1_about">
-		<text>The situation is becoming unfavourable. Enemies gather all over the Zone. I'm sending my men out to a few of our adversary's rally points before our foes can properly muster an attack, can you handle this one?</text>
+		<text>상황이 안좋게 흘러가고 있어. 적들이 존의 곳곳에서 모여들고 있지. 적들이 성공적으로 공격 작전을 준비하기 전에 대원들을 적들의 집결지로 보내고 있던 참이었는데, 자네가 이곳을 맡아주지 않겠나?</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_1_finish">
-		<text>Excellent work. Your service does you credit.</text>
+		<text>훌륭해. 자네 솜씨는 믿을 만 하군.</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_2_name">
-		<text>Storm the Enemy</text>
+		<text>적을 습격하라</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_2_text">
-		<text>I have been tasked to storm enemy territory for Duty. I should make sure I'm well prepared. Colonel Petrenko will want to see me after I succeed.</text>
+		<text>듀티를 위해 적 영토를 습격하라는 지시를 받았다. 단단히 준비를 하는 것이 좋을 것이다. 임무에 성공하면 페트렌코 대령을 찾아가자.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_2_about">
-		<text>I have a significant commission available. Anarchists and rebels have been holding onto former Spetsnaz territory for too long. If you can plan, prepare, and lead an assault to weaken their grip, you'll be well rewarded.</text>
+		<text>해야 할 중요한 임무가 있다. 무정부주의자들과 폭력배들이 이전 스페츠나츠 주둔지를 차지하고 나서 너무나도 오랜 시간이 흘렀어. 자네가 놈들의 통제력을 약하게 만들 수 있는 공격 작전을 계획하고, 준비하고 실행한다면, 큰 보상을 받게 될 거야.</text>
 	</string>
 	<string id="bar_dolg_general_petrenko_stalker_task_2_finish">
-		<text>Thank you, stalker. Duty is indebted to you.</text>
+		<text>고마워, 스토커. 듀티가 자네에게 빚을 졌군.</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_3_name">
