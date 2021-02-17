@@ -142,16 +142,16 @@
 	<!-- Mangun (Duty Mechanic) Clear Out Mutants Storyline Task -->
 
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_name">
-		<text>Clear Out Mutants for Mangun</text>
+		<text>망건을 위해 뮤턴트들을 처리해라</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_text">
-		<text>Mangun needs the road out of the Bar cleared of mutants.</text>
+		<text>망건이 바 외곽의 도로에서 뮤턴트들을 치워달라고 요구했다.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_about">
-		<text>Hey bro, can you do something for me? I gotta go somewhere but I heard there are mutants on the road leading out of the Bar. I'm no good at shooting, my aim is all shaky for some reason. Could you clear them out for me? I have a rifle that a customer never picked up that I can give you.</text>
+		<text>이봐 형씨, 내가 부탁 하나만 해도 될까? 지금 어딘가로 가야 하는데 바에서 나가는 길에 뮤턴트들이 있다고 들었어. 난 총 쏘는 일은 잘 못해서, 왠지 모르겠지만 조준이 자꾸 흔들려서 말이야. 나 대신 뮤턴트들을 다 없애주면 안될까? 어떤 손님이 두고 가서 안 찾으러 오는 총 하나를 형씨한테 줄 수 있을 거 같은데.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_2_finish">
-		<text>Thanks bro. Here's the rifle I promised you. Hope you have better luck than its previous owner... poor guy. Good thing he paid me in advance, hehe.</text>
+		<text>고마워 형씨. 여기 약속했던 총이야. 이 총의 예전 주인보다는 운이 좋기를 빌게... 불쌍한 녀석이었지. 그 녀석이 수리비를 선불로 줘서 다행이네, 헤헤.</text>
 	</string>
 
 	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
@@ -171,63 +171,63 @@
 	<!-- Voronin (Duty Honcho) Decimate the Enemy Task -->
 	
 	<string id="bar_dolg_leader_task_1_name">
-		<text>Crack Down</text>
+		<text>범죄 단속</text>
 	</string>	
 	<string id="bar_dolg_leader_task_1_text">
-		<text>General Voronin is encouraging a crackdown on Duty's enemies. I can collect %s for a reward.</text>
+		<text>보로닌 장군이 듀티의 적을 엄정히 처벌하라는 명령을 내렸다. 보상을 위해 %s 을/를 모아야 한다.</text>
 	</string>		
 	<string id="bar_dolg_leader_task_1_about">
-		<text>Listen to me, stalker; while we strive to eradicate the Zone, we cannot ignore our duty to the innocent. On all sides, the average stalker is beset by outlaws and extremists driven by avarice and delusion! Although the monstrosities of the Zone are our true foe, we cannot sit back and do nothing while free stalkers are being harassed and misled! Thin the forces of those who would dare hurt or corrupt them. </text>
+		<text>잘 듣게나, 스토커. 우리가 비록 존을 제거하기 위해 사력을 다하고 있기는 하지만, 그렇다고 해서 무고한 이들에 대한 책무를 무시할 수는 없다. 어떤 곳을 막론하더라도, 평범한 스토커들은 탐욕과 망상으로 가득 찬 무법자들과 극단주의자들에 의해 고통받고 있다! 비록 우리의 진정한 적이 바로 존의 거대한 위협이기는 하지만, 그렇다고 가만히 앉아서 무소속 스토커들이 약탈당하거나 잘못된 길로 빠지는 것을 두고 볼 수는 없다! 스토커들에게 해를 끼치거나 그들을 타락시키는 적들을 약화시켜야만 한다.</text>
 	</string>		
 	<string id="bar_dolg_leader_task_1_fetch_about">
-		<text>Listen to me, stalker; while we strive to eradicate the Zone, we cannot ignore our duty to the innocent. On all sides, the average stalker is beset by outlaws and extremists driven by avarice and delusion! Although the monstrosities of the Zone are our true foe, we cannot sit back and do nothing while free stalkers are being harassed and misled! Thin the forces of those who would dare hurt or corrupt them. Bring me %ses as proof of your work, and your commitment to our cause shall be commended. </text>
+		<text>잘 듣게나, 스토커. 우리가 비록 존을 제거하기 위해 사력을 다하고 있기는 하지만, 그렇다고 해서 무고한 이들에 대한 책무를 무시할 수는 없다. 어떤 곳을 막론하더라도, 평범한 스토커들은 탐욕과 망상으로 가득 찬 무법자들과 극단주의자들에 의해 고통받고 있다! 비록 우리의 진정한 적이 바로 존의 거대한 위협이기는 하지만, 그렇다고 가만히 앉아서 무소속 스토커들이 약탈당하거나 잘못된 길로 빠지는 것을 두고 볼 수는 없다! 스토커들에게 해를 끼치거나 그들을 타락시키는 적들을 약화시켜야만 한다. 임무의 증표로서 %s 들을 가져온다면, 우리들의 대의를 위한 자네의 헌신을 보상해줄 것이다. </text>
 	</string>	
 	<string id="bar_dolg_leader_task_1_fetch_finish">
-		<text>Excellent job. Through your actions, you have helped protect the innocent from humanity's oldest nemesis; itself. </text>
+		<text>아주 훌륭하다. 자네의 그 행동들은 인류의 가장 오래된 숙적, 바로 인류 그 자신으로부터 무고한 이들을 지키는 데 도움이 되었을 거야. </text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Voronin (Duty Honcho) Night Terror Task -->
 	
 	<string id="bar_dolg_leader_task_2_name">
-		<text>Night Terror</text>
+		<text>한밤중의 공포</text>
 	</string>
 	<string id="bar_dolg_leader_task_2_text">
-		<text>Voronin wants to eliminate a dangerous mutant which haunts the Truck Cemetery. I've promised to do this for him.</text>
+		<text>보로닌 장군은 트럭 묘지에서 공포를 퍼트리고 있는 위험한 뮤턴트를 제거하고자 한다. 그 일을 내가 도와주기로 약속했다.</text>
 	</string>
 	<string id="bar_dolg_leader_task_2_about">
-		<text>Our patrols reported signs of an exceptionally dangerous mutant haunting the Truck Cemetery. The monster has already taken the lives of several good men, but we have no chance of catching it in daylight. This terror has to stop immediately. Go, wait until nightfall when the beast gets sloppy. Then hunt this abomination down, and destroy it.</text>
+		<text>우리 순찰대가 트럭 묘지를 공포스러운 곳으로 만드는 매우 위험한 뮤턴트의 흔적을 발견했다. 이미 몇 명의 훌륭한 용사들의 목숨이 희생되었지만, 해가 떠 있는 동안에는 놈을 해치울 기회를 잡지 못했다. 지금 즉시 공포의 원인을 제거해야만 한다. 가서, 한밤중에 그 괴물이 경계를 풀 때까지 기다렸으면 한다. 그리고 그 괴물을 사냥해서 제거해 주길 바란다.</text>
 	</string>
 	<string id="bar_dolg_leader_task_2_finish">
-		<text>Another step toward fulfilling our goal. Allow me to repay our new debt to you.</text>
+		<text>또 다시 우리들의 목표에 한 걸음 다가섰군. 자네에게 진 빚을 갚도록 하지.</text>
 	</string>
 	
 	<!-- Voronin (Duty Honcho) Mortal Sin Unquenchable Flame Task -->
 	<string id="bar_dolg_leader_task_3_about">
-		<text>Even though we have already struck the decisive blow against Sin, its devotees refuse to surrender. Trusted informants have determined that survivors of the faction are busy gathering in Zaton's abandoned substation workshops as we speak. We cannot let them regroup. It is time to finish them off once and for all.</text>
+		<text>우리들이 이미 씬에게 결정적인 타격을 주었음에도 불구하고, 광신도들은 항복하기를 거부하고 말았다. 믿을만한 정보원에 의하면 우리가 말했다시피 씬 세력의 생존자들은 자톤의 버려진 변전소 작업장에서 분주히 모여들고 있다고 확신하더군. 놈들이 다시 조직화되도록 내버려 둘 수는 없지. 이제 놈들을 일망타진할 때가 왔다.</text>
 	</string>
 	<string id="bar_dolg_leader_task_3_finish">
-		<text>Excellent work! We could not afford to get dragged into yet another long-term conflict. </text>
+		<text>훌륭하다! 이번 일이 또다시 장기전으로 흘러가게 놔두었다면 감당하기 어려웠을 거야. </text>
 	</string>
 	
 	<!-- Voronin (Duty Honcho) From Ukraine With Love Task -->
 	<string id="bar_dolg_leader_task_4_name">
-		<text>From Ukraine with Love</text>
+		<text>우크라이나에서 사랑을 담아</text>
 	</string>
 	<string id="bar_dolg_leader_task_4_text">
-		<text>An undercover agent needs to be extracted from an enemy faction. I will need to kill the other members of the squad and escort him back to the base. The spy has an SVD.</text>
+		<text>우리 잠복요원 중 한 명이 적 세력으로부터 탈출해야만 한다. 그 요원이 속한 분대의 나머지 구성원들을 제거하고 요원을 기지로 호위해 주어야 한다. 첩보원은 SVD를 사용하고 있다.</text>
 	</string>
 	<string id="bar_dolg_leader_task_4_about">
-		<text>Although our spies have succeeded in siphoning some ex-Spetsnaz materiel out of the Army Warehouses, I fear one of them is now under suspicion. He missed the last few contacts and hasn't left any more messages. He's likely being kept under watch so he can't afford to do anything besides play along until they decide to get rid of him. We need to pull him out. We have located him nearby, but he's with other stalkers. You need to eliminate them and escort our spy back alive. You will recognize him by his rifle, an SVD. He will have to shoot at you to keep up appearances when you attack the group, so plan accordingly.</text>
+		<text>우리 첩보원들이 군 창고에서 옛 스페츠나츠에 대한 정보를 성공적으로 추출하기는 했지만, 아무래도 그들 중 한 명이 의심을 받고 있는 모양이다. 이미 몇 번 접촉시도를 했지만 실패했고 그 뒤에는 아무런 응답도 받을 수 없었지. 아무래도 그 요원이 감시받고 있어서 나중에 제거당하기 전까지는 그들과 같이 움직이는 일 외에는 아무것도 할 수 없는 것 같다. 그 요원을 반드시 빼내와야만 한다. 우리들은 근처에서 요원을 찾아냈지만, 다른 스토커들과 같이 있었다. 자네가 그들을 제거하고 우리 첩보원을 살려서 호송해주었으면 한다. 첩보원은 SVD 소총을 가지고 있으니 알아볼 수 있을 것이다. 자네가 첩보원이 속한 분대를 공격했을 때 첩보원도 발각당하지 않기 위하여 자네를 쏘게 될테니, 계획을 잘 세우기를 바란다.</text>
 	</string>
 	<string id="bar_dolg_leader_task_4_finish">
-		<text>Excellent, I'll have him report at once.</text>
+		<text>훌륭하군, 바로 첩보 보고를 받아야겠어.</text>
 	</string>
 	<string id="bar_dolg_leader_task_4_msg_join">
-		<text>Hold your fire! I'm a Duty spy! I am sorry for firing at you, but I had to maintain appearances in case the worst happened. I didn't hit you, did I? Let's get back to Rostok. It's best if we go together</text>
+		<text>쏘지마! 내가 듀티의 첩보원이야! 총 쏜 거는 미안하지만, 최악의 사태에 대비해서 잠복 상태를 유지하려면 어쩔 수 없었어. 내 총에 맞지는 않았지, 그렇지? 로스토크로 돌아가자. 같이 다니는 게 가장 좋을 거 같아</text>
 	</string>
 	<string id="bar_dolg_leader_task_4_msg_leave">
-		<text>Thanks for escorting me back safely. I'll put in a commendation to the General for you when I make my report.</text>
+		<text>안전히 데려다줘서 고마워. 장군께 보고드릴 때 꼭 네 칭찬을 해 줄게.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
