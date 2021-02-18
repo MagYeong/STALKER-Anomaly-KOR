@@ -307,49 +307,49 @@
 
 	<!-- Mangun (Duty Mechanic) -->
 	<string id="bar_visitors_stalker_mechanic_task_1_name">
-		<text>Find %s for Mangun</text>
+		<text>맨건에게 %s 를 가져다주기</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_1_text">
-		<text>%s are required by Mangun to install basic equipment upgrades, I should bring them back to him if I find any.</text>
+		<text>맨건이 기본 장비 개조작업을 하기 위해서는 %s 가 필요하기 때문에, 하나라도 찾는다면 가져다 주어야 할 것이다.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_1_about">
-		<text>Yes. We have Freedom to the north, bandits to the south-east, and mercs to the west. That's a lot of enemies, and I need to make sure Duty gets the edge they need in terms of equipment. I could do with some new tools - even basic ones would make a difference at this point. If you bring some, I could show you what this whole upgrading business is all about. You'll get a good return on your investment, don't worry.</text>
+		<text>그래. 우리들 북쪽에는 프리덤이 있고, 남동쪽에는 밴딧들이 있고, 서쪽에는 용병들이 있어. 적이 이렇게나 많으니까, 듀티가 장비 측면에서 우위를 확보할 수 있게 내가 도와줘야 해. 새로운 도구 몇 가지만 있다면 할 수 있을 텐데, 지금 당장은 기본적인 도구들만 있어도 상황을 바꿀 수 있을 거야. 나한테 도구를 가져다준다면, 내 개조작업들이 의미하는 게 무엇인지를 보여줄 수 있을 거야. 투자만 해준다면 보상은 확실할 테니까, 걱정 말라고.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_1_fetch_about">
-		<text>You will? I mean, of course you will! Hurry back now, Duty needs this!</text>
+		<text>할거야? 그럼, 당연히 그래야지! 서둘러줘, 듀티에게 반드시 필요한 일이니까!</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_1_fetch_finish">
-		<text>Finally! Something to do that isn't just maintenance work or drinking myself to death.</text>
+		<text>드디어! 단순히 유지보수를 하거나 뒤질 때까지 퍼마시는 거 말고 새로 할 일이 생겼구만.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_2_name">
-		<text>Find %s for Mangun</text>
+		<text>맨건에게 %s 를 가져다주기</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_2_text">
-		<text>%s are required by Mangun to install advanced equipment upgrades, I should bring them back to him if I find any.</text>
+		<text>맨건이 고급 장비 개조작업을 하기 위해서는 %s 가 필요하기 때문에, 하나라도 찾는다면 가져다 주어야 할 것이다.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_2_about">
-		<text>I'm starting to get a little ambitious after what you brought me last time. Those tools you brought before will last me ages, what I'm on the lookout for at the moment is something more advanced. So, how about it?</text>
+		<text>저번에 네가 가져온 도구들 덕분에 좀 더 의욕이 생기기 시작했어. 전에 가져다 줬던 도구들도 오래 써먹을 거지만, 내가 지금 찾고 있는 도구들은 더 고급진 거야. 자, 어떻게 할래?</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_2_fetch_about">
-		<text>Ah, you will? Brilliant! I can almost feel the cold, hard metal in my hands already.</text>
+		<text>오, 들어줄 거야? 훌륭해! 벌써부터 내 손에 차갑고, 단단한 금속의 감촉이 느껴지는 거 같아.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_2_fetch_finish">
-		<text>Wow, you did it! Hahaha! Am I shaking? I'm shaking!</text>
+		<text>와, 성공했구나! 하하하! 나 떨고 있니? 나 떨고 있어!</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_3_name">
-		<text>Find %s for Mangun</text>
+		<text>맨건에게 %s 를 가져다주기</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_3_text">
-		<text>%s are required by Mangun to install expert equipment upgrades, I should bring them back to him if I find any.</text>
+		<text>맨건이 전문적인 장비 개조작업을 하기 위해서는 %s 가 필요하기 때문에, 하나라도 찾는다면 가져다 주어야 할 것이다.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_3_about">
-		<text>I can't believe what you've done for me, stalker! Even some of the neutrals around here are coming to me for upgrades now! But I know, in my heart, I'm not doing as well as I could. If only I had some better tools... Listen, stalker. Bring me some expert-level tools, and I'll be in your debt. I could make your shooter into a masterpiece! I can't upgrade your stuff for free, of course, but I'll think of some way I can return the favour.</text>
+		<text>네가 지금까지 해준 일이 정말 믿기지 않아, 스토커 양반! 이제 여길 들르는 중립 스토커들도 나한테 장비 개조를 맏기러 올 정도라고! 하지만 난 알고 있어, 내 마음 속에서는 아직 내가 가진 능력을 다 쓰고 있지 않고 있다는 목소리가 들리고 있다고. 조금 더 좋은 도구가 있었더라면... 들어봐, 스토커. 내게 전문가 수준의 도구만 가져다준다면, 그 은혜를 평생 잊지 않을게. 네 총기를 명품으로 만들어 줄 수 있다고! 물론 공짜로 개조를 해 줄 수는 없겠지만, 어떻게든 호의에 보답할 방법을 생각해 볼게.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_3_fetch_about">
-		<text>Thanks, stalker. I'll be sure to let the General know about this if you succeed.</text>
+		<text>고마워, 스토커. 네가 성공한다면 장군님도 네 공적을 알게 되실 거야.</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_task_3_fetch_finish">
-		<text>A Dutyer's word is their bond. Are you a learned mechanic? If not, maybe I can show you a trick or two for maintaining your gear out in the field.</text>
+		<text>듀티는 한 말을 반드시 지켜. 혹시 정비 일을 배운 적이 있어? 아직 안 배웠다면, 야전에서 장비를 관리하는 방법 몇 가지를 알려줄게.</text>
 	</string>
 	
 	
