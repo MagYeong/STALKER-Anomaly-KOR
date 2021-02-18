@@ -669,11 +669,11 @@
 		<text>여기 있었군! 잘했어! 여기 네 상금이야. 만약 돈을 벌기 위해 다시 싸우고 싶다면 언제든지 들러 줘..</text>
 	</string>
 	<string id="bar_arena_manager_start_51">
-		<text>미안하군, 형씨, 넌 패배했어. 원한다면 나중에 다시 오라고.</text>
+		<text>미안해, 형씨, 넌 패배했어. 원한다면 나중에 다시 오라고.</text>
 	</string>
 
 	<!-- bar_visitors_stalker_mechanic -->
 	<string id="bar_visitors_stalker_mechanic_start_dialog_1">
-		<text>또다른 스토커가, 이 늙은 망건을 찾아왔나? 어, 좋아. 부서진 걸 보여줘 봐, 고쳐줄 테니까. 부품 값만 잘 내주길 바라. </text>
+		<text>또다른 스토커가, 이 늙은 맨건을 찾아왔나? 어, 좋아. 부서진 걸 보여줘 봐, 고쳐줄 테니까. 부품 값만 잘 내주면 돼. </text>
 	</string>
 </string_table>
