@@ -400,32 +400,32 @@
 	<!-- Barkeep (Loner Trader) New Tasks -->
 	
 	<string id="bar_visitors_barman_stalker_trader_task_4_name">
-		<text>Bring Barkeep a %s </text>
+		<text>바텐더에게 %s 가져다주기</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_4_text">
-		<text>Barkeep says he will pay well if I can bring him a %s.</text>
+		<text>바텐더는 내가 %s 을/를 가져다주면 보수를 주겠다고 약속했다.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_4_about">
-		<text>One of my clients wants a trophy from a specific mutant. Are you interested?</text>
+		<text>내 고객 중 한 명이 특정 뮤턴트의 신체부위를 원한다고 하더군. 관심 있나?</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_4_fetch_about">
-		<text>Did you know the Zone is home to some really exceptional tanners and jewellers? Doesn't matter what mutant part you give them - skulls, claws, tusks, pelts, even kidney stones, they'll make something good out of it. So, if you're interested in helping these guys out, bring me a %s, and there'll be cash in your pocket.</text>
+		<text>존이 정말로 특이한 몇몇 모피상이나 세공사들의 거점이라는 사실을 알고 있나? 그들에게 해골이나, 발톱, 송곳니, 모피, 심지어는 신장 결석같은 잡다한 뮤턴트 신체부위를 가져다주면 어떤 부위로든지 상관없이 뭔가 대단한 것들을 만들어내지. 그래서, 그 친구들을 돕는 일에 관심이 있다면, 내게 %s 을/를 가져와 줘, 그럼 돈을 좀 챙길 수 있을 거야.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_4_fetch_finish">
-		<text>Atta boy. Here's your payment.</text>
+		<text>잘했군. 여기 보수야.</text>
 	</string>
 	
 	<string id="bar_visitors_barman_stalker_trader_task_5_name">
-		<text>Capture Encrypted Documents</text>
+		<text>암호화된 문서를 확보하라</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_5_text">
-		<text>Barkeep will pay me to ensure some coded papers end up safely in his hands.</text>
+		<text>바텐더는 몇 장의 암호화된 서류를 안전하게 가져다 준다면 보수를 주겠다고 약속했다.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_5_about">
-		<text>So, recently, a stalker slipped some stash info that apparently leads to some rather interesting documents. I will give you the coordinates and, in exchange for delivering the papers, you'll be well paid. Anything else you find in there is for you to keep.</text>
+		<text>자, 최근에 한 스토커가 상당히 흥미로운 문서들이 있다는 은닉처 정보 몇 개를 흘려줬어. 네게 좌표를 보내줄 건데, 그 은닉처에서 문서를 가져와 준다면, 보수를 받게 될 거야. 그 밖에 은닉처에서 찾은 게 있다면 모두 가져도 좋아.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_5_finish">
-		<text>Great job, stalker.</text>
+		<text>훌륭하군, 스토커.</text>
 	</string>
 
 <!-- Aspirin (Duty Medic) -->
