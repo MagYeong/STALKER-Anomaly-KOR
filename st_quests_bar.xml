@@ -355,45 +355,45 @@
 	
 	<!-- Barkeep -->
 	<string id="bar_visitors_barman_stalker_trader_task_1_name">
-		<text>Find the %s Artefact</text>
+		<text>%s 아티팩트를 찾아라</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_1_text">
-		<text>I've agreed to find Barkeep a %s for his artefact smuggling business.</text>
+		<text>바텐더의 아티팩트 밀수 사업을 돕기 위해 %s 아티팩트를 찾아오겠다고 약속했다.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_1_about">
-		<text>I'm interested in artefacts. I'll give you the coordinates to a certain artefact, you bring it to me. Of course, you'll also get a reward. Sound good?</text>
+		<text>난 아티팩트에 관심이 있어. 한 아티팩트가 있는 곳의 좌표를 줄 테니, 그걸 가져와 줬으면 해. 물론, 가져오면 보상을 받게 될 거야. 어떤가?</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_1_fetch_about">
-		<text>I need an artefact for some outside clients. Don't worry, they tend to be respectable types: pastors, doctors, scientists from the outside, those sort of people. Anyways, they're looking for an artefact called %s.  Are you in? </text>
+		<text>존 외부의 고객들에게 줄 한 아티팩트가 필요해. 걱정은 마, 고객들은 주로 목사나 의사, 존 외부에 있는 과학자들처럼 믿을만한 사회적 지위를 가진 사람들이니까. 어쨌든, 고객들은 %s (이)라고 불리는 아티팩트를 찾고 있어. 해보겠나? </text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_1_fetch_finish">
-		<text>Well done, stalker. Here is your reward.</text>
+		<text>잘했어, 스토커. 여기 네 보수야.</text>
 	</string>
 	
 	<string id="bar_visitors_barman_stalker_trader_task_2_name">
-		<text>Kill the Stalker</text>
+		<text>스토커를 죽여라</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_2_text">
-		<text>I've agreed to take care of a stalker for the Barkeep.</text>
+		<text>바텐더를 위해 한 스토커를 처리해주겠다고 약속했다.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_2_about">
-		<text>One of the regulars around here turned out to be rotten to the core. Rostok would more than happily pay to put flowers on his grave, if you catch my drift. So, are you up for it?</text>
+		<text>여기 있는 스토커들 중 한 놈이 근본부터 썩어있는 놈으로 밝혀졌지. 로스토크는 놈의 무덤에 기꺼이 헌화할 준비가 됐어, 무슨 뜻인지는 알겠지. 자, 일해 볼텐가?</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_2_finish">
-		<text>Here is your money, just don't get carried away with murdering too much.</text>
+		<text>여기 네 돈이야, 그저 살인을 너무 많이 할 정도로 빠져들지는 말라고.</text>
 	</string>
 	
 	<string id="bar_visitors_barman_stalker_trader_task_3_name">
-		<text>Destroy the Mutants</text>
+		<text>뮤턴트를 없애라</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_3_text">
-		<text>Barkeep has hired me to clear out a lair of mutants.</text>
+		<text>바텐더가 뮤턴트 소굴 하나를 청소하라고 날 고용했다.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_3_about">
-		<text>Some of my boys got torn up real bad by mutants as they came back from their expedition. Duty purged one of the lairs in retaliation, but there's another nearby that needs dealing with. Will you take this on for me?</text>
+		<text>내 부하들 중 몇 명이 원정에서 돌아오는 길에 뮤턴트들에게 정말 심하게 당했다더군. 듀티에서 뮤턴트 소굴 한 곳을 보복으로 쓸어버리기는 했지만, 아직 처리해야할 소굴이 좀 더 남아있어. 그걸 맡아주지 않겠나?</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_3_finish">
-		<text>Sweet vengeance. Good work, here's the money.</text>
+		<text>달콤한 복수로군. 잘 했어, 여기 돈이야.</text>
 	</string>
 	
 	<!-- ----------------------------------------------------------------------------------------- -->
