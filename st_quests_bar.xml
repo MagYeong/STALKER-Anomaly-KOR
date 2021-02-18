@@ -430,36 +430,36 @@
 
 <!-- Aspirin (Duty Medic) -->
 	<string id="bar_dolg_medic_task_1_name">
-		<text>Find %s for Aspirin</text>
+		<text>아스피린에게 %s 를 가져다주기</text>
 	</string>
 	<string id="bar_dolg_medic_task_1_text">
-		<text>%s is required by Aspirin to work on medical supplies. I should bring them back to him if I find any.</text>
+		<text>아스피린이 약품을 보급하기 위해서 %s 가 필요하다. 하나라도 찾는다면 가져다 주어야 할 것이다.</text>
 	</string>
 	<string id="bar_dolg_medic_task_1_about">
-		<text>Maintaining what's left from medical supplies storage with this number of injuries I have to treat on daily basis is worrying. I'm gonna run out of bandages and medkits soon or later. I need you to find me one of those old drug-making kits. They will come in handy for sure.</text>
+		<text>지금 창고에 남아있는 의료품의 수준으로 볼 때 계속 이 정도의 치료 수준을 유지할 수 있을지 걱정이 돼. 조만간 붕대와 메디킷이 다 없어지고 말 거야. 그래서 이 약물 제조용 도구들 중 하나를 찾아 줬으면 해. 지금 같은 상황에서 확실히 도움이 될 거야.</text>
 	</string>
 	<string id="bar_dolg_medic_task_1_fetch_about">
-		<text>Yes, there is. Duty's ideals compel it to provide Rostok with affordable medical care. Given the state the Zone's in, believe me when I say every little bit is needed. So, if you find a %s, bring it to me. Not only will you be compensated for it, but I'll be able to expand the range of meds I can synthesize efficiently, which will benefit everyone.</text>
+		<text>그래, 하나 있어. 로스토크에 적절한 의료 서비스를 제공하는 건 듀티의 이상향이라고 할 수 있어. 존 안의 상황을 고려해 볼 때, 아주 사소한 것들이라도 필요한 상태라는 걸 믿어 줘야 할 거야. 그러니까, 네가  %s 를 찾게 된다면, 나한테 가져와 줘. 그렇게 된다면 너도 보수를 받게 되겠지만, 나도 효율적으로 합성할 수 있는 약물이 늘어난 만큼 좀 더 다양한 약품들을 취급할 수 있게 될 테니까, 모두에게 이익이 될 거야.</text>
 	</string>
 	<string id="bar_dolg_medic_task_1_fetch_finish">
-		<text>Heh, about time! Rostok's going to thank you for this, mark my words.</text>
+		<text>헤, 때맞춰 오셨군! 로스토크가 이 일을 아주 고마워 할 거야, 명심하라고.</text>
 	</string>
 	
 <!-- Snitch (100 Rads) -->
 	<string id="top_10_task_name">
-		<text>Toppers: #$num. $name</text>
+		<text>서열정리: #$num. $name</text>
 	</string>
 	<string id="top_10_task_description">
-		<text>Snitch: Your current target is going to be $comm known by the name: $name. He has been seen in $map lately. Good luck.</text>
+		<text>스니치: 네 현재 목표물은 $comm 에서 이런 이름으로 알려져 있을 거야: $name. 최근에는 $map 에서 발견되었다고 하는군. 행운을 빌게.</text>
 	</string>
 	<string id="top_10_task_name_finish">
-		<text>Toppers: Go back to Snitch for your reward.</text>
+		<text>서열정리: 스니치에게 돌아가 보수를 받아라.</text>
 	</string>
 	<string id="top_10_task_description_finish">
-		<text>Snitch: So you did it after all, huh? Bravo! Get back to the 100 Rads, your money is waiting for you.</text>
+		<text>스니치: 결국엔 해내셨구만, 응? 브라보! 100 라드 바로 돌아오면, 보상금이 기다리고 있을 거야.</text>
 	</string>
 	<string id="st_task_info_awaiting">
-		<text>Awaiting info.</text>
+		<text>정보 수신 대기중.</text>
 	</string>
 
 </string_table>
