@@ -7,280 +7,280 @@
 <string_table>
 
 	<string id="st_recipe_basic_1">
-		<text>Survival guide (issue #1)</text>
+		<text>생존 지침서 (1편)</text>
 	</string>
 	<string id="st_recipe_basic_2">
-		<text>Survival guide (issue #2)</text>
+		<text>생존 지침서 (2편)</text>
 	</string>
 	<string id="st_recipe_basic_3">
-		<text>Survival guide (issue #3)</text>
+		<text>생존 지침서 (3편)</text>
 	</string>
 	<string id="st_recipe_basic_4">
-		<text>Survival guide (issue #4)</text>
+		<text>생존 지침서 (4편)</text>
 	</string>
 	<string id="st_recipe_basic_descr">
-		<text>This guide details basic survival skills, and provides an overview of common survival kits. The later chapters describe the creation of basic gear out of common materials.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_green] � %c[ui_gray_2] informative\n
-		%c[d_blue] � %c[ui_gray_2] craft recipe\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n</text>
+		<text>이 안내서에는 가본적인 생존 기술들이 적혀 있고, 일반적인 생존용 키트에 대한 대략적인 개관이 나와 있습니다. 뒷장에는 일반적인 재료들로부터 기초적인 장비들을 만들어내는 방법이 설명되어 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_green] • %c[ui_gray_2] 정보가 포함됨\n
+		%c[d_blue] • %c[ui_gray_2] 제작법\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n</text>
 	</string>
 	
 	<string id="st_recipe_advanced_1">
-		<text>Mechanics manual (1st edition)</text>
+		<text>정비공의 설명서 (1편)</text>
 	</string>
 	<string id="st_recipe_advanced_2">
-		<text>Mechanics manual (2nd edition)</text>
+		<text>정비공의 설명서 (2편)</text>
 	</string>
 	<string id="st_recipe_advanced_3">
-		<text>Mechanics manual (3rd edition)</text>
+		<text>정비공의 설명서 (3편)</text>
 	</string>
 	<string id="st_recipe_advanced_4">
-		<text>Mechanics manual (4th edition)</text>
+		<text>정비공의 설명서 (4편)</text>
 	</string>
 	<string id="st_recipe_advanced_descr">
-		<text>Manual of mechanical engineering. Some people read such books to expand their expertise and learn more about the facilities and factories in the Zone. Contains details about basic mechanical and electrical equipments.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_green] � %c[ui_gray_2] informative\n
-		%c[d_blue] � %c[ui_gray_2] craft recipe\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n</text>
+		<text>기계 정비에 대한 설명서입니다. 몇몇 사람들은 이러한 책을 통해 전문성을 확장하고 존에 있는 시설들이나 공장들에 대한 정보를 얻습니다. 기본적인 기계나 전자 장비들에 대한 설명이 포함되어 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_green] • %c[ui_gray_2] 정보가 포함됨\n
+		%c[d_blue] • %c[ui_gray_2] 제작법\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n</text>
 	</string>
 	
 	<string id="st_recipe_expert_1">
-		<text>Engineering manual (1st edition)</text>
+		<text>공학 설명서 (1편)</text>
 	</string>
 	<string id="st_recipe_expert_2">
-		<text>Engineering manual (2nd edition)</text>
+		<text>공학 설명서 (2편)</text>
 	</string>
 	<string id="st_recipe_expert_3">
-		<text>Engineering manual (3rd edition)</text>
+		<text>공학 설명서 (3편)</text>
 	</string>
 	<string id="st_recipe_expert_4">
-		<text>Engineering manual (4th edition)</text>
+		<text>공학 설명서 (4편)</text>
 	</string>
 	<string id="st_recipe_expert_descr">
-		<text>Manual of industrial engineering. Quite informative. It describes the operation of modern electronics: operational amplifiers, semiconductor diodes, bipolar junction transistors, and field effect transistors. The second part of this manual deals with troubleshooting electrical devices.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_green] � %c[ui_gray_2] informative\n
-		%c[d_blue] � %c[ui_gray_2] craft recipe\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n</text>
+		<text>산업 공학에 대한 설명서입니다. 상당히 많은 정보가 담겨 있습니다. 이 설명서에는 다음과 같은 현대 전자공학의 구성요소가 설명되어 있습니다: 연산 증폭기, 반도체 다이오드, 양극성 접합 트랜지스터, 그리고 전계효과 트랜지스터 등. 설명서의 둘째 부분에는 문제가 발생하는 전자 장치들을 다루는 법을 설명하고 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_green] • %c[ui_gray_2] 정보가 포함됨\n
+		%c[d_blue] • %c[ui_gray_2] 제작법\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n</text>
 	</string>
 	
 	<string id="st_recipe_drug_1">
-		<text>Drug recipe #1</text>
+		<text>약물 제작법 #1</text>
 	</string>
 	<string id="st_recipe_drug_2">
-		<text>Drug recipe #2</text>
+		<text>약물 제작법 #2</text>
 	</string>
 	<string id="st_recipe_drug_3">
-		<text>Drug recipe #3</text>
+		<text>약물 제작법 #3</text>
 	</string>
 	<string id="st_recipe_drug_4">
-		<text>Drug recipe #4</text>
+		<text>약물 제작법 #4</text>
 	</string>
 	<string id="st_recipe_drug_descr">
-		<text>A couple of pages torn off from a book. Handwritten in blue ink that got smudgy due to the effect of environmental factors, which makes the text extremely hard to make out. The written notes describe the creation of various types of drugs and medicines using common medical supplies.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_green] � %c[ui_gray_2] informative\n
-		%c[d_blue] � %c[ui_gray_2] craft recipe\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n</text>
+		<text>책에서 뜯어진 몇 장의 종이입니다. 파란색 잉크를 이용해 수기로 작성된 글씨는 환경적인 요소로 인해 얼룩이 져 있어, 알아보기가 극도로 어려워졌습니다. 다양한 종류의 약물이나 의약품들을 일반적인 의료 용품을 가지고 만드는 법이 설명되어 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_green] • %c[ui_gray_2] 정보가 포함됨\n
+		%c[d_blue] • %c[ui_gray_2] 제작법\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n</text>
 	</string>
 	
 	<string id="st_recipe_ammo_1">
-		<text>Safety guide to ammunition (1st edition)</text>
+		<text>탄약에 대한 안전 설명서 (1편)</text>
 	</string>
 	<string id="st_recipe_ammo_2">
-		<text>Safety guide to ammunition (2nd edition)</text>
+		<text>탄약에 대한 안전 설명서 (2편)</text>
 	</string>
 	<string id="st_recipe_ammo_3">
-		<text>Safety guide to ammunition (3rd edition)</text>
+		<text>탄약에 대한 안전 설명서 (3편)</text>
 	</string>
 	<string id="st_recipe_ammo_4">
-		<text>Safety guide to ammunition (4th edition)</text>
+		<text>탄약에 대한 안전 설명서 (4편)</text>
 	</string>
 	<string id="st_recipe_ammo_descr">
-		<text>Every stalker should learn to choose a gun, but also know how to choose ammunition for it. This guide provides informations about various types of ammunition, plus an in-depth view about the basic components of cartridges.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_green] � %c[ui_gray_2] informative\n
-		%c[d_blue] � %c[ui_gray_2] craft recipe\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n</text>
+		<text>모든 스토커들은 총기를 선택하는 법을 배워야 하며, 그 총에 맞는 탄약 또한 선택할 줄 알아야 합니다. 이 설명서는 다양한 종류의 탄약 정보와 함께, 탄약의 기본 재료에 대한 상세한 자료들을 제공해 줍니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_green] • %c[ui_gray_2] 정보가 포함됨\n
+		%c[d_blue] • %c[ui_gray_2] 제작법\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n</text>
 	</string>
 	
 	<string id="st_recipe_cooking_1">
-		<text>Chef's notes</text>
+		<text>조리사의 쪽지</text>
 	</string>
 	<string id="st_recipe_cooking_descr">
-		<text>A couple of handwritten pages, contains detailed recipes regarding marinating mutant meat in alcohol by certain tempretures. According to the notes, it reduces the harming effects of radiated meat. Seems like the author is an experienced zoner.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_green] � %c[ui_gray_2] informative\n
-		%c[d_blue] � %c[ui_gray_2] cooking recipe\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n</text>
+		<text>수기로 작성된 몇 장의 쪽지로, 특정한 온도에서 뮤턴트 고기를 주류에 재우는 방법이 자세하게 적혀 있습니다. 쪽지에 의하면, 방사능에 찌든 고기의 해로운 효과를 중화해 준다고 합니다. 경험이 많은 존 거주자에 의해 작성된 것으로 보입니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_green] • %c[ui_gray_2] 정보가 포함됨\n
+		%c[d_blue] • %c[ui_gray_2] 조리법\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n</text>
 	</string>
 	
 	<string id="st_memoirs_1_of_2_name">
-		<text>A stalker's journal (part 1 of 2)</text>
+		<text>스토커의 일기 (2쪽 중 1쪽)</text>
 	</string>
 	<string id="st_memoirs_1_of_2_desc">
-		<text>An old, faded notebook slipped into a card sleeve in order to protect it from wear and tear. However, it didn't withstand the passage of time well and only a small part of the text is legible.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>낡고, 희미해진 공책이 닭고 찢어지는 것을 막기 위해 카드 상자 안에 들어가 있었습니다. 하지만, 결국 시간의 흐름은 이겨내지 못했고 문서들 중의 극히 일부분만 읽을 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_memoirs_2_of_2_name">
-		<text>A stalker's journal (part 2 of 2)</text>
+		<text>스토커의 일기 (2쪽 중 2쪽)</text>
 	</string>
 	<string id="st_memoirs_2_of_2_desc">
-		<text>An old, faded notebook slipped into a card sleeve in order to protect it from wear and tear. However, it didn't withstand the passage of time well and only a small part of the text is legible.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>낡고, 희미해진 공책이 닭고 찢어지는 것을 막기 위해 카드 상자 안에 들어가 있었습니다. 하지만, 결국 시간의 흐름은 이겨내지 못했고 문서들 중의 극히 일부분만 읽을 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_freedom_manual_1_of_2_name">
-		<text>Interrogation techniques: the basics (part 1 of 2)</text>
+		<text>심문의 정석: 기본편 (2쪽 중 1쪽)</text>
 	</string>
 	<string id="st_freedom_manual_1_of_2_desc">
-		<text>An instructional leaflet with a large Freedom emblem at the upper right corner and a simple drawing of a hand-gun pointing at a kneeling human figure. It is titled "Interrogation techniques: The basics" and is written in a typical, laid-back slang of the faction.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>상단 오른쪽 구석에 커다란 프리덤 엠블럼이 있고 권총이 무릎 꿇은 인간의 형상을 겨누고 있는 간단한 그림이 그려진 교육용 책자입니다. 제목은 "심문의 정석: 기본편"이라고 되어 있고 전형적인, 프리덤 세력의 느긋한 은어로 쓰여져 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_freedom_manual_2_of_2_name">
-		<text>Interrogation techniques: the basics (part 2 of 2)</text>
+		<text>심문의 정석: 기본편 (2쪽 중 2쪽)</text>
 	</string>
 	<string id="st_freedom_manual_2_of_2_desc">
-		<text>An instructional leaflet with a large Freedom emblem at the upper right corner and a simple drawing of a hand-gun pointing at a kneeling human figure. It is titled "Interrogation techniques: The basics" and is written in a typical, laid-back slang of the faction.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>상단 오른쪽 구석에 커다란 프리덤 엠블럼이 있고 권총이 무릎 꿇은 인간의 형상을 겨누고 있는 간단한 그림이 그려진 교육용 책자입니다. 제목은 "심문의 정석: 기본편"이라고 되어 있고 전형적인, 프리덤 세력의 느긋한 은어로 쓰여져 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_stalker_letter_1_of_2_name">
-		<text>Memoir (part 1 of 2)</text>
+		<text>회고록 (2쪽 중 1쪽)</text>
 	</string>
 	<string id="st_stalker_letter_1_of_2_desc">
-		<text>A couple of pages torn off from a memoir. Handwritten in blue ink that got smudgy due to the effect of environmental factors, which makes the text extremely hard to make out. Author unknown.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>회고록에서 찢겨져 나온 몇 장의 종이입니다. 파란색 잉크를 이용해 수기로 작성된 글씨는 환경적인 요소로 인해 얼룩이 져 있어, 알아보기가 극도로 어려워졌습니다. 저자 미상.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_stalker_letter_2_of_2_name">
-		<text>Memoir (part 2 of 2)</text>
+		<text>회고록 (2쪽 중 2쪽)</text>
 	</string>
 	<string id="st_stalker_letter_2_of_2_desc">
-		<text>A couple of pages torn off from a memoir. Handwritten in blue ink that got smudgy due to the effect of environmental factors, which makes the text extremely hard to make out. Author unknown.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>회고록에서 찢겨져 나온 몇 장의 종이입니다. 파란색 잉크를 이용해 수기로 작성된 글씨는 환경적인 요소로 인해 얼룩이 져 있어, 알아보기가 극도로 어려워졌습니다. 저자 미상.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_ecologist_report_1_of_3_name">
-		<text>Walking Dead Findings field report 39B rev. 2 (part 1 of 3)</text>
+		<text>걸어다니는 시체 발견 현장 보고서 39B 2차 개정판 (3쪽 중 1쪽)</text>
 	</string>
 	<string id="st_ecologist_report_1_of_3_desc">
-		<text>A machine-typed document stamped with the Ecologist research team emblem. Classified as strictly confidential and signed by: %c[ui_gray_1]Arkady Cvetkovsky.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] scientific item\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>기계로 타이핑된 문서로 과학자 연구팀의 인장이 찍혀져 있습니다. 극비 문서로 분류되어 있고 다음 인물의 서명이 들어가 있습니다: %c[ui_gray_1]아르카디 크베트코프스키.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 과학 관련 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_ecologist_report_2_of_3_name">
-		<text>Walking Dead Findings field report 39B rev. 2 (part 2 of 3)</text>
+		<text>걸어다니는 시체 발견 현장 보고서 39B 2차 개정판 (3쪽 중 2쪽)</text>
 	</string>
 	<string id="st_ecologist_report_2_of_3_desc">
-		<text>A machine-typed document stamped with the Ecologist research team emblem. Classified as strictly confidential and signed by: %c[ui_gray_1]Arkady Cvetkovsky.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] scientific item\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>기계로 타이핑된 문서로 과학자 연구팀의 인장이 찍혀져 있습니다. 극비 문서로 분류되어 있고 다음 인물의 서명이 들어가 있습니다: %c[ui_gray_1]아르카디 크베트코프스키.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 과학 관련 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_ecologist_report_3_of_3_name">
-		<text>Walking Dead Findings field report 39B rev. 2 (part 3 of 3)</text>
+		<text>걸어다니는 시체 발견 현장 보고서 39B 2차 개정판 (3쪽 중 3쪽)</text>
 	</string>
 	<string id="st_ecologist_report_3_of_3_desc">
-		<text>A machine-typed document stamped with the Ecologist research team emblem. Classified as strictly confidential and signed by: %c[ui_gray_1]Arkady Cvetkovsky.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] scientific item\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>기계로 타이핑된 문서로 과학자 연구팀의 인장이 찍혀져 있습니다. 극비 문서로 분류되어 있고 다음 인물의 서명이 들어가 있습니다: %c[ui_gray_1]아르카디 크베트코프스키.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 과학 관련 물품\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_monolith_prayer_1_of_3_name">
-		<text>Monolith prayer (part 1 of 3)</text>
+		<text>모노리스 기도문 (3쪽 중 1쪽)</text>
 	</string>
 	<string id="st_monolith_prayer_1_of_3_desc">
-		<text>An untitled document comprising a few paragraphs one below another. Frequent references to the Monolith indicate a religious nature of the written text. The paper is preserved very well, which suggests that it has been treated with great care and respect so that its condition doesn't deteriorate.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>밑으로 써내려간 몇몇 문장들로 구성된 이름없는 문서입니다. 모노리스에 대한 잦은 언급은 이 문서가 종교적인 의미를 담고 있다는 것을 나타내 줍니다. 종이는 매우 잘 보존되어 있어, 문서가 훼손되지 않도록 세심한 주의와 존경심을 바탕으로 관리되었음을 추측할 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_monolith_prayer_2_of_3_name">
-		<text>Monolith prayer (part 2 of 3)</text>
+		<text>모노리스 기도문 (3쪽 중 2쪽)</text>
 	</string>
 	<string id="st_monolith_prayer_2_of_3_desc">
-		<text>An untitled document comprising a few paragraphs one below another. Frequent references to the Monolith indicate a religious nature of the written text. The paper is preserved very well, which suggests that it has been treated with great care and respect so that its condition doesn't deteriorate.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>밑으로 써내려간 몇몇 문장들로 구성된 이름없는 문서입니다. 모노리스에 대한 잦은 언급은 이 문서가 종교적인 의미를 담고 있다는 것을 나타내 줍니다. 종이는 매우 잘 보존되어 있어, 문서가 훼손되지 않도록 세심한 주의와 존경심을 바탕으로 관리되었음을 추측할 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_monolith_prayer_3_of_3_name">
-		<text>Monolith prayer (part 3 of 3)</text>
+		<text>모노리스 기도문 (3쪽 중 3쪽)</text>
 	</string>
 	<string id="st_monolith_prayer_3_of_3_desc">
-		<text>An untitled document comprising a few paragraphs one below another. Frequent references to the Monolith indicate a religious nature of the written text. The paper is preserved very well, which suggests that it has been treated with great care and respect so that its condition doesn't deteriorate.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>밑으로 써내려간 몇몇 문장들로 구성된 이름없는 문서입니다. 모노리스에 대한 잦은 언급은 이 문서가 종교적인 의미를 담고 있다는 것을 나타내 줍니다. 종이는 매우 잘 보존되어 있어, 문서가 훼손되지 않도록 세심한 주의와 존경심을 바탕으로 관리되었음을 추측할 수 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_monolithian_thoughts_name">
-		<text>Monolithian's journal</text>
+		<text>모노리스의 일기</text>
 	</string>
 	<string id="st_monolithian_thoughts_desc">
-		<text>A hand-written sheet of paper. At the beginning, the writing of the note is extremely chaotic and untidy as if the person writing it was suffering from a severe mental disorder. Interestingly, the further down the sheet, the text becomes plainer, letters much clearer and the last words are written with an almost perfect, machine-like precision.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>수기로 작성된 일지입니다. 노트의 시작 부분에 휘갈겨져 있는 글씨는 매우 혼란스럽고 불안정하여 이걸 쓰고 있던 사람이 마치 심각한 정신 장애를 겪고 있는 것처럼 보입니다. 흥미롭게도, 문서의 아래쪽으로 내려갈수록, 글씨는 좀 더 평범해졌고, 글자는 좀 더 선명해지며 마지막 문구는 거의 완벽하게, 기계가 타이핑한 것처럼 정밀하게 쓰여져 있습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_letter_to_outside_name">
-		<text>A letter to Natalie</text>
+		<text>나탈리에게 보내는 편지</text>
 	</string>
 	<string id="st_letter_to_outside_desc">
-		<text>A letter apparently written by one of the stalkers to someone outside the Zone, most probably his wife or lover. The fact that you hold it in your hands suggests that it never reached the intended recipient.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>스토커들 중 한 명이 썼던 것으로 보이는, 아마도 그의 아내나 연인으로 짐작되는 존 바깥의 누군가에게 보내는 편지입니다. 이게 당신의 손에 쥐어져 있다는 것은, 이 편지가 목적지로 보내지지 못했다는 의미일 것입니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_letter_military_stalker_name">
-		<text>Military stalker's note</text>
+		<text>내무군 스토커의 노트</text>
 	</string>
 	<string id="st_letter_military_stalker_desc">
-		<text>A note found in a stash. Looks like someone was killing time during a long and boring night and then decided to leave the result of his work behind rather than throw it into the campfire.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>은닉처에서 발견한 노트입니다. 누군가가 길고 지루한 밤을 보내기 위해 그의 임무수행 결과를 그냥 모닥불에 던져넣는 것보다는 남겨 두는 것이 더 좋다는 판단의 결과물일 가능성이 가장 높습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_letter_mercenary_name">
-		<text>Mercenary's note</text>
+		<text>용병의 노트</text>
 	</string>
 	<string id="st_letter_mercenary_desc">
-		<text>A note written by one of the Mercenaries. Looks like he decided to write down some thoughts concerning his activities in the Zone. The purpose of it is unclear.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>용병들 중 한 명에 의해 쓰여진 쪽지입니다. 그가 존에서의 활동 중에 생각한 것들을 쓰기로 한 모양입니다. 왜 쪽지를 쓰게 되었는지는 불분명합니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_letter_military_log_name">
-		<text>Communication log / MSRC operation / 05.04.2014 18:36:21</text>
+		<text>대화 기록 / MSRC 작전본부 / 05.04.2014 18:36:21</text>
 	</string>
 	<string id="st_letter_military_log_desc">
-		<text>A printed transcription of the radio transmission between military units stationed in the Zone. The fact that it was in possession of one of the SKAT unit members indicates that he must have been involved in a clandestine operation, most probably concerned with the extraction of surveillance data.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] military item\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>존 내부에 주둔한 군인들 사이의 전파 통신문을 프린트한 것입니다. 이 전문이 SKAT 대원들 중 한 명의 소지품이라는 사실은 그가 조사 자료 추출과 관련이 있는 듯한 비밀 작전에 관련이 있다는 것을 보여줍니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 군용품\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_letter_stalker_letter_3_name">
-		<text>Letter to Nikolai</text>
+		<text>니콜라이에게 보내는 편지</text>
 	</string>
 	<string id="st_letter_stalker_letter_3_desc">
-		<text>A hand-written letter addressed to Nikolai. Most probably a part of a longer written conversation between two stalkers. Although correspondence in the Zone is conducted mainly by means of PDA messages, some prefer a traditional manner of communication, especially in case of most private matters and between friends. These letters are then handed to couriers who, like guides, are entrusted with some of the most difficult and dangerous tasks. It often takes a few days before a letter reaches its recipient, but still the probability of intercepting the message is much lower than in case of PDA communication. The courier profession is highly regarded among fellow stalkers and entails a position of significant influence in the stalker community.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] personal belongings\n
+		<text>니콜라이 쪽으로 보내는 수기작성된 편지입니다. 아마도 두 스토커들 사이에 이루어진 장문의 대화 중 일부분인 것 같습니다. 존 내부의 교신은 주로 PDA 메시지를 통해서 이루어지지만, 몇몇 스토커들은 특히 매우 사적인 일이나 친구들 사이에 대한 이야기들에 대해 좀 더 전통적인 의사소통 방법을 선호합니다. 그리고 이런 편지들은 가이드처럼 매우 어렵고 위험한 일을 맡길 수 있는 배달부들에게 건네집니다. 편지가 수신자에게 전해지는 건 보통 며칠 정도 걸리지만, 메시지가 가로채질 가능성은 PDA 통신보다 더욱 낮습니다. 배달부 일을 전문으로 하는 스토커는 동료 스토커들에게 높은 명성을 얻을 수 있으며 스토커 공동체들 사이에서 상당한 영향력을 가집니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 </string_table>
