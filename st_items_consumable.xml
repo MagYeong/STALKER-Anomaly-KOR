@@ -356,10 +356,10 @@
 	</string>
 	
 	<string id="st_protein">
-		<text>Chocolate protein bar</text>
+		<text>초콜릿 프로틴 바</text>
 	</string>
 	<string id="st_protein_descr">
-		<text>This bar provides the body with necessary proteins and sugars which give you a welcome boost. Useful on longer trips when you're on the go and need to eat something fast.\n \n
+		<text>이 프로틴 바는 몸에 활기를 불어넣어준는 필수 단백질과 당분을 공급해줍니다. 긴 여행을 떠나기로 했을 때 또는 무언가 급하게 먹을 만한 것이 필요할 때 유용합니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 음식\n
 		%c[d_blue] • %c[ui_gray_2] 수입품\n
@@ -369,32 +369,32 @@
 	</string>
 	
 	<string id="st_water_drink">
-		<text>Sparkling water</text>
+		<text>스파클링 워터</text>
 	</string>
 	<string id="st_water_drink_descr">
-		<text>Sparkling water for thirsty stalkers. It has some exhilarating effect when you're tired.\n \n
+		<text>목마른 스토커들을 위한 탄산수입니다. 피곤할 때 마시면 활기를 북돋워 줄 것입니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 음료\n
 		%c[d_blue] • %c[ui_gray_2] 수입품\n
-		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
+		%c[d_blue] • %c[ui_gray_2] 가벼운 숙취 해소 효과\n
 		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
 	<string id="st_drink_crow">
-		<text>"The Beak"</text>
+		<text>"비크"</text>
 	</string>
 	<string id="st_drink_crow_descr">
-		<text>"The Beak" is a powerful mixture of Zone-produced vodka and pulverised beak of a black crow. Not every beak can be used as an ingredient, because only black male crows that have lived in the Zone for more than 15 years have mutated sufficiently. The rumour has it that such beaks contain a form of enriched protein that cleanses moderate amounts of radiation from the body. Some even say that 음료ing "the Beak" makes you feel like you have wings for a few seconds. On the downside, however, the taste itself is awful.\n
+		<text>"비크"는 존에서 만들어진 보드카와 짓이겨진 까마귀의 부리로 만들어진 강력한 혼합물입니다. 모든 부리들이 재료로 쓸만한 것들은 아닌데, 그 이유는 오직 존에서 15년 이상 생존한 검은 수컷 까마귀들만이 충분히 변이되었기 때문입니다. 이런 부리들이 몸에서 적정한 양의 방사능을 정화해 주는 풍부한 단백질을 포함하고 있다는 소문이 있습니다. 몇몇 사람들은 "비크"를 들이키면 몇 초 동안 마치 날개를 달고 있는 듯한 기분이 든다고 합니다. 하지만 단점이 있는데, 바로 맛이 끔찍하다는 것입니다.\n
 		</text>
 	</string>
 	
 <!--< SMOKE >-->
 	<string id="st_cuban_cigar">
-		<text>Cuban cigar</text>
+		<text>쿠바산 시가</text>
 	</string>
 	<string id="st_cuban_cigar_descr">
-		<text>This 가치있는 물품 Cuban cigar can bring you bliss for a short while, especially when you're admiring a nice sunset. Some stalkers noticed that smoking strong tobacco repels mosquitoes. Cuban cigars are considered the finest in the world. A rare commodity.\n \n
+		<text>이 귀중한 쿠바산 시가는 특히 멋있는 석양을 바라보고 있을 때, 잠시 동안의 축복을 가져다 줄 수 있습니다. 몇몇 스토커들은 강한 담배를 피우고 있으면 모기를 쫒아낼 수 있습니다는 사실을 발견하기도 했습니다. 쿠바산 시가는 전 세계에서 으뜸으로 꼽힙니다. 희귀한 상품입니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 자극적임\n
 		%c[d_blue] • %c[ui_gray_2] 수입품\n
@@ -405,67 +405,67 @@
 	</string>
 	
 	<string id="st_cigarettes_lucky">
-		<text>Lucky Strike cigarettes</text>
+		<text>럭키 스트라이크</text>
 	</string>
 	<string id="st_cigarettes_lucky_descr">
-		<text>Cigarettes 수입품 from the West. Some stalkers trade them for a few rounds of ammo within their faction.\n \n
+		<text>서구권에서 수입된 담배입니다. 몇몇 스토커들은 소속된 세력 안에서 이런 담배를 총알 몇 발과 거래하기도 합니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 자극적임\n
 		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
-		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
+		%c[d_blue] • %c[ui_gray_2] 가벼운 숙취 해소 효과\n
 		</text>
 	</string>
 	
 	<string id="st_cigarettes_russian">
-		<text>Russian brand of cigarettes</text>
+		<text>러시아 브랜드의 담배</text>
 	</string>
 	<string id="st_cigarettes_russian_descr">
-		<text>The cheapest pack of cigarettes in the Zone. Russian budget brand.\n \n
+		<text>존에서 찾을 수 있는 가장 저렴한 담배입니다. 러시아의 저가 브랜드입니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 자극적임\n
 		%c[d_red] • %c[ui_gray_2] 낮은 품질의 물품\n
-		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
+		%c[d_blue] • %c[ui_gray_2] 가벼운 숙취 해소 효과\n
 		</text>
 	</string>
 	
 	<string id="st_cigar1">
-		<text>Soviet cigarettes</text>
+		<text>소련제 담배</text>
 	</string>
 	<string id="st_cigar1_descr">
-		<text>A pack of budget, strong and very 낮은 품질의 물품 cigarettes. Someone must have smoked most of them since there are only a few left. Genuine USSR flavour has been carefully preserved.\n \n
+		<text>저렴하고, 강력하며 매우 저질스러운 품질의 담배입니다. 누군가가 대부분 피워 없애버린 모양인지 별로 남아있지 않습니다. 진짜 소련제 향미가 세심하게 보존되어 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 자극적임\n
-		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
+		%c[d_blue] • %c[ui_gray_2] 가벼운 숙취 해소 효과\n
 		</text>
 	</string>
 	
 	<string id="st_cigar2">
-		<text>Soviet cigarettes</text>
+		<text>소련제 담배</text>
 	</string>
 	<string id="st_cigar2_descr">
-		<text>A pack of budget, strong and very 낮은 품질의 물품 cigarettes. Someone must have smoked most of them since there are only a few left. Genuine USSR flavour has been carefully preserved.\n \n
+		<text>저렴하고, 강력하며 매우 저질스러운 품질의 담배입니다. 누군가가 대부분 피워 없애버린 모양인지 별로 남아있지 않습니다. 진짜 소련제 향미가 세심하게 보존되어 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 자극적임\n
-		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
+		%c[d_blue] • %c[ui_gray_2] 가벼운 숙취 해소 효과\n
 		</text>
 	</string>
 	
 	<string id="st_cigar3">
-		<text>Soviet cigarettes</text>
+		<text>소련제 담배</text>
 	</string>
 	<string id="st_cigar3_descr">
-		<text>A pack of budget, strong and very 낮은 품질의 물품 cigarettes. Someone must have smoked most of them since there are only a few left. Genuine USSR flavour has been carefully preserved.\n \n
+		<text>저렴하고, 강력하며 매우 저질스러운 품질의 담배입니다. 누군가가 대부분 피워 없애버린 모양인지 별로 남아있지 않습니다. 진짜 소련제 향미가 세심하게 보존되어 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 자극적임\n
-		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
+		%c[d_blue] • %c[ui_gray_2] 가벼운 숙취 해소 효과\n
 		</text>
 	</string>
 	
 	<string id="st_hand_rolling_tobacco">
-		<text>Hand-rolling tobacco</text>
+		<text>수제 롤링 타바코</text>
 	</string>
 	<string id="st_hand_rolling_tobacco_descr">
-		<text>Precious hand-rolling tobacco, 수입품 from the West. With no additional ingredients, so it's possible to enjoy the original taste of tobacco leaf itself.\n \n
+		<text>서구권에서 수입된 귀한 롤링 타바코입니다. 다른 재료들이 들어가지 않기 때문에, 담배 잎의 고유의 향을 그대로 즐길 수 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 자극적임\n
 		%c[d_red] • %c[ui_gray_2] slow usage (roll up)\n
@@ -475,24 +475,24 @@
 	</string>
 	
 	<string id="st_cigarettes">
-		<text>Marlboro cigarettes</text>
+		<text>말보로</text>
 	</string>
 	<string id="st_cigarettes_descr">
-		<text>Cigarettes 수입품 from the West. Someone must have smoked most of them since there are only a few left. Smoking just one may stabilise your mental state and satisfies hunger a bit. They are rare in the Zone and quite 가치있는 물품.\n \n
+		<text>서구권에서 수입된 담배입니다. 누군가가 대부분 피워 없애버린 모양인지 별로 남아있지 않습니다. 한 개비만 피우더라도 정신을 안정시킬 수 있고 배고픔을 조금 덜어줍니다. 존에서 희귀한 물품으로 상당히 가치가 높습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 자극적임\n
-		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
+		%c[d_blue] • %c[ui_gray_2] 가벼운 숙취 해소 효과\n
 		</text>
 	</string>
 	
 	<string id="st_tobacco">
-		<text>Russian tobacco</text>
+		<text>러시아산 담배</text>
 	</string>
 	<string id="st_tobacco_descr">
-		<text>Cigarettes are expensive and rare in the Zone, and having raw tobacco enables you to produce your own cigs at a lower cost. This tin is sealed, which ensures that the tobacco will stay fresh for days or weeks depending on the conditions it's kept in.\n \n
+		<text>담배는 존에서 비싸고 희귀한 물품으로, 생 담배를 가지고 있다면 저렴한 가격으로 자신만의 담배를 만들어낼 수 있습니다. 이 담배 통은 봉인되어 있어, 담배가 보관되는 상태에 따라 하루에서 일주일 동안 신선하게 유지될 수 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 자극적임\n
-		%c[d_red] • %c[ui_gray_2] slow usage (roll up)\n
+		%c[d_red] • %c[ui_gray_2] 느린 사용 (말아서 피움)\n
 		%c[d_blue] • %c[ui_gray_2] 강력한 숙취 해소 효과\n
 		%c[d_red] • %c[ui_gray_2] 낮은 품질의 물품\n
 		</text>
