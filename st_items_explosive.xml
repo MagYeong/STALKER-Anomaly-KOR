@@ -7,147 +7,147 @@
 <string_table>
 
 	<string id="st_mine_name">
-		<text>PFM-1 scatterable anti-personnel mine</text>
+		<text>PFM-1 살포형 대인 지뢰</text>
 	</string>
 	<string id="st_mine_descr">
-		<text>PFM-1 (short for ��������������� �������� ����; NATO name: "Green parrot") used to be a standard-issue anti-personnel mine of the Red Army, employed mainly during the Soviet invasion of Afghanistan. Its widespread utilisation during the conflict led to high civilian casualties, especially among children, since randomly scattered mines were often mistaken for toys due to their familiar shape and colour. For this reason, the PFM-1 earned a sinister nickname: "Child killer." Since then, the mine has been replaced by newer models. However, as was the case with a variety of other 'retired' weaponry, a large number of these mines has somehow made its way into the Zone, becoming its primary booby-trap explosive. The mine is highly valued mainly for its functionality, user-friendliness, compact size and low weight, while its main drawback is a relatively small amount of explosive material: its power is often insufficient to kill a heavily armoured stalker with a single blast. For this reason, the mine should be used in combination with other explosive materials and it acts as an igniter. If it is not armed, the mine will not detonate, even when hit with a gun.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] explosive\n
-		%c[d_blue] � %c[ui_gray_2] military item\n
-		%c[d_blue] � %c[ui_gray_2] anti-personnel mine\n
-		%c[d_purple] � %c[ui_gray_2] triggering mechanism: %c[ui_gray_1]pressure\n
-		%c[d_purple] � %c[ui_gray_2] blast power: %c[ui_gray_1]small\n
-		%c[d_purple] � %c[ui_gray_2] blast radius: %c[ui_gray_1]2.2 m\n
-		%c[d_purple] � %c[ui_gray_2] fragments' radius: %c[ui_gray_1]none\n
-		%c[d_purple] � %c[ui_gray_2] av. number of fragments: %c[ui_gray_1]none\n
-		%c[d_purple] � %c[ui_gray_2] explosion delay: %c[ui_gray_1]none\n
+		<text>PFM-1 (Protivopekhotnaya Fugasnaya Mina; NATO명 "녹색 앵무새") 대인 지뢰는 붉은 군대의 제식 대인 지뢰로 사용되었으며, 소련의 아프가니스탄 침공 당시 주로 사용되었습니다. 전쟁 당시 이 지뢰가 널리 사용됨으로써 높은 민간인 피해가 발생하였으며, 특히 무작위로 살포된 지뢰들이 익숙한 모양과 색깔 대문에 자주 장난감으로 오인받아 아이들의 사상자가 높았습니다. 이러한 이유 때문에, PFM-1은 "아동 살해자"라는 악명높은 별명을 얻었습니다. 그 이후로, 지뢰는 신형 모델들로 대체되어 오고 있습니다. 하지만, 다른 '은퇴한' 무기들과 마찬가지로, 이런 종류의 수많은 지뢰들이 존에 흘러들어오게 되었고, 존에서 1 순위의 부비트랩 폭발물이 되었습니다. 이 지뢰는 기능성, 사용자 친화성, 작은 크기와 가벼운 무게 덕분에 가치가 높지만, 폭발성 물질이 적다는 것은 주요 단점으로 꼽힙니다. 대개 지뢰 하나만으로는 중무장한 스토커를 죽일만한 충분한 화력이 나오지 않는 경우가 많습니다. 이러한 이유 때문에, 지뢰는 다른 폭발성 물질과 함께 사용하는 기폭제의 역할로 조합하여 사용되는 것이 권장됩니다. 이 지뢰는 작동되지 않은 상태에서는 터지지 않으며, 이는 총에 피격되었을 때도 마찬가지입니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 폭발물\n
+		%c[d_blue] • %c[ui_gray_2] 군용품\n
+		%c[d_blue] • %c[ui_gray_2] 대인 지뢰\n
+		%c[d_purple] • %c[ui_gray_2] 격발 방식: %c[ui_gray_1]가압식\n
+		%c[d_purple] • %c[ui_gray_2] 폭발력: %c[ui_gray_1]작음\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 반경: %c[ui_gray_1]2.2 m\n
+		%c[d_purple] • %c[ui_gray_2] 파편 살포 반경: %c[ui_gray_1]없음\n
+		%c[d_purple] • %c[ui_gray_2] 평균적인 파편 개수: %c[ui_gray_1]없음\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 지연 시간: %c[ui_gray_1]없음\n
 		</text>
 	</string>
 	
 	<string id="st_ied_rpg">
-		<text>Improvised explosive device (based on OG-7V warhead)</text>
+		<text>급조 폭발 장치 (OG-7V 탄두 기반)</text>
 	</string>
 	<string id="st_ied_rpg_descr">
-		<text>Improvised explosive device based on OG-7V warhead and parts of a car battery. It looks like it has been carried around for quite some time and could go off any second. Fortunately, the triggering mechanism ensures that it won't unless the explosive is directly hit by a bullet or subjected to other potent physical force. In the Zone, IEDs are quite popular and Zoners use them for a variety of purposes, from gaining access to closed areas to ambushes. They are also often placed next to mines to greatly amplify the power of explosion. IED can be effectively concealed making it virtually invisible to everyone else.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] explosive\n
-		%c[d_blue] � %c[ui_gray_2] military item\n
-		%c[d_blue] � %c[ui_gray_2] unnoticeable when placed on ground\n
-		%c[d_purple] � %c[ui_gray_2] triggering mechanism: %c[ui_gray_1]proximity\n
-		%c[d_purple] � %c[ui_gray_2] blast power: %c[ui_gray_1]high\n
-		%c[d_purple] � %c[ui_gray_2] blast radius: %c[ui_gray_1]7.8 m\n
-		%c[d_purple] � %c[ui_gray_2] fragments' radius: %c[ui_gray_1]56 m\n
-		%c[d_purple] � %c[ui_gray_2] av. number of fragments: %c[ui_gray_1]440 (shrapnel)\n
-		%c[d_purple] � %c[ui_gray_2] explosion delay: %c[ui_gray_1]none\n
+		<text>OG-7V RPG 탄두와 자동차 배터리의 부품들로 만든 급조된 폭발 장치입니다. 상당한 기간 동안 운반되었던 것으로 보이고 언제든지 폭발할 수 있습니다. 다행히도, 격발 장치로 인해 직접적으로 총탄에 피격되거나 다른 강력한 물리적 위력을 받지 않는 이상 폭발하지는 않을 것처럼 보입니다. 존에서, IED는 상당히 인기가 많고 존의 거주자들은 이 물건을 폐쇄된 곳으로 갈 통로를 열거나 습격에 쓰는 등의 다양한 목적으로 활용합니다. 또한 지뢰 옆에 놓아 두어 폭발력을 엄청나게 증폭시킬 수 있습니다. IED는 다른 사람들이 거의 발견하지 못할 정도로 효과적으로 은폐시킬 수 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 폭발물\n
+		%c[d_blue] • %c[ui_gray_2] 군용품\n
+		%c[d_blue] • %c[ui_gray_2] 설치했을 때 발각되지 않음\n
+		%c[d_purple] • %c[ui_gray_2] 격발 방식: %c[ui_gray_1]근접 신관\n
+		%c[d_purple] • %c[ui_gray_2] 폭발력: %c[ui_gray_1]높음\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 반경: %c[ui_gray_1]7.8 m\n
+		%c[d_purple] • %c[ui_gray_2] 파편 살포 반경: %c[ui_gray_1]56 m\n
+		%c[d_purple] • %c[ui_gray_2] 평균적인 파편 개수: %c[ui_gray_1]440 (산탄 파편)\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 지연 시간: %c[ui_gray_1]없음\n
 		</text>
 	</string>
 	
 	<string id="st_ied">
-		<text>Improvised explosive device (based on chemicals)</text>
+		<text>급조 폭발 장치 (화학 물질 기반)</text>
 	</string>
 	<string id="st_ied_descr">
-		<text>Improvised explosive device produced from various chemical substances, with a broken electrical igniter and in steel ball container. Chemicals used in the device produce intense odour and are heavily toxic. This IED is significantly more powerful than a more common OG-7V version. In the Zone, IEDs are quite popular and Zoners use them for a variety of purposes, from gaining access to closed areas to ambushes. They are also often placed next to mines to greatly amplify the explosion's power. IED can be effectively concealed making it virtually invisible to everyone else.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] explosive\n
-		%c[d_blue] � %c[ui_gray_2] military item\n
-		%c[d_blue] � %c[ui_gray_2] unnoticeable when placed on ground\n
-		%c[d_purple] � %c[ui_gray_2] triggering mechanism: %c[ui_gray_1]proximity\n
-		%c[d_purple] � %c[ui_gray_2] blast power: %c[ui_gray_1]very high\n
-		%c[d_purple] � %c[ui_gray_2] blast radius: %c[ui_gray_1]12.9 m\n
-		%c[d_purple] � %c[ui_gray_2] fragments radius: 
+		<text>부서진 전기 점화장치와 쇠구슬 상자가 설치된, 다양한 화학물질들로 만들어진 급조된 폭발 장치입니다. 이 폭발물에 사용된 화학 물질들은 강력한 악취와 독성을 만들어냅니다. 이 IED는 좀 더 흔한 OG-7V 형태의 폭발물보다 좀 더 강력합니다. 존에서, IED는 상당히 인기가 많고 존의 거주자들은 폐쇄된 곳으로 갈 통로를 열거나 습격에 쓰이는 등의 다양한 목적으로 활용합니다. 또한 지뢰 옆에 놓아 두어 폭발력을 엄청나게 증폭시키는 형태로 자주 사용됩니다. IED는 다른 사람들이 거의 발견하지 못할 정도로 효과적으로 은폐시킬 수 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 폭발물\n
+		%c[d_blue] • %c[ui_gray_2] 군용품\n
+		%c[d_blue] • %c[ui_gray_2] 설치했을 때 발각되지 않음\n
+		%c[d_purple] • %c[ui_gray_2] 격발 방식: %c[ui_gray_1]근접 신관\n
+		%c[d_purple] • %c[ui_gray_2] 폭발력: %c[ui_gray_1]매우 높음\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 반경: %c[ui_gray_1]12.9 m\n
+		%c[d_purple] • %c[ui_gray_2] 파편 살포 반경: 
 		%c[ui_gray_1]74 m\n
-		%c[d_purple] � %c[ui_gray_2] av. number of fragments: %c[ui_gray_1]580 (steel balls)\n
-		%c[d_purple] � %c[ui_gray_2] explosion delay: %c[ui_gray_1]none\n
+		%c[d_purple] • %c[ui_gray_2] 평균적인 파편 개수: %c[ui_gray_1]580 (쇠구슬)\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 지연 시간: %c[ui_gray_1]없음\n
 		</text>
 	</string>
 	
 	<string id="st_balon_gas">
-		<text>Gas balloon
+		<text>가스통
 		</text>
 	</string>
 	<string id="st_balon_gas_descr">
 		<text>\n \n
-		%c[d_red]WARNING: Explodes upon impact\n \n
-		%c[ui_gray_1]Heavy metal gas balloon impregnated with compatible polymer on the inside and on the outside with Hypalon for weather abrasion and UV resistance. This gas holder balloon is a collapsible, intermediated storage tank for any industrial gas, prior to bottling under pressure. In the Zone such canisters most often contain a composition of methane, propane, ethane and butane, and can be used for cooking or heating as well as for combat purposes. Upon direct gunfire, the canister may ignite and after a short while a rapid release of a considerable amount of energy may follow, causing the gas in the balloon to expand instantly and resulting in a delayed but powerful explosion with metal shrapnel going in every direction. Such canisters have been utilised as a weapon in the feuds between factions in the Zone killing many and crippling even more. If emptied, the balloon can be utilised for armour repairs.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] explosive\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] contains: %c[ui_gray_1] refined natural gas\n
-		%c[d_green] � %c[ui_gray_2] hi-tier cooking fuel\n
-		%c[d_purple] � %c[ui_gray_2] triggering mechanism: %c[ui_gray_1]bullet impact or explosion\n
-		%c[d_purple] � %c[ui_gray_2] blast power: %c[ui_gray_1]very high\n
-		%c[d_purple] � %c[ui_gray_2] blast radius: %c[ui_gray_1]6.4 m\n
-		%c[d_purple] � %c[ui_gray_2] fragments' radius: %c[ui_gray_1]36 m\n
-		%c[d_purple] � %c[ui_gray_2] av. number of fragments: %c[ui_gray_1]28 (heavy metal fragments)\n
-		%c[d_purple] � %c[ui_gray_2] explosion delay: %c[ui_gray_1]~2 seconds\n
+		%c[d_red]경고: 충격을 받으면 폭발함\n \n
+		%c[ui_gray_1]안쪽에는 용도에 맞도록 폴리머가 내장되어 있고 외부에는 날씨에 따른 마모와 자외선에 대한 저항력이 있는 하이팔론 코팅이 된 무거운 금속제 가스통입니다. 이 가스통은 부서질 수 있고, 모든 공업용 가스들이 압축되어 보관되기 전 단계의 중간 저장용 용기로 쓸 수 있습니다. 존에서 이런 종류의 용기들은 보통 메탄, 프로판, 에탄 그리고 부탄의 혼합 가스를 저장하고 있으며 조리나 난방 또는 전투용 목적으로 사용될 수 있습니다. 직접 총탄에 피격될 경우, 용기는 점화될 수 있으며 잠시 후 상당한 양의 에너지가 급격하게 방출되어, 통 안의 가스가 즉시 팽창하여 결과적으로 약간 시간이 걸리지만 강력한 폭발과 함께 금속 파편이 전 방위로 퍼지게 됩니다. 이러한 가스통들은 존의 세력 간 분쟁에서 무기로써 사용되며 많은 사망자와 더 많은 부상자를 만들었습니다. 내용물이 비어 있을 경우, 가스통은 방어구 수리에 사용될 수 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 폭발물\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_blue] • %c[ui_gray_2] 내용물: %c[ui_gray_1] 정제된 천연 가스\n
+		%c[d_green] • %c[ui_gray_2] 높은 등급의 조리용 연료\n
+		%c[d_purple] • %c[ui_gray_2] 격발 방식: %c[ui_gray_1]탄환 피격 또는 폭발\n
+		%c[d_purple] • %c[ui_gray_2] 폭발력: %c[ui_gray_1]매우 높음\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 반경: %c[ui_gray_1]6.4 m\n
+		%c[d_purple] • %c[ui_gray_2] 파편 살포 반경: %c[ui_gray_1]36 m\n
+		%c[d_purple] • %c[ui_gray_2] 평균적인 파편 개수: %c[ui_gray_1]28 (무거운 금속 파편)\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 지연 시간: %c[ui_gray_1]~2 초\n
 		</text>
 	</string>
 
 	<string id="st_balon_gas_empty">
-		<text>Gas balloon (empty)</text>
+		<text>가스통 (비어 있음)</text>
 	</string>
 	<string id="st_balon_gas_empty_descr">
-		<text>Emptied heavy metal gas balloon impregnated with compatible polymer on the inside and on the outside with Hypalon for weather abrasion and UV resistance. This gas holder balloon is a collapsible, intermediated storage tank for any industrial gas, prior to bottling under pressure. In the Zone such canisters most often contain a composition of methane, propane, ethane and butane, and can be used for cooking or heating as well as for combat purposes. It is empty now, but you can still put it to good use in outfit maintenance.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
+		<text>안쪽에는 용도에 맞도록 폴리머가 내장되어 있고 외부에는 날씨에 따른 마모와 자외선에 대한 저항력이 있는 하이팔론 코팅이 된 무거운 금속제 가스통입니다. 이 가스통은 부서질 수 있고, 모든 공업용 가스들이 압축되어 보관되기 전 단계의 중간 저장용 용기로 쓸 수 있습니다. 존에서 이런 종류의 용기들은 보통 메탄, 프로판, 에탄 그리고 부탄의 혼합 가스를 저장하고 있으며 조리나 난방 또는 전투용 목적으로 사용될 수 있습니다. 직접 총탄에 피격될 경우, 용기는 점화될 수 있으며 잠시 후 상당한 양의 에너지가 급격하게 방출되어, 통 안의 가스가 즉시 팽창하여 결과적으로 약간 시간이 걸리지만 강력한 폭발과 함께 금속 파편이 전 방위로 퍼지게 됩니다. 이러한 가스통들은 존의 세력 간 분쟁에서 무기로써 사용되며 많은 사망자와 더 많은 부상자를 만들었습니다. 지금은 비어있지만, 아직 방어구를 유지보수하는 데 사용할 수 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
 		</text>
 	</string>
 	
 	<string id="st_metalcan_powder">
-		<text>Powder can
+		<text>화약통
 		</text>
 	</string>
 	<string id="st_metalcan_powder_descr">
 		<text>\n \n
-		%c[d_red]WARNING: Explodes upon impact\n \n
-		%c[ui_gray_1]A small and moderately heavy metal can filled with a mixture of explosive industrial chemicals, metal bolts and nuts as well as black gunpowder retrieved from old ammunition. A notorious death trap designed by a group of Russian bandits known as "the Swireksters" and sold to various bandit groups operating in the Zone. Upon direct gunfire, the can will instantly explode with metal bolts and corrosive chemicals bursting in every direction. No one in their right mind should drop their guard when planning to make use of this deadly weapon. You can also use the metal parts of the can for emergency maintenance of outfits.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] explosive\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_purple] � %c[ui_gray_2] triggering mechanism: %c[ui_gray_1]bullet impact or explosion\n
-		%c[d_purple] � %c[ui_gray_2] blast power: %c[ui_gray_1]low\n
-		%c[d_purple] � %c[ui_gray_2] blast radius: %c[ui_gray_1]1.8 m\n
-		%c[d_purple] � %c[ui_gray_2] fragments' radius: %c[ui_gray_1]14 m\n
-		%c[d_purple] � %c[ui_gray_2] av. number of fragments: %c[ui_gray_1]77 (small metal pieces)\n
-		%c[d_purple] � %c[ui_gray_2] explosion delay: %c[ui_gray_1]none\n
+		%c[d_red]경고: 충격을 받으면 폭발함\n \n
+		%c[ui_gray_1]폭발성 산업 화학물질들의 혼합물과, 금속 볼트 및 너트와 힘께 오래된 탄약에서 가져온 흑색 화약으로 채워져 있는 작고 평범한 무거운 금속 캔입니다. "스위렉스터스" 라고 알려진 러시아 밴딧 무리들에 의해 디자인된 악명높은 살인용 함정으로서 존에서 돌아다니는 다양한 밴딧 무리들에게 판매되었습니다. 총탄에 직접 피격될 경우, 통은 즉시 폭발하여 금속 볼트들과 부식성 화학물을 전방위에 살포합니다. 이 치명적인 무기를 사용하려고 계획중인 사람들은 제정신이 박혀 있다면 절대 긴장을 풀지 않을 것입니다. 이 화약통의 금속 부분은 방어구의 응급 수리에 사용될 수도 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 폭발물\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_purple] • %c[ui_gray_2] 격발 방식: %c[ui_gray_1]탄환 피격 또는 폭발\n
+		%c[d_purple] • %c[ui_gray_2] 폭발력: %c[ui_gray_1]낮음\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 반경: %c[ui_gray_1]1.8 m\n
+		%c[d_purple] • %c[ui_gray_2] 파편 살포 반경: %c[ui_gray_1]14 m\n
+		%c[d_purple] • %c[ui_gray_2] 평균적인 파편 개수: %c[ui_gray_1]77 (작은 금속 파편)\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 지연 시간: %c[ui_gray_1]없음\n
 		</text>
 	</string>
 	
 	<string id="st_jerrycan_item">
-		<text>Jerrycan
+		<text>기름통
 		</text>
 	</string>
 	
 	<string id="st_jerrycan_fuel">
-		<text>Jerrycan
+		<text>기름통
 		</text>
 	</string>
 	<string id="st_jerrycan_fuel_descr">
 		<text>\n \n
-		%c[d_red]WARNING: Explodes upon impact\n \n
-		%c[ui_gray_1]A large metal can filled with E95 gasoline. Jerrycans were brought to the Zone in large quantities by the Ukrainian military for their armoured vehicles. Initially, they served their purpose, but after the second Chernobyl Disaster vehicles for reasons still unknown were no longer operational. While some Zoners are still trying to make the wrecks work again, others have found alternate ways of utilising the jerrycans, namely, as improvised explosives. Upon direct hit, the canister will catch fire and explode after a slight delay. Although heavy and cumbersome, it is extremely powerful, and a well-placed jerrycan can be lethal even if the target wears the heaviest of body armours. On the other hand, the explosion is often so potent that the killer becomes the victim himself, so it's best to use these canisters with caution. There are rumours that a veteran stalker named Yuya once saved his skin by luring a pseudogiant into a jerrycan trap. He emptied his last Makarov magazine and the giant burst into flames with a roar that was heard throughout the Jupiter.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] explosive\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] contains: %c[ui_gray_1] E95 gasoline\n
-		%c[d_green] � %c[ui_gray_2] hi-tier cooking fuel\n
-		%c[d_purple] � %c[ui_gray_2] triggering mechanism: %c[ui_gray_1]bullet impact or explosion\n
-		%c[d_purple] � %c[ui_gray_2] blast power: %c[ui_gray_1]high\n
-		%c[d_purple] � %c[ui_gray_2] blast radius: %c[ui_gray_1]5.6 m\n
-		%c[d_purple] � %c[ui_gray_2] fragments' radius: %c[ui_gray_1]28 m\n
-		%c[d_purple] � %c[ui_gray_2] av. number of fragments: %c[ui_gray_1]39 (heavy metal fragments)\n
-		%c[d_purple] � %c[ui_gray_2] explosion delay: %c[ui_gray_1]~3 seconds\n
+		%c[d_red]경고: 충격을 받으면 폭발함\n \n
+		%c[ui_gray_1]E95 휘발유로 채워진 큰 금속 통입니다. 우크라이나 내무군은 장갑차를 이용하기 위하여 많은 양의 기름통을 존에 반입했습니다. 처음에, 이러한 기름들은 목적대로 사용되었지만, 제 2차 체르노빌 참사 이후 알 수 없는 이유로 장갑차들이 더 이상 운행하지 않게 되었습니다. 몇몇 존 거주자들이 이 고철덩이들을 다시 움직이게 하려고 노력하지만, 다른 사람들은 기름통을 문자 그대로 급조 폭발물로서 사용하는 다른 방법을 찾아냈습니다. 총탄에 직접 피격되었을 때, 기름통은 불이 붙은 뒤 약간의 시간이 경과한 후 폭발합니다. 비록 무겁고 다루기 어렵지만 매우 강력하며, 설치가 잘 된 기름통은 목표물이 가장 육중한 장갑을 입었더라도 치명적인 피해를 줄 수 있습니다. 그렇지만, 폭발의 위력은 너무 강력하여 사용자도 폭발의 희생양이 될 수 있기 때문에, 기름통을 사용하는 데 각별한 주의를 기울이는 것이 가장 좋습니다. 유야라는 이름의 스토커가 기름통 함정으로 사칭거인 한 마리를 유인하여 목숨을 건졌다는 소문이 있습니다. 그는 마카로프 권총의 마지막 탄알을 쏟아부었고 거인은 주피터 전역에 들릴 만한 비명을 지르며 불길에 휩싸여갔다고 합니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 폭발물\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_blue] • %c[ui_gray_2] 내용물: %c[ui_gray_1] E95 휘발유\n
+		%c[d_green] • %c[ui_gray_2] 높은 등급의 조리용 연료\n
+		%c[d_purple] • %c[ui_gray_2] 격발 방식: %c[ui_gray_1]탄환 피격 또는 폭발\n
+		%c[d_purple] • %c[ui_gray_2] 폭발력: %c[ui_gray_1]높음\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 반경: %c[ui_gray_1]5.6 m\n
+		%c[d_purple] • %c[ui_gray_2] 파편 살포 반경: %c[ui_gray_1]28 m\n
+		%c[d_purple] • %c[ui_gray_2] 평균적인 파편 개수: %c[ui_gray_1]39 (무거운 금속 파편)\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 지연 시간: %c[ui_gray_1]~3 초\n
 		</text>
 	</string>
 
 	<string id="st_jerrycan_fuel_empty">
-		<text>Jerrycan (empty)</text>
+		<text>기름통 (비어 있음)</text>
 	</string>
 	<string id="st_jerrycan_fuel_empty_descr">
-		<text>Empty metal can. It can only be used as material for the purposes of basic outfit repairs or sold to traders.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] explosive\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
+		<text>비어있는 금속 캔입니다. 기본적인 방어구 수리에 쓰거나 상인한테 파는 용도로만 사용할 수 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 폭발물\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
 		</text>
 	</string>
 	
