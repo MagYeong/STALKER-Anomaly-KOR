@@ -368,10 +368,10 @@
 		</text>
 	</string>
 	
-	<string id="st_water_음료">
+	<string id="st_water_drink">
 		<text>Sparkling water</text>
 	</string>
-	<string id="st_water_음료_descr">
+	<string id="st_water_drink_descr">
 		<text>Sparkling water for thirsty stalkers. It has some exhilarating effect when you're tired.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 음료\n
@@ -537,10 +537,10 @@
 		<text>Coca-Cola (irradiated)</text>
 	</string>
 	<string id="st_redbull_radiated">
-		<text>Redbull energy 음료</text>
+		<text>Redbull energy drink</text>
 	</string>
 	<string id="st_guru_radiated">
-		<text>GURU energy 음료 (irradiated)</text>
+		<text>GURU energy drink (irradiated)</text>
 	</string>
 	<string id="st_marlboro_radiated">
 		<text>Marlboro cigarettes (irradiated)</text>
@@ -554,7 +554,7 @@
 	<string id="st_cigarettes_1_radiated">
 		<text>Cuban cigars (irradiated)</text>
 	</string>
-	<string id="st_wild_음료_radiated">
+	<string id="st_wild_drink_radiated">
 		<text>Zone-produced liquor (irradiated)</text>
 	</string>
 	<string id="st_kolbasa_smoked_radiated">
