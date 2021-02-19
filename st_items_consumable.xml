@@ -1,294 +1,294 @@
 <?xml version="1.0" encoding="windows-1251"?>
 
 <!--
-	Consumable Items (Alcohol + Food + Smoke)
+	Consumable Items (Alcohol + 음식 + Smoke)
 -->
 
 <string_table>
 
 <!--< ALCOHOL >-->
 	<string id="st_vodka">
-		<text>Nemiroff vodka</text>
+		<text>네미로프 보드카</text>
 	</string>
 	<string id="st_vodka_descr">
-		<text>Nemiroff is a Ukrainian producer of alcoholic beverages, specialising in vodkas and other spirits, based in the town of Nemyriv in the Vinnytska oblast. One of the best vodkas in the world and - by extension - in the Zone.\n \n
-		%c[ui_gray_3]NOTE:\n \n
-		%c[ui_gray_1]It is commonly known that this brand of alcohol is preferred by the Ecologist's chef at Yantar. Rumours exist that he'll happily smuggle military gear into the hands of common stalkers in exchange for a few swigs from a bottle, but such stories have yet to be substantiated.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] drink\n
-		%c[d_blue] � %c[ui_gray_2] stimulant\n
-		%c[d_red] � %c[ui_gray_2] strong alcohol\n
+		<text>네미로프는 우크라이나의 빈니츠카 주 네미리프 마을에 위치한 주류 제조업체로, 보드카나 다른 증류주를 전문으로 하고 있습니다. 세계에서, 그리고 존에서 가장 훌륭한 보드카 중 하나입니다.\n \n
+		%c[ui_gray_3]참고:\n \n
+		%c[ui_gray_1]이 보드카가 얀타에 있는 과학자 세력의 한 요리사가 좋아하는 술이라는 것은 널리 알려져 있습니다. 그 요리사가 이 보드카 몇 병을 받을 수만 있다면 평범한 스토커들에게도 기꺼이 군용품을 밀수해줄 수도 있을 거라는 소문이 있지만, 아직은 입증되지 않은 이야기일 뿐입니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음료\n
+		%c[d_blue] • %c[ui_gray_2] 자극적임\n
+		%c[d_red] • %c[ui_gray_2] 강한 알코올\n
 		</text>
 	</string>
 	
 	<string id="st_vodka2">
-		<text>Putinka vodka</text>
+		<text>푸틴카 보드카</text>
 	</string>
 	<string id="st_vodka2_descr">
-		<text>Following the tradition of naming vodka brands after Russian leaders, Putinka first went into production after Vladimir Putin was elected president. Produced in Russia from the finest grain and crystal clear water from Siberian springs. Triple purification, smooth texture, unique taste are not the only characteristics of this beverage. Drink with moderation.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] drink\n
-		%c[d_blue] � %c[ui_gray_2] stimulant\n
-		%c[d_red] � %c[ui_gray_2] strong alcohol\n
+		<text>러시아의 지도자의 이름을 딴 보드카 브랜드를 만드는 전통에 따라서, 푸틴카 보드카는 블라디미르 푸틴이 대통령에 당선되었을 때 처음으로 생산에 들어갔습니다. 러시아에서 가장 높은 품질의 곡물과 시베리아의 호수에서 가져온 깨끗한 크리스탈 빛 식수을 사용하여 만들었습니다. 삼중 정화 공정, 부드러운 감촉, 독특한 맛 이외에도 많은 특징들을 가지고 있습니다. 적당히 들이키시길.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음료\n
+		%c[d_blue] • %c[ui_gray_2] 자극적임\n
+		%c[d_red] • %c[ui_gray_2] 강한 알코올\n
 		</text>
 	</string>
 	
 	<string id="st_vodka_quality">
-		<text>Stolichnaya vodka</text>
+		<text>스톨리치나야 보드카</text>
 	</string>
 	<string id="st_vodka_quality_descr">
-		<text>A favourite amongst Russians and many people the world over. A Russian vodka of high quality. Highly popular in the Zone and widely available most probably owing to an outside connection of one of the traders. In order to avoid detection by the military units stationing around the Zone, it is usually shipped in army containers or metal barrels, and then distributed in sturdy metal bottles.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] stimulant\n
-		%c[d_red] � %c[ui_gray_2] strong alcohol\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
+		<text>러시아인들과 전 세계의 사람들에게 인기있는 술입니다. 고품질의 러시아 보드카입니다. 존에서 매우 인기가 높고 상인들 중 한 명이 존 바깥에 연줄이 있기라도 한 모양인지 널리 찾아볼 수 있습니다. 존에서 근무하는 군인들의 수색을 피하기 위해서, 이 보드카는 주로 군용품 상자나 금속 배럴 안에 담겨져 수입되며, 다시 튼튼한 금속 술병에 담겨져 판매됩니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 자극적임\n
+		%c[d_red] • %c[ui_gray_2] 강한 알코올\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
 		</text>
 	</string>
 	
 		<string id="st_beer">
-		<text>Ukrainian beer</text>
+		<text>우크라이나 맥주</text>
 	</string>
 	<string id="st_beer_descr">
-		<text>Ukrainian beer. Another - beside vodka - popular beverage in the Zone.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] drink\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] stimulant\n
-		%c[d_red] � %c[ui_gray_2] light alcohol\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
+		<text>우크라이나 맥주입니다. 보드카와 함께 존에서 인기가 높은 음료입니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음료\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 자극적임\n
+		%c[d_red] • %c[ui_gray_2] 가벼운 알코올\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
 		</text>
 	</string>
 	
 	<string id="st_bottle_metal">
-		<text>Metal bottle</text>
+		<text>금속 술병</text>
 	</string>
 	<string id="st_bottle_metal_descr">
-		<text>Metal bottle containing a portion of what seems to be Zone-produced vodka. It doesn't smell right and the fumes are strong.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] stimulant\n
-		%c[d_red] � %c[ui_gray_2] strong, low quality alcohol\n
+		<text>이 금속으로 만들어진 술병에는 존에서 만들어진 보드카로 보이는 음료가 담겨 있습니다. 냄새가 이상하고 향이 강합니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 자극적임\n
+		%c[d_red] • %c[ui_gray_2] 강한 저품질 알코올\n
 		</text>
 	</string>
 	
-<!--< FOOD >-->
-	<string id="st_energy_drink">
-		<text>Strong energy drink</text>
+<!--< 음식 >-->
+	<string id="st_energy_음료">
+		<text>스트롱 에너지 드링크</text>
 	</string>
-	<string id="st_energy_drink_descr">
-		<text>Often used by stalkers on long trips due to its exhilarating effect when you're tired. The drink also sobers you up a bit if you're drunk as well as induces the release of adrenaline into the bloodstream. Do not overdose.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] drink\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] stimulant\n
-		%c[d_blue] � %c[ui_gray_2] potent alcohol sobering effect\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+	<string id="st_energy_음료_descr">
+		<text>지친 사람에게 활기를 불어넣는 효과로 인해 긴 여행을 떠나는 스토커들이 자주 사용합니다. 또한 술에 취했을 때 술을 조금씩 깨게 만들어 줄 뿐만 아니라 혈류에 공급되는 아드레날린의 분비를 촉진시켜 줍니다. 과음하지는 마세요.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음료\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 자극적임\n
+		%c[d_blue] • %c[ui_gray_2] 강력한 숙취 해소 효과\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
 	<string id="st_flask">
-		<text>Purified water</text>
+		<text>정수된 물</text>
 	</string>
 	<string id="st_flask_descr">
-		<text>Military flasks are intended for storing small amounts of water. Prepared by medics and scientists. First, the water - combined with a special type of alcohol - is boiled at a very high temperature for purification and disinfection. Afterwards, it is cooled in refrigerators, to which it owes its refreshing "spark." The end result is water that is completely radiation-free. If in spite of the above, you still have doubts concerning its purity, you can always use akvatab. Due to the cost of production, military flasks are in a limited supply and are sold at a moderate price. Medics also have them in stock, but they're slightly more expensive as they include the cost of transportation.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] drink\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		<text>약간의 물을 담아두기 위해 만들어진 군용 수통입니다. 군의관들이나 과학자들에 의해 만들어졌습니다. 먼저, 물은 특별한 종류의 알코올과 섞여서 정화와 소독을 위해 매우 높은 온도에서 끓여집니다. 그 다음에, 냉장고에서 냉각되면서 이 음료만의 상쾌한 "톡 쏘는 맛"이 만들어집니다. 이렇게 만들어진 물은 방사능이 완전히 제거됩니다. 만일 이러한 과정을 거쳤음에도 불구하고, 이 물의 청결함에 의구심이 든다면, 언제든지 아쿠아탭을 같이 사용할 수 있습니다. 제조비용으로 인해서, 군용 수통은 공급이 제한되어 있고 보통 수준의 가격으로 판매됩니다. 군의관들도 이런 물품을 가지고 있지만, 운송비용이 포함되어 이들이 판매하는 물은 다소 비쌉니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음료\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 		
 	<string id="st_kolbasa">
-		<text>Pack of old meat</text>
+		<text>오래된 고기 꾸러미</text>
 	</string>
 	<string id="st_kolbasa_descr">
-		<text>A package containing a meal of old bread and some smelly meat of unknown origin wrapped in brown paper. The look and smell suggest that some of it is moldy.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_red] � %c[ui_gray_2] low quality\n</text>
+		<text>오래된 빵과 정체불명의 냄새나는 고기들이 갈색 종이에 담겨진 꾸러미입니다. 외형과 냄새로 보았을 때 음식의 일부분에 곰팡이가 피어 있는 것처럼 보입니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_red] • %c[ui_gray_2] 낮은 품질의 물품\n</text>
 	</string>
 	
 	<string id="st_tea">
-		<text>Beard's tea</text>
+		<text>베어드의 차</text>
 	</string>
 	<string id="st_tea_descr">
-		<text>Beard's popular hot tea made from a mixture of sugar, edible dried mushrooms and boiled water that is said to be radiation-free. Stalkers who can afford to buy the drink often take it for long trips in the Zone. It's a good and healthy way to stay on your toes when you're getting tired or when you're out exploring on cold nights.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] drink\n
-		%c[d_blue] � %c[ui_gray_2] potent alcohol sobering effect\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source \n
+		<text>베어드가 설탕과 식용이 가능한 말린 버섯, 그리고 방사능이 없다고 전해지는 끓인 물로 만들어낸 인기있는 따뜻한 차입니다. 이 음료수를 살만한 능력이 있는 스토커들은 존에서 오랫동안 여행할 때 이 차를 종종 가지고 다닙니다. 차를 마시는 것은 피곤해지거나 여행에서 추운 밤을 보내야 할 때를 대비하기 위한 건강하고 괜찮은 습관입니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음료\n
+		%c[d_blue] • %c[ui_gray_2] 강력한 숙취 해소 효과\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품 \n
 		</text>
 	</string>
 	
 	<string id="st_tomato">
-		<text>Canned tomatoes</text>
+		<text>토마토 통조림</text>
 	</string>
 	<string id="st_tomato_descr">
-		<text>Canned, sliced and diced tomatoes are imported to the Zone on a regular basis. The best before date on the bottom suggests they're still fresh.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] food\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		<text>조각조각 잘려진 토마토 통조림은 정기적으로 존에 수입됩니다. 하단의 유통기한으로 미루어볼 때 아직 신선한 것처럼 보입니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
 	<string id="st_sausage">
-		<text>Smoked sausage</text>
+		<text>훈제 소시지</text>
 	</string>
 	<string id="st_sausage_descr">
-		<text>Made of beef and pork. Smoked and vacuum packaged, it can be preserved for long periods of time. This particular piece has been imported from the Russian Federation. Famous among certain Russian mafia leaders for its exceptional flavour and taste.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] food\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		<text>소고기와 돼지고기로 만들어졌습니다. 훈제된 상태에서 진공 포장되어, 오랜 기간 동안 보존할 수 있습니다. 이런 종류의 소시지는 러시아 연방에서 수입된 것입니다. 독특한 맛과 향 때문에 특정 러시아 마피아 두목들에게 인기가 높습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
 	<string id="st_corn">
-		<text>Canned corn
+		<text>옥수수 통조림
 		</text>
 	</string>
 	<string id="st_corn_descr">
-		<text>Canned sweet corn imported from the outside. Can be eaten as it is, but there are some who use it as a soup ingredient.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] food\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		<text>외부에서 수입된 스위트 콘 통조림입니다. 그대로 먹을 수 있지만, 수프의 재료로 사용하는 사람들도 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
 	<string id="st_beans">
-		<text>Baked beans</text>
+		<text>구운 콩 통조림</text>
 	</string>
 	<string id="st_beans_descr">
-		<text>Canned baked beans brought from the West. These haricot beans in tomato sauce may bring back nice memories to some people.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] food\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		<text>서구권에서 들여온 구운 콩 통조림입니다. 토마토 소스를 곁들인 강낭콩은 몇몇 사람들로 하여금 좋았던 옛 기억을 떠올리는 것을 도와줄지도 모릅니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
 	<string id="st_chili">
-		<text>Chili beans</text>
+		<text>칠리 콩 통조림</text>
 	</string>
 	<string id="st_chili_descr">
-		<text>Canned chili beans imported from the West. Popular as an ingredient in some dishes in the Zone.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] food\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		<text>서구권에서 들여온 칠리 콩 통조림입니다. 존에서 몇 가지 요리의 재료로서 인기가 높습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
 	<string id="st_conserva">
-		<text>Can of tuna</text>
+		<text>참치 캔</text>
 	</string>
 	<string id="st_conserva_descr">
-		<text>The best before date at the back of the tin can indicates that you shouldn't expect delicacies.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] food\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		<text>깡통의 뒷면에 있는 유통기한으로 미루어 볼 때 좋은 맛은 기대하지 않는 것이 좋습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
 	<string id="st_tushonka">
-		<text>"Abakan" beef tushonka</text>
+		<text>"아바칸" 쇠고기 투숀카</text>
 	</string>
 	<string id="st_tushonka_descr">
-		<text>Tushonka is a common name of canned, stewed meat produced in the Soviet Union and other Warsaw Pact countries. The irony is that the idea originally came to Russia in a form of World War II aid transports from the United States. Since then, various kinds of tushonkas have become a primary means of long-time meat preservation, used both by the civilian population and as a standard-issue Red Army food ration. Despite their long expiry date, tushonkas are known for their high nutrition value (mostly owing to high fat content) and a relatively good taste. The Chernobyl Exclusion Zone has seen hundreds of types and tastes of tushonkas. In the spring of 2013 'Abakan' minced-meat brand remains the unquestionable king, and certainly the Zone has seen worse than that.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] food\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		<text>투숀카는 소련이나 다른 바르샤바 조약 가입 국가들에서 만들어진 고기 스튜 통조림을 통칭하는 말입니다. 아이러니한 점은 러시아에서 이 고기 통조림을 만들어 낸 계기가 바로 제 2차 세계대전 당시 미국이 보낸 원조 보급품에서 유래된 것이라는 사실입니다. 그때부터, 다양한 종류의 투숀카가 등장하여 장기간의 육류 보존을 위한 일차적인 수단이 되었고, 민간 식료품 및 붉은 군대의 제식 전투 식량으로 사용되었습니다. 오랫동안 보존할 수 있다는 사실에도 불구하고, 투숀카는 (주로 높은 지방 함량으로 인한) 높은 영양가와 상대적으로 괜찮은 맛으로 유명합니다. 체르노빌 통제 구역에서는 수백가지의 종류와 맛을 가진 투숀카들이 있습니다. 2013년 봄부터 "아바칸" 다진 고기 통조림 브랜드가 의문의 여지가 없는 최고의 투숀카 브랜드로 자리잡고 있으며, 존에서 이보다 더 좋은 고기 통조림은 존재하지 않습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
 	<string id="st_salmon">
-		<text>Smoked salmon
+		<text>훈제 연어
 		</text>
 	</string>
 	<string id="st_salmon_descr">
-		<text>Ukrainian smoked salmon. As soon as it's brought to the Zone, the fish changes hands until it finds its way to the highest bidder. Very valuable.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] food\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		<text>우크라이나산 훈제 연어입니다. 이 물건이 존에 들어오자마자, 이 물고기가 가장 높은 가격을 제시한 사람에게 돌아갈 때까지 무수한 입찰 요청이 오고갔습니다. 매우 가치가 높습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
 	<string id="st_raisins">
-		<text>Raisins</text>
+		<text>건포도</text>
 	</string>
 	<string id="st_raisins_descr">
-		<text>A pack of raisins. Rich in nutrients, balances sugar in the blood.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] food\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		<text>건포도 한 봉지입니다. 영양가가 높고, 적정량의 혈당치를 제공합니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
 	<string id="st_chocolate">
-		<text>Russian chocolate</text>
+		<text>러시아산 초콜릿</text>
 	</string>
 	<string id="st_chocolate_descr">
-		<text>Russian chocolate. Very rare in the Zone and quite valuable even though its taste is nothing special. Brings back many fond childhood memories, which may help soothe the pain of living in the harsh and unforgiving conditions of the Zone.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] food\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		<text>러시아산 초콜릿입니다. 맛은 그다지 특별하지 않지만 존에서 매우 귀한 물품이고 상당히 가치가 높습니다. 어릴 적의 수많은 기억들을 불러일으켜주기 대문에, 존에서의 험난하고 가혹한 조건에서 살아가면서 겪은 고통들을 완화하는 데 도움이 될 수 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
     <string id="st_chocolate_p">
-		<text>Russian chocolate (half-consumed)</text>
+		<text>러시아산 초콜릿 (반쯤 먹음)</text>
 	</string>
     <string id="st_chocolate_p_descr">
-		<text>Russian chocolate. Very rare in the Zone and quite valuable even though its taste is nothing special. Brings back many fond childhood memories, which may help soothe the pain of living in the harsh and unforgiving conditions of the Zone.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] food\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		<text>러시아산 초콜릿입니다. 맛은 그다지 특별하지 않지만 존에서 매우 귀한 물품이고 상당히 가치가 높습니다. 어릴 적의 수많은 기억들을 불러일으켜주기 대문에, 존에서의 험난하고 가혹한 조건에서 살아가면서 겪은 고통들을 완화하는 데 도움이 될 수 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
 	<string id="st_mint">
-		<text>Altoids</text>
+		<text>알토이즈 사탕</text>
 	</string>
 	<string id="st_mint_descr">
-		<text>Mint-flavoured altoids imported from the West. They are highly refreshing and remove radiation particles from the mouth. They also seem to reduce sleepiness for a short while. You can take as many as 10 mints at a time but that's only because your mouth isn't able to fit any more.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
+		<text>서구권에서 수입해온 민트향 알토이즈 사탕입니다. 입에 물었을 때 매우 상쾌한 느낌이 들며 입에 잔류한 방사능 입자들을 제거해 줍니다. 또한 잠시 동안 잠을 쫒아줄 수 있는 것으로 보입니다. 한 번에 열 개의 민트 사탕을 먹을 수 있지만, 입 속에 더 집어넣기에는 너무 많아서일 뿐 다른 이유는 없습니다.\n \n
+		%c[ui_gray_3]특징:\n
 		</text>
 	</string>
 	
 	<string id="st_nuts">
-		<text>Mixed nuts</text>
+		<text>믹스넛</text>
 	</string>
 	<string id="st_nuts_descr">
-		<text>Assorted peanuts, hazelnuts, cashews and almonds in a nice and popular blend. Nutrition value is quite high. Imported from South Africa.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] food\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		<text>땅콩과 헤이즐넛, 캐슈넛 그리고 아몬드들이 깔끔하고 먹음직스럽게 섞여 있습니다. 영양가가 매우 높습니다. 남아프리카에서 수입되었습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
 	<string id="st_mineral_water">
-		<text>Mineral water</text>
+		<text>광천수</text>
 	</string>
 	<string id="st_mineral_water_descr">
-		<text>Mineral water from Ukrainian springs. Carbonated and with additional calcium.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] drink\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] mild alcohol sobering effect\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		<text>우크라이나의 수원지에서 채취한 생수입니다. 탄산가스와 칼슘이 추가되어 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음료\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가벼운 숙취 해소 효과\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
@@ -296,62 +296,62 @@
 		<text>MRE</text>
 	</string>
 	<string id="st_mre_descr">
-		<text>The Meal, Ready-to-Eat (commonly known as the MRE) is a self-contained, individual field ration in lightweight packaging, developed by the United States military for its service members for use in combat or other field conditions where organised food facilities are not available. One MRE can be used as one meal. The packaging of an MRE is designed to withstand rough conditions and exposure to the elements. Contains one course along with a variety of other food and drink items. While it can be eaten cold, it usually tastes much better when heated up with the included flameless ration heater (FRH, a water-activated exothermic reaction device that emits heat).\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] military ration\n\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
-		%c[d_blue] � %c[ui_gray_2] 3 portions in one package. 1398 kcal in total\n
+		<text>(주로 MRE로 알려진) 즉각취식형 전투식량은 경량화 포장이 이루어진 완비식 개인용 야전 전투식량으로, 미군에서 식량 배급 시설을 사용할 수 없는 전투 또는 다른 목적의 야전 상황에서 군인들에게 식사를 배급하기 위해 개발되었습니다. 하나의 MRE는 한 끼의 식사로서 사용될 수 있습니다. MRE의 포장은 거친 환경을 견뎌내고 여러 가지 요소들로부터 노출되는 것을 막기 위해 디자인되었습니다. 다양한 다른 음식들과 음료들과 함께 먹을 수 있는 일련의 코스형 식사를 포함하고 있습니다. 차가운 상태에서도 먹을 수 있지만, 동봉된 비발화성 전투식량 발열팩 (FRH, 물을 사용하는 외부 발열 반응 장치로 열을 만들어냄)으로 데우면 더 맛있게 먹을 수 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 군용 식량\n\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
+		%c[d_blue] • %c[ui_gray_2] 3 회분의 식사가 포함됨. 총 1398 kcal\n
 		</text>
 	</string>
 	
 	<string id="st_ration_ru">
-		<text>Russian IRP-B combat ration
+		<text>러시아 IRP-B 전투 식량
 		</text>
 	</string>
 	<string id="st_ration_ru_descr">
-		<text>Breakfast, dinner and supper all in one package. Includes various food items whose function is to provide the body with all minerals and microelements essential for your health as well as cooking equipment (small metal frame, fuel tablets, matches, striker) and other items (e.g. napkins) facilitating use in field conditions. Comes with a polymeric box that protects the ingredients from hazardous environmental conditions. The polymeric box has 3 sections, each respectively for breakfast, dinner and supper.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] military ration\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
-		%c[d_blue] � %c[ui_gray_2] 7 portions in one package. 3661 kcal in total\n
+		<text>한 패키지에 아침, 점심, 저녁이 모두 포함되어 있습니다. 신체에 필요한 모든 무기질과 건강에 필수적인 미세영양소들을 공급하는 식품들과 함께 야전 상황에서 편리하게 사용하기 위한 조리 도구 (작은 금속 프레임, 연료 정제, 성냥, 부싯돌) 그리고 다른 물건들 (냅킨 등)이 포함되어 있습니다. 내용물들을 위험한 환경에서 보호하기 위한 폴리머 박스와 함께 제공됩니다. 폴리머 박스는 3개의 구역으로 나뉘어 있어, 각각 아침, 점심 그리고 저녁에 먹을 식량이 들어가 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 군용 식량\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
+		%c[d_blue] • %c[ui_gray_2] 7 회분의 식사가 포함됨. 총 3661 kcal\n
 		</text>
 	</string>
 	
 	<string id="st_ration_ukr">
-		<text>Ukrainian combat ration
+		<text>우크라이나 전투 식량
 		</text>
 	</string>
 	<string id="st_ration_ukr_descr">
-		<text>This Ukrainian combat ration is based on a previous Russian version, and comprises commercially available cans and dried food items packed together in a sectioned box (resembling a takeout tray) made of very thin green plastic. Contains all that is necessary to provide a healthy adult with all calories and minerals needed during a single day.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] military ration\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
-		%c[d_blue] � %c[ui_gray_2] 6 portions in one package. 3186 kcal in total\n
+		<text>이 우크라이나 전투식량은 러시아 전투식량을 기초로 만들어졌으며, 민간에서 판매되는 통조림과 말린 음식들을 각각 구분이 되어 있는 (마치 식판을 닮은) 매우 얇은 녹색 플라스틱으로 된 상자 안에 담아 놓았습니다. 건강한 성인이 하루 동안 필요로 하는 모든 칼로리와 무기질들을 공급하는 데 필요한 모든 것들이 들어 있습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 군용 식량\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
+		%c[d_blue] • %c[ui_gray_2] 6 회분의 식사가 포함됨. 총 3186 kcal\n
 		</text>
 	</string>
 	
 	<string id="st_bread">
-		<text>Bread loaf</text>
+		<text>식빵</text>
 	</string>
 	<string id="st_bread_descr">
-		<text>A fine bread loaf baked by Nimble's wife living outside the Zone. It was the first commodity Nimble started to sell before his business expanded. Nowadays, he provides barkeepers with this fine bread, acting as an intermediary. After all, he has more pressing matters to attend to as he has his own company to manage.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] food\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		<text>존 바깥에 살고 있는 님블의 아내가 구운 괜찮은 식빵입니다. 님블이 사업을 확장하기 전에 처음으로 판매하기 시작한 상품입니다. 현재, 그는 바텐더들에게 이 식빵을 공급하는 중개상 역할을 하고 있습니다. 이제, 그는 새로 관리해야 할 자신만의 사업을 꾸렸기 때문에 신경써야 할 일이 더욱 많아졌습니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
 	<string id="st_breadold">
-		<text>Breadcrumbs</text>
+		<text>빵 부스러기</text>
 	</string>
 	<string id="st_breadold_descr">
 		<text>Crumbs of bread baked in the Great Land.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] food\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
@@ -360,32 +360,32 @@
 	</string>
 	<string id="st_protein_descr">
 		<text>This bar provides the body with necessary proteins and sugars which give you a welcome boost. Useful on longer trips when you're on the go and need to eat something fast.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] food\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음식\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
 		</text>
 	</string>
 	
-	<string id="st_water_drink">
+	<string id="st_water_음료">
 		<text>Sparkling water</text>
 	</string>
-	<string id="st_water_drink_descr">
+	<string id="st_water_음료_descr">
 		<text>Sparkling water for thirsty stalkers. It has some exhilarating effect when you're tired.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] drink\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] mild alcohol sobering effect\n
-		%c[d_blue] � %c[ui_gray_2] clean nutrition source\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 음료\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
+		%c[d_blue] • %c[ui_gray_2] 깨끗한 식품\n
 		</text>
 	</string>
 	
-	<string id="st_drink_crow">
+	<string id="st_음료_crow">
 		<text>"The Beak"</text>
 	</string>
-	<string id="st_drink_crow_descr">
-		<text>"The Beak" is a powerful mixture of Zone-produced vodka and pulverised beak of a black crow. Not every beak can be used as an ingredient, because only black male crows that have lived in the Zone for more than 15 years have mutated sufficiently. The rumour has it that such beaks contain a form of enriched protein that cleanses moderate amounts of radiation from the body. Some even say that drinking "the Beak" makes you feel like you have wings for a few seconds. On the downside, however, the taste itself is awful.\n
+	<string id="st_음료_crow_descr">
+		<text>"The Beak" is a powerful mixture of Zone-produced vodka and pulverised beak of a black crow. Not every beak can be used as an ingredient, because only black male crows that have lived in the Zone for more than 15 years have mutated sufficiently. The rumour has it that such beaks contain a form of enriched protein that cleanses moderate amounts of radiation from the body. Some even say that 음료ing "the Beak" makes you feel like you have wings for a few seconds. On the downside, however, the taste itself is awful.\n
 		</text>
 	</string>
 	
@@ -394,13 +394,13 @@
 		<text>Cuban cigar</text>
 	</string>
 	<string id="st_cuban_cigar_descr">
-		<text>This valuable Cuban cigar can bring you bliss for a short while, especially when you're admiring a nice sunset. Some stalkers noticed that smoking strong tobacco repels mosquitoes. Cuban cigars are considered the finest in the world. A rare commodity.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] stimulant\n
-		%c[d_blue] � %c[ui_gray_2] imported\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_blue] � %c[ui_gray_2] potent alcohol sobering effect\n
+		<text>This 가치있는 물품 Cuban cigar can bring you bliss for a short while, especially when you're admiring a nice sunset. Some stalkers noticed that smoking strong tobacco repels mosquitoes. Cuban cigars are considered the finest in the world. A rare commodity.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 자극적임\n
+		%c[d_blue] • %c[ui_gray_2] 수입품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_blue] • %c[ui_gray_2] 강력한 숙취 해소 효과\n
 		</text>
 	</string>
 	
@@ -408,11 +408,11 @@
 		<text>Lucky Strike cigarettes</text>
 	</string>
 	<string id="st_cigarettes_lucky_descr">
-		<text>Cigarettes imported from the West. Some stalkers trade them for a few rounds of ammo within their faction.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] stimulant\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] mild alcohol sobering effect\n
+		<text>Cigarettes 수입품 from the West. Some stalkers trade them for a few rounds of ammo within their faction.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 자극적임\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
 		</text>
 	</string>
 	
@@ -421,10 +421,10 @@
 	</string>
 	<string id="st_cigarettes_russian_descr">
 		<text>The cheapest pack of cigarettes in the Zone. Russian budget brand.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] stimulant\n
-		%c[d_red] � %c[ui_gray_2] low quality\n
-		%c[d_blue] � %c[ui_gray_2] mild alcohol sobering effect\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 자극적임\n
+		%c[d_red] • %c[ui_gray_2] 낮은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
 		</text>
 	</string>
 	
@@ -432,10 +432,10 @@
 		<text>Soviet cigarettes</text>
 	</string>
 	<string id="st_cigar1_descr">
-		<text>A pack of budget, strong and very low quality cigarettes. Someone must have smoked most of them since there are only a few left. Genuine USSR flavour has been carefully preserved.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] stimulant\n
-		%c[d_blue] � %c[ui_gray_2] mild alcohol sobering effect\n
+		<text>A pack of budget, strong and very 낮은 품질의 물품 cigarettes. Someone must have smoked most of them since there are only a few left. Genuine USSR flavour has been carefully preserved.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 자극적임\n
+		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
 		</text>
 	</string>
 	
@@ -443,10 +443,10 @@
 		<text>Soviet cigarettes</text>
 	</string>
 	<string id="st_cigar2_descr">
-		<text>A pack of budget, strong and very low quality cigarettes. Someone must have smoked most of them since there are only a few left. Genuine USSR flavour has been carefully preserved.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] stimulant\n
-		%c[d_blue] � %c[ui_gray_2] mild alcohol sobering effect\n
+		<text>A pack of budget, strong and very 낮은 품질의 물품 cigarettes. Someone must have smoked most of them since there are only a few left. Genuine USSR flavour has been carefully preserved.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 자극적임\n
+		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
 		</text>
 	</string>
 	
@@ -454,10 +454,10 @@
 		<text>Soviet cigarettes</text>
 	</string>
 	<string id="st_cigar3_descr">
-		<text>A pack of budget, strong and very low quality cigarettes. Someone must have smoked most of them since there are only a few left. Genuine USSR flavour has been carefully preserved.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] stimulant\n
-		%c[d_blue] � %c[ui_gray_2] mild alcohol sobering effect\n
+		<text>A pack of budget, strong and very 낮은 품질의 물품 cigarettes. Someone must have smoked most of them since there are only a few left. Genuine USSR flavour has been carefully preserved.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 자극적임\n
+		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
 		</text>
 	</string>
 	
@@ -465,12 +465,12 @@
 		<text>Hand-rolling tobacco</text>
 	</string>
 	<string id="st_hand_rolling_tobacco_descr">
-		<text>Precious hand-rolling tobacco, imported from the West. With no additional ingredients, so it's possible to enjoy the original taste of tobacco leaf itself.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] stimulant\n
-		%c[d_red] � %c[ui_gray_2] slow usage (roll up)\n
-		%c[d_blue] � %c[ui_gray_2] potent alcohol sobering effect\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
+		<text>Precious hand-rolling tobacco, 수입품 from the West. With no additional ingredients, so it's possible to enjoy the original taste of tobacco leaf itself.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 자극적임\n
+		%c[d_red] • %c[ui_gray_2] slow usage (roll up)\n
+		%c[d_blue] • %c[ui_gray_2] 강력한 숙취 해소 효과\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
 		</text>
 	</string>
 	
@@ -478,10 +478,10 @@
 		<text>Marlboro cigarettes</text>
 	</string>
 	<string id="st_cigarettes_descr">
-		<text>Cigarettes imported from the West. Someone must have smoked most of them since there are only a few left. Smoking just one may stabilise your mental state and satisfies hunger a bit. They are rare in the Zone and quite valuable.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] stimulant\n
-		%c[d_blue] � %c[ui_gray_2] mild alcohol sobering effect\n
+		<text>Cigarettes 수입품 from the West. Someone must have smoked most of them since there are only a few left. Smoking just one may stabilise your mental state and satisfies hunger a bit. They are rare in the Zone and quite 가치있는 물품.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 자극적임\n
+		%c[d_blue] • %c[ui_gray_2] mild alcohol sobering effect\n
 		</text>
 	</string>
 	
@@ -490,11 +490,11 @@
 	</string>
 	<string id="st_tobacco_descr">
 		<text>Cigarettes are expensive and rare in the Zone, and having raw tobacco enables you to produce your own cigs at a lower cost. This tin is sealed, which ensures that the tobacco will stay fresh for days or weeks depending on the conditions it's kept in.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] stimulant\n
-		%c[d_red] � %c[ui_gray_2] slow usage (roll up)\n
-		%c[d_blue] � %c[ui_gray_2] potent alcohol sobering effect\n
-		%c[d_red] � %c[ui_gray_2] low quality\n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 자극적임\n
+		%c[d_red] • %c[ui_gray_2] slow usage (roll up)\n
+		%c[d_blue] • %c[ui_gray_2] 강력한 숙취 해소 효과\n
+		%c[d_red] • %c[ui_gray_2] 낮은 품질의 물품\n
 		</text>
 	</string>
 	
@@ -510,7 +510,7 @@
 		<text>Ochakovo beer (irradiated)</text>
 	</string>
 	<string id="st_beer_1_radiated">
-		<text>Baltika �3 beer (irradiated)</text>
+		<text>Baltika ¹3 beer (irradiated)</text>
 	</string>
 	<string id="st_beer_2_radiated">
 		<text>Slavutich Premium beer (irradiated)</text>
@@ -537,10 +537,10 @@
 		<text>Coca-Cola (irradiated)</text>
 	</string>
 	<string id="st_redbull_radiated">
-		<text>Redbull energy drink</text>
+		<text>Redbull energy 음료</text>
 	</string>
 	<string id="st_guru_radiated">
-		<text>GURU energy drink (irradiated)</text>
+		<text>GURU energy 음료 (irradiated)</text>
 	</string>
 	<string id="st_marlboro_radiated">
 		<text>Marlboro cigarettes (irradiated)</text>
@@ -554,7 +554,7 @@
 	<string id="st_cigarettes_1_radiated">
 		<text>Cuban cigars (irradiated)</text>
 	</string>
-	<string id="st_wild_drink_radiated">
+	<string id="st_wild_음료_radiated">
 		<text>Zone-produced liquor (irradiated)</text>
 	</string>
 	<string id="st_kolbasa_smoked_radiated">
