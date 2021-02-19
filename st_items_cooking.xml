@@ -5,129 +5,129 @@
 -->
 <string_table>
 	<string id="st_matches">
-		<text>Firestarter set</text>
+		<text>파이어스타터 세트</text>
 	</string>
 	<string id="st_matches_descr">
-		<text>A simple set of sticks of pine wood impregnated with resin. Anyone who has ever tried to light a fire in the open air knows that random gusts of wind can extinguish the flames very quickly. The firestarter set allows you to create a small but steady hearth fire, the temperature of which is significantly higher than that of paper or wax. An indispensable thing in any campaign, because it easy to light up even in the wet.\n\n\n
-		%c[d_green] � %c[ui_gray_2] is used for starting fires</text>
+		<text>송진이 함유된 소나무로 만들어진 단순한 막대기 한 쌍입니다. 야외에서 불을 붙이려 시도했던 적이 있다면 갑자기 불어온 바람이 불길을 매우 빠르게 꺼버릴 수 있다는 사실을 알고 있을 것입니다. 파이어스타터 세트는 작지만 잘 꺼지지 않는 잔불을 만들 수 있고, 이렇게 만들어진 불은 종이나 왁스를 써서 만들어진 불보다 살짝 온도가 높습니다. 축축한 곳에서도 불을 피우기가 쉽기 때문에, 어떤 작전에서든 떼놓을 수 없는 물건입니다.\n\n\n
+		%c[d_green] • %c[ui_gray_2] 불을 피우는 데 사용함</text>
 	</string>
 	
 	<string id="st_wood_stove">
-		<text>Hexagon wood stove</text>
+		<text>육각형 나무 스토브</text>
 	</string>
 	<string id="st_wood_stove_descr">
-		<text>This compact foldable oven is intended for cooking single entree meals with dry wood. However, since wood found within the Zone is far too contaminated to be used for that purpose, stalkers rely on imported charcoal as the cheapest and most widely available burnable material. The stove can produce temperatures sufficient to grill less poisoned mutant meat, but preparing more toxic meat requires the utilisation of more advanced equipment. Basic fire skills are needed. Made of stainless steel and ultralight titanium.\n \n
-		%c[ui_gray_3]NOTES:\n \n
-		%c[ui_gray_1]Although charcoal is available in the Zone at relatively cheap prices, you need to use a significant amount of it in order to prepare a single meal. For this reason, charcoal is not as cost effective as it would seem. On the other hand, it is relatively light, which makes it perfect for longer trips deep in the Zone.\n \n
-		%c[ui_gray_1]Mutant meats that do not require high temperature to be prepared are referred to as 'low-tier', whereas those that require high temperature - 'high-tier'.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_green] � %c[ui_gray_2] low-tier field cooking equipment\n
-		%c[d_green] � %c[ui_gray_2] fuel: %c[ui_gray_1] charcoal\n
-		%c[d_green] � %c[ui_gray_2] usable for cooking meats of lesser mutants\n</text>
+		<text>이 작은 접이식 오븐은 마른 나무 연료를 사용하여 한 끼 식사를 조리할 수 있도록 만들어졌습니다. 하지만, 존에서 찾을 수 있는 나무들은 그런 목적으로 사용하기에는 너무 오염이 심해서, 스토커들은 가장 저렴하고 가장 다용도로 쓸 수 있는 인화 물질인 수입된 목탄을 사용합니다. 스토브는 독성이 적은 뮤턴트 고기를 굽는 데는 충분하지만, 독성이 강한 고기를 조리하려면 더 좋은 장비를 사용해야만 합니다. 불을 다루기 위한 기초적인 기술이 필요합니다. 스테인리스 강철과 매우 가벼운 티타늄으로 만들어졌습니다.\n \n
+		%c[ui_gray_3]참고:\n \n
+		%c[ui_gray_1]목탄은 존에서 상대적으로 저렴한 가격으로 얻을 수 있지만, 한 번의 식사를 하기 위해서는 상당한 양의 목탄이 필요합니다. 따라서, 목탄은 생각보다 가격 측면에서 그리 효율적이지 않습니다. 그렇지만, 목탄은 상대적으로 가볍기 때문에 존의 깊숙한 곳으로 오랫동안 탐험을 떠날 때 가장 적합합니다.\n \n
+		%c[ui_gray_1]뮤턴트 고기들 중 조리하는 데 높은 온도를 요구하지 않는 것들은 "낮은 등급", 높은 온도를 요구하는 것들은 "높은 등급"으로 분류됩니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_green] • %c[ui_gray_2] 낮은 등급의 야외 조리용 장비\n
+		%c[d_green] • %c[ui_gray_2] 연료: %c[ui_gray_1] 목탄\n
+		%c[d_green] • %c[ui_gray_2] 작은 뮤턴트들의 고기를 조리하는 데 사용함\n</text>
 	</string>
 	
 	<string id="st_cooking">
-		<text>Field cooking kit</text>
+		<text>야외용 조리 도구</text>
 	</string>
 	<string id="st_cooking_descr">
-		<text>A field cooking travel kit. Contains cooking accessories and utensils for use when camping and travelling. Produces a lot of noise and is unwieldy due to its heavy weight. Very popular among larger groups of stalkers.\n \n
-		%c[ui_gray_3]NOTES:\n \n
-		%c[ui_gray_1]Although charcoal is available in the Zone at relatively cheap prices, you need to use a significant amount of it in order to prepare a single meal. For this reason, charcoal is not as cost effective as it would seem. On the other hand, it is relatively light, which makes it perfect for longer trips deep in the Zone.\n \n
-		%c[ui_gray_1]Mutant meats that do not require high temperature to be prepared are referred to as 'low-tier', whereas those that require high temperature - 'high-tier'.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_green] � %c[ui_gray_2] low-tier field cooking equipment\n
-		%c[d_green] � %c[ui_gray_2] fuel: %c[ui_gray_1] charcoal\n
-		%c[d_green] � %c[ui_gray_2] usable for cooking meats of lesser mutants\n
+		<text>여행용 야외 조리 도구입니다. 캠핑이나 여행을 떠날 때 사용할 수 있는 조리 도구들이 들어 있습니다. 큰 소음을 내고 무겁기 때문에 들고 다니기에 불편합니다. 규모가 큰 스토커 단체들 사이에서 매우 인기가 높습니다.\n \n
+		%c[ui_gray_3]참고:\n \n
+		%c[ui_gray_1]목탄은 존에서 상대적으로 저렴한 가격으로 얻을 수 있지만, 한 번의 식사를 하기 위해서는 상당한 양의 목탄이 필요합니다. 따라서, 목탄은 생각보다 가격 측면에서 그리 효율적이지 않습니다. 그렇지만, 목탄은 상대적으로 가볍기 때문에 존의 깊숙한 곳으로 오랫동안 탐험을 떠날 때 가장 적합합니다.\n \n
+		%c[ui_gray_1]뮤턴트 고기들 중 조리하는 데 높은 온도를 요구하지 않는 것들은 "낮은 등급", 높은 온도를 요구하는 것들은 "높은 등급"으로 분류됩니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_green] • %c[ui_gray_2] 낮은 등급의 야외 조리용 장비\n
+		%c[d_green] • %c[ui_gray_2] 연료: %c[ui_gray_1] 목탄\n
+		%c[d_green] • %c[ui_gray_2] 작은 뮤턴트들의 고기를 조리하는 데 사용함\n
 		</text>
 	</string>
 	
 	<string id="st_army_bowler">
-		<text>Army kettle</text>
+		<text>군용 반합</text>
 	</string>
 	<string id="st_army_bowler_descr">
-		<text>This army kettle features a convex-concave bottom profile, concave on one side. It is supplied with a wire handle-loop for hanging and carrying. When worn on the waist belt, the concave side should be placed to the body. The bowl cover can be used as a pan when heating or preparing a second dish. The handle of the lid is designed to hold it, securely closing the lid when carrying, and a tablespoon is inserted into the special holes on the handle.\n \n
-		%c[ui_gray_3]NOTES:\n \n
-		%c[ui_gray_1]Since fuels used in the multi-fuel stove are much more efficient energy-carriers than the wood or coal, the multi-fuel stove is - in the long run - significantly more cost-effective than traditional wood or coal stoves. On the other hand, these fuels are usually carried in heavy metal containers, which makes them more suited for use at bases, rather than in field operations.\n \n
-		%c[ui_gray_1]Mutant meats that do not require high temperature to be prepared are referred to as 'low-tier', whereas those that require high temperature - 'high-tier'.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_green] � %c[ui_gray_2] medium-tier field cooking equipment\n
-		%c[d_green] � %c[ui_gray_2] fuel: %c[ui_gray_1] charcoal\n
-		%c[d_green] � %c[ui_gray_2] usable on %c[ui_gray_1]campfires%c[ui_gray_2]
-		%c[d_green] � %c[ui_gray_2] usable for cooking meats of lesser mutants\n</text>
+		<text>이 군용 반합은 요철이 있는 옆면을 가지고 있으며, 한쪽 면이 오목한 형태를 띠고 있습니다. 철사로 만들어진 손잡이 고리를 가지고 있어 매달거나 들고 다닐 수 있습니다. 허리 벨트에 매달고 다닐 때는, 오목한 면이 몸에 붙어 있어야 합니다. 반합의 뚜껑은 반찬을 데우거나 요리하는 데 필요한 팬으로 사용할 수 있습니다. 뚜껑에 달린 손잡이는 뚜껑을 들어 올리거나, 들고 다닐 때 뚜껑을 안전하게 잠그는 데 사용할 수 있으며, 손잡이에 있는 특수한 구멍 안에는 숟가락이 삽입되어 있습니다.\n \n
+		%c[ui_gray_3]참고:\n \n
+		%c[ui_gray_1]연료 혼용식 스토브에서 사용하는 연료들은 나무나 석탄보다 더욱 더 효율적인 에너지 공급원이기 때문에, 연료 혼용식 스토브는 장기적으로 보았을 때 나무나 석탄 스토브보다 더욱 가성비가 좋습니다. 그러나, 이러한 연료들은 대체적으로 무거운 금속 보관용기에 담겨져 있기 때문에, 현장에서의 활동보다는 기지나 은신처에서의 활용에 더 적합합니다.\n \n
+		%c[ui_gray_1]뮤턴트 고기들 중 조리하는 데 높은 온도를 요구하지 않는 것들은 "낮은 등급", 높은 온도를 요구하는 것들은 "높은 등급"으로 분류됩니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_green] • %c[ui_gray_2] 중간 등급의 조리 도구\n
+		%c[d_green] • %c[ui_gray_2] 연료: %c[ui_gray_1] 목탄\n
+		%c[d_green] • %c[ui_gray_2] 다음 장소에서 사용 가능: %c[ui_gray_1]모닥불%c[ui_gray_2]
+		%c[d_green] • %c[ui_gray_2] 작은 뮤턴트들의 고기를 조리하는 데 사용함\n</text>
 	</string>
 	
 	<string id="st_fieldcooker">
-		<text>Multi-fuel stove</text>
+		<text>연료 혼용식 스토브</text>
 	</string>
 	<string id="st_fieldcooker_descr">
-		<text>The stove has been tested extensively over many years and has been used on countless expeditions. It is extremely robust, reliable and powerful and was designed to handle demanding situations, extreme altitudes and both low and high temperatures. It has a very high output and can be used with virtually any kind of fuel, including butane, gasoline / petrol, diesel, kerosene / paraffin, and even aviation fuel. Using the separate control knob, you can adjust the flame to the heat you want, even if you are wearing gloves.\n \n
-		%c[ui_gray_3]NOTES:\n \n
-		%c[ui_gray_1]Since fuels used in the multi-fuel stove are much more efficient energy-carriers than the wood or coal, the multi-fuel stove is - in the long run - significantly more cost-effective than traditional wood or coal stoves. On the other hand, these fuels are usually carried in heavy metal containers, which makes them more suited for use at bases, rather than in field operations.\n \n
-		%c[ui_gray_1]Mutant meats that do not require high temperature to be prepared are referred to as 'low-tier', whereas those that require high temperature - 'high-tier'.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_green] � %c[ui_gray_2] high-tier cooking equipment\n
-		%c[d_green] � %c[ui_gray_2] fuel: %c[ui_gray_1] gasoline, natural gas, kerosene\n
-		%c[d_green] � %c[ui_gray_2] usable for cooking meats of all mutants\n</text>
+		<text>이 스토브는 수 년 동안의 고강도 실험들을 거쳤고 수많은 탐험에서 사용되었습니다. 이 장비는 매우 튼튼하고 신뢰성이 높으며 강력하고, 매우 높은 고도 및 저온과 고온 환경 모두에서 필요한 상황에 대처하기 위해 설계되었습니다. 매우 높은 출력을 가지고 있으며 부탄과 가솔린 / 휘발유, 경유, 등유 / 파라핀, 심지어는 항공유 등의 모든 종류의 연료들과 함께 사용할 수 있습니다. 본체에서 조금 떨어져 있는 손잡이를 돌리면, 장갑을 끼고 있는 상태에서도 불꽃의 온도를 원하는 만큼 조절할 수 있습니다.\n \n
+		%c[ui_gray_3]참고:\n \n
+		%c[ui_gray_1]연료 혼용식 스토브에서 사용하는 연료들은 나무나 석탄보다 더욱 더 효율적인 에너지 공급원이기 때문에, 연료 혼용식 스토브는 장기적으로 보았을 때 나무나 석탄 스토브보다 더욱 가성비가 좋습니다. 그러나, 이러한 연료들은 대체적으로 무거운 금속 보관용기에 담겨져 있기 때문에, 현장에서의 활동보다는 기지나 은신처에서의 활용에 더 적합합니다.\n \n
+		%c[ui_gray_1]뮤턴트 고기들 중 조리하는 데 높은 온도를 요구하지 않는 것들은 "낮은 등급", 높은 온도를 요구하는 것들은 "높은 등급"으로 분류됩니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_green] • %c[ui_gray_2] 높은 등급의 조리 도구\n
+		%c[d_green] • %c[ui_gray_2] 연료: %c[ui_gray_1] 가솔린, 천연 가스, 등유\n
+		%c[d_green] • %c[ui_gray_2] 모든 뮤턴트 고기를 조리할 수 있음\n</text>
 	</string>
 	
 	<string id="st_box_matches">
-		<text>Matchbox</text>
+		<text>성냥갑</text>
 	</string>
 	<string id="st_box_matches_descr">
-		<text>A box of matches is the second most important item in the Zone after a weapon. With the help of matches, a fire can be created, a light can be passed to a friend, and small spaces can be illuminated. This particular box was produced in an unknown underground factory in the roundabouts of the Zone, therefore high quality is not to be expected, though the price is not high, either. The box has been permanently crumpled, crumbling sulphur and broken wet matches. Only a quarter of its contents remains usable. Even so, lighting a fire or a cigarette is very difficult if using the matchbox - thus, stalkers tend to purchase a more expensive but practical lighter.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_orange] � %c[ui_gray_2] usable for: %c[ui_gray_1] starting a fire, lighting a cigarette\n</text>
+		<text>성냥갑은 존에서 무기 다음으로 중요한 물건입니다. 성냥이 있으면, 불을 피울 수 있고, 동료들에게 빛을 제공해줄 수 있으며, 자그마한 공간을 밝혀줄 수 있습니다. 이런 종류의 성냥갑은 존의 주변에 있는 미확인된 지하 공장에서 생산되었으므로, 그리 높은 품질의 물건들이라고 볼 수는 없지만, 가격 또한 그다지 높지 않습니다. 성냥갑은 완전히 구겨져서, 유황이 바스라져 굴러다니고 젖은 성냥들이 부러져 있습니다. 오직 내용물의 4분의 1정도 만을 제대로 사용할 수 있습니다. 그렇지만, 성냥갑을 사용할 경우 모닥불이나 담배에 불을 붙이는 건 꽤 어려운 일이라서, 스토커들은 더 비싸지만 실용적인 라이터를 사려고 합니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 일상 용품\n
+		%c[d_orange] • %c[ui_gray_2] 용도: %c[ui_gray_1] 불 피우기, 담배에 불 붙이기\n</text>
 	</string>
 	
 	<string id="st_kerosene">
-		<text>Kerosene</text>
+		<text>등유</text>
 	</string>
 	<string id="st_kerosene_descr">
-		<text>Kerosene is used widely, for example in aviation as rocket fuel, and as firing in glass products, household lighting and heating devices. Being an excellent solvent, it easily reaches internal mechanisms and is therefore widely used in the cleaning and repair of various components.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_green] � %c[ui_gray_2] hi-tier cooking fuel\n
+		<text>등유는 로켓의 비행 연료나, 유리병 같은 곳 안에 불을 피워서 가정용 등불로 쓰이거나, 난방 장치에서 쓰이는 등 다양한 용도로 사용됩니다. 훌륭한 세척 용제로서, 등유는 내부 부품까지 쉽게 도달하기 때문에 다양한 부품들을 청소하거나 수리하는 데 널리 사용됩니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_green] • %c[ui_gray_2] 높은 등급의 조리용 연료\n
 		</text>
 	</string>
 	
 	<string id="st_charcoal">
-		<text>Charcoal</text>
+		<text>목탄</text>
 	</string>
 	<string id="st_charcoal_descr">
-		<text>Charcoal from hardwood timber for cooking meat, fish, vegetables in the brazier and barbecue.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_green] � %c[ui_gray_2] low-tier cooking fuel\n</text>
+		<text>단단한 목재로 만든 목탄으로 고기나 어류, 채소들을 화로나 바베큐로 요리하는 데 사용됩니다.\n \n
+		%c[ui_gray_3]특징:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
+		%c[d_green] • %c[ui_gray_2] 낮은 등급의 조리용 연료\n</text>
 	</string>
 
 	<string id="st_fuel_tier_1">
-		<text>All flammables</text>
+		<text>인화성 물질 전반</text>
 	</string>
 	<string id="st_fuel_tier_1_desc">
 		<text>
-		%c[d_blue] � %c[ui_gray_2] Campfire\n
-		%c[d_blue] � %c[ui_gray_2] Charcoal\n
-		%c[d_blue] � %c[ui_gray_2] Kerosene\n
-		%c[d_blue] � %c[ui_gray_2] Jerrycan\n
-		%c[d_blue] � %c[ui_gray_2] Gas balloon\n
+		%c[d_blue] • %c[ui_gray_2] 모닥불\n
+		%c[d_blue] • %c[ui_gray_2] 목탄\n
+		%c[d_blue] • %c[ui_gray_2] 등유\n
+		%c[d_blue] • %c[ui_gray_2] 기름통\n
+		%c[d_blue] • %c[ui_gray_2] 가스통\n
 		</text>
 	</string>
 	
 	<string id="st_fuel_tier_2">
-		<text>Liquid fuel only</text>
+		<text>액체 연료 전용</text>
 	</string>
 	<string id="st_fuel_tier_2_desc">
 		<text>
-		%c[d_blue] � %c[ui_gray_2] Kerosene\n
-		%c[d_blue] � %c[ui_gray_2] Jerrycan\n
-		%c[d_blue] � %c[ui_gray_2] Gas balloon\n
+		%c[d_blue] • %c[ui_gray_2] 등유\n
+		%c[d_blue] • %c[ui_gray_2] 기름통\n
+		%c[d_blue] • %c[ui_gray_2] 가스통\n
 		</text>
 	</string>
 
