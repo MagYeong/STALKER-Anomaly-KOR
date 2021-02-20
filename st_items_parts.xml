@@ -201,248 +201,248 @@ WEAPONS (rifles)
 
 <!-- Barrels-->
 	<string id="st_barrel_1">
-		<text>18.5mm barrel [R]</text>
+		<text>18.5mm 총열 [R]</text>
 	</string>
 	<string id="st_barrel_1_descr">
-		<text>barrel from an 18.5mm double-barrel shotgun.\n \n
+		<text>18.5mm 이중 총열 산탄총에서 분리된 총열입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_barrel_2">
-		<text>18.5mm barrel [R]</text>
+		<text>18.5mm 총열 [R]</text>
 	</string>
 	<string id="st_barrel_2_descr">
-		<text>barrel from an 18.5mm cock double-barrel shotgun.\n \n
+		<text>18.5mm 격철식 이중 총열 산탄총에서 분리된 총열입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_barrel_3">
-		<text>18.5mm barrel [K]</text>
+		<text>18.5mm 총열 [K]</text>
 	</string>
 	<string id="st_barrel_3_descr">
-		<text>barrel from an 18.5mm smooth-bore rifle.\n \n
+		<text>18.5mm 활강식 소총에서 분리된 총열입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_barrel_4">
-		<text>7.62mm barrel [V]</text>
+		<text>7.62mm 총열 [V]</text>
 	</string>
 	<string id="st_barrel_4_descr">
-		<text>barrel from a 7.62mm rifle.\n \n
+		<text>7.62mm 소총에서 분리된 총열입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_barrel_5">
-		<text>7.92mm barrel [V]</text>
+		<text>7.92mm 총열 [V]</text>
 	</string>
 	<string id="st_barrel_5_descr">
-		<text>barrel from a German 7.92mm rifle.\n \n
+		<text>독일제 7.92mm 소총에서 분리된 총열입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_barrel_6">
-		<text>9mm barrel-silencer [AS/PP]</text>
+		<text>9mm 총열-소음기 [AS/PP]</text>
 	</string>
 	<string id="st_barrel_6_descr">
-		<text>barrel with an integrated silencer from an automatic special purpose 9mm rifle.\n \n
+		<text>특수 목적의 9mm 자동소총에 장착하기 위해 만들어진 내장형 소음기가 달린 총열입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_barrel_7">
-		<text>7.62mm barrel [A|V]</text>
+		<text>7.62mm 총열 [A|V]</text>
 	</string>
 	<string id="st_barrel_7_descr">
-		<text>barrel from a semi-automatic or automatic 7.62mm rifle.\n \n
+		<text>7.62mm 반자동 또는 자동 소총에서 분리된 총열입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_barrel_8">
-		<text>5.45mm barrel [À]</text>
+		<text>5.45mm 총열 [À]</text>
 	</string>
 	<string id="st_barrel_8_descr">
-		<text>barrel from an automatic 5.45mm rifle.\n \n
+		<text>5.45mm 자동소총에서 분리된 총열입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_barrel_9">
-		<text>5.56mm barrel [À]</text>
+		<text>5.56mm 총열 [À]</text>
 	</string>
 	<string id="st_barrel_9_descr">
-		<text>barrel from an automatic 5.56mm rifle.\n \n
+		<text>5.56mm 자동소총에서 분리된 총열입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_barrel_10">
-		<text>7.62mm barrel [P]</text>
+		<text>7.62mm 총열 [P]</text>
 	</string>
 	<string id="st_barrel_10_descr">
-		<text>barrel from a 7.62mm rifle with a gas regulator.\n \n
+		<text>7.62mm 소총에서 분리된 가스 조절기가 달린 총열입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_barrel_11">
-		<text>9mm barrel [AS/PP]</text>
+		<text>9mm 총열 [AS/PP]</text>
 	</string>
 	<string id="st_barrel_11_descr">
-		<text>barrel from an automatic special purpose 9mm or PP rifle.\n \n
+		<text>특수 목적의 9mm 자동소총 또는 PP 소총에 장착하기 위해 만들어진 총열입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_barrel_12">
-		<text>7.62mm barrel [PP]</text>
+		<text>7.62mm 총열 [PP]</text>
 	</string>
 	<string id="st_barrel_12_descr">
-		<text>barrel from the infamous or even legendary PPSh submachine gun system.\n \n
+		<text>악명높은, 혹은 전설적인 PPSh 기관단총 종류의 총기에서 분리된 총열입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_barrel_13">
-		<text>12.7x55mm barrel</text>
+		<text>12.7x55mm 총열</text>
 	</string>
 	<string id="st_barrel_13_descr">
-		<text>barrel from an automatic 12.7x55mm rifle.\n \n
+		<text>12.7x55mm 자동소총에서 분리된 총열입니다.\n \n
 		</text>
 	</string>
 
 
 <!-- Trigger mechanisms -->
 	<string id="st_trigger_components_1">
-		<text>Single-mode hammer type trigger</text>
+		<text>공이가 달린 단발 방식의 방아쇠 장치</text>
 	</string>
 	<string id="st_trigger_components_1_descr">
-		<text>Single-mode hammer type trigger mechanism.\n \n
+		<text>공이가 달린 단발 방식의 방아쇠 장치입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_trigger_components_2">
-		<text>Double fire mode trigger mechanism with hammer</text>
+		<text>공이가 달린 이중 발사 방식의 방아쇠 장치</text>
 	</string>
 	<string id="st_trigger_components_2_descr">
-		<text>Dual-mode hammer type trigger. Designed for the conduct of automatic and single fire.\n \n
+		<text>공이가 달린 이중 발사 방식의 방아쇠입니다. 자동사격과 단발사격 기능을 전환하기 위해 설계되었습니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_trigger_components_3">
-		<text>Triple fire mode trigger mechanism with hammer</text>
+		<text>공이가 달린 삼중 발사 방식의 방아쇠 장치</text>
 	</string>
 	<string id="st_trigger_components_3_descr">
-		<text>Triple fire mode hammer type trigger. Designed for the conduct of automatic, single and double fire. Strongly tied to the design of the weapon.\n \n
+		<text>공이가 달린 삼중 발사 방식의 방아쇠입니다. 자동사격과 단발사격, 그리고 2점사 사격을 위해 설계되었습니다. 무기의 디자인과 긴밀하게 연관되어 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_trigger_components_4">
-		<text>Single fire mode trigger mechanism with firing pin
+		<text>공이치기가 달린 단발 사격 방식의 방아쇠 장치
 		</text>
 	</string>
 	<string id="st_trigger_components_4_descr">
-		<text>Single fire mode trigger mechanism with firing pin.\n \n
+		<text>공이치기가 달린 단발 사격 방식의 방아쇠 장치입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_trigger_components_5">
-		<text>Double fire mode trigger mechanism with firing pin
+		<text>공이치기가 달린 이중 발사 방식의 방아쇠 장치
 		</text>
 	</string>
 	<string id="st_trigger_components_5_descr">
-		<text>Double fire mode trigger mechanism with firing pin. Allows shooting in single and automatic fire.\n \n
+		<text>공이치기가 달린 이중 발사 방식의 방아쇠 장치입니다. 단발과 자동 사격을 가능하게 만들어 줍니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_trigger_components_6">
-		<text>Trigger mechanism with hammer [R]</text>
+		<text>공이가 달린 방아쇠 장치 [R]</text>
 	</string>
 	<string id="st_trigger_components_6_descr">
-		<text>Trigger mechanism with hammer from a double-barrel shotgun.\n \n
+		<text>이중 총열 산탄총에서 분리된 공이가 달린 방아쇠 장치입니다.\n \n
 		</text>
 	</string>
 
 
 <!-- Breech blocks -->
 	<string id="st_bolt_carrier_1">
-		<text>Sliding bolt carrier with turning bolt lock [Russia]</text>
+		<text>회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치 [러시아]</text>
 	</string>
 	<string id="st_bolt_carrier_1_descr">
-		<text>Sliding bolt carrier with a turning bolt lock, produced by Eastern manufacturers.\n \n
+		<text>동구권에서 생산된 회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_carrier_2">
-		<text>Sliding bolt carrier with turning bolt lock [Russia]</text>
+		<text>회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치 [러시아]</text>
 	</string>
 	<string id="st_bolt_carrier_2_descr">
-		<text>Sliding bolt carrier with turning bolt lock, produced by Eastern manufacturers, from special automatic weapons.\n \n
+		<text>동구권에서 생산된, 특수한 자동소총에서 분리된 회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_carrier_3">
-		<text>Sliding bolt carrier with turning bolt lock [NATO]</text>
+		<text>회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치 [NATO]</text>
 	</string>
 	<string id="st_bolt_carrier_3_descr">
-		<text>Longitudinally-sliding breech block with lock turn, produced by NATO, from an standard calibre automatic rifle.\n \n
+		<text>NATO 소속 국가에서 만들어진 표준 구경의 자동 소총에서 분리된 회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_carrier_4">
-		<text>Sliding bolt carrier with a locking bias</text>
+		<text>잠금 바이어스가 있는 슬라이드식 노리쇠 뭉치</text>
 	</string>
 	<string id="st_bolt_carrier_4_descr">
-		<text>Sliding bolt carrier with a locking bias.\n \n
+		<text>잠금 바이어스가 있는 슬라이드식 노리쇠 뭉치입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_carrier_5">
-		<text>Half-free sliding bolt carrier</text>
+		<text>하프-프리 방식의 슬라이드식 노리쇠 뭉치</text>
 	</string>
 	<string id="st_bolt_carrier_5_descr">
-		<text>Half-free sliding bolt carrier with a roller brake.\n \n
+		<text>롤러 브레이크가 달린 하프-프리 방식의 슬라이드식 노리쇠 뭉치입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_carrier_6">
-		<text>Sliding bolt carrier with locking bolt</text>
+		<text>노리쇠 잠금장치가 있는 슬라이드식 노리쇠 뭉치</text>
 	</string>
 	<string id="st_bolt_carrier_6_descr">
-		<text>Sliding bolt carrier with locking bolt.\n \n
+		<text>노리쇠 잠금장치가 있는 슬라이드식 노리쇠 뭉치입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_carrier_7">
-		<text>Lever type bolt carrier with locking wedge</text>
+		<text>잠금쇠가 있는 레버 방식 노리쇠 뭉치</text>
 	</string>
 	<string id="st_bolt_carrier_7_descr">
-		<text>Lever type bolt carrier with locking wedge.\n \n
+		<text>잠금쇠가 있는 레버 방식 노리쇠 뭉치입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_carrier_8">
-		<text>Chock from double-barrel shotgun [R]</text>
+		<text>이중 총열 산탄총의 초크 [R]</text>
 	</string>
 	<string id="st_bolt_carrier_8_descr">
-		<text>Chock from double-barrel shotgun.\n \n
+		<text>이중 총열 산탄총의 초크입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_carrier_9">
-		<text>Chock from a double-barrel shotgun [R]</text>
+		<text>이충 총열 산탄총에서 분리된 초크 [R]</text>
 	</string>
 	<string id="st_bolt_carrier_9_descr">
-		<text>Chock from a double-barrel shotgun.\n \n
+		<text>이충 총열 산탄총에서 분리된 초크입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_carrier_10">
-		<text>Sliding bolt carrier with turning bolt lock [NATO]</text>
+		<text>회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치 [NATO]</text>
 	</string>
 	<string id="st_bolt_carrier_10_descr">
-		<text>Sliding bolt carrier with turning bolt lock, product of NATO countries for a large-calibre automatic rifle.\n \n
+		<text>회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치로, NATO 가입국가에서 만든 대구경 자동소총에서 분리되었습니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_carrier_11">
-		<text>Longitudinal-a sliding free bolt carrier [PP]</text>
+		<text>종단축 슬라이드 프리식 노리쇠 뭉치 [PP]</text>
 	</string>
 	<string id="st_bolt_carrier_11_descr">
-		<text>Sliding free bolt carrier from a submachine gun.\n \n
+		<text>기관단총에서 분리된 종단축 슬라이드 프리식 노리쇠 뭉치입니다.\n \n
 		</text>
 	</string>
 
@@ -681,14 +681,14 @@ WEAPONS (pistols)
 
 <!-- barrels -->
 	<string id="st_prt_w_p_barrel_1">
-		<text>9x18mm barrel</text>
+		<text>9x18mm 총열</text>
 	</string>
 	<string id="st_prt_w_p_barrel_1_descr">
 		<text>.</text>
 	</string>
 
 	<string id="st_prt_w_p_barrel_2">
-		<text>9x19mm barrel</text>
+		<text>9x19mm 총열</text>
 	</string>
 	<string id="st_prt_w_p_barrel_2_descr">
 		<text>.</text>
@@ -702,21 +702,21 @@ WEAPONS (pistols)
 	</string>
 
 	<string id="st_prt_w_p_barrel_4">
-		<text>5.7mm barrel</text>
+		<text>5.7mm 총열</text>
 	</string>
 	<string id="st_prt_w_p_barrel_4_descr">
 		<text>.</text>
 	</string>
 
 	<string id="st_prt_w_p_barrel_5">
-		<text>7.62mm barrel</text>
+		<text>7.62mm 총열</text>
 	</string>
 	<string id="st_prt_w_p_barrel_5_descr">
 		<text>.</text>
 	</string>
 
 	<string id="st_prt_w_p_barrel_6">
-		<text>9x18mm barrel (enclosed)</text>
+		<text>9x18mm 총열 (enclosed)</text>
 	</string>
 	<string id="st_prt_w_p_barrel_6_descr">
 		<text>.</text>
