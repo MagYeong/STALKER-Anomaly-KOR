@@ -72,10 +72,10 @@
 	</string>
 	
 <!--< 음식 >-->
-	<string id="st_energy_음료">
+	<string id="st_energy_drink">
 		<text>스트롱 에너지 드링크</text>
 	</string>
-	<string id="st_energy_음료_descr">
+	<string id="st_energy_drink_descr">
 		<text>지친 사람에게 활기를 불어넣는 효과로 인해 긴 여행을 떠나는 스토커들이 자주 사용합니다. 또한 술에 취했을 때 술을 조금씩 깨게 만들어 줄 뿐만 아니라 혈류에 공급되는 아드레날린의 분비를 촉진시켜 줍니다. 과음하지는 마세요.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 음료\n
