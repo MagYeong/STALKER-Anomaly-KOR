@@ -11,56 +11,56 @@ ITEMS
 -->
 
 	<string id="st_prt_i_ammo">
-		<text>Ammo parts</text>
+		<text>탄약 부품</text>
 	</string>
 	<string id="st_prt_i_ammo_descr">
 		<text>
-		Even with good supplies, it�s not uncommon to end up with one or more cartridges of what might be considered as �bad� ammunition. Unlucky stalkers might find themselves in very bad situations when their weapons jam at critical moments due to bad cartridges. On the contrary, these ammo parts can be reused for the creation of better variants. That's why some stalkers prefer to keep them around.\n \n
+		아무리 보급을 잘 했다고 하더라도, "안 좋은" 탄으로 여겨지는 탄으로 된 한 개 이상의 탄창이 꼭 생기게 되어 있기 마련입니다. 운나쁜 스토커들은 질 나쁜 탄창을 사용해서 무기가 걸리게 되는 매우 좋지 않은 상황을 맞닥뜨릴 수도 있습니다. 그 반면, 이런 탄약 부품들은 다양한 탄종을 만들어내는데 재사용할 수 있습니다. 이게 몇몇 스토커들이 이런 것들을 모아놓는 걸 선호하는 이유입니다.\n \n
 		</text>
 	</string>
 	
 	<string id="st_prt_i_paper">
-		<text>Paper sheets</text>
+		<text>종이 시트</text>
 	</string>
 	<string id="st_prt_i_paper_descr">
 		<text>
-		Torn sheets of silk coated paper. Even in a place like the Zone, it can be used for all kind of things. The cheapest way for packaging food or cleaning dirt.\n \n
+		실크로 코팅된 찢어진 종이 시트입니다. 존 같은 곳에서도, 이 물건은 잡다한 용도로 사용할 수 있습니다. 식품을 포장하거나 먼지를 닦아내는 가장 저렴한 방법입니다.\n \n
 		</text>
 	</string>
 	
 	<string id="st_prt_i_textolite">
-		<text>Textolite base</text>
+		<text>텍스톨라이트 소재</text>
 	</string>
 	<string id="st_prt_i_textolite_descr">
 		<text>
-		Layered plastic based on fabric of fibers and polymeric binder (bakelite, polyester resin, epoxy resin). With proper skill it can be great help in repairing.\n \n
+		섬유재질의 천과 폴리머 재질의 바인더 (베이클라이트, 폴리에스테르 레진, 에폭시 수지)로 만들어진 다층 구조의 플라스틱입니다. 적절한 기술만 있으면 수리에 큰 도움이 될 수 있습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="st_textile_patch_b">
-		<text>Cloth sheet</text>
+		<text>천 시트</text>
 	</string>
 	<string id="st_textile_patch_b_descr">
 		<text>
-		Simple cloth sheet, commonly used both to patch clothing and spread oils and cleaning solvents onto firearm mechanisms. Can be applied by any needle or glue.\n \n
+		단순한 천 시트로, 옷을 기우거나 화기에 기름이나 청소용제를 도포하는 데 주로 사용됩니다. 모든 바늘이나 접착제와 같이 사용할 수 있습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="st_textile_patch_m">
-		<text>Textile sheet</text>
+		<text>직물 시트</text>
 	</string>
 	<string id="st_textile_patch_m_descr">
 		<text>
-		Sheet of military-grade textile that can be used for field repairs of clothing and light armor. Valued for its relatively low price and high versatility, this material is commonly used by the Zoners. Medium-grade sewing equipment and advanced glue required for use. It can also be used to improve spread of liquids during weapon maintenance.\n \n
+		군납품 품질의 직물 시트로 의복이나 경갑의 야전 수리에 이용할 수 있습니다. 상대적으로 저렴한 가격과 높은 범용성으로 인해, 존에 있는 사람들 사이에서 널리 쓰입니다. 중간 등급의 바느질 도구와 고급 접착제와 같이 사용해야 합니다. 또한 무기를 보수하는 데 필요한 용액들을 더 효율적으로 도포하는 데에도 사용합니다.\n \n
 		</text>
 	</string>
 	
 	<string id="st_textile_patch_e">
-		<text>Reinforced textile sheet</text>
+		<text>강화된 직물 시트</text>
 	</string>
 	<string id="st_textile_patch_e_descr">
 		<text>
-		Thick textile patch reinforced with kevlar padding. Can be used to repair medium and heavy armors. Large enough to cover multiple damaged areas. High quality sewing kits and adhesives are required to make use of it. Its alternative usage is weapon lubrication and cleaning - due to increased hardness it's able reach even less accessible areas of firearm parts.\n \n
+		케블라 패딩으로 강화된 두꺼운 직물 시트입니다. 평갑과 중갑을 수리하는 데 사용합니다. 다수의 파손된 부분을 덮을 수 있을만큼 큽니다. 제대로 쓰려면 높은 등급의 바느질 도구와 접착제가 필요합니다. 다른 용도로는 무기 유지보수 및 청소가 있는데, 강도가 높아서 총기 부품의 잘 닿지 않는 곳 구석구석까지 청소할 수 있습니다.\n \n
 		</text>
 	</string>
 	
@@ -171,7 +171,7 @@ ITEMS
 	<string id="st_prt_i_triggermechanism_descr">
 		<text>The trigger mechanism and assembly from an unknown firearm. Most triggers are very similar, and there's no reasno this one couldn't be shaved down to fit almost any weapon.\n \n
 		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] basic material\n
+		%c[d_cyan] • %c[ui_gray_2] basic material\n
 		</text>
 	</string>
 	
@@ -180,7 +180,7 @@ ITEMS
 	</string>
 	<string id="st_prt_i_spring_descr">
 		<text>A small spring from either the trigger assembly or inner workings of an unknown firearm. Could probably be adapted to replace most any small spring.\n \n%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] basic material\n
+		%c[d_cyan] • %c[ui_gray_2] basic material\n
 		</text>
 	</string>
 	
@@ -189,7 +189,7 @@ ITEMS
 	</string>
 	<string id="st_prt_i_pistolgrip_descr">
 		<text>Pistol grips from some unknown weapon. This rubberized handle could probably be shaped or molded to fit almost any firearm.\n \n%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] � %c[ui_gray_2] basic material\n
+		%c[d_cyan] • %c[ui_gray_2] basic material\n
 		</text>
 	</string>
 	
@@ -257,7 +257,7 @@ WEAPONS (rifles)
 	</string>
 
 	<string id="st_barrel_8">
-		<text>5.45mm barrel [�]</text>
+		<text>5.45mm barrel [À]</text>
 	</string>
 	<string id="st_barrel_8_descr">
 		<text>barrel from an automatic 5.45mm rifle.\n \n
@@ -265,7 +265,7 @@ WEAPONS (rifles)
 	</string>
 
 	<string id="st_barrel_9">
-		<text>5.56mm barrel [�]</text>
+		<text>5.56mm barrel [À]</text>
 	</string>
 	<string id="st_barrel_9_descr">
 		<text>barrel from an automatic 5.56mm rifle.\n \n
@@ -489,7 +489,7 @@ WEAPONS (rifles)
 	</string>
 
 	<string id="st_bolt_6">
-		<text>Rotating locking head [2 locks][�]</text>
+		<text>Rotating locking head [2 locks][À]</text>
 	</string>
 	<string id="st_bolt_6_descr">
 		<text>Rotating locking head with two stops from a machine gun with a longitudinally-sliding breech block with lock turn.\n \n
@@ -505,7 +505,7 @@ WEAPONS (rifles)
 	</string>
 
 	<string id="st_bolt_8">
-		<text>Rotating locking head [6 locks][�]</text>
+		<text>Rotating locking head [6 locks][À]</text>
 	</string>
 	<string id="st_bolt_8_descr">
 		<text>Rotating locking head with six locks from a machine gun with a longitudinally-sliding breech block with lock turn.\n \n
@@ -513,7 +513,7 @@ WEAPONS (rifles)
 	</string>
 
 	<string id="st_bolt_9">
-		<text>Rotating locking head [7 locks][�]</text>
+		<text>Rotating locking head [7 locks][À]</text>
 	</string>
 	<string id="st_bolt_9_descr">
 		<text>Rotating locking head with seven locks from a machine gun with a longitudinally-sliding breech block with lock turn.\n \n
@@ -521,7 +521,7 @@ WEAPONS (rifles)
 	</string>
 
 	<string id="st_bolt_10">
-		<text>Rotating locking head [8 locks][�]</text>
+		<text>Rotating locking head [8 locks][À]</text>
 	</string>
 	<string id="st_bolt_10_descr">
 		<text>Rotating locking head with eight locks from a machine gun with a longitudinally-sliding breech block with lock turn.\n \n
@@ -545,7 +545,7 @@ WEAPONS (rifles)
 	</string>
 
 	<string id="st_bolt_13">
-		<text>Rotating locking head [2 locks][�][NATO]</text>
+		<text>Rotating locking head [2 locks][À][NATO]</text>
 	</string>
 	<string id="st_bolt_13_descr">
 		<text>Rotating locking head with two stops from a large-calibre automatic rifle produced by NATO countries with a sliding bolt carrier with turning bolt lock.\n \n
@@ -553,7 +553,7 @@ WEAPONS (rifles)
 	</string>
 
 	<string id="st_bolt_14">
-		<text>Rotating locking head [�/PP]</text>
+		<text>Rotating locking head [À/PP]</text>
 	</string>
 	<string id="st_bolt_14_descr">
 		<text>Rotating locking head from either the PP or an automatic rifle with a longitudinal-a half-free sliding bolt carrier.\n \n
@@ -580,7 +580,7 @@ WEAPONS (rifles)
 		<text>Drummer with the mainspring [PP][PPSh]</text>
 	</string>
 	<string id="st_bolt_17_descr">
-		<text>Drummer with the mainspring from some Soviet PP, like the PP of Shpagin�s system with a longitudinal-a sliding free bolt carrier.\n \n
+		<text>Drummer with the mainspring from some Soviet PP, like the PP of Shpagin’s system with a longitudinal-a sliding free bolt carrier.\n \n
 		</text>
 	</string>
 
@@ -969,14 +969,14 @@ OUTFITS
 		<text>Insulating fibreglass "Polyester" fabrics</text>
 	</string>
 	<string id="st_prt_o_retardant_19_descr">
-		<text>High temperature resistant fabrics woven from �E" glass fibers and coated with Vermiculite based film providing extended service temperatures up to 1500�F and good shock resistance up to 20Kv. In a place like the Zone, these fabrics can come in handy against anomolous hazards.</text>
+		<text>High temperature resistant fabrics woven from “E" glass fibers and coated with Vermiculite based film providing extended service temperatures up to 1500°F and good shock resistance up to 20Kv. In a place like the Zone, these fabrics can come in handy against anomolous hazards.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_20">
 		<text>Insulating fibreglass "Satin Weave" fabrics</text>
 	</string>
 	<string id="st_prt_o_retardant_20_descr">
-		<text>High temperature resistant fabrics woven from �E" glass fibers and coated with Vermiculite based film providing extended service temperatures up to 1700�F and good shock resistance up to 25Kv. In a place like the Zone, these fabrics can come in handy against anomolous hazards.</text>
+		<text>High temperature resistant fabrics woven from “E" glass fibers and coated with Vermiculite based film providing extended service temperatures up to 1700°F and good shock resistance up to 25Kv. In a place like the Zone, these fabrics can come in handy against anomolous hazards.</text>
 	</string>
 	
 <!-- Ballistic inserts -->
