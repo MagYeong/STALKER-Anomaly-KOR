@@ -65,92 +65,92 @@ ITEMS
 	</string>
 	
 	<string id="st_prt_i_capacitors">
-		<text>A pack of capacitors</text>
+		<text>콘덴서 한 팩</text>
 	</string>
 	<string id="st_prt_i_capacitors_descr">
 		<text>
-		Electric capacitors can store electricity. The simplest capacitor consists of two metal plates and a dielectric between them. It is a main component is most of electrical devices due to its important job in rectifying alternative current, storing electrical energy and bypassing noise. They are quite rare in the Zone, but they are very useful.\n \n
+		전기를 축적해 두는 콘덴서입니다. 단순한 콘덴서로 두 금속판 사이에 유전체를 끼워 만들어졌습니다. 이 부품은 다양한 전자장치에서 사용되는데 교류 전류를 바로잡아서, 전기 에너지를 저장하고 전자장치의 잡음을 우회하는 데 중요한 역할을 하기 때문입니다. 존에서는 상당히 희귀한 물품이지만, 매우 유용합니다.\n \n
 		</text>
 	</string>
 	
 	<string id="st_prt_i_transistors">
-		<text>A box of transistors</text>
+		<text>트랜지스터 한 상자</text>
 	</string>
 	<string id="st_prt_i_transistors_descr">
 		<text>
-		A box of high-quality BJT transistors. A transistor consists of three Semiconductor parts (base, emitter, collector) that serve together to generate, convert and amplify electrical oscillations. The ultimate dream of electronics engineers, if such a miracle will bring to the Area.\n \n
+		높은 품질의 BJT 트랜지스터 한 상자입니다. 트랜지스터는 세 부분의 반도체 부품 (베이스, 이미터, 컬렉터)으로 구성되어 있고 각각 전자파의 진동을 생성하고, 변환하며 증폭합니다. 이 지역에 반입되는 기적이 일어나게 된다면, 전자공학 기술자들의 꿈의 물건이 될 것입니다.\n \n
 		</text>
 	</string>
 	
 	<string id="st_prt_i_resistors">
-		<text>A box of resistors</text>
+		<text>저항 한 상자</text>
 	</string>
 	<string id="st_prt_i_resistors_descr">
 		<text>
-		Resistors are the most common electronics components found in electronics. They limit and direct the passage of electrical current through circuit's branches to ensure other components are getting proper voltage feeding. This box contains a good set of resistors with different resistance values and tolerance, ranging from 12 up to 82M ohms.\n \n
+		저항은 전자제품에서 찾아볼 수 있는 가장 흔한 부품입니다. 이 부품은 다른 부품들에 적절한 수준의 전압이 공급되도록 전자 회로들 사이에서 흐르는 전류량을 제한하고 방향을 설정해 줍니다. 이 상자에는 12에서 82메가옴까지의 다양한 전기저항값을 가진 저항들이 모두 포함되어 있습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="st_prt_i_copper">
-		<text>Copper wire</text>
+		<text>구리선</text>
 	</string>
 	<string id="st_prt_i_copper_descr">
 		<text>
-		Electrotechnical copper wire is used practically in all devices, devices, apparatuses, installations, machines where the production, transmission or use of electric energy occurs. In its pure form it is rare, but if necessary it can be easily extracted from common old radios, walkie-talkies and other electronics.\n \n
+		전기공학용 구리선은 전기 에너지의 생산, 전송 및 사용에 관련된 모든 장치들, 기구들, 설치과정, 기계들에 실용적으로 사용됩니다. 온전한 형태로 된 것은 상당히 희귀하지만, 일반적인 낡은 라디오, 워키토키 등의 다른 전자제품들에서 쉽게 획득할 수 있습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="st_prt_i_wood">
-		<text>Wooden parts</text>
+		<text>목재 부품</text>
 	</string>
 	<string id="st_prt_i_wood_descr">
 		<text>
-		Pieces of wide-grained, light cedar wood. Mostly used for outdoor projects such as furniture, decks and tools. White it's not that useful in a place like the Zone, it could be used in crafting.\n \n
+		넓은 물결 무늬가 있는, 가벼운 삼나무 조각입니다. 가구나 층판, 그리고 도구 같은 것들을 만드는 실외작업에 주로 사용됩니다. 이런 존 같은 곳에서는 그렇게 쓸모 있지는 않지만, 제작에 사용할 수 있습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="st_prt_i_scrap">
-		<text>Metallic scrap</text>
+		<text>고철 조각</text>
 	</string>
 	<string id="st_prt_i_scrap_descr">
 		<text>
-		Handful of metal bits and pieces of equipment. A variety of many different types and grades of steel and aluminum alloys. Could be used to aid in repairing gear in the field, or perhaps even in crafting.\n \n
+		한 줌의 금속 볼트, 나사, 철쪼가리 그리고 장비들의 조각입니다. 다양한 형태와 등급의 강철과 알루미늄 합금이 모여 있습니다. 야전에서 장비를 수리하는 데 보조하거나, 제작에도 이용할 수 있습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="st_prt_i_fasteners">
-		<text>Fasteners</text>
+		<text>고정장치</text>
 	</string>
 	<string id="st_prt_i_fasteners_descr">
 		<text>
-		Handful of screws, washers, nuts, nails and small pieces of metallic plates. A variety of many different types and sizes. Could be used to aid in repairing gear in the field, or perhaps even in crafting.\n \n
+		 한 줌의 나사, 나사받이, 너트, 못 그리고 작은 금속 판으로 이루어져 있습니다. 다양한 형태와 크기로 되어 있습니다. 야전에서 장비를 수리하는 데 보조하거나, 제작에도 이용할 수 있습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="st_prt_i_plastic">
-		<text>Plastic film</text>
+		<text>플라스틱 필름</text>
 	</string>
 	<string id="st_prt_i_plastic_descr">
-		<text>A small pack made of low density polyethylene film. These thin plastic membranes are used to separate areas or volumes, hold items and act as barriers. Plastic films are used in a wide variety of applications. Despite being partly torn, polyethylene's characteristics makes it a great solution for packaging and isolating, especially for food and medicine.\n \n
+		<text>저밀도의 폴리에틸렌 필름으로 되어 있는 작은 꾸러미입니다. 이 얇은 플라스틱 막들은 구역이나 물건들을 분리하거나, 물건들을 담거나 보호막의 기능을 합니다. 플라스틱 필름은 다양한 영역에서 사용할 수 있습니다. 비록 몇 군데가 찢어지기는 했지만, 폴리에틸렌 재질의 특성으로 특히 음식이나 약물의 포장이나 격리에 좋습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="st_prt_i_glass">
-		<text>Glass pieces</text>
+		<text>유리 조각</text>
 	</string>
 	<string id="st_prt_i_glass_descr">
 		<text>.</text>
 	</string>
 	
 	<string id="st_prt_i_ceramic">
-		<text>Ceramic base</text>
+		<text>세라믹 베이스</text>
 	</string>
 	<string id="st_prt_i_ceramic_descr">
 		<text>.</text>
 	</string>
 	
 	<string id="st_prt_i_leather">
-		<text>Leather roll</text>
+		<text>가죽 두루마리</text>
 	</string>
 	<string id="st_prt_i_leather_descr">
 		<text>.</text>
@@ -159,37 +159,37 @@ ITEMS
 	
 	
 	<string id="st_prt_i_rubber">
-		<text>Rubber</text>
+		<text>고무</text>
 	</string>
 	<string id="st_prt_i_rubber_descr">
 		<text>.</text>
 	</string>
 	
 	<string id="st_prt_i_triggermechanism">
-		<text>Trigger mechanism</text>
+		<text>방아쇠 기계 장치</text>
 	</string>
 	<string id="st_prt_i_triggermechanism_descr">
-		<text>The trigger mechanism and assembly from an unknown firearm. Most triggers are very similar, and there's no reasno this one couldn't be shaved down to fit almost any weapon.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] basic material\n
+		<text>정체 불명의 총기에서 분리된 방아쇠 기계 장치입니다. 대부분의 방아쇠는 매우 비슷한 구조를 가지고 있기 때문에, 이 물건이 아무 무기에나 장착되지 않을 이유는 없습니다.\n \n
+		%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 기본 재료\n
 		</text>
 	</string>
 	
 	<string id="st_prt_i_spring">
-		<text>Spring</text>
+		<text>용수철</text>
 	</string>
 	<string id="st_prt_i_spring_descr">
-		<text>A small spring from either the trigger assembly or inner workings of an unknown firearm. Could probably be adapted to replace most any small spring.\n \n%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] basic material\n
+		<text>정체 불명의 총기의 방아쇠 장치나 내부 구조에서 떼어낸 작은 용수철입니다. 아마도 대부분의 다른 작은 용수철을 대체하는 데 사용할 수 있을 것입니다.\n \n%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 기본 재료\n
 		</text>
 	</string>
 	
 	<string id="st_prt_i_pistolgrip">
-		<text>Pistol grip</text>
+		<text>권총 손잡이</text>
 	</string>
 	<string id="st_prt_i_pistolgrip_descr">
-		<text>Pistol grips from some unknown weapon. This rubberized handle could probably be shaped or molded to fit almost any firearm.\n \n%c[ui_gray_2]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] basic material\n
+		<text>몇몇 정체불명의 총기에서 떼어낸 권총 손잡이입니다. 이 고무처리된 손잡이는 다른 총기들에 맞추기 위해 개조되거나 변형할 수 있을 것입니다.\n \n%c[ui_gray_2]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 기본 재료\n
 		</text>
 	</string>
 	
