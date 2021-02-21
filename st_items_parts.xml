@@ -449,138 +449,138 @@ WEAPONS (rifles)
 
 <!-- Breech heads -->
 	<string id="st_bolt_1">
-		<text>Dropping-block breech [R]</text>
+		<text>폴링 드롭식 브리치 블록 [R]</text>
 	</string>
 	<string id="st_bolt_1_descr">
-		<text>Dropping-block breech from a smooth-bore shotgun or rifle with lever locking mechanism. In appearance, the ledges of the wedge are in good condition, without strong workings\n \n
+		<text>레버식 잠금 방식을 사용한 활강식 산탄총이나 소총에서 분리된 폴링 드롭식 브리치 블록입니다. 외견상으로 볼 때, 힌지와 걸쇠의 상태는 좋아 보이며, 심하게 다루어지지 않은 것으로 보입니다\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_2">
-		<text>Rotating locking head [2 locks][P]</text>
+		<text>회전식 노리쇠 [이중 잠금장치][P]</text>
 	</string>
 	<string id="st_bolt_2_descr">
-		<text>Rotating locking head with two stops from a machine gun with a longitudinally-sliding breech block with lock turn. In appearance, locking heads are in good condition, without big signs of usage.\n \n
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린 기관총에서 분리된 이중 잠금장치가 있는 회전식 노리쇠입니다. 외견상으로 볼 때, 회전식 노리쇠의 상태는 좋아 보이며, 크게 남은 사용 흔적이 거의 없습니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_3">
-		<text>Rotating locking head [2 locks][K]</text>
+		<text>회전식 노리쇠 [이중 잠금장치][K]</text>
 	</string>
 	<string id="st_bolt_3_descr">
-		<text>Rotating locking head with two stops from either automatic or semi-automatic smoothbore rifle, with a longitudinally-sliding breech block with lock turn.\n \n
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린, 활강식 자동 또는 반자동 소총에서 분리된 이중 잠금장치가 있는 회전식 노리쇠입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_4">
-		<text>Rotating locking head [2 locks][V]</text>
+		<text>회전식 노리쇠 [이중 잠금장치][V]</text>
 	</string>
 	<string id="st_bolt_4_descr">
-		<text>Rotating locking head with two stops from a rifle with a longitudinally-sliding breech block with a locking bias and a longitudinally-sliding shutter with a "bolt" lock.\n \n
+		<text>잠금 바이어스가 달린 종단 슬라이드식 노리쇠 뭉치나 "노리쇠" 잠금장치가 달린 종단 슬라이드식 셔터가 포함된 소총에서 분리된 이중 잠금장치가 있는 회전식 노리쇠입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_5">
-		<text>Rotating locking head [3 locks][V]</text>
+		<text>회전식 노리쇠 [삼중 잠금장치][V]</text>
 	</string>
 	<string id="st_bolt_5_descr">
-		<text>Rotating locking head with two stops from a rifle with a longitudinally-sliding breech block with lock turn.\n \n
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린 소총에서 분리된 삼중 잠금장치가 있는 회전식 노리쇠입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_6">
-		<text>Rotating locking head [2 locks][À]</text>
+		<text>회전식 노리쇠 [이중 잠금장치][À]</text>
 	</string>
 	<string id="st_bolt_6_descr">
-		<text>Rotating locking head with two stops from a machine gun with a longitudinally-sliding breech block with lock turn.\n \n
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린 기관총에서 분리된 이중 잠금장치가 있는 회전식 노리쇠입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_7">
-		<text>Rotating locking head [4 locks][AS]</text>
+		<text>회전식 노리쇠 [사중 잠금장치][AS]</text>
 	</string>
 	<string id="st_bolt_7_descr">
-		<text>Rotating locking head with four locks from a special automatic rifle with a longitudinally-sliding breech block with lock turn.\n \n
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린 특수한 자동소총에서 분리된 사중 잠금장치가 있는 회전식 노리쇠입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_8">
-		<text>Rotating locking head [6 locks][À]</text>
+		<text>회전식 노리쇠 [6단 잠금장치][À]</text>
 	</string>
 	<string id="st_bolt_8_descr">
-		<text>Rotating locking head with six locks from a machine gun with a longitudinally-sliding breech block with lock turn.\n \n
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린 기관총에서 분리된 6단 잠금장치가 있는 회전식 노리쇠입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_9">
-		<text>Rotating locking head [7 locks][À]</text>
+		<text>회전식 노리쇠 [7단 잠금장치][À]</text>
 	</string>
 	<string id="st_bolt_9_descr">
-		<text>Rotating locking head with seven locks from a machine gun with a longitudinally-sliding breech block with lock turn.\n \n
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린 기관총에서 분리된 7단 잠금장치가 있는 회전식 노리쇠입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_10">
-		<text>Rotating locking head [8 locks][À]</text>
+		<text>회전식 노리쇠 [8단 잠금장치][À]</text>
 	</string>
 	<string id="st_bolt_10_descr">
-		<text>Rotating locking head with eight locks from a machine gun with a longitudinally-sliding breech block with lock turn.\n \n
+		<text>회전식 노리쇠 잠금쇠가 있는 종단 슬라이드식 노리쇠 뭉치가 달린 기관총에서 분리된 8단 잠금장치가 있는 회전식 노리쇠입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_11">
-		<text>Supercharger with hammer from a double-barrel shotgun [R]</text>
+		<text>이중 총열 산탄총의 공이가 달린 급탄 장치  [R]</text>
 	</string>
 	<string id="st_bolt_11_descr">
-		<text>Right and left supercharger with hammer from a double-barrel shotgun.\n \n
+		<text>이중 총열 산탄총에서 분리된 공이가 달린 좌측과 우측 급탄장치입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_12">
-		<text>Hammers from a hammer-type double-barrel shotgun [R]</text>
+		<text>공이치기식 이중 총열 산탄총의 공이 [R]</text>
 	</string>
 	<string id="st_bolt_12_descr">
-		<text>Right and left hammers from the double-barrelled horizontal shotgun.\n \n
+		<text>수평식 이중 총열 산탄총에서 분리된 좌측과 우측 공이입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_13">
-		<text>Rotating locking head [2 locks][À][NATO]</text>
+		<text>회전식 노리쇠 [이중 잠금장치][À][NATO]</text>
 	</string>
 	<string id="st_bolt_13_descr">
-		<text>Rotating locking head with two stops from a large-calibre automatic rifle produced by NATO countries with a sliding bolt carrier with turning bolt lock.\n \n
+		<text>NATO 소속 국가에서 만든 회전식 노리쇠 잠금쇠가 있는 슬라이드식 노리쇠 뭉치가 달린 대구경 소총에서 분리된 이중 잠금장치가 있는 회전식 노리쇠입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_14">
-		<text>Rotating locking head [À/PP]</text>
+		<text>회전식 노리쇠 [À/PP]</text>
 	</string>
 	<string id="st_bolt_14_descr">
-		<text>Rotating locking head from either the PP or an automatic rifle with a longitudinal-a half-free sliding bolt carrier.\n \n
+		<text>PP 계열 소총이나 하프-프리 방식 종단 슬라이드식 노리쇠 뭉치가 달린 자동소총에서 분리된 회전식 노리쇠입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_15">
-		<text>Drummer with the mainspring [PP]</text>
+		<text>메인스프링이 달린 드러머 [PP]</text>
 	</string>
 	<string id="st_bolt_15_descr">
-		<text>Drummer with the mainspring from some domestic PP with a longitudinal-a sliding free bolt carrier.\n \n
+		<text>종단 슬라이딩 프리식 노리쇠 뭉치가 달린 몇몇 내수용 PP 계열 총기에서 분리된 메인스프링이 달린 드러머입니다..\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_16">
-		<text>Drummer with the mainspring [PP][NATO]</text>
+		<text>메인스프링이 달린 드러머 [PP][NATO]</text>
 	</string>
 	<string id="st_bolt_16_descr">
-		<text>Drummer with the mainspring from some imported PP with a longitudinal-a sliding free bolt carrier.\n \n
+		<text>종단 슬라이딩 프리식 노리쇠 뭉치가 달린 몇몇 수입한 PP 계열 총기에서 분리된 메인스프링이 달린 드러머입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_bolt_17">
-		<text>Drummer with the mainspring [PP][PPSh]</text>
+		<text>메인스프링이 달린 드러머 [PP][PPSh]</text>
 	</string>
 	<string id="st_bolt_17_descr">
-		<text>Drummer with the mainspring from some Soviet PP, like the PP of Shpagin’s system with a longitudinal-a sliding free bolt carrier.\n \n
+		<text>종단 슬라이딩 프리식 노리쇠 뭉치가 달린 슈파긴의 설계를 따르는 소련제 PP 계열 총기에서 분리된 메인스프링이 달린 드러머입니다.\n \n
 		</text>
 	</string>
 
