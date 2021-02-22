@@ -695,7 +695,7 @@ WEAPONS (pistols)
 	</string>
 
 	<string id="st_prt_w_p_barrel_3">
-		<text>.45 barrel</text>
+		<text>.45 총열</text>
 	</string>
 	<string id="st_prt_w_p_barrel_3_descr">
 		<text>.</text>
@@ -723,7 +723,7 @@ WEAPONS (pistols)
 	</string>
 
 	<string id="st_prt_w_p_barrel_7">
-		<text>.357 barrel</text>
+		<text>.357 총열</text>
 	</string>
 	<string id="st_prt_w_p_barrel_7_descr">
 		<text>.</text>
@@ -731,28 +731,28 @@ WEAPONS (pistols)
 
 <!-- trigger mechanism -->
 	<string id="st_prt_w_p_trigger_1">
-		<text>Single-action trigger mechanism</text>
+		<text>싱글 액션식 방아쇠 기계장치</text>
 	</string>
 	<string id="st_prt_w_p_trigger_1_descr">
 		<text>.</text>
 	</string>
 	
 	<string id="st_prt_w_p_trigger_2">
-		<text>Double-action trigger mechanism</text>
+		<text>더블 액션식 방아쇠 기계장치</text>
 	</string>
 	<string id="st_prt_w_p_trigger_2_descr">
 		<text>.</text>
 	</string>
 	
 	<string id="st_prt_w_p_trigger_3">
-		<text>Double-action (DA/SA) trigger mechanism</text>
+		<text>더블 액션식 (DA/SA) 방아쇠 기계장치</text>
 	</string>
 	<string id="st_prt_w_p_trigger_3_descr">
 		<text>.</text>
 	</string>
 	
 	<string id="st_prt_w_p_trigger_4">
-		<text>"MP412" double-action trigger mechanism</text>
+		<text>"MP412" 더블 액션식  방아쇠 기계장치</text>
 	</string>
 	<string id="st_prt_w_p_trigger_4_descr">
 		<text>.</text>
@@ -761,42 +761,42 @@ WEAPONS (pistols)
 	
 <!-- recoil spring assembly -->
 	<string id="st_prt_w_p_spring_1">
-		<text>9mm recoil spring assembly [Soviet]</text>
+		<text>9mm 반동 제어 스프링 결합장치 [소련]</text>
 	</string>
 	<string id="st_prt_w_p_spring_1_descr">
 		<text>.</text>
 	</string>
 	
 	<string id="st_prt_w_p_spring_2">
-		<text>9mm recoil spring assembly [Russian]</text>
+		<text>9mm 반동 제어 스프링 결합장치 [러시아]</text>
 	</string>
 	<string id="st_prt_w_p_spring_2_descr">
 		<text>.</text>
 	</string>
 	
 	<string id="st_prt_w_p_spring_3">
-		<text>.45 recoil spring assembly</text>
+		<text>.45 반동 제어 스프링 결합장치</text>
 	</string>
 	<string id="st_prt_w_p_spring_3_descr">
 		<text>.</text>
 	</string>
 	
 	<string id="st_prt_w_p_spring_4">
-		<text>9mm recoil spring assembly [Western]</text>
+		<text>9mm 반동 제어 스프링 결합장치 [서구권]</text>
 	</string>
 	<string id="st_prt_w_p_spring_4_descr">
 		<text>.</text>
 	</string>
 	
 	<string id="st_prt_w_p_spring_5">
-		<text>7.62mm recoil spring assembly</text>
+		<text>7.62mm 반동 제어 스프링 결합장치</text>
 	</string>
 	<string id="st_prt_w_p_spring_5_descr">
 		<text>.</text>
 	</string>
 	
 	<string id="st_prt_w_p_spring_6">
-		<text>Recoil Spring Assembly (R1 DE 6")</text>
+		<text>반동 제어 스프링 결합장치 (R1 DE 6")</text>
 	</string>
 	<string id="st_prt_w_p_spring_6_descr">
 		<text>.</text>
@@ -809,39 +809,39 @@ OUTFITS
 
 <!-- Fabrics and hardware -->
 	<string id="st_prt_o_fabrics_1">
-		<text>Cloth sheets</text>
+		<text>옷감 시트</text>
 	</string>
 	<string id="st_prt_o_fabrics_1_descr">
-		<text>The very base of an outfit. These sheets are made of different materials such as cotton, polycotton, wool and leather to provide comfort and durability. Other protective fabrics are used like rubber and ballistic nylon, along with joint protections and a set of hardware and zippers.</text>
+		<text>의복의 가장 기초적인 부분을 이루는 재료입니다. 옷감들은 면이나 합성섬유, 양모 및 가죽 등의 다양한 재료로 만들어져 편안함과 튼튼함을 더해 줍니다. 또한 고무나 발리스틱 나일론같은 보호용 옷감도 사용되었으며, 관절부 보호대와 여러가지 부품 및 지퍼들도 포함되어 있습니다.</text>
 	</string>
 	
 	<string id="st_prt_o_fabrics_2">
-		<text>Cloth sheets (synthetic)</text>
+		<text>옷감 시트 (합성섬유)</text>
 	</string>
 	<string id="st_prt_o_fabrics_2_descr">
-		<text>The very base of an outfit. These textiles blended with synthetic materials such as polyester and lycra to provide versatility and durability. Other protective fabrics are used like rubber and ballistic nylon, along with joint protections and a set of hardware and zippers.</text>
+		<text>의복의 가장 기초적인 부분을 이루는 재료입니다. 이 옷감들은 폴리에스테르나 라이크라와 같은 합성섬유들과 혼합되어 다목적성과 내구성을 높였습니다. 또한 고무나 발리스틱 나일론같은 보호용 옷감도 사용되었으며, 관절부 보호대와 여러가지 부품 및 지퍼들도 포함되어 있습니다.</text>
 	</string>
 	
 	<string id="st_prt_o_fabrics_3">
-		<text>Durable textiles</text>
+		<text>튼튼한 직물</text>
 	</string>
 	<string id="st_prt_o_fabrics_3_descr">
-		<text>These sheets are made of different materials such as polyester, leather and canvas, including a set of hardware and zippers. Good durability in harsh environmental conditions, which is why such materials are suitable for traveling even inside the Zone.</text>
+		<text>이 옷감은 폴리에스테르, 가죽 또는 캔버스 같은 다양한 재료로 만들어졌으며, 관절부 보호대와 여러가지 부품 및 지퍼들도 포함되어 있습니다. 험한 환경 조건에서도 좋은 내구성을 보이기 때문에, 이러한 옷감들은 존의 깊숙한 곳을 탐험하는 데에도 적절합니다.</text>
 	</string>
 	
 	<string id="st_prt_o_fabrics_4">
-		<text>Mil-Spec textiles</text>
+		<text>군납용 직물</text>
 	</string>
 	<string id="st_prt_o_fabrics_4_descr">
-		<text>Sheets of military-grade textiles are often used for field clothing and light armor. Valued for its relatively low price and high versatility, this material is commonly used by the Zoners. Other protective fabrics are used like rubber and ballistic nylon, along with joint protections and a set of hardware and zippers.</text>
+		<text>군용품 등급의 옷감들은 전투복이나 경갑에 주로 사용됩니다. 상대적으로 저렴한 가격과 높은 다목적성으로 가치가 높아, 이 옷감은 존에서 활동하는 사람들에게 널리 쓰입니다. 또한 고무나 발리스틱 나일론같은 보호용 옷감도 사용되었으며, 관절부 보호대와 여러가지 부품 및 지퍼들도 포함되어 있습니다.</text>
 	</string>
 	
 <!-- Retardants / Protective textiles -->
 	<string id="st_prt_o_retardant_1">
-		<text>Layered fire retardant fabrics</text>
+		<text>덧댄 내화성 옷감</text>
 	</string>
 	<string id="st_prt_o_retardant_1_descr">
-		<text>These textiles that are naturally more resistant to fire than others through chemical treatment or manufactured fireproof fibers. In the Zone, such fabrics are commonly used in outfits to provide protection against hazardous environment and flame-based anomalies such as Burner and Comet.</text>
+		<text>이 옷감들은 다른 화학적 처리를 받은 옷감이나 공장제 방화 섬유로 만들어진 옷감들에 비해 내화성이 근본적으로 더 우수합니다. 존에서, 이런 종류의 옷감들은 위험한 환경이나 Burner나 Comet 이상현상과 같은 화염 이상현상에 대한 보호를 제공하는 보호구에 주로 사용됩니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_2">
