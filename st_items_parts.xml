@@ -585,92 +585,92 @@ WEAPONS (rifles)
 	</string>
 
 
-<!-- Gas tubes, etc -->
+<!-- 가스관s, etc -->
 	<string id="st_gas_tube_1">
-		<text>Gas tube [K]</text>
+		<text>가스관 [K]</text>
 	</string>
 	<string id="st_gas_tube_1_descr">
-		<text>Gas tube from a smoothbore carbine.\n \n
+		<text>활강식 카빈에서 가져온 가스관입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_gas_tube_2">
-		<text>Handguard [R]</text>
+		<text>핸드가드 [R]</text>
 	</string>
 	<string id="st_gas_tube_2_descr">
-		<text>mobile hand guard from pump-action shotgun.\n \n
+		<text>펌프 액션식 산탄총에서 분리된 이동식 핸드가드입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_gas_tube_3">
-		<text>Gas tube [V]</text>
+		<text>가스관 [V]</text>
 	</string>
 	<string id="st_gas_tube_3_descr">
-		<text>Gas tube from a self-loading rifle.\n \n
+		<text>자동 급탄식 소총에서 분리된 가스관입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_gas_tube_4">
-		<text>Gas tube [AS/PP]</text>
+		<text>가스관 [AS/PP]</text>
 	</string>
 	<string id="st_gas_tube_4_descr">
-		<text>Gas tube from a special automatic rifle. 9mm.\n \n
+		<text>특수한 자동 소총에서 분리된 가스관입니다. 9mm 전용입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_gas_tube_5">
-		<text>Gas tube [A|V][Russia]</text>
+		<text>가스관 [A|V][러시아]</text>
 	</string>
 	<string id="st_gas_tube_5_descr">
-		<text>Gas tube from a semi-automatic or automatic rifle (Russia).\n \n
+		<text>반자동 또는 자동 소총에서 분리된 가스관입니다 (러시아).\n \n
 		</text>
 	</string>
 
 	<string id="st_gas_tube_6">
-		<text>Gas tube [A|V][NATO]</text>
+		<text>가스관 [A|V][NATO]</text>
 	</string>
 	<string id="st_gas_tube_6_descr">
-		<text>Gas tube from a semi-automatic or automatic rifle (NATO).\n \n
+		<text>반자동 또는 자동 소총에서 분리된 가스관입니다 (NATO).\n \n
 		</text>
 	</string>
 
 	<string id="st_gas_tube_7">
-		<text>Gas tube [P]</text>
+		<text>가스관 [P]</text>
 	</string>
 	<string id="st_gas_tube_7_descr">
-		<text>Gas tube from a machine gun.\n \n
+		<text>기관총에서 분리된 가스관입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_gas_tube_8">
-		<text>Ejector [V]</text>
+		<text>가스 배출기 [V]</text>
 	</string>
 	<string id="st_gas_tube_8_descr">
-		<text>Ejector from a rifle with a sliding bolt carrier with locking bolt.\n \n
+		<text>노리쇠 잠금장치가 있는 슬라이드식 노리쇠 뭉치가 달린 소총에서 분리된 가스 배출기입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_gas_tube_9">
-		<text>Ejector from over-under double-barrel shotgun [R]</text>
+		<text>상하식 이중 총열 산탄총에서 분리된 가스 배출기 [R]</text>
 	</string>
 	<string id="st_gas_tube_9_descr">
-		<text>Ejector (extractor) from an over-under double barrel shotgun.\n \n
+		<text>상하식 이중 총열 산탄총에서 분리된 가스 배출기 (추출기) 입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_gas_tube_10">
-		<text>Ejector from an over-under double barrel shotgun [R]</text>
+		<text>상하식 이중 총열 산탄총에서 분리된 가스 배출기 [R]</text>
 	</string>
 	<string id="st_gas_tube_10_descr">
-		<text>Ejector from an over-under double barrel shotgun.\n \n
+		<text>상하식 이중 총열 산탄총에서 분리된 가스 배출기입니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_gas_tube_11">
-		<text>Gas tube [PP]</text>
+		<text>가스관 [PP]</text>
 	</string>
 	<string id="st_gas_tube_11_descr">
-		<text>Gas tube from the MP5 submachine gun with a handle.\n \n
+		<text>MP5 기관단총에서 분리된 손잡이가 달린 가스관입니다.\n \n
 		</text>
 	</string>
 
