@@ -845,124 +845,124 @@ OUTFITS
 	</string>
 	
 	<string id="st_prt_o_retardant_2">
-		<text>Layered chemical/shock retardant fabrics</text>
+		<text>덧댄 내화학/비전도성 옷감</text>
 	</string>
 	<string id="st_prt_o_retardant_2_descr">
-		<text>These textiles that are more resistant to electric shock and chemical particles than others through chemical treatment or manufactured fireproof fibers. In the Zone, such fabrics are commonly used in outfits to provide protection against hazardous environment and chemical/shock-based anomalies such as Electro and Fruit Punch.</text>
+		<text>이 옷감들은 다른 화학적 처리를 받은 옷감이나 공장제 방화 섬유로 만들어진 옷감들에 비해 전기 저항력과 화학 물질들에 대한 방호력이 더 높습니다. 존에서, 이런 종류의 옷감들은 위험한 환경이나 Electro나 Fruit Punch 이상현상과 같은 화학 또는 전기 이상현상에 대한 보호를 제공하는 보호구에 주로 사용됩니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_3">
-		<text>Grade-B RPVC treated fabrics</text>
+		<text>B등급 RPVC 처리 옷감</text>
 	</string>
 	<string id="st_prt_o_retardant_3_descr">
-		<text>Rigid Polyvinyl Chloride ( RPVC ) is a non-flammable material that is resistant to weathering. RPVC can also be UV stabilized to provide higher protection against anomolous hazards.</text>
+		<text>경질 폴리염화 비닐 (Rigid Polyvinyl Chloride; RPVC) 은 쉽게 닳아 없어지지 않는 불연성 물질입니다. RPVC는 이상현상 위험지역에 대해 높은 보호도를 제공하는 UV 안정제의 역할도 수행합니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_4">
-		<text>Grade-A RPVC vinyl fabrics</text>
+		<text>A등급 RPVC 처리 옷감</text>
 	</string>
 	<string id="st_prt_o_retardant_4_descr">
-		<text>Rigid Polyvinyl Chloride ( RPVC ) is a non-flammable material that is resistant to weathering. RPVC can also be UV stabilized to provide higher protection against anomolous hazards.</text>
+		<text>경질 폴리염화 비닐 (Rigid Polyvinyl Chloride; RPVC) 은 쉽게 닳아 없어지지 않는 불연성 물질입니다. RPVC는 이상현상 위험지역에 대해 높은 보호도를 제공하는 UV 안정제의 역할도 수행합니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_5">
-		<text>PVC/Rubber coated fabrics</text>
+		<text>PVC/고무 코팅된 옷감</text>
 	</string>
 	<string id="st_prt_o_retardant_5_descr">
-		<text>A tough and durable PVC coated polyester and rubber-fibre fabric designed for use in providing protection against hazards. It can be sewn, glued or welded.
-		\nDouble coated material which has an extremely tough core polyester fabric and is coated on both sides with pvc.</text>
+		<text>위험 요소들에 대한 보호제공 목적으로 만들어진 질기고 튼튼한 PVC 코팅된 폴리에스테르와 고무섬유 옷감입니다. 바느질이나, 접착 혹은 용접에 사용할 수 있습니다.
+		\n중심부는 매우 질긴 폴리에스테르 옷감으로 이루어져 있고 양면이 PVC로 코팅되어 있는 이중 코팅 옷감입니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_6">
-		<text>PVC/carbon-fibre fabrics</text>
+		<text>PVC/탄소섬유 옷감</text>
 	</string>
 	<string id="st_prt_o_retardant_6_descr">
-		<text>A tough and durable PVC coated polyester and carbon-fibre fabric designed for use in providing protection against hazards. It can be sewn, glued or welded.
-		\nDouble coated material which has an extremely tough core polyester fabric and is coated on both sides with pvc.</text>
+		<text>위험 요소들에 대한 보호제공 목적으로 만들어진 질기고 튼튼한 PVC 코팅된 폴리에스테르와 탄소섬유 옷감입니다. 바느질이나, 접착 혹은 용접에 사용할 수 있습니다.
+		\n중심부는 매우 질긴 폴리에스테르 옷감으로 이루어져 있고 양면이 PVC로 코팅되어 있는 이중 코팅 옷감입니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_7">
-		<text>Insulating magnesium grid and inserts</text>
+		<text>단열용 마그네슘 그리드와 내장재</text>
 	</string>
 	<string id="st_prt_o_retardant_7_descr">
-		<text>This magnesium grid acts as dielectric layers to protect the outfit and it's wearer from powerful electic shocks and psi-waves to a certain extent. It can also offer protection against other hazards.</text>
+		<text>이 마그네슘 그리드는 방어구를 보호해주는 유전체의 역할을 하며 착용자를 강력한 전기 쇼크나 일정 수준까지의 정신파의 영향으로부터 보호해줍니다. 또한 다른 종류의 위험으로부터도 보호를 제공해 줄 수 있습니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_8">
-		<text>Insulating reinforced magnesium-oxide grid</text>
+		<text>단열용 강화 산화마그네슘 그리드</text>
 	</string>
 	<string id="st_prt_o_retardant_8_descr">
-		<text>This magnesium grid acts as dielectric layers to protect the outfit and it's wearer from powerful electic shocks and psi-waves to a certain extent. It can also offer protection against other hazards.</text>
+		<text>이 마그네슘 그리드는 방어구를 보호해주는 유전체의 역할을 하며 착용자를 강력한 전기 쇼크나 일정 수준까지의 정신파의 영향으로부터 보호해줍니다. 또한 다른 종류의 위험으로부터도 보호를 제공해 줄 수 있습니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_9">
-		<text>Polymer sheets (bismuth-sulfate coating)</text>
+		<text>폴리머 시트 (황산비스무트 코팅)</text>
 	</string>
 	<string id="st_prt_o_retardant_9_descr">
-		<text>The thermal degradation behaviour of bismuth-sulfate makes it a great choice for oufits used inside the Zone. Usually coated on polymer sheets for considerable body coverage. It can provide protection against other types of hazards.</text>
+		<text>존 내부에서 사용되는 의복에 열 차감 특성을 가진 황산비스무트를 코팅하는 것은 훌륭한 선택이 될 수 있습니다. 대체적으로 폴리머 시트 위에 코팅되어 상당한 범위의 신체 부위를 덮습니다. 또한 다른 종류의 위험으로부터도 보호를 제공해 줄 수 있습니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_10">
-		<text>Polymer sheets (barium-sulfate coating)</text>
+		<text>폴리머 시트 (황산바륨 코팅)</text>
 	</string>
 	<string id="st_prt_o_retardant_10_descr">
-		<text>The thermal degradation behaviour of barium-sulfate makes it a great choice for oufits used inside the Zone. Usually coated on polymer sheets for considerable body coverage. It can provide protection against other types of hazards.</text>
+		<text>존 내부에서 사용되는 의복에 열 차감 특성을 가진 황산바륨을 코팅하는 것은 훌륭한 선택이 될 수 있습니다. 대체적으로 폴리머 시트 위에 코팅되어 상당한 범위의 신체 부위를 덮습니다. 또한 다른 종류의 위험으로부터도 보호를 제공해 줄 수 있습니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_11">
-		<text>Aluminized layers of retardant fabrics</text>
+		<text>알루미늄 처리된 내성 옷감</text>
 	</string>
 	<string id="st_prt_o_retardant_11_descr">
-		<text>Multilayer Aluminized fabrics are specifically designed for protective apparel and shields used in environments that pose serious fire risk or safety hazards associated with radiant heat and chemical sources. In addition, these fabrics offer great isolatation against psi-waves effects.</text>
+		<text>알루미늄 처리된 다층구조 옷감은 심각한 화재 위험과 복사열 및 화학적 원인과 관련 있는 안전성 위협에 대한 보호 능력과 환경 방호를 위해 특별하게 디자인되었습니다. 더불어, 이러한 종류의 옷감은 정신파 효과를 강력하게 차단해 줍니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_12">
-		<text>Aluminized fiberglass fabrics</text>
+		<text>알루미늄 처리된 유리섬유 옷감</text>
 	</string>
 	<string id="st_prt_o_retardant_12_descr">
-		<text>Multilayer Aluminized fiberglass fabrics are specifically designed for protective apparel and shields used in environments that pose serious shock risk or safety hazards associated with radiant heat and chemical sources. In addition, these fabrics offer great isolatation against psi-waves effects.</text>
+		<text>알루미늄 처리된 다층구조 유리섬유 옷감은 심각한 감전 위험과 복사열 및 화학적 원인과 관련 있는 안전성 위협에 대한 보호 능력과 환경 방호를 위해 특별하게 디자인되었습니다. 더불어, 이러한 종류의 옷감은 정신파 효과를 강력하게 차단해 줍니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_13">
-		<text>PBI-blended fabrics</text>
+		<text>PBI 혼합식 옷감</text>
 	</string>
 	<string id="st_prt_o_retardant_13_descr">
-		<text>PBI-blended fabrics have been trusted in the fire service over the years. Recognized as the leading high-performance protective fire resistant fabrics. For this reason, Zoners took advantage of these fabrics for their own outfits.</text>
+		<text>PBI 혼합식 옷감은 최근 몇 년 동안 소방 관련 영역에서 신뢰를 얻어 왔습니다. 이 옷감은 높은 수준의 방화력을 갖춘 선도적 위치에 있는 옷감이라고 평가되고 있습니다. 이러한 이유 때문에, 존에서 활동하는 사람들은 자신들의 방어구에 이러한 옷감을 적극적으로 활용하고 있습니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_14">
-		<text>PBI-blended fabrics w/ polyester treatment</text>
+		<text>폴리에스테르 처리된 PBI 혼합식 옷감</text>
 	</string>
 	<string id="st_prt_o_retardant_14_descr">
-		<text>PBI-blended fabrics have been trusted in the fire service over the years. Recognized as the leading high-performance protective fire resistant fabrics. For this reason, Zoners took advantage of these fabrics for their own outfits.</text>
+		<text>PBI 혼합식 옷감은 최근 몇 년 동안 소방 관련 영역에서 신뢰를 얻어 왔습니다. 이 옷감은 높은 수준의 방화력을 갖춘 선도적 위치에 있는 옷감이라고 평가되고 있습니다. 이러한 이유 때문에, 존에서 활동하는 사람들은 자신들의 방어구에 이러한 옷감을 적극적으로 활용하고 있습니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_15">
-		<text>Activated carbon cloth (ACC) fabrics</text>
+		<text>활성탄 함유 (ACC) 옷감</text>
 	</string>
 	<string id="st_prt_o_retardant_15_descr">
-		<text>Originally developed for use in chemical warfare suits. Activated Carbon Cloth now has many relevant uses in defense, industrial, and medical applications. It considerably enhances the efficacy of both advanced and active wound dressings, along with providing great protection from radiation particles.</text>
+		<text>원래는 화생방 보호의에 사용하기 위해 개발되었습니다. 현재 활성탄 옷감은 국방, 산업, 그리고 의학 분야에 자주 응용되는 소재입니다. 고급 및 능동식 상처 관리법의 효율을 상당히 높여주는 한편, 방사능 입자에 대해서도 훌륭한 보호를 제공합니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_16">
-		<text>Active charcoal-treated non-woven fabrics</text>
+		<text>활성탄 처리된 부직포 옷감</text>
 	</string>
 	<string id="st_prt_o_retardant_16_descr">
-		<text>Originally developed for use in chemical warfare suits. Activated Carbon Cloth now has many relevant uses in defense, industrial, and medical applications. It considerably enhances the efficacy of both advanced and active wound dressings, along with providing great protection from radiation particles.</text>
+		<text>원래는 화생방 보호의에 사용하기 위해 개발되었습니다. 현재 활성탄 옷감은 국방, 산업, 그리고 의학 분야에 자주 응용되는 소재입니다. 고급 및 능동식 상처 관리법의 효율을 상당히 높여주는 한편, 방사능 입자에 대해서도 훌륭한 보호를 제공합니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_17">
-		<text>Insulating constantan inserts</text>
+		<text>단열용 콘스탄탄 내장재</text>
 	</string>
 	<string id="st_prt_o_retardant_17_descr">
-		<text>Theses inserts made of constantan sheets. They acts as dielectric layers to protect the outfit and it's wearer from electic shocks, psi-waves and radioactive materials to a certain extent. It can also offer protection against other hazards, which is why they found their use inside the Zone.</text>
+		<text>이 내장재는 콘스탄탄 시트로 만들어졌습니다. 이러한 소재는 방어구를 보호해 주는 유전체의 역할을 하며 착용자를 전기 쇼크, 정신파 그리고 일정 수준까지의 방사성 물질로부터 보호해줍니다. 또한 다른 종류의 위험성에 대해서도 보호를 제공해 줄 수 있기 때문에, 존에서 쓸모있는 소재입니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_18">
-		<text>Insulating constantan inserts w/ fiberglass coating</text>
+		<text>유리섬유로 코팅된 단열용 콘스탄탄 내장재</text>
 	</string>
 	<string id="st_prt_o_retardant_18_descr">
-		<text>Theses inserts made of constantan sheets and fiberglass-coated fabrics. They acts as dielectric layers to protect the outfit and it's wearer from electic shocks, psi-waves and radioactive materials to a certain extent. It can also offer protection against other hazards, which is why they found their use inside the Zone.</text>
+		<text>이 내장재는 콘스탄탄 시트와 유리섬유로 코팅된 옷감으로 만들어졌습니다. 이러한 소재는 방어구를 보호해 주는 유전체의 역할을 하며 착용자를 전기 쇼크, 정신파 그리고 일정 수준까지의 방사성 물질로부터 보호해줍니다. 또한 다른 종류의 위험성에 대해서도 보호를 제공해 줄 수 있기 때문에, 존에서 쓸모있는 소재입니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_19">
