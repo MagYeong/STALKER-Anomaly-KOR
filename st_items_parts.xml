@@ -966,17 +966,17 @@ OUTFITS
 	</string>
 	
 	<string id="st_prt_o_retardant_19">
-		<text>Insulating fibreglass "Polyester" fabrics</text>
+		<text>단열용 유리섬유 "폴리에스테르" 옷감</text>
 	</string>
 	<string id="st_prt_o_retardant_19_descr">
-		<text>High temperature resistant fabrics woven from “E" glass fibers and coated with Vermiculite based film providing extended service temperatures up to 1500°F and good shock resistance up to 20Kv. In a place like the Zone, these fabrics can come in handy against anomolous hazards.</text>
+		<text>“E" 유리섬유로 짜여지고 버미큘라이트 기반 필름으로 코팅된 고온 저항성 옷감은 화씨 1500도까지의 온도를 견딜 수 있으며 20Kv까지의 전압에 저항할 수 있습니다. 존과 같은 곳에서, 이러한 옷감들은 이상현상의 위험성들에 쉽게 대처하는 데 도움이 됩니다.</text>
 	</string>
 	
 	<string id="st_prt_o_retardant_20">
-		<text>Insulating fibreglass "Satin Weave" fabrics</text>
+		<text>단열용 유리섬유 "새틴 위브" 옷감</text>
 	</string>
 	<string id="st_prt_o_retardant_20_descr">
-		<text>High temperature resistant fabrics woven from “E" glass fibers and coated with Vermiculite based film providing extended service temperatures up to 1700°F and good shock resistance up to 25Kv. In a place like the Zone, these fabrics can come in handy against anomolous hazards.</text>
+		<text>“E" 유리섬유로 짜여지고 버미큘라이트 기반 필름으로 코팅된 고온 저항성 옷감은 화씨 1700도까지의 온도를 견딜 수 있으며 25Kv까지의 전압에 저항할 수 있습니다. 존과 같은 곳에서, 이러한 옷감들은 이상현상의 위험성들에 쉽게 대처하는 데 도움이 됩니다.</text>
 	</string>
 	
 <!-- Ballistic inserts -->
