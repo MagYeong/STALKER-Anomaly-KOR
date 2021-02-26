@@ -72,7 +72,7 @@
 		<text>클리어 스카이 세력의 휘장</text>
 	</string>
 	<string id="st_clearsky_fp_descr">
-		<text>This faction insignia depicts a sunrise against a clean blue sky, flanked by doves. It is meant to communicate the faction's desire to heal the Zone, as well as its distaste for conflict. Clear Sky has asserted an aim to gradually reduce the frequency and severity of blowouts and other anomalous cataclysms. Few stalkers believe such a thing will ever actually be possible. \n \n
+		<text>이 세력의 휘장에는 맑고 푸른 하늘에 해가 떠오르는 모습이 묘사되어 있으며, 그 주위를 비둘기들이 둘러싸고 있는 그림이 바느질되어 있습니다. 이는 존을 치유하고자 하는 소망과 함께, 물리적 충돌을 선호하지 않는다는 뜻을 상징합니다. 클리어 스카이는 에미션 현상과 다른 이상현상들에 의해 생기는 참사의 빈도와 강도를 점차적으로 줄여 나가는 것을 목표로 하고 있습니다. 이러한 소망이 현실이 될 것이라고 믿고 있는 스토커들은 많지 않습니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 개인 소지품\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
@@ -80,10 +80,10 @@
 	</string>
 	
 	<string id="st_freedom_fp">
-		<text>Freedom faction patch</text>
+		<text>프리덤 세력의 휘장</text>
 	</string>
 	<string id="st_freedom_fp_descr">
-		<text>This faction insignia depicts a green wolf set against a black background alongside the Ukrainian flag. Overall, the design is meant to communicate Freedom's social nature and love of the land alongside their staunch determination and collective predatory viciousness in battle. Why anarchists would want any country's flag as part of their design, however, is a mystery.\n \n
+		<text>이 세력의 휘장에는 우크라이나 깃발 옆에 검은 바탕에 녹색 늑대가 자리해 있는 그림이 새겨져 있습니다. 전체적으로 보았을 때, 디자인은 프리덤 세력의 사교적인 성격과 대지에 대한 사랑을 보여주는 한편 세력의 확고한 의지와 전투에서 보여주는 포식자 집단과도 같은 용맹함 또한 상징합니다. 하지만, 어째서 무정부주의자들이 자신들의 상징에 어떤 국가의 깃발을 집어넣고 싶어했는지는 알 길이 없습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 개인 소지품\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
@@ -91,10 +91,10 @@
 	</string>
 	
 	<string id="st_stalker_fp">
-		<text>Radiation patch</text>
+		<text>방사능 문양 휘장</text>
 	</string>
 	<string id="st_stalker_fp_descr">
-		<text>Commonly worn by unaligned stalkers, this patch is deemed a collectible by mercenaries, who exchange badges like this for spoils from a mysterious patron. As loners are numerous, yet often split and alone, they're considered easy pickings by the more organized and predatory groups in the Zone. \n \n
+		<text>무소속 스토커들이 주로 착용하는 휘장으로, 용병들이 수수께끼의 후원자를 통해 이런 종류의 휘장들을 상품으로 교환할 수 있기 때문에 자주 찾습니다. 로너들은 수가 많지만, 대체적으로 혼자 또는 흩어져 다니는 경우가 많기 때문에, 존에서 더욱 조직화되고 호전적인 세력들에게 손쉬운 먹잇감으로 여겨집니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 개인 소지품\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
@@ -102,10 +102,10 @@
 	</string>
 	
 	<string id="st_ecolog_fp">
-		<text>Ecologist faction patch</text>
+		<text>과학자 세력의 휘장</text>
 	</string>
 	<string id="st_ecolog_fp_descr">
-		<text>This faction insignia depicts a pair of golden wings set against a white and cyan background. The Zone's black market highly values Ecologist patches, as sewing one convincingly into a suit can allow a stalker to go almost anywhere without fear of molestation by other groups. Ecologists seldom part with their patches willingly, although that doesn't stop the Zone's less scrupulous denizens.\n \n
+		<text>이 세력의 휘장에는 흰색과 청록색으로 된 배경에 한 쌍의 황금빛 날개가 그려져 있습니다. 존의 암시장에서 과학자들의 휘장은 높은 값에 거래되는데, 이 휘장을 방어구에 달기만 하면 그걸 입은 스토커들은 존의 거의 모든 곳에서 다른 세력의 방해를 받지 않고 활동할 수 있기 때문입니다. 과학자들이 원해서 휘장을 떼어 놓는 경우는 거의 없지만, 그 사실이 존에 있는 덜 양심적인 사람들을 막지는 못합니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 개인 소지품\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
@@ -113,10 +113,10 @@
 	</string>
 	
 	<string id="st_bandit_fp">
-		<text>Bandit faction patch</text>
+		<text>밴딧 세력의 휘장</text>
 	</string>
 	<string id="st_bandit_fp_descr">
-		<text>This faction insignia depicts a cracked black skull set against a white shield. This symbol is highly in keeping with the vision held by some of the faction's leaders - that they are no mere thugs, but rather the lords of feudal mobs, bringing order to those who accept their "protection" and visiting ruthless retribution upon anyone who dares defy them.\n \n
+		<text>이 세력의 휘장에는 하얀 방패 앞에 쪼개진 검은색 해골이 새겨져 있습니다. 이 상징은 밴딧 세력의 지도자들 중 몇몇의 비전에 아주 잘 들어맞는 듯합니다, 바로 그들이 단순한 깡패들이 아니라, 중세 봉건제를 따르듯이, 자기들의 소위 "보호"를 받아들이는 자들에게 질서를 베풀고 자신들에게 반기를 들려 하는 자들에게 자비없는 응징이 가해질 것이라는 뜻을 보여준다고 생각해서죠.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 개인 소지품\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
@@ -124,10 +124,10 @@
 	</string>
 	
 	<string id="st_dolg_fp">
-		<text>Duty faction patch</text>
+		<text>듀티 세력의 휘장</text>
 	</string>
 	<string id="st_dolg_fp_descr">
-		<text>This faction insignia depicts a gold crosshair set against a red and black shield. The design is meant to allude to the faction's military roots, but without detracting from their chief role as the stoic soldiers who resolutely contend the Zone's every move for the sake of the world outside.\n \n
+		<text>이 세력의 휘장에는 적색과 검정색으로 된 방패 앞에 황금빛 조준선이 새겨진 문양이 있습니다. 이 디자인은 세력의 근본이 군대에서 유래되었다는 것을 보여주기도 하지만, 세계를 위해 존의 모든 움직임을 단호히 주시하고자 하는 굳건한 병사로서의 주 역할을 경시하지 않겠다는 뜻을 보여주기도 합니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 개인 소지품\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
@@ -135,7 +135,7 @@
 	</string>
 	
 	<string id="st_monolith_fp">
-		<text>Monolith faction patch</text>
+		<text>모노리스 세력의 휘장</text>
 	</string>
 	<string id="st_monolith_fp_descr">
 		<text>This insignia pictures feathered wings in profile set against a golden sun - perhaps a symbol for the Wish Granter. The most intriguing aspect of this patch is that it is worn almost exclusively by a group perceived as brainwashed and insane. The very existence of this patch suggests that Monolith troops either retain a higher level of creativity than initially thought, or an outside force is covertly outfitting them. Monolith patches are prized among other groups, as they demonstrate the ability to fight against Monolith and live - an ability highly respected by the veterans of the Zone.\n \n
