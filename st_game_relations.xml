@@ -2,226 +2,226 @@
 <string_table>
 	<!-- Communities -->
 	<string id="ui_st_community">
-		<text>Faction</text>
+		<text>팩션</text>
 	</string>
 
 	<!-- Actor Factions -->
 	<string id="actor">
-		<text>Loner</text>
+		<text>로너</text>
 	</string>
 	<string id="actor_army">
-		<text>Military</text>
+		<text>밀리터리</text>
 	</string>
 	<string id="actor_bandit">
-		<text>Bandit</text>
+		<text>밴디트</text>
 	</string>
 	<string id="actor_csky">
-		<text>Clear Sky</text>
+		<text>클리어스카이</text>
 	</string>
 	<string id="actor_dolg">
-		<text>Duty</text>
+		<text>듀티</text>
 	</string>
 	<string id="actor_ecolog">
-		<text>Ecologist</text>
+		<text>과학자</text>
 	</string>
 	<string id="actor_freedom">
-		<text>Freedom</text>
+		<text>프리덤</text>
 	</string>
 	<string id="actor_killer">
-		<text>Mercenary</text>
+		<text>용병</text>
 	</string>
 	<string id="actor_monolith">
-		<text>Monolith</text>
+		<text>모노리스</text>
 	</string>
 	<string id="actor_monster">
-		<text>Mutant</text>
+		<text>뮤턴트</text>
 	</string>
 	<string id="actor_stalker">
-		<text>Loner</text>
+		<text>로너</text>
 	</string>
 	<string id="actor_renegade">
-		<text>Renegade</text>
+		<text>레네게이드</text>
 	</string>
 	<string id="actor_greh">
-		<text>Sin</text>
+		<text>죄악</text>
 	</string>
 	<string id="actor_isg">
-		<text>UNISG</text>
+		<text>유엔국제과학기구</text>
 	</string>
 	<string id="actor_zombied">
-		<text>Zombified</text>
+		<text>좀비화 스토커</text>
 	</string>
 
 	<string id="army">
-		<text>Military</text>
+		<text>밀리터리</text>
 	</string>
 	<string id="bandit">
-		<text>Bandit</text>
+		<text>밴디트</text>
 	</string>
 	<string id="csky">
-		<text>Clear Sky</text>
+		<text>클리어스카이</text>
 	</string>
 	<string id="dolg">
-		<text>Duty</text>
+		<text>듀티</text>
 	</string>
 	<string id="ecolog">
-		<text>Ecologist</text>
+		<text>과학자</text>
 	</string>
 	<string id="freedom">
-		<text>Freedom</text>
+		<text>프리덤</text>
 	</string>
 	<string id="killer">
-		<text>Mercenary</text>
+		<text>용병</text>
 	</string>
 	<string id="monolith">
-		<text>Monolith</text>
+		<text>모노리스</text>
 	</string>
 	<string id="monster">
-		<text>Mutant</text>
+		<text>뮤턴트</text>
 	</string>
 	<string id="zombied">
-		<text>Zombified</text>
+		<text>좀비화 스토커</text>
 	</string>
 	<string id="greh">
-		<text>Sin</text>
+		<text>죄악</text>
 	</string>
 	<string id="isg">
-		<text>UNISG</text>
+		<text>유엔국제과학기구</text>
 	</string>
 	<string id="renegade">
-		<text>Renegade</text>
+		<text>레네게이드</text>
 	</string>
 	<string id="greh_npc">
-		<text>Sin</text>
+		<text>죄악</text>
 	</string>
 	<string id="army_npc">
-		<text>SSU</text>
+		<text>우크라이나 보안국</text>
 	</string>
 
 	<!-- Goodwill -->
 	<string id="ui_st_relation">
-		<text>Relation</text>
+		<text>관계</text>
 	</string>
 	<string id="st_goodwill_enemy">
-		<text>Enemy</text>
+		<text>적</text>
 	</string>
 	<string id="st_goodwill_indifferent">
-		<text>Neutral</text>
+		<text>중립</text>
 	</string>
 	<string id="st_goodwill_friendly">
-		<text>Friend</text>
+		<text>친구</text>
 	</string>
 
 	<!-- Ranks -->
 	<string id="ui_st_rank">
-		<text>Rank</text>
+		<text>랭크</text>
 	</string>
 	<string id="st_rank_novice">
-		<text>Rookie</text>
+		<text>신병</text>
 	</string>
 	<string id="st_rank_trainee">
-		<text>Trainee</text>
+		<text>훈련병</text>
 	</string>
 	<string id="st_rank_experienced">
-		<text>Experienced</text>
+		<text>숙련자</text>
 	</string>
 	<string id="st_rank_professional">
-		<text>Professional</text>
+		<text>프로</text>
 	</string>
 	<string id="st_rank_veteran">
-		<text>Veteran</text>
+		<text>베테랑</text>
 	</string>
 	<string id="st_rank_expert">
-		<text>Expert</text>
+		<text>전문가</text>
 	</string>
 	<string id="st_rank_master">
-		<text>Master</text>
+		<text>마스터</text>
 	</string>
 	<string id="st_rank_legend">
-		<text>Legend</text>
+		<text>전설</text>
 	</string>
 
 	<!-- Reputations -->
 	<string id="ui_st_reputation">
-		<text>Reputation</text>
+		<text>평판</text>
 	</string>
 	<string id="st_reputation_terrible">
-		<text>Terrible</text>
+		<text>끔찍함</text>
 	</string>
 	<string id="st_reputation_really_bad">
-		<text>Dreary</text>
+		<text>음울함</text>
 	</string>
 	<string id="st_reputation_very_bad">
-		<text>Awful</text>
+		<text>지독함</text>
 	</string>
 	<string id="st_reputation_bad">
-		<text>Bad</text>
+		<text>나쁨</text>
 	</string>
 	<string id="st_reputation_neutral">
-		<text>Neutral</text>
+		<text>중립</text>
 	</string>
 	<string id="st_reputation_good">
-		<text>Good</text>
+		<text>좋음</text>
 	</string>
 	<string id="st_reputation_very_good">
-		<text>Great</text>
+		<text>대단함</text>
 	</string>
 	<string id="st_reputation_really_good">
-		<text>Brilliant</text>
+		<text>훌륭함</text>
 	</string>
 	<string id="st_reputation_excellent">
-		<text>Excellent</text>
+		<text>탁월함</text>
 	</string>
 
 	<!-- Notifications -->
 	<string id="st_rank_increased">
-		<text>Your rank has improved.</text>
+		<text>당신의 랭크가 높아졌습니다.</text>
 	</string>
 	<string id="st_rank_decreased">
-		<text>Your rank has worsened.</text>
+		<text>당신의 랭크가 낮아졌습니다.</text>
 	</string>
 	<string id="st_reputation_increased">
-		<text>Your reputation has improved.</text>
+		<text>당신의 평판이 좋아졌습니다.</text>
 	</string>
 	<string id="st_reputation_decreased">
-		<text>Your reputation has worsened.</text>
+		<text>당신의 평판이 나빠졌습니다.</text>
 	</string>
 	
 	<!-- Dynamic Relations - News building -->
     <string id="st_relations_and">
-        <text>and</text>
+        <text>그리고</text>
     </string>
     <string id="st_relations_declared_war">
-        <text>factions have declared war on each other.</text>
+        <text>팩션들이 서로에게 전쟁을 선포했습니다.</text>
     </string>
     <string id="st_relations_alliance">
-        <text>factions have formed an alliance.</text>
+        <text>팩션들이 동맹을 맺었습니다.</text>
     </string>
     <string id="st_relations_deteriorating">
-        <text> relations are deteriorating.</text>
+        <text> 관계가 악화되고 있습니다.</text>
     </string>
     <string id="st_relations_cease_fire">
-        <text>factions have declared a cease-fire.</text>
+        <text>팩션들이 휴전을 선포했습니다.</text>
     </string>
 	
 	<!-- Dynamic Relations - Goodwill-->
 	<string id="st_ui_goodwill_name">
-        <text>Goodwill</text>
+        <text>우호도</text>
     </string>
 	<string id="st_ui_goodwill_5">
-        <text>Maximal</text>
+        <text>최대</text>
     </string>
 	<string id="st_ui_goodwill_4">
-        <text>Major</text>
+        <text>높음</text>
     </string>
 	<string id="st_ui_goodwill_3">
-        <text>Moderate</text>
+        <text>보통</text>
     </string>
 	<string id="st_ui_goodwill_2">
-        <text>Minor</text>
+        <text>낮음</text>
     </string>
 	<string id="st_ui_goodwill_1">
-        <text>Minimal</text>
+        <text>최소</text>
     </string>
 	
 </string_table>
