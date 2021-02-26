@@ -1040,14 +1040,14 @@ OUTFITS
 		<text>확장 수납 공간이 포함된 B등급 폴리에틸렌 플레이트</text>
 	</string>
 	<string id="st_prt_o_ballistic_9_descr">
-		<text>Polyethylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.</text>
+		<text>폴리에틸렌 플레이트는 신체 중요 부위에 추가적인 보호를 제공합니다. 이 단단한 장갑판은 모든 권총 탄환과 특정 수준까지의 소총 탄환에 대해 효과가 있다는 것이 증명되었습니다. 얇은 방탄복은 군용 소총 탄환에 그리 효과적이지 못하기 때문에, 폴리에틸렌 플레이트로 개조된 방탄복들이 군대에서 제식으로 사용되는 것입니다.</text>
 	</string>
 	
 	<string id="st_prt_o_ballistic_10">
 		<text>확장 수납 공간이 포함된 A등급 폴리에틸렌 플레이트</text>
 	</string>
 	<string id="st_prt_o_ballistic_10_descr">
-		<text>Polyethylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.</text>
+		<text>폴리에틸렌 플레이트는 신체 중요 부위에 추가적인 보호를 제공합니다. 이 단단한 장갑판은 모든 권총 탄환과 특정 수준까지의 소총 탄환에 대해 효과가 있다는 것이 증명되었습니다. 얇은 방탄복은 군용 소총 탄환에 그리 효과적이지 못하기 때문에, 폴리에틸렌 플레이트로 개조된 방탄복들이 군대에서 제식으로 사용되는 것입니다.</text>
 	</string>
 	
 	<string id="st_prt_o_ballistic_11">
@@ -1065,67 +1065,67 @@ OUTFITS
 	</string>
 	
 	<string id="st_prt_o_ballistic_13">
-		<text>Polyethylene lightweight armor plates</text>
+		<text>폴리에틸렌 경량화 장갑판</text>
 	</string>
 	<string id="st_prt_o_ballistic_13_descr">
-		<text>Polyethylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.</text>
+		<text>폴리에틸렌 플레이트는 신체 중요 부위에 추가적인 보호를 제공합니다. 이 단단한 장갑판은 모든 권총 탄환과 특정 수준까지의 소총 탄환에 대해 효과가 있다는 것이 증명되었습니다. 얇은 방탄복은 군용 소총 탄환에 그리 효과적이지 못하기 때문에, 폴리에틸렌 플레이트로 개조된 방탄복들이 군대에서 제식으로 사용되는 것입니다.</text>
 	</string>
 	
 	<string id="st_prt_o_ballistic_14">
-		<text>Polyethylene armor plates (Improvised)</text>
+		<text>폴리에틸렌 장갑판 (급조됨)</text>
 	</string>
 	<string id="st_prt_o_ballistic_14_descr">
-		<text>Polyethylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.</text>
+		<text>폴리에틸렌 플레이트는 신체 중요 부위에 추가적인 보호를 제공합니다. 이 단단한 장갑판은 모든 권총 탄환과 특정 수준까지의 소총 탄환에 대해 효과가 있다는 것이 증명되었습니다. 얇은 방탄복은 군용 소총 탄환에 그리 효과적이지 못하기 때문에, 폴리에틸렌 플레이트로 개조된 방탄복들이 군대에서 제식으로 사용되는 것입니다.</text>
 	</string>
 	
 	<string id="st_prt_o_ballistic_15">
-		<text>Carbon nanotube layers w/ Kevlar-49 fabrics</text>
+		<text>케블라-49 옷감이 포함된 카본 나노튜브 레이어</text>
 	</string>
 	<string id="st_prt_o_ballistic_15_descr">
-		<text>Carbon nanotubes (CNTs) have great potential applications in making ballistic-resistance materials. The remarkable properties of CNTs makes them an ideal candidate for reinforcing polymers and other materials, and it's used in applications such as bullet-proof vests.</text>
+		<text>카본 나노튜브 (Carbon nanotubes; CNTs)는 방탄용 소재를 만들어낼 수 있는 훌륭한 잠재력을 갖추었습니다. 카본 나노튜브는 그 주목할 만한 특징으로 인해 폴리머와 다른 소재들을 강화할 수 있는 이상적인 자질을 가지고 있으며, 방탄조끼 등의 분야에도 적용할 수 있습니다.</text>
 	</string>
 	
 	<string id="st_prt_o_ballistic_16">
-		<text>Carbon nanotube layers w/ Kevlar-29 fabrics (Reinforced)</text>
+		<text>케블라-29 옷감이 포함된 카본 나노튜브 레이어 (강화됨)</text>
 	</string>
 	<string id="st_prt_o_ballistic_16_descr">
-		<text>Carbon nanotubes (CNTs) have great potential applications in making ballistic-resistance materials. The remarkable properties of CNTs makes them an ideal candidate for reinforcing polymers and other materials, and it's used in applications such as bullet-proof vests.</text>
+		<text>카본 나노튜브 (Carbon nanotubes; CNTs)는 방탄용 소재를 만들어낼 수 있는 훌륭한 잠재력을 갖추었습니다. 카본 나노튜브는 그 주목할 만한 특징으로 인해 폴리머와 다른 소재들을 강화할 수 있는 이상적인 자질을 가지고 있으며, 방탄조끼 등의 분야에도 적용할 수 있습니다.</text>
 	</string>
 	
 	<string id="st_prt_o_ballistic_17">
-		<text>Polyethylene fibre layers w/ Polycarbonate inserts</text>
+		<text>폴리카보네이트 내장재가 포함된 폴리에틸렌 피복</text>
 	</string>
 	<string id="st_prt_o_ballistic_17_descr">
-		<text>Polyethylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.</text>
+		<text>폴리에틸렌 플레이트는 신체 중요 부위에 추가적인 보호를 제공합니다. 이 단단한 장갑판은 모든 권총 탄환과 특정 수준까지의 소총 탄환에 대해 효과가 있다는 것이 증명되었습니다. 얇은 방탄복은 군용 소총 탄환에 그리 효과적이지 못하기 때문에, 폴리에틸렌 플레이트로 개조된 방탄복들이 군대에서 제식으로 사용되는 것입니다.</text>
 	</string>
 	
 	<string id="st_prt_o_ballistic_18">
-		<text>Reinforced polyethylene fibre layers</text>
+		<text>강화된 폴리에틸렌 피복</text>
 	</string>
 	<string id="st_prt_o_ballistic_18_descr">
-		<text>Polyethylene plates that provide extra protection to vital areas. These hard armor plates have proven effective against all handgun bullets and a range of rifles. These upgraded ballistic vests have become standard in military use, as soft body armor vests are ineffective against military rifle rounds.</text>
+		<text>폴리에틸렌 플레이트는 신체 중요 부위에 추가적인 보호를 제공합니다. 이 단단한 장갑판은 모든 권총 탄환과 특정 수준까지의 소총 탄환에 대해 효과가 있다는 것이 증명되었습니다. 얇은 방탄복은 군용 소총 탄환에 그리 효과적이지 못하기 때문에, 폴리에틸렌 플레이트로 개조된 방탄복들이 군대에서 제식으로 사용되는 것입니다.</text>
 	</string>
 	
 	<string id="st_prt_o_ballistic_19">
-		<text>Carbon fibre layers</text>
+		<text>카본섬유 피복</text>
 	</string>
 	<string id="st_prt_o_ballistic_19_descr">
-		<text>As compared to Kevlar material carbon fiber is little different and is not very effective against the sharp materials. But the advantage of carbon fiber is that it can stand high temperatures while Kevlar starts to weaken in this area. The materials made of carbon fiber tend to be light, therefore it offers more flexibility.</text>
+		<text>케블라 소재와 비교해 보았을 때 카본섬유는 큰 차이는 없으나 뾰족한 물체에 대해서는 그다지 효과적이지 않습니다. 하지만 케블라 소재가 고열에서 약해지는 것과 달리 카본 섬유는 고열에도 견딜 수 있다는 장점이 있습니다. 카본 섬유로 만들어진 물체는 가벼운 특성이 있어서, 유연성을 더해줄 수 있습니다.</text>
 	</string>
 	
 	<string id="st_prt_o_ballistic_20">
-		<text>Reinforced carbon fibre layers</text>
+		<text>강화된 카본섬유 피복</text>
 	</string>
 	<string id="st_prt_o_ballistic_20_descr">
-		<text>As compared to Kevlar material carbon fiber is little different and is not very effective against the sharp materials. But the advantage of carbon fiber is that it can stand high temperatures while Kevlar starts to weaken in this area. The materials made of carbon fiber tend to be light, therefore it offers more flexibility.</text>
+		<text>케블라 소재와 비교해 보았을 때 카본섬유는 큰 차이는 없으나 뾰족한 물체에 대해서는 그다지 효과적이지 않습니다. 하지만 케블라 소재가 고열에서 약해지는 것과 달리 카본 섬유는 고열에도 견딜 수 있다는 장점이 있습니다. 카본 섬유로 만들어진 물체는 가벼운 특성이 있어서, 유연성을 더해줄 수 있습니다.</text>
 	</string>
 
 <!-- Supportive installations -->
 	<string id="st_prt_o_support_1">
-		<text>Exoskeleton frame</text>
+		<text>외골격 프레임</text>
 	</string>
 	<string id="st_prt_o_support_1_descr">
-		<text>Mechanical frame powered by a system of electric motors, pneumatics, levers and hydraulics that give the wearer both superior protection as well as greatly increased physical strength.</text>
+		<text>착용자에게 훌륭한 보호를 제공해 주는 동시에 완력을 증대해 주는 기계화된 프레임으로 전기 모터, 압축 공기, 지렛대와 유압식 구조들로 이루어져 있습니다.</text>
 	</string>
 	
 
