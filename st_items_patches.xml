@@ -138,7 +138,7 @@
 		<text>모노리스 세력의 휘장</text>
 	</string>
 	<string id="st_monolith_fp_descr">
-		<text>This insignia pictures feathered wings in profile set against a golden sun - perhaps a symbol for the Wish Granter. The most intriguing aspect of this patch is that it is worn almost exclusively by a group perceived as brainwashed and insane. The very existence of this patch suggests that Monolith troops either retain a higher level of creativity than initially thought, or an outside force is covertly outfitting them. Monolith patches are prized among other groups, as they demonstrate the ability to fight against Monolith and live - an ability highly respected by the veterans of the Zone.\n \n
+		<text>이 휘장의 그림은 금빛 태양을 배경으로 한 프로필에 날개가 그려져 있습니다. 아마도 소원을 들어주는 자의 상징으로 보입니다. 이 휘장의 가장 흥미로운 부분은 바로 이 휘장의 거의 대부분이 뇌가 맛이 가고 미쳐버린 것으로 여겨지는 한 집단에 의해서만 착용된다는 것입니다. 이 휘장이 존재한다는 사실은 모노리스 병사들이 기존의 인식과는 반대로 높은 수준의 창의성을 유지하고 있거나, 혹은 어떤 비밀스러운 외부의 압력에 의해 그들만의 복장이 갖추어졌다는 것을 암시합니다. 모노리스의 휘장은 다른 세력들 사이에서 귀중한 것으로 여겨지는데, 이는 이 휘장이 모노리스와 싸워서 이겨 살아남을 수 있는 능력을 갖추었다는 것을 증명해주기 때문이며, 존의 베테랑들은 그 능력을 아주 높이 사는 경향이 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 개인 소지품\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
@@ -146,10 +146,10 @@
 	</string>
 	
 	<string id="st_army_fp">
-		<text>Military faction patch</text>
+		<text>내무군 세력의 휘장</text>
 	</string>
 	<string id="st_army_fp_descr">
-		<text>This faction emblem is a full military coat of arms. It depicts three heater shields, the centermost one in the colours of the Ukrainian flag with two swords in saltire behind it. Encircling these shields are golden laurels. The Military forces in the Zone seem to fancy themselves as protectors and peacekeepers first and foremost. In reality, whether or not these Zone forces even try to fulfill this role is a topic of bitter contention.\n \n
+		<text>이 세력의 문장은 군인을 상징하는 문장 그 자체입니다. 세 개의 히터 방패가 새겨져 있으며, 가장 한가운데에 있는 방패는 우크라이나 국기의 색깔로 칠해져 있으며 뒤편에 두 개의 검이 교차한 모습으로 놓여 있습니다. 방패들은 황금빛 월계수 잎으로 둘러싸여 있습니다. 존에서 활동하는 내무군 병력들은 자신들을 묘사할 때 최우선적으로 수호자나 평화유지군으로 포장하려는 경향이 있습니다. 현실에서, 존에서 활동하는 병력들이 이런 역할을 수행하려고 노력이라도 해 봤을지는 씁쓸한 논쟁거리로 전락하고 말았습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 개인 소지품\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
@@ -157,10 +157,10 @@
 	</string>
 	
 	<string id="st_merc_fp">
-		<text>Mercenary faction patch</text>
+		<text>용병 세력의 휘장</text>
 	</string>
 	<string id="st_merc_fp_descr">
-		<text>This loose clan insignia depicts an azure bird of prey set against a black background. It is meant to be indicative of the Mercs' character as a faction of cold, precise, highly mobile soldiers of fortune, ready to capture or terminate their objectives at a moment's notice. \n \n
+		<text>이 느슨한 세력의 휘장은 검은색 바탕에 하늘색 맹금류가 새겨진 모양을 하고 있습니다. 이러한 상징은 냉정하고, 침착하며, 재빠른 기동성을 갖춘 용병으로서 눈 깜짝할 새 목표물을 확보하거나 제거할 준비가 되었다는 세력의 성격을 나타내고자 하는 것으로 보입니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 개인 소지품\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
@@ -168,10 +168,10 @@
 	</string>
 	
 	<string id="st_isg_fp">
-		<text>UNISG faction patch</text>
+		<text>UNISG 세력의 휘장</text>
 	</string>
 	<string id="st_isg_fp_descr">
-		<text>This faction insignia depicts a white microscope girded by highly angular, stylized laurels set against a maroon background. Sewn onto the back of the patch is a label stating that the badge belongs to the United Nations International Scientific Group.\n \n
+		<text>이 세력의 휘장은 밤색 바탕에 상당히 각지고 양식화된 월계수 잎으로 둘러싸인 흰색 현미경이 새겨진 모양을 하고 있습니다. 휘장의 뒤편에 바느질된 라벨로 미루어 볼 때 이 휘장은 유엔 국제 과학 기구의 소유임을 나타낸 것으로 보입니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 개인 소지품\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
@@ -179,10 +179,10 @@
 	</string>
 	
 	<string id="st_greh_fp">
-		<text>Sin faction patch</text>
+		<text>씬 세력의 휘장</text>
 	</string>
 	<string id="st_greh_fp_descr">
-		<text>Merely holding this patch makes you feel slightly uneasy. In the top left corner is a serpent, while in the right there's an Eastern Orthodox Cross. Against the center of the badge sits a stylized image of an eclipse. As you continue to carry this emblem, however, your unease subsides into a strange and gradual sense of peace.\n \n
+		<text>이 휘장을 손에 쥐고 있기만 해도 다소 불편한 느낌이 밀려옵니다. 상단 좌측 구석에는 뱀이 한 마리 그려져 있으며, 우측에는 동방 정교회의 십자가가 그려져 있습니다. 휘장의 중앙부에는 정형화된 일식의 이미지가 놓여 있습니다. 하지만 이 휘장을 계속 지니고 다닐 때마다, 불안한 감정은 점차 낮설고 평화로운 감정으로 바뀌어 갑니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 개인 소지품\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
