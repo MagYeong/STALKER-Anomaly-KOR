@@ -14,10 +14,10 @@
 
 	<!-- DRX Storyline Documents Quest Item -->
 	<string id="drx_sl_quest_item_1_name">
-		<text>Documents</text>
+		<text>서류</text>
 	</string>
 	<string id="drx_sl_quest_item_1_desc">
-		<text>Heavily encrypted documents. Most of it is beyond one's ability to crack with what's available, although the introductory page looks like it might be possible. But of course, doing that would be beyond one's paygrade... the job is merely to hand these notes in, not to play around at decoding them.\n \n"Jxu Pedu ev Qbyudqjyed - Jxu Hebu ev Ucyiiyedi yd Ckjqdj Hufhetksjyed\nro Fhevuiieh Q.R. Ijhkwqjiao\n \nQrijhqsj\nQi tucedijhqjut ro Fhevuiieh Xuhcqdd, yj yi ademd jxqj ucyiiyedi sqd fhetksu qhjuvqsji qdt qdecqbyui, mxybu Fhevuiieh Iqaxqhel xqi tucedijhqjut jxqj ucyiiyedi sqd pecryvo bylydw ruydwi. Rkj mxqj qhu jxu uvvusji ev ucyiiyedi ed xkcqd hucqydi?\n \nHuikbji muhu erjqydut ro buqlydw jxu sehfiui ev ijqbauhi sqwut yd efud qyh tkhydw ucyiiyedi. Qvjuh ckbjyfbu juiji, jxu unfuhycudji muhu hufuqjut myjx jxu retyui ev xkcqdeyt ckjqdji iksx qi jxu vqrbut idehai qdt rbeetiksauhi.\n \nMxqj mu vekdt mqi jxqj qd ucyiiyed, mxud secydw ydje sedjqsj myjx q iaubujqb sehfiu, xqi q sxqdsu je shuqju q "cekbqwu" - q bylydw sqij ev vbuix cqtu vhec qdecqbeki fxudecudq, mxysx jxud huqdycqjui jxu reto. Cekbqwui sqd jqau jxu vehc ev idehai, rbeetiksauhi, pecryvyut xkcqdi qi mubb qi iuucydwbo dehcqb xkcqdi, qdt yd qbb sqiui sqd ru tyijydwkyixut vhec jxuyh jhkbo bylydw sekdjuhfqhji ro jxuyh tuqjxbo whuo fqbbeh. Cekbqwui mxe ceij huiucrbut dehcqb xkcqdi unxyryjut jxu qrybyjo je secckdysqju rkj hugkyhut iutqjyed qi jxuo ydlqhyqrbo tyifbqout unjhucu fqhqdeyq, tubkiyedi, eh q tuiyhu je uisqfu ydje jxu kdademd.\n \nSedsbkiyed: q fejudjyqb unfbqdqjyed veh hufhetksjyed qcedw jxu kdyiun ideha secckdyjyui xqi ruud erjqydut. Vkhjxuhcehu, jxuhu yi dem q isyudjyvys hqjyedqbu veh eriuhlydw fhefuh rkhyqb skijeci yd jxu Pedu, buij mu sxeeiu je vuut yji tqdwuhi ydijuqt.\ncc -2018"
+		<text>강력하게 암호화된 서류들입니다. 많은 부분은 일반적인 능력으로는 해석할 수 없는 수준으로 되어 있지만, 서론 부분 정도는 가능할 것처럼 보입니다. 물론 당연하겠지만, 그런 일까지 하는 건 인건비를 넘어선 일이 될 것입니다... 임무를 완수하려면 그저 이런 서류들을 가져다주면 될 뿐이고, 굳이 이런 걸 해석할 수고는 들이지 않아야 할 것입니다.\n \n"Jxu Pedu ev Qbyudqjyed - Jxu Hebu ev Ucyiiyedi yd Ckjqdj Hufhetksjyed\nro Fhevuiieh Q.R. Ijhkwqjiao\n \nQrijhqsj\nQi tucedijhqjut ro Fhevuiieh Xuhcqdd, yj yi ademd jxqj ucyiiyedi sqd fhetksu qhjuvqsji qdt qdecqbyui, mxybu Fhevuiieh Iqaxqhel xqi tucedijhqjut jxqj ucyiiyedi sqd pecryvo bylydw ruydwi. Rkj mxqj qhu jxu uvvusji ev ucyiiyedi ed xkcqd hucqydi?\n \nHuikbji muhu erjqydut ro buqlydw jxu sehfiui ev ijqbauhi sqwut yd efud qyh tkhydw ucyiiyedi. Qvjuh ckbjyfbu juiji, jxu unfuhycudji muhu hufuqjut myjx jxu retyui ev xkcqdeyt ckjqdji iksx qi jxu vqrbut idehai qdt rbeetiksauhi.\n \nMxqj mu vekdt mqi jxqj qd ucyiiyed, mxud secydw ydje sedjqsj myjx q iaubujqb sehfiu, xqi q sxqdsu je shuqju q "cekbqwu" - q bylydw sqij ev vbuix cqtu vhec qdecqbeki fxudecudq, mxysx jxud huqdycqjui jxu reto. Cekbqwui sqd jqau jxu vehc ev idehai, rbeetiksauhi, pecryvyut xkcqdi qi mubb qi iuucydwbo dehcqb xkcqdi, qdt yd qbb sqiui sqd ru tyijydwkyixut vhec jxuyh jhkbo bylydw sekdjuhfqhji ro jxuyh tuqjxbo whuo fqbbeh. Cekbqwui mxe ceij huiucrbut dehcqb xkcqdi unxyryjut jxu qrybyjo je secckdysqju rkj hugkyhut iutqjyed qi jxuo ydlqhyqrbo tyifbqout unjhucu fqhqdeyq, tubkiyedi, eh q tuiyhu je uisqfu ydje jxu kdademd.\n \nSedsbkiyed: q fejudjyqb unfbqdqjyed veh hufhetksjyed qcedw jxu kdyiun ideha secckdyjyui xqi ruud erjqydut. Vkhjxuhcehu, jxuhu yi dem q isyudjyvys hqjyedqbu veh eriuhlydw fhefuh rkhyqb skijeci yd jxu Pedu, buij mu sxeeiu je vuut yji tqdwuhi ydijuqt.\ncc -2018"
  </text>
 	</string>
 
@@ -58,7 +58,7 @@
 		<text>Doctor's key</text>
 	</string>
 	<string id="cit_doctors_key_desc">
-		<text>A key with 'Hotel Polissya � Room 26' engraved on side.</text>
+		<text>A key with 'Hotel Polissya – Room 26' engraved on side.</text>
 	</string>
 
 	<string id="item_docs_hiden_pri_name">
@@ -132,7 +132,7 @@
 		<text>Prototype weapon report</text>
 	</string>
 	<string id="item_doc_mon_con_name_desc">
-		<text>Documents which describe the operating mechanism and main technical characteristics of a more advanced electromagnetic device.\nThere is a note inside the documents which reads: 'Documents must be returned to X8, the central laboratory. I will be busy, so deliver them yourself. � N. Lebedev'</text>
+		<text>Documents which describe the operating mechanism and main technical characteristics of a more advanced electromagnetic device.\nThere is a note inside the documents which reads: 'Documents must be returned to X8, the central laboratory. I will be busy, so deliver them yourself. — N. Lebedev'</text>
 	</string>
 
 	<string id="quest_package_name">
@@ -141,8 +141,8 @@
 	<string id="quest_package_desc">
 		<text>The content of this package is unknown.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] personal belongings\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
+		%c[d_blue] • %c[ui_gray_2] personal belongings\n
+		%c[d_blue] • %c[ui_gray_2] valuable\n
 		</text>
 	</string>
 	
@@ -152,7 +152,7 @@
 	<string id="st_jup_b32_scanner_device_desc">
 		<text>This case combines an artefact detector, a battery and a powerful transmitter. The device will scan anomalies to determine the number and type of artefacts that appear. All of this information will be automatically relayed to the scientists' bunker.\n \n
 		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
+		%c[d_blue] • %c[ui_gray_2] technological item\n
 		</text>
 	</string>
 	
