@@ -10,7 +10,7 @@
 		<text>로너</text>
 	</string>
 	<string id="actor_army">
-		<text>밀리터리</text>
+		<text>내무군</text>
 	</string>
 	<string id="actor_bandit">
 		<text>밴디트</text>
@@ -53,7 +53,7 @@
 	</string>
 
 	<string id="army">
-		<text>밀리터리</text>
+		<text>내무군</text>
 	</string>
 	<string id="bandit">
 		<text>밴디트</text>
@@ -103,13 +103,13 @@
 		<text>관계</text>
 	</string>
 	<string id="st_goodwill_enemy">
-		<text>적</text>
+		<text>적대적</text>
 	</string>
 	<string id="st_goodwill_indifferent">
 		<text>중립</text>
 	</string>
 	<string id="st_goodwill_friendly">
-		<text>친구</text>
+		<text>우호적</text>
 	</string>
 
 	<!-- Ranks -->
