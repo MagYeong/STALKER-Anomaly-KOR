@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>                                                                                                                              
-	<string id="st_eat_medkit_cry_1"><text>Haah... medkit... there we go. Not dead yet, not dead yet...</text></string>
-	<string id="st_eat_medkit_cry_2"><text>DAMN! I'm going to need another tourniquet soon!</text></string>
-	<string id="st_eat_medkit_cry_3"><text>You're not the only one carrying meds, sucker.</text></string>
-	<string id="st_eat_medkit_cry_4"><text>Uugh. So much blood. Bandages, bandages, bandages.... whew.</text></string>
-	<string id="st_eat_medkit_cry_5"><text>Ghnaaa! Fuck, that's mine. That's my blood. No. Nononononono. Medkit, medkit-medkit! Aaah. Much better.</text></string>
-	<string id="st_eat_medkit_cry_6"><text>I don't die so easily, fool!</text></string>
-	<string id="st_eat_medkit_cry_7"><text>You made me use my last medkit... I'm going to enjoy stripping your corpse.</text></string>
-	<string id="st_eat_medkit_cry_8"><text>Come on, COME ON! I'm going to need another morphine shot!</text></string>
-	<string id="st_eat_medkit_cry_9"><text>Ah, hell. My kevlar's almost shredded!</text></string>
-	<string id="st_eat_medkit_cry_10"><text>Ngghhh. I'm going to give my medic a kiss if I survive this.</text></string>
-	<string id="st_eat_medkit_cry_11"><text>I need more bandages over here!</text></string>
+	<string id="st_eat_medkit_cry_1"><text>하아... 메드킷... 됐어. 아직 죽지 않았어... 아직은...</text></string>
+	<string id="st_eat_medkit_cry_2"><text>제길! 지혈대가 더 필요해!</text></string>
+	<string id="st_eat_medkit_cry_3"><text>너만 메드킷을 가지고 다니는게 아니야, 호구새끼야.</text></string>
+	<string id="st_eat_medkit_cry_4"><text>으윽.. 피가 너무 많이 나와. 붕대.. 붕대가 필요해.... 윽.</text></string>
+	<string id="st_eat_medkit_cry_5"><text>끄악! 시발, 그건 내 거야. 내 피야! 안돼.. 안돼!! 메드킷, 메드킷-메드킷! 아하. 훨씬 낫군.</text></string>
+	<string id="st_eat_medkit_cry_6"><text>난 그렇게 쉽게 죽지 않아, 병신아!</text></string>
+	<string id="st_eat_medkit_cry_7"><text>너는 내 마지막 메드킷을 쓰게 만들었어. 네 시체를 벗길 일에 즐거워지는군.</text></string>
+	<string id="st_eat_medkit_cry_8"><text>어서, 어서! 모르핀 주사가 더 필요해!</text></string>
+	<string id="st_eat_medkit_cry_9"><text>아, 이런. 내 케블라가 거의 다 부셔졌어!</text></string>
+	<string id="st_eat_medkit_cry_10"><text>으음... 살아남는다면 의사한테 뽀뽀라도 해야겠어.</text></string>
+	<string id="st_eat_medkit_cry_11"><text>여기 붕대가 더 필요해!</text></string>
 	<string id="st_eat_medkit_cry_12"><text>GAH! Guess those looted meds were good for something after all...</text></string>
-	<string id="st_eat_medkit_cry_13"><text>Mmmffffp! Insurance isn't going to cover this...</text></string>
-	<string id="st_eat_medkit_cry_14"><text>Just need another shot, just need another shot, just need another shot...</text></string>
+	<string id="st_eat_medkit_cry_13"><text>읍! 끄으윽.. 이건 보험처리도 안되겠어...</text></string>
+	<string id="st_eat_medkit_cry_14"><text>주사가 더 필요해, 하나만 더, 딱 하나만...</text></string>
 	<string id="st_eat_medkit_cry_15"><text>Guess that wasn't my last medkit, after all. I'm still in the fight, sucker!</text></string>
 	<string id="st_eat_medkit_cry_16"><text>Unnff. Bandage time. That might've killed me if you could aim worth a damn!</text></string>
 	<string id="st_eat_medkit_cry_17"><text>Inghh! Someone pass me another medkit! This one is finished!</text></string>
