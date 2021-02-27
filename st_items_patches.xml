@@ -190,10 +190,10 @@
 	</string>
 	
 	<string id="st_renegade_fp">
-		<text>Renegades faction patch</text>
+		<text>레니게이드 세력의 휘장</text>
 	</string>
 	<string id="st_renegade_fp_descr">
-		<text>This faction insignia depicts a jaundiced-looking scorpion set against a lush green shield. That this item exists would imply the Zone's renegades once possessed a higher goal, although no one today would believe they band together out of anything but sheer desperation. Still, this item is kept in circulation among all true renegades, possibly out of nostalgia.\n \n
+		<text>이 세력의 휘장은 짙푸른 색의 방패에 누리끼리한 전갈이 그려져 있는 모습을 하고 있습니다. 이 물건이 존재한다는 것은 한때 존에 있는 레니게이드 무리들이 드높은 이상을 가지고 있었음을 암시하지만, 오늘날 그들이 순전히 자포자기한 상태에서 벗어나 무언가를 시도할 거라고 생각하는 사람들은 아무도 없습니다. 그래도, 이 물건은 진짜 레니게이드 대원들 사이에서 여전히 돌아다니고 있는데, 아마도 옛 시절의 향수 때문인 것으로 보입니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 개인 소지품\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
