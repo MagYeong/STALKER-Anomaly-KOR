@@ -23,10 +23,10 @@
 
 	<!-- DRX Storyline Locked Case Quest Item -->
 	<string id="drx_sl_quest_item_2_name">
-		<text>Locked Case</text>
+		<text>잠겨진 상자</text>
 	</string>
 	<string id="drx_sl_quest_item_2_desc">
-		<text>A locked case. Not sure what's inside but it's heavy. Better be worth it lugging this thing around.</text>
+		<text>잠겨진 상자입니다. 안에 무엇이 들어있는지는 모르지만 꽤 무겁습니다. 들고 갈 만한 가치가 있기를 바랄 뿐입니다.</text>
 	</string>
 
 	<!-- DRX Storyline PDA Quest Item -->
@@ -34,77 +34,77 @@
 		<text>PDA</text>
 	</string>
 	<string id="drx_sl_quest_item_3_desc">
-		<text>An encrypted PDA. You have been promised a reward for its return.</text>
+		<text>암호화된 PDA입니다. 의뢰인에게 돌려주면 보상을 받을 것입니다.</text>
 	</string>
 
 	<string id="bad_psy_helmet_desc">
-		<text>Prototype developed by scientists to protect people from psy-emissions. Needs adjusting.</text>
+		<text>과학자들이 사람들을 정신파 에미션으로부터 보호하기 위해 만든 프로토타입입니다. 교정이 필요합니다.</text>
 	</string>
 	<string id="bad_psy_helmet_name">
-		<text>Uncalibrated psy-helmet</text>
+		<text>교정되지 않은 정신파 보호 헬멧</text>
 	</string>
 
 	<string id="good_psy_helmet_desc">
-		<text>Prototype developed by scientists to protect people from psy-emissions.</text>
+		<text>과학자들이 사람들을 정신파 에미션으로부터 보호하기 위해 만든 프로토타입입니다.</text>
 	</string>
 	<string id="good_psy_helmet_name">
-		<text>Psy-helmet</text>
+		<text>정신파 보호 헬멧</text>
 	</string>
 
 	<string id="cit_doctors_key_short_desc">
-		<text>Doctor's key to a secret stash in Pripyat</text>
+		<text>프리피야트에 있는 비밀 은닉처를 여는 닥터의 열쇠입니다.</text>
 	</string>
 	<string id="cit_doctors_key_name">
-		<text>Doctor's key</text>
+		<text>닥터의 열쇠</text>
 	</string>
 	<string id="cit_doctors_key_desc">
-		<text>A key with 'Hotel Polissya – Room 26' engraved on side.</text>
+		<text>측면에 "호텔 폴리샤 - 26호실" 이라고 쓰여 있는 열쇠입니다.</text>
 	</string>
 
 	<string id="item_docs_hiden_pri_name">
-		<text>Strelok's manuscript</text>
+		<text>스트렐록의 원고</text>
 	</string>
 	<string id="item_docs_hiden_pri_desc">
-		<text>Worn manuscript in leather binding. Written by Strelok himself.\nJudging by the headings alone, it might explain some of the Zone's secrets.</text>
+		<text>가죽 표지로 된 낡은 원고입니다. 스트렐록이 직접 썼습니다.\n제목만 보고 판단했을 때는, 존의 비밀들 중 일부가 설명되어 있는 듯합니다.</text>
 	</string>
 
 	<string id="cit_doctors_pda_name">
-		<text>Doctor's notes</text>
+		<text>닥터의 쪽지</text>
 	</string>
 	<string id="cit_doctors_pda_desc">
-		<text>'Just some notes about old men's conspiracy theories'.\n\nThere are rumours that the Agroprom Institute was used as a front for an unofficial lab in the years preceding the 2006 year accident. This lab hosted a number of very unusual experiments. The traders have dug up a lot of information about these laboratories. I met with the Barkeep, he says he sent Duty scouts to get into the underground vaults of the Dark Valley, called X-18, but they disappeared. There are another rumours regarding a 'psi-brain' mechanism. The whole neighbourhood in Yantar is under the influence of that piece of trash: it zombified everyone who came within range. There is another mechanism in the Red Forest radar underground, called lab X19, and that is what is likely to be the Brain Scorcher. There is evidence to suggest that the presence of the Brain Scorcher intentionally blocks the road to the North, but no one knows exactly what it is. The Barkeep believes that the Brain Scorcher is man-made, and these mechanisms are not always operating at full strength. He thinks there are periods when their power is lowered to cool down the apparatus. It's time to visit all the underground laboratories in the Zone and find out what kind of secrets they are hiding. Too bad, that I'm too old for this shit. I wish Strelok would be still around, but damn, he disappeared years ago.</text>
+		<text>"그저 늙은이가 생각하는 음모론을 적어두었을 뿐이라네.".\n\n아그로포롬 시설이 2006년의 그 사건이 일어나기 전에 한 비공식 연구소의 위장 기관으로 쓰여졌다는 소문이 있다네. 그 연구소에서는 다수의 매우 의심스러운 실험이 진행되었다고 하네. 상인들이 이런 연구시설에 대한 많은 정보를 파헤쳐 왔지. 내가 전에 바텐더를 만났을 때, 그가 말하길 듀티 정찰대를 X-18이라고 불리는, 검은 계곡 속의 지하실 안으로 보냈었는데, 그들이 사라졌다고 하더군. 또한 "싸이-브레인"이라고 불리는 메커니즘과 관련된 다른 소문도 있다네. 안타 호수 주변의 모든 곳은 그 쓰레기같은 것의 영향력이 미치고 있다네. 그건 일정 범위 안으로 들어가는 모든 사람들을 좀비로 만들어 버린다고 하더군. 붉은 숲에 있는 레이더 기지 지하에는 X19 연구소라 불리는 다른 기계장치도 있다네, 그리고 그곳이 바로 브레인 스코처일 가능성이 가장 높은 곳이지. 브레인 스코처의 존재 자체가 북쪽으로 가는 길을 고의적으로 막고 있다는 것을 암시하는 증거가 있긴 하지만, 아무도 그게 정확히 어떤 것인지 알지는 못한다네. 바텐더는 브레인 스코처를 인간이 만들었고, 그곳의 메커니즘은 언제나 전력으로 가동되는 것은 아니라고 생각하더군. 그는 브레인 스코처가 잠시 열을 식히는 동안에는 동력이 낮아질 때가 있을 거라고 생각한다네. 이제 존에 있는 모든 지하 연구소를 찾아가 그것들이 숨기고 있는 비밀이 무엇인지 밝혀내야만 하네. 안타깝게도, 난 그런 일을 하기엔 너무 늙었다네. 스트렐록이 아직 여기에 있었으면 좋았으련만, 제기랄, 이미 몇 년 전에 사라져 버렸다더군.</text>
 	</string>
 
 	<string id="item_decoder_desc">
-		<text>A powerful electronic lock-pick. Strangely enough, it does not seem to be an all-purpose thieves' instrument. Rather, it seems to have been created with a specific electronic lock in mind and can't be used to override anything else.</text>
+		<text>강력한 전자식 문따개입니다. 이상한 이야기지만, 이 물건은 모든 문을 따기 위해 만들어진 도구는 아닌 것으로 보입니다. 오히려, 이 물건은 특수한 전자적 자물쇠만 열도록 설계된 것으로 보이며 그 밖의 다른 것들을 해제하는 데 쓰이지는 못합니다.</text>
 	</string>
 	<string id="item_decoder_name">
-		<text>Decoder</text>
+		<text>해독기</text>
 	</string>
 
 	<string id="pri_decoder_docs_conclusion_txt">
-		<text>The manuscript contains a short report on how Fang and Strelok infiltrated a hidden laboratory and their journey there. It makes mention of large Monolith presence in and around the Chernobyl NPP. More specifically under the concrete sarcophagus, also suggesting it may be their base of operations but with the intent to hide something. Reading further it states that they discovered laboratory hidden further in the north under the generators, however they were unable to gain access at the time of writing as they required the use of a decoder.</text>
+		<text>문서에는 팽과 스트렐록이 어떻게 숨겨진 실험실에 침투했으며 거기서 어떤 일들을 했는지에 대한 짧은 보고서가 실려있습니다. 또한 체르노빌 원자력 발전소 안과 주변에 있는 거대한 모노리스 세력에 대해서도 언급되어 있습니다. 발전소를 덮은 콘크리트 석관 아래에 대해서도 더욱 자세히 설명되어 있으며, 또한 그곳이 모노리스의 작전 본부같은 무언가를 숨기려는 의도도 존재할 것이라는 가설을 제시했습니다. 그 뒤에는 그들이 발전소 아래쪽으로부터 더 북쪽으로 간 지점에 있는 숨겨진 연구소를 찾아냈다는 사실이 언급되어 있지만, 문서가 쓰여질 당시에는 출입에 필요한 해독기가 없었기 때문에 들어갈 수 없었다고 적혀있습니다.</text>
 	</string>
 
 	<string id="item_quest_case_02_desc">
-		<text>A fireproof briefcase containing military documents and reports on investigations performed near Agroprom. The reports talk in detail about how machinery and equipment has gone missing from the institute, and how the results of the investigations on their whereabouts were apparently falsified.</text>
+		<text>군용 문서 및 아그로프롬 근처에서 수행된 조사들의 보고서들이 들어있는 방화처리된 서류가방입니다. 보고서에는 시설로부터 기계장치들과 장비들이 어떻게 사라졌으며, 그 장비들이 어디에 있는지에 대한 조사 결과가 어떻게 조작되었는지에 대한 자세한 정보들이 서술되어 있습니다.</text>
 	</string>
 	<string id="item_quest_case_02_name">
-		<text>Military documents</text>
+		<text>군용 문서들</text>
 	</string>
 
 	<string id="item_doc_x18_name">
-		<text>Biology research report</text>
+		<text>생물학 연구 보고서</text>
 	</string>
 	<string id="item_doc_x18_desc">
-		<text>The report details the study of biological samples sent from lab X-18. The samples were subjected to informational field effects of varying intensities. The report meticulously describes the mutation of living beings following exposure to emissions.</text>
+		<text>이 보고서에는 X-18 연구소에서 보내진 생물학적 표본 연구의 세부적인 정보들이 쓰여 있습니다. 표본들은 다양한 강도의 정보적인 필드 효과에 노출되었습니다. 보고서에는 에미션에 노출되었을 때 생명체가 어떻게 변이되는지를 상세하게 설명되어 있습니다.</text>
 	</string>
 
 	<string id="item_doc_x16_desc">
-		<text>The documents refer to one of the side discoveries of bio-research, specifically the discovery that living creatures are able to generate directed psy-emissions. A biological field emitter, essentially a giant brain, was grown as part of the research conducted in lab X16.</text>
+		<text>보고서에는 생체 연구 과정에서의 부차적인 발견들 중 하나가 언급되었는데, 특히 생명체가 유도된 정신파 에미션을 만들어낼 수 있다는 발견에 대해 서술되었습니다. 생체적인 필드 방출기, 특히 거대한 두뇌 같은 것들이 X16 연구소에서 진행되는 연구의 일부분으로서 배양되었습니다.</text>
 	</string>
 	<string id="item_doc_x16_name">
-		<text>Psy research documents</text>
+		<text>정신파 연구 서류</text>
 	</string>
 
 	<string id="item_doc_x10_desc">
