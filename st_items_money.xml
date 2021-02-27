@@ -7,88 +7,88 @@
 <string_table>
 
 	<string id="st_cash_name">
-		<text>Wallet</text>
+		<text>지갑</text>
 	</string>
 	<string id="st_cash_descr">
-		<text>A worn leather wallet for banknotes.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_blue] � %c[ui_gray_2] storage for currency\n</text>
+		<text>지폐 보관용 낡은 가죽 지갑\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 일상용품\n
+		%c[d_blue] • %c[ui_gray_2] 화폐 보관용\n</text>
 	</string>
 	
 	<string id="st_roubles">
-		<text>Roubles</text>
+		<text>루블</text>
 	</string>
 	<string id="st_roubles_descr">
-		<text>Trade in the Zone is conducted mainly by means of electronic transactions for safety and managing reasons. But many stalkers keep at least a few roubles in their pockets in case they want to buy smaller things like cigarettes. This makes life easier and conserves battery life.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n</text>
+		<text>존(Zone)내의 거래는 안전 및 관리상 주로 전자거래로 이루어집니다. 하지만 많은 스토커들은 담배와 같은 자잘한 물건을 구매할 때를 대비하여 최소한의 루블을 소지하고 다닙니다. 이렇게 하면 생활이 더 편해지고 PDA의 배터리 수명을 절약할 수 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 일상용품\n</text>
 	</string>
 	
 	<string id="st_roubles_5000_name">
-		<text>5000 roubles</text>
+		<text>5000 루블</text>
 	</string>
 	<string id="st_roubles_5000_descr">
-		<text>Trade in the Zone is conducted mainly by means of electronic transactions for safety and managing risks. But many stalkers keep at least a few banknotes in their pockets in case they want to buy smaller things like cigarettes. This makes life easier and conserves battery life.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_blue] � %c[ui_gray_2] cash\n
-		%c[d_blue] � %c[ui_gray_2] universally recognised currency unit\n</text>
+		<text>존(Zone)내의 거래는 안전 및 관리상 주로 전자거래로 이루어집니다. 하지만 많은 스토커들은 담배와 같은 자잘한 물건을 구매할 때를 대비하여 최소한의 루블을 소지하고 다닙니다. 이렇게 하면 생활이 더 편해지고 PDA의 배터리 수명을 절약할 수 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 일상용품\n
+		%c[d_blue] • %c[ui_gray_2] 현금\n
+		%c[d_blue] • %c[ui_gray_2] 보편적으로 사용되는 통화 단위\n</text>
 	</string>
 	
 	<string id="st_roubles_1000_name">
-		<text>1000 roubles</text>
+		<text>1000 루블</text>
 	</string>
 	<string id="st_roubles_1000_descr">
-		<text>Trade in the Zone is conducted mainly by means of electronic transactions for safety and managing risks. But many stalkers keep at least a few banknotes in their pockets in case they want to buy smaller things like cigarettes. This makes life easier and conserves battery life.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_blue] � %c[ui_gray_2] cash\n
-		%c[d_blue] � %c[ui_gray_2] universally recognised currency unit\n</text>
+		<text>존(Zone)내의 거래는 안전 및 관리상 주로 전자거래로 이루어집니다. 하지만 많은 스토커들은 담배와 같은 자잘한 물건을 구매할 때를 대비하여 최소한의 루블을 소지하고 다닙니다. 이렇게 하면 생활이 더 편해지고 PDA의 배터리 수명을 절약할 수 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 일상용품\n
+		%c[d_blue] • %c[ui_gray_2] 현금\n
+		%c[d_blue] • %c[ui_gray_2] 보편적으로 사용되는 통화 단위\n</text>
 	</string>
 	
 	<string id="st_roubles_500_name">
-		<text>500 roubles</text>
+		<text>500 루블</text>
 	</string>
 	<string id="st_roubles_500_descr">
-		<text>Trade in the Zone is conducted mainly by means of electronic transactions for safety and managing risks. But many stalkers keep at least a few banknotes in their pockets in case they want to buy smaller things like cigarettes. This makes life easier and conserves battery life.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_blue] � %c[ui_gray_2] cash\n
-		%c[d_blue] � %c[ui_gray_2] universally recognised currency unit\n</text>
+		<text>존(Zone)내의 거래는 안전 및 관리상 주로 전자거래로 이루어집니다. 하지만 많은 스토커들은 담배와 같은 자잘한 물건을 구매할 때를 대비하여 최소한의 루블을 소지하고 다닙니다. 이렇게 하면 생활이 더 편해지고 PDA의 배터리 수명을 절약할 수 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 일상용품\n
+		%c[d_blue] • %c[ui_gray_2] 현금\n
+		%c[d_blue] • %c[ui_gray_2] 보편적으로 사용되는 통화 단위\n</text>
 	</string>
 	
 	<string id="st_roubles_100_name">
-		<text>100 roubles</text>
+		<text>100 루블</text>
 	</string>
 	<string id="st_roubles_100_descr">
-		<text>Trade in the Zone is conducted mainly by means of electronic transactions for safety and managing risks. But many stalkers keep at least a few banknotes in their pockets in case they want to buy smaller things like cigarettes. This makes life easier and conserves battery life.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_blue] � %c[ui_gray_2] cash\n
-		%c[d_blue] � %c[ui_gray_2] universally recognised currency unit\n</text>
+		<text>존(Zone)내의 거래는 안전 및 관리상 주로 전자거래로 이루어집니다. 하지만 많은 스토커들은 담배와 같은 자잘한 물건을 구매할 때를 대비하여 최소한의 루블을 소지하고 다닙니다. 이렇게 하면 생활이 더 편해지고 PDA의 배터리 수명을 절약할 수 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 일상용품\n
+		%c[d_blue] • %c[ui_gray_2] 현금\n
+		%c[d_blue] • %c[ui_gray_2] 보편적으로 사용되는 통화 단위\n</text>
 	</string>
 	
 	<string id="st_roubles_50_name">
-		<text>50 roubles</text>
+		<text>50 루블</text>
 	</string>
 	<string id="st_roubles_50_descr">
-		<text>Trade in the Zone is conducted mainly by means of electronic transactions for safety and managing risks. But many stalkers keep at least a few banknotes in their pockets in case they want to buy smaller things like cigarettes. This makes life easier and conserves battery life.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_blue] � %c[ui_gray_2] cash\n
-		%c[d_blue] � %c[ui_gray_2] universally recognised currency unit\n</text>
+		<text>존(Zone)내의 거래는 안전 및 관리상 주로 전자거래로 이루어집니다. 하지만 많은 스토커들은 담배와 같은 자잘한 물건을 구매할 때를 대비하여 최소한의 루블을 소지하고 다닙니다. 이렇게 하면 생활이 더 편해지고 PDA의 배터리 수명을 절약할 수 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 일상용품\n
+		%c[d_blue] • %c[ui_gray_2] 현금\n
+		%c[d_blue] • %c[ui_gray_2] 보편적으로 사용되는 통화 단위\n</text>
 	</string>
 	
 	<string id="st_roubles_10_name">
-		<text>10 roubles</text>
+		<text>10 루블</text>
 	</string>
 	<string id="st_roubles_10_descr">
-		<text>Trade in the Zone is conducted mainly by means of electronic transactions for safety and managing risks. But many stalkers keep at least a few banknotes in their pockets in case they want to buy smaller things like cigarettes. This makes life easier and conserves battery life.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_blue] � %c[ui_gray_2] cash\n
-		%c[d_blue] � %c[ui_gray_2] universally recognised currency unit\n</text>
+		<text>존(Zone)내의 거래는 안전 및 관리상 주로 전자거래로 이루어집니다. 하지만 많은 스토커들은 담배와 같은 자잘한 물건을 구매할 때를 대비하여 최소한의 루블을 소지하고 다닙니다. 이렇게 하면 생활이 더 편해지고 PDA의 배터리 수명을 절약할 수 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 일상용품\n
+		%c[d_blue] • %c[ui_gray_2] 현금\n
+		%c[d_blue] • %c[ui_gray_2] 보편적으로 사용되는 통화 단위\n</text>
 	</string>
 	
 </string_table>
