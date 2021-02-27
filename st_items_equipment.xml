@@ -7,162 +7,162 @@
 <string_table>
 
 	<string id="st_itm_campfire">
-		<text>Campfire</text>
+		<text>캠프파이어</text>
 	</string>
 	<string id="st_itm_campfire_descr">
-		<text>Campfires are not items that you can carry with, you shouldn't have seen this goddamn it!\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[0,100,255,255] � %c[ui_gray_2] stalkers favourite place\n
-		%c[0,100,255,255] � %c[ui_gray_2] useful for cooking\n
-		%c[0,100,255,255] � %c[ui_gray_2] story time\n
-		%c[0,100,255,255] � %c[ui_gray_2] can be used with guitar and vodka\n
+		<text>캠프파이어는 가지고 다닐 수 있는 물건이 아니야. 이걸 어떻게 발견한거지!?\n \n
+		%c[ui_gray_3]특성:\n
+		%c[0,100,255,255] • %c[ui_gray_2] 스토커들이 아주 좋아하는 곳\n
+		%c[0,100,255,255] • %c[ui_gray_2] 요리에 사용됨\n
+		%c[0,100,255,255] • %c[ui_gray_2] 스토리 아이템\n
+		%c[0,100,255,255] • %c[ui_gray_2] 기타 및 보드카와 어울림\n
 		</text>
 	</string>
 	
 	<string id="st_poxod_rukzak">
-		<text>Anomalous backpack</text>
+		<text>이상현상 가방</text>
 	</string>
 	<string id="st_poxod_rukzak_descr">
-		<text>At first glance, this backpack appears to have no outstanding properties. However, items placed located it loses their weight over time. Rumour has it that it is the result of a shipment of backpacks for the military, accidentally getting caught in an anomaly. Attempts by scientists of recreating its unique properties have failed. Batches of anomalous backpacks have been purchased by influential people in the Zone, which have continued to export them around the globe.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] unique item\n
+		<text>겉보기에 이 가방은 별다른 특성이 없는 것 같습니다. 그러나 내부의 아이템은 시간이 지남에 따라 무게가 줄어 듭니다. 배에 선적된 군용 가방들이 우연히 이상현상에 휘말렸다는 소문이 있습니다. 과학자들은 이 가방의 특성을 재현하려는 시도를 했으나 실패했습니다. 존(Zone)내의 영향력있는 사람들이 이 가방을 사재기하여 전 세계로 계속 수출하고 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 유니크 아이템\n
 		</text>
 	</string>
 
 	<string id="st_bolt">
-		<text>Bolt</text>
+		<text>볼트</text>
 	</string>
 	<string id="st_bolt_descr">
-		<text>An ordinary rusty bolt, often used by novices and experienced stalkers alike to build safe pathways among anomalies.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_gray_2] � %c[ui_gray_2] everyday item\n
-		%c[ui_gray_2] � %c[ui_gray_2] unlimited supply\n
+		<text>초보자와 숙련된 스토커 모두가 이상현상 사이에 안전한 경로를 구축하기 위해 자주 사용하는 일반적인 녹슨 볼트입니다.\n \n
+		%c[ui_gray_2]특성:\n
+		%c[ui_gray_2] • %c[ui_gray_2] 일상용품\n
+		%c[ui_gray_2] • %c[ui_gray_2] 무제한 사용가능\n
 		</text>
 	</string>
 	
 	<string id="st_bolty">
-		<text>Bolt</text>
+		<text>볼트</text>
 	</string>
 	<string id="st_bolty_descr">
-		<text>An ordinary rusty bolt, often used by novices and experienced stalkers alike to build safe pathways among anomalies.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_gray_2] � %c[ui_gray_2] everyday item\n
+		<text>초보자와 숙련된 스토커 모두가 이상현상 사이에 안전한 경로를 구축하기 위해 자주 사용하는 일반적인 녹슨 볼트입니다.\n \n
+		%c[ui_gray_2]특성:\n
+		%c[ui_gray_2] • %c[ui_gray_2] 일상용품\n
 		</text>
 	</string>
 	
 	<string id="st_bolt_bullet">
-		<text>Empty cartridge</text>
+		<text>빈 탄피</text>
 	</string>
 	<string id="st_bolt_bullet_descr">
-		<text>Sometimes stalkers make use of any empty cartridges they have as an alternative to bolts to build safe pathways among anomalies.\n \n
-		%c[ui_gray_2]PROPERTIES:\n
-		%c[ui_gray_2] � %c[ui_gray_2] everyday item\n
+		<text>때때로 스토커는 이상현상 사이의 안전한 경로를 구축하기 위해 볼트 대신 가지고 있는 빈 탄피를 사용합니다.\n \n
+		%c[ui_gray_2]특성:\n
+		%c[ui_gray_2] • %c[ui_gray_2] 일상용품\n
 		</text>
 	</string>
 	
 	<string id="st_identity_card">
-		<text>Personal USS identity card</text>
+		<text>개인 USS 신분증</text>
 	</string>
 	<string id="st_identity_card_descr">
-		<text>This is your personal ID card which reveals your true identity. Keep it hidden. As a USS Assaulter, you are specialised in assault rifles and heavy weapons. You are also specialised in the control of weapon recoil. Slow sprinting speed.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] personal belongings\n
+		<text>이것은 당신의 진짜 신분을 보여주는 개인 신분증입니다. 숨겨두세요. USS 돌격병으로서 당신은 돌격 소총과 중화기를 전문으로 하고 있습니다. 당신은 또한 무기 반동 제어에 특화되어 있습니다. 하지만 달리기 속도가 느립니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 개인 소지품\n
 		</text>
 	</string>
 	<string id="st_identity_card_assaulter_descr">
-		<text>As a USS Assaulter you have unique strengths and weaknesses.\n\n
-		%c[d_cyan]EQUIPMENT\n
-		%c[default]Heavy armour agility: %c[d_red_1]A+\n
-		%c[d_blue] � %c[default]Closed breathing agility: %c[d_red_1]C\n
-		%c[d_blue] � %c[default]Artefact handling: %c[d_red_1]C\n\n
-		%c[d_cyan]WEAPONS\n
-		%c[d_blue] � %c[default]Knife fighting: %c[d_red_1]A+\n
-		%c[d_blue] � %c[default]Handling speciality: %c[d_red_1]High recoils\n
-		%c[d_blue] � %c[default]Maintenance speciality: %c[d_red_1]Heavy weapons\n\n
-		%c[d_cyan]MEDICINE\n
-		%c[d_blue] � %c[default]Bandages/medkits dexterity: %c[d_red_1]B\n
-		%c[d_blue] � %c[default]Medic skills: %c[d_red_1]C\n
-		%c[d_blue] � %c[default]Drug handling skills: %c[d_red_1]C\n\n
-		%c[d_cyan]ATHLETICS\n
-		%c[d_blue] � %c[default]Endurance: %c[ui_gray_1] %c[d_red_1]very high\n
-		%c[d_blue] � %c[default]Sprinting speed: %c[d_red_1]slow\n
-		%c[d_blue] � %c[default]Jump height: %c[d_red_1]low\n
-		%c[d_blue] � %c[default]Fall/jump agility: %c[d_red_1]low\n
-		%c[d_blue] � %c[default]Base stamina: %c[d_red_1]low\n
-		%c[d_blue] � %c[default]Maximum Carry Weight: %c[ui_gray_1] %c[d_red_1]high\n\n
-		%c[d_cyan]HEALTH PROFILE\n
-		%c[d_blue] � %c[default]Food consumption rate: %c[d_red_1]high\n
-		%c[d_blue] � %c[default]Need for sleep: %c[d_red_1]high\n\n
-		%c[d_cyan]IMMMUNE SYSTEM RESISTANCE\n
-		%c[d_blue] � %c[default]Drugs/alcohol: %c[d_red_1]A+\n
-		%c[d_blue] � %c[default]Unhealthy food: %c[d_red_1]B\n
-		%c[d_blue] � %c[default]Artefacts: %c[d_red_1]C\n
-		%c[d_blue] � %c[default]Radiation: %c[ui_gray_1] %c[d_red_1]C\n
+		<text>USS 돌격병으로서 당신은 특별한 강점과 약점이 있.\n\n
+		%c[d_cyan]장비\n
+		%c[default]중갑 방탄복 민첩성: %c[d_red_1]A+\n
+		%c[d_blue] • %c[default]폐쇄 호흡기 민첩성: %c[d_red_1]C\n
+		%c[d_blue] • %c[default]아티팩트 취급: %c[d_red_1]C\n\n
+		%c[d_cyan]무기\n
+		%c[d_blue] • %c[default]대검 취급: %c[d_red_1]A+\n
+		%c[d_blue] • %c[default]총기제어 특화: %c[d_red_1]돌격소총, 중화기\n
+		%c[d_blue] • %c[default]유지관리 특화: %c[d_red_1]중화기 전문\n\n
+		%c[d_cyan]약품\n
+		%c[d_blue] • %c[default]붕대/메드킷 손재주: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]의료기술: %c[d_red_1]C\n
+		%c[d_blue] • %c[default]약 취급 기술: %c[d_red_1]C\n\n
+		%c[d_cyan]운동체력\n
+		%c[d_blue] • %c[default]지구력: %c[ui_gray_1] %c[d_red_1]매우 높음\n
+		%c[d_blue] • %c[default]질주 속도: %c[d_red_1]느림\n
+		%c[d_blue] • %c[default]점프 높이: %c[d_red_1]낮음\n
+		%c[d_blue] • %c[default]낙하/점프 민첩성: %c[d_red_1]낮음\n
+		%c[d_blue] • %c[default]기본 스태미나: %c[d_red_1]낮음\n
+		%c[d_blue] • %c[default]최대 소지 무게: %c[ui_gray_1] %c[d_red_1]높음\n\n
+		%c[d_cyan]건강 프로필\n
+		%c[d_blue] • %c[default]허기 욕구: %c[d_red_1]높음\n
+		%c[d_blue] • %c[default]수면 욕구: %c[d_red_1]높음\n\n
+		%c[d_cyan]면역 시스템 저항력\n
+		%c[d_blue] • %c[default]약/알코올: %c[d_red_1]A+\n
+		%c[d_blue] • %c[default]불량식품: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]아티팩트: %c[d_red_1]C\n
+		%c[d_blue] • %c[default]방사능: %c[ui_gray_1] %c[d_red_1]C\n
 		</text>
 	</string>
 	<string id="st_identity_card_recon_descr">
-		<text>As a USS Recon you have unique strengths and weaknesses.\n\n
-		%c[d_cyan]EQUIPMENT\n
-		%c[default]Heavy armour agility: %c[d_red_1]C\n
-		%c[d_blue] � %c[default]Closed breathing agility: %c[d_red_1]A+\n
-		%c[d_blue] � %c[default]Artefact handling: %c[d_red_1]A+\n\n
-		%c[d_cyan]WEAPONS\n
-		%c[d_blue] � %c[default]Knife fighting: %c[d_red_1]A\n
-		%c[d_blue] � %c[default]Handling speciality: %c[d_red_1]SMG's\n
-		%c[d_blue] � %c[default]Maintenance speciality: %c[d_red_1]SMG's\n\n
-		%c[d_cyan]MEDICINE\n
-		%c[d_blue] � %c[default]Bandages/medkits dexterity: %c[d_red_1]A+\n
-		%c[d_blue] � %c[default]Medic skills: %c[d_red_1]A\n
-		%c[d_blue] � %c[default]Drug handling skills: %c[d_red_1]A\n\n
-		%c[d_cyan]ATHLETICS\n
-		%c[d_blue] � %c[default]Endurance: %c[ui_gray_1] %c[d_red_1]low\n
-		%c[d_blue] � %c[default]Sprinting speed: %c[d_red_1]high\n
-		%c[d_blue] � %c[default]Jump height: %c[d_red_1]high\n
-		%c[d_blue] � %c[default]Fall/jump agility: %c[d_red_1]high\n
-		%c[d_blue] � %c[default]Base stamina: %c[d_red_1]high\n
-		%c[d_blue] � %c[default]Maximum Carry Weight: %c[ui_gray_1] %c[d_red_1]low\n\n
-		%c[d_cyan]HEALTH PROFILE\n
-		%c[d_blue] � %c[default]Food consumption rate: %c[d_red_1]slow\n
-		%c[d_blue] � %c[default]Need for sleep: %c[d_red_1]medium\n\n
-		%c[d_cyan]IMMMUNE SYSTEM RESISTANCE\n
-		%c[d_blue] � %c[default]Drugs/alcohol: %c[d_red_1]C\n
-		%c[d_blue] � %c[default]Unhealthy food: %c[d_red_1]C\n
-		%c[d_blue] � %c[default]Artefacts: %c[d_red_1]A\n
-		%c[d_blue] � %c[default]Radiation: %c[ui_gray_1] %c[d_red_1]A\n
+		<text>USS 정찰병으로서 당신은 특별한 강점과 약점이 있습니다.\n\n
+		%c[d_cyan]장비T\n
+		%c[default]중갑 방탄복 민첩성: %c[d_red_1]C\n
+		%c[d_blue] • %c[default]폐쇄 호흡기 민첩성: %c[d_red_1]A+\n
+		%c[d_blue] • %c[default]아티팩트 취급: %c[d_red_1]A+\n\n
+		%c[d_cyan]무기\n
+		%c[d_blue] • %c[default]대검 취급: %c[d_red_1]A\n
+		%c[d_blue] • %c[default]총기제어 특화: %c[d_red_1]기관단총\n
+		%c[d_blue] • %c[default]유지관리 특화: %c[d_red_1]기관단총\n\n
+		%c[d_cyan]약품\n
+		%c[d_blue] • %c[default]붕대/메드킷 손재주: %c[d_red_1]A+\n
+		%c[d_blue] • %c[default]의료기술: %c[d_red_1]A\n
+		%c[d_blue] • %c[default]약 취급 기술: %c[d_red_1]A\n\n
+		%c[d_cyan]운동체력\n
+		%c[d_blue] • %c[default]지구력: %c[ui_gray_1] %c[d_red_1]낮음\n
+		%c[d_blue] • %c[default]질주 속도: %c[d_red_1]빠름\n
+		%c[d_blue] • %c[default]점프 높이: %c[d_red_1]높음\n
+		%c[d_blue] • %c[default]낙하/점프 민첩성: %c[d_red_1]높음\n
+		%c[d_blue] • %c[default]기본 스태미나: %c[d_red_1]높음\n
+		%c[d_blue] • %c[default]최대 소지 무게: %c[ui_gray_1] %c[d_red_1]낮음\n\n
+		%c[d_cyan]건강 프로필\n
+		%c[d_blue] • %c[default]허기 욕구: %c[d_red_1]낮음\n
+		%c[d_blue] • %c[default]수면 욕구: %c[d_red_1]중간\n\n
+		%c[d_cyan]면역 시스템 저항력\n
+		%c[d_blue] • %c[default]약/알코올: %c[d_red_1]C\n
+		%c[d_blue] • %c[default]불량식품: %c[d_red_1]C\n
+		%c[d_blue] • %c[default]아티팩트: %c[d_red_1]A\n
+		%c[d_blue] • %c[default]방사능: %c[ui_gray_1] %c[d_red_1]A\n
 		</text>
 	</string>
 	<string id="st_identity_card_sniper_descr">
-		<text>As a USS Sniper your attributes are extremely well-balanced.\n\n
-		%c[d_cyan]EQUIPMENT\n
-		%c[default]Heavy armour agility: %c[d_red_1]B\n
-		%c[d_blue] � %c[default]Closed breathing agility: %c[d_red_1]B\n
-		%c[d_blue] � %c[default]Artefact handling: %c[d_red_1]B\n\n
-		%c[d_cyan]WEAPONS\n
-		%c[d_blue] � %c[default]Knife fighting: %c[d_red_1]B\n
-		%c[d_blue] � %c[default]Handling speciality: %c[d_red_1]sniper rifles\n
-		%c[d_blue] � %c[default]Maintenance speciality: %c[d_red_1]sniper rifles \n\n
-		%c[d_cyan]MEDICINE\n
-		%c[d_blue] � %c[default]Bandages/medkits dexterity: %c[d_red_1]B\n
-		%c[d_blue] � %c[default]Medic skills: %c[d_red_1]B\n
-		%c[d_blue] � %c[default]Drug handling skills: %c[d_red_1]B+\n\n
-		%c[d_cyan]ATHLETICS\n
-		%c[d_blue] � %c[default]Endurance: %c[ui_gray_1] %c[d_red_1]medium\n
-		%c[d_blue] � %c[default]Sprinting speed: %c[d_red_1]medium\n
-		%c[d_blue] � %c[default]Jump height: %c[d_red_1]medium\n
-		%c[d_blue] � %c[default]Fall/jump agility: %c[d_red_1]medium\n
-		%c[d_blue] � %c[default]Stamina running: 
-		%c[d_red_1]high\n
-		%c[d_blue] � %c[default]Stamina sprinting: 
-		%c[d_red_1]medium\n
-		%c[d_blue] � %c[default]Maximum Carry Weight: %c[ui_gray_1] %c[d_red_1]medium\n\n
-		%c[d_cyan]HEALTH PROFILE\n
-		%c[d_blue] � %c[default]Food consumption rate: %c[d_red_1]medium\n
-		%c[d_blue] � %c[default]Need for sleep: %c[d_red_1]low\n\n
-		%c[d_cyan]IMMMUNE SYSTEM RESISTANCE\n
-		%c[d_blue] � %c[default]Drugs/alcohol: %c[d_red_1]B\n
-		%c[d_blue] � %c[default]Unhealthy food: %c[d_red_1]A+\n
-		%c[d_blue] � %c[default]Artefacts: %c[d_red_1]B\n
-		%c[d_blue] � %c[default]Radiation: %c[ui_gray_1] %c[d_red_1]B\n
+		<text>USS 스나이퍼는 매우 균형잡힌 특성을 가지고 있습니다.\n\n
+		%c[d_cyan]장비T\n
+		%c[default]중갑 방탄복 민첩성: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]폐쇄 호흡기 민첩성: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]아티팩트 취급: %c[d_red_1]B\n\n
+		%c[d_cyan]무기\n
+		%c[d_blue] • %c[default]대검 취급: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]총기제어 특화: %c[d_red_1]저격총\n
+		%c[d_blue] • %c[default]유지관리 특화: %c[d_red_1]저격총 \n\n
+		%c[d_cyan]약품\n
+		%c[d_blue] • %c[default]붕대/메드킷 손재주: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]의료기술: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]약 취급 기술: %c[d_red_1]B+\n\n
+		%c[d_cyan]운동체력\n
+		%c[d_blue] • %c[default]지구력: %c[ui_gray_1] %c[d_red_1]중간\n
+		%c[d_blue] • %c[default]질주 속도: %c[d_red_1]중간\n
+		%c[d_blue] • %c[default]점프 높이: %c[d_red_1]중간\n
+		%c[d_blue] • %c[default]낙하/점프 민첩성: %c[d_red_1]중간\n
+		%c[d_blue] • %c[default]기본 스태미나: 
+		%c[d_red_1]높음\n
+		%c[d_blue] • %c[default]스태미나 소모율: 
+		%c[d_red_1]중간\n
+		%c[d_blue] • %c[default]최대 소지 무게: %c[ui_gray_1] %c[d_red_1]중간\n\n
+		%c[d_cyan]건강 프로필\n
+		%c[d_blue] • %c[default]허기 욕구: %c[d_red_1]중간\n
+		%c[d_blue] • %c[default]수면 욕구: %c[d_red_1]낮음\n\n
+		%c[d_cyan]면역 시스템 저항력\n
+		%c[d_blue] • %c[default]약/알코올: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]불량식품: %c[d_red_1]A+\n
+		%c[d_blue] • %c[default]아티팩트: %c[d_red_1]B\n
+		%c[d_blue] • %c[default]방사능: %c[ui_gray_1] %c[d_red_1]B\n
 		</text>
 	</string>
 	
@@ -170,23 +170,23 @@
 		<text>none</text>
 	</string>
 	<string id="st_energy_descr">
-		<text>Stored energy is given in ampere-hours (Ah).</text>
+		<text>저장된 에너지는 암페어 시간(Ah) 단위로 제공됩니다.</text>
 	</string>
 
 	<string id="green_bug_name">
-		<text>Green beetle</text>
+		<text>녹색 딱정벌레</text>
 	</string>
 	<string id="green_bug_description">
-		<text>The green beetle is an inseparable companion of every stalker. Not a single person in the Zone has never met it on their way. If spotted only once or twice throughout your lifetime, it should be considered lucky. Your mood falls in direct proportion to each subsequent meeting with the green beetle... \n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] greatly increases chance of crashing game\n
-		%c[d_blue] � %c[ui_gray_2] cannot be discarded\n
-		%c[d_blue] � %c[ui_gray_2] cannot be sold\n
+		<text>녹색 딱정벌레는 모든 스토커와 떼어놓을 수 없는 동반자입니다. 존을 돌아다니면서 이걸 만난 적이 없는 사람은 단 한 명도 없습니다. 만약 일생 동안 한 두 번만 발견했다면, 그것은 행운으로 여겨져야 합니다. 당신은 녹색 딱정벌레와의 만남 이후에 기분이 좋아질 겁니다... (응애) \n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 게임 충돌 확률이 매우 높아짐\n
+		%c[d_blue] • %c[ui_gray_2] 버릴 수 없음\n
+		%c[d_blue] • %c[ui_gray_2] 판매 불가\n
 		</text>
 	</string>
 	
 	<string id="sleep_itm_warning_blowout">
-		<text>It's not safe to sleep!</text>
+		<text>잠을 자기에는 위험한 장소입니다!</text>
 	</string>
 	
 </string_table>
