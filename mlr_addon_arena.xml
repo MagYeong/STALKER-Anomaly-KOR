@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="totaliz_pre_0">
-		<text>What now?</text>
+		<text>응애?</text>
 	</string>
 	<string id="totaliz_pre_1">
-		<text>I see you�ve earned quite a reputation in the arena, which now means you can make bets and watch fights! On par with all the big loan sharks, consider this as my present to you for being a great fighter. The bets won�t be much for you, starting from one grand and going to five, and your prize will depend on the number of participants, winners and losers. To put it briefly, you can earn from forty per cent of your bet up to three times as much as you�ve given.</text>
+		<text>응애, 응애! 응애, 응애. 응애, 응애, 응응앵, 으앵. 앙앵, 흐앵.</text>
 	</string>
 
 	<string id="totaliz_begin_0">
-		<text>I want to watch a battle.</text>
+		<text>응애.</text>
 	</string>
 	<string id="totaliz_begin_1">
-		<text>Choose what you want to see.</text>
+		<text>응애.</text>
 	</string>
 	<string id="totaliz_begin_2">
-		<text>Stalker versus stalker.</text>
+		<text>응애.</text>
 	</string>
 	<string id="totaliz_begin_6">
-		<text>See what I have.</text>
+		<text>응애.</text>
 	</string>
 
 		<string id="totaliz_begin_9">
-			<text>Two stalkers.</text>
+			<text>두 응애!</text>
 		</string>
 		<string id="totaliz_begin_21">
-			<text>Who are you betting on?</text>
+			<text>응애?</text>
 		</string>
 		<string id="totaliz_begin_32">
-			<text>Stalker on the left.</text>
+			<text>빠응애.</text>
 		</string>
 		<string id="totaliz_begin_33">
-			<text>Stalker on the right.</text>
+			<text>우응애.</text>
 		</string>
 
 	<string id="totaliz_begin_10">
@@ -199,14 +199,14 @@
 			<text>Five thousand.</text>
 		</string>
 		<string id="totaliz_begin_58">
-			<text>I don�t have that much money.</text>
+			<text>I don’t have that much money.</text>
 		</string>
 
 	<string id="totaliz_begin_20">
 		<text>Not interested.</text>
 	</string>
 	<string id="totaliz_begin_5">
-		<text>I�ve changed my mind.</text>
+		<text>I’ve changed my mind.</text>
 	</string>
 
 	<string id="total_reward_dialog_1000_0">
@@ -279,52 +279,52 @@
 		<text>Keep your prize.</text>
 	</string>
 	<string id="total_reward_dialog_1000_23">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_1000_24">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_1000_25">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_1000_26">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_1000_27">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_1000_28">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_1000_29">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_1000_30">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_1000_31">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_1000_32">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_1000_33">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_1000_34">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_1000_35">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_1000_36">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_1000_37">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_1000_38">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 
 	<string id="total_reward_dialog_2500_0">
@@ -397,52 +397,52 @@
 		<text>Keep your prize.</text>
 	</string>
 	<string id="total_reward_dialog_2500_23">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_2500_24">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_2500_25">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_2500_26">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_2500_27">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_2500_28">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_2500_29">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_2500_30">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_2500_31">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_2500_32">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_2500_33">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_2500_34">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_2500_35">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_2500_36">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_2500_37">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 	<string id="total_reward_dialog_2500_38">
-		<text>Nothing. You�ve lost.</text>
+		<text>Nothing. You’ve lost.</text>
 	</string>
 
 	<string id="total_reward_dialog_5000_0">
