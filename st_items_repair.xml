@@ -7,216 +7,216 @@
 <string_table>
 
 	<string id="st_sharpening_stones">
-		<text>Three-piece sharpening stone set</text>
+		<text>삼단 숫돌 세트</text>
 	</string>
 	<string id="st_sharpening_stones_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] suited for knives and blades\n \n
-		%c[ui_gray_1]Blunt knives and tools? It doesn't have to be that way. Super-practical 3 piece grindstone set for everyone, packed in a nice polyester bag. No more loose grindstone, sliding about in drawers, scratching everything - no, everything is now in its place. For perfect sharpening, three important grains for pre-grinding, sharpening and for the subsequent stripping of the blade are integrated in the set, so you can achieve a razor-sharp cutting edge.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] toolkit\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] 칼 또는 칼날에 사용함\n \n
+		%c[ui_gray_1]칼날이나 도구가 무뎌졌다고요? 이제 걱정하지 마세요. 엄청 실용적인 삼단 숫돌 세트가, 멋진 폴리에스테르 가방에 싸여 고객님들을 기다리고 있습니다. 숫돌이 선반에서 미끄러져서, 물건들을 긁어버릴 걱정은 이제 필요 없습니다. 모든 것들이 온전하게 보전될 겁니다. 완벽한 칼갈이를 위해서, 예비 숫돌질, 칼갈이 그리고 칼날의 후처리를 담당하는 세 개의 숫돌이 한 세트에 포함되어 있어, 매우 날카로운 칼날을 만드실 수 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 도구 키트\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
 	<string id="st_gun_oil">
-		<text>"Brunox Gun Care" spray lubricant</text>
+		<text>"브루녹스 건 케어" 스프레이식 윤활제</text>
 	</string>
 	<string id="st_gun_oil_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] suited for all weapons\n \n
-		%c[ui_gray_1]Spray can containing oil intended for lubricating and protecting firearms. Frequent application will prevent guns from malfunctioning and corroding, especially after prolonged use in combat situations. Prior to lubrication process, it is advisable to properly clean the firearm to remove any foreign material that has accumulated on or inside it. One can also make use of basic tools in order to access the inner parts of a gun so as to maximize the effectiveness of maintenance. A special tuboline increases gliding quality of all movable parts making the oil even better suited for repeaters and automatic weapons. This allows guns to function even at temperatures of up to -55 �C. It has a flash point of 78 �C.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] fast usage (spray lubricant)\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] 모든 무기에 적합함\n \n
+		%c[ui_gray_1]화기의 윤활제와 보호제로 사용되는 기름이 들어있는 스프레이 캔입니다. 특히 전투 상황에서 오랫동안 사용한 총기에 대해, 자주 사용하면 총기의 오작동과 부식이 일어나는 것을 막아줍니다. 윤활제를 도포하기 전에, 총기를 세심하게 청소하여 내부에 있는 불순물들을 모두 제거하는 것이 추천됩니다. 또한 기본 수리도구와 함께 사용하여 총기의 내부 부품들에 대한 유지보수의 효율성을 극대화할 수 있습니다. 특수한 터볼린 용제는 윤활유가 리피터나 자동사격 무기들에 더욱 적합해지게 만들어 모든 동적 부품들의 활동 품질을 개선해줍니다. 이는 총기가 -55 °C 이상의 온도에서 잘 작동하게 만들어줍니다. 78 °C의 발화점을 가집니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 빠른 사용 (스프레이식 윤활제)\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
 	<string id="st_gun_oil_ru_d">
-		<text>"Dvojka" gun oil and cleaning solvent</text>
+		<text>"드보즈카" 총기 윤활유와 세척 용제</text>
 	</string>
 	<string id="st_gun_oil_ru_d_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] suited for all weapons\n \n
-		%c[ui_gray_1]Iconic Red Army oil that has been in service for almost 70 years. The metal bottle is divided into two separate compartments, one for oil and the other one for the cleaning solvent. In the beginning, the solvent was based on an alkaline solution for effective clean-up of preservation salts in which ammunition was commonly shipped and stored. Since then, the composition of liquids has been modernized many times, but the simple yet ingenious 'double' bottle design remained unchanged. "Dvojka" is very popular in the Exclusion Zone due to its versatility. Bear in mind, however, that the oil requires adequate tools to be spread properly and so that it can reach deep into weapon's inner mechanisms. "Dvojka" should thus be regarded as more of an add-on than a stand-alone maintenance item.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] liquid gun oil and cleaning solvent\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] 모든 무기에 적합함\n \n
+		%c[ui_gray_1]거의 70년 동안 제식으로 사용되어 온 상징적인 붉은 군대의 윤활유입니다. 금속 용기는 두 개의 분리된 부분으로 나누어지는데, 하나는 윤활유가 들어있고 나머지 하나에는 세척 용제가 들어있습니다. 맨 처음에는, 청소 용제는 탄환이 원활하게 운반되고 저장될 수 있게 만드는 보조용 염기성 물질로 효과적인 세척을 할 수 있는 알칼리 용액으로 구성되어 있었습니다. 그 이후, 액체의 구성물은 수많은 최신화를 거쳤지만, 단순하지만 독창적인 "이중" 용기 디자인은 바뀌지 않고 유지되고 있습니다. "드보즈카"는 다재다능함으로 통제구역에서 매우 인기가 높습니다. 그러나 명심할 것은, 윤활유가 무기의 안쪽 기계장치까지 적절히 도포되기 위해서는 적절한 도구가 필요하다는 점입니다. 그래서 드보즈카는 주로 단독 유지보수 물품보다는 보조 물품으로 여겨지고 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 액체 총기 윤활유와 청소 용제\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
 	<string id="st_gun_oil_ru">
-		<text>"Rusak" gun oil</text>
+		<text>"루사크" 건 오일</text>
 	</string>
 	<string id="st_gun_oil_ru_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] suited for all weapons\n \n
-		%c[ui_gray_1]Plastic bottle containing a budget Russian mineral gun oil. Despite its low price, it can prove useful in keeping a firearm in a good condition if applied frequently. It should be used alongside brushes for increased effect. According to the manufacturer, "Rusak" is especially effective for automatic and repeatable weapons due to low friction coefficient. It also contains various anti-corrosion and metal-preserving additives.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] liquid gun oil\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] 모든 무기에 적합함\n \n
+		%c[ui_gray_1]저가의 러시아제 광물성 건 오일을 담은 플라스틱 병입니다. 저렴한 가격에도 불구하고, 적절히 사용된다면 총기를 좋은 상태로 유지하는 데 유용하다는 것이 증명되었습니다. 효과를 증대하기 위해서는 함께 있는 붓으로 발라야 합니다. 생산자에 의하면, "루사크"는 낮은 마찰 계수로 인해 자동 소총이나 연사가 가능한 무기에 특히 효과적입니다. 또한 이 물건은 다양한 항부식제와 금속 보호용 첨가제가 포함되어 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 액체 총기 윤활유\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
 	<string id="st_solvent">
-		<text>Hoppe's "No. 9" cleaning solvent</text>
+		<text>호프의 "No. 9" 세척 용제</text>
 	</string>
 	<string id="st_solvent_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] suited for all weapons\n \n
-		%c[ui_gray_1]Western-made, high-quality firearm cleaning solvent, especially adapted for use in harsh environmental conditions, the Hoppe's No. 9 Bore Cleaning remains perhaps the most commonly used solution. Like all cleaning solvents, it is designed for preventing rust and removing powder, lead and metal fouling, but its unique property is that it makes heavy particles less likely to stick to mechanical parts of a firearm. This proves especially useful in the irradiated Zone. Substance acts quickly, is super-efficient, safe and easy to use. Although it flows freely and penetrates rapidly, it is still advisable to use tools or fabrics to increase spread.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] liquid gun cleaning solvent\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] 모든 무기에 적합함\n \n
+		%c[ui_gray_1]서구권에서 만든, 특히 험한 환경 조건에서의 사용에 적합한 고품질의 화기 세척 용제인 호프의 No. 9 총기 세척제는 아마도 가장 보편적으로 사용되는 세척제일 것입니다. 다른 세척 용제들과 마찬가지로, 이 용제는 녹을 방지하고 화약 찌꺼기들과 납과 금속 찌꺼기들을 제거해 주지만, 이 물건만의 고유한 기능은 무거운 입자들이 화기의 기계 부품들에 덜 달라붙게 만들어 준다는 것입니다. 이는 방사능에 찌든 존에서 특히 유용하다는 것이 증명되었습니다. 효과가 빨리 나타나며, 매우 효율적이고, 안전하며 사용이 편리합니다. 비록 용액이 잘 흘러내리고 침투도 빠르지만, 도포가 잘 되기 위해서는 도구나 천을 이용하는 것이 여전히 추천됩니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] liquid gun cleaning solvent\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
 	<string id="st_cleaning_kit_p">
-		<text>"Progress" handgun cleaning kit</text>
+		<text>"프로그레스" 권총 청소 키트</text>
 	</string>
 	<string id="st_cleaning_kit_p_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] 9mm, .45 and .357 caliber weapons\n \n
-		%c[ui_gray_1]A set of specialized brushes which can be used to clean the barrel and other parts of a firearm from dirt, sand, moisture, lubricant residues and other foreign materials that have accumulated during use. Such sets are quite commonly used in the Zone in order to keep firearms in a good shape at all times. It is possible to utilize common tools to have a better access to inner mechanisms of a gun or alcohol to more easily dissolve oil residue. Can also be used to better spread gun oil, however a more cost-efficient method used by most experienced stalkers entails the application of animal fat on the brushes as an alternative lubricant. This particular set fits typical handgun calibers.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] 9mm, .45 그리고 .357 구경 무기들\n \n
+		%c[ui_gray_1]총열 및 총기의 다른 부품들에 있는 먼지, 모래, 습기, 윤활 방해 요소들 그리고 사용 중에 쌓이는 다른 외부 물질들을 청소하는 데 사용되는 특수한 브러시 세트입니다. 이런 도구들은 존에서 총기를 항상 좋은 상태로 유지하기 위해 일반적으로 사용됩니다. 이러한 도구들은 총기의 내부 기계부품들에 쉽게 도달하여 알콜이나 윤활유 용제들을 더욱 쉽게 도포하기 위해 사용할 수 있습니다. 좋은 총기 윤활유를 도포하는 데 사용할 수도 있지만, 경험이 많이 쌓인 스토커들이 사용하는, 동물의 지방질을 브러시에 발라 윤활제의 대체품으로 사용하는 좀 더 저렴한 방법도 있습니다. 이런 종류의 도구들은 전형적인 권총탄을 사용하는 구경의 총기들에 적합합니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
 	<string id="st_cleaning_kit_s">
-		<text>"Aurora A108/12" 12ga cleaning kit</text>
+		<text>"오로라 A108/12" 12게이지 청소 키트</text>
 	</string>
 	<string id="st_cleaning_kit_s_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] 12ga weapons\n \n
-		%c[ui_gray_1]A set of specialized brushes which can be used to clean the barrel and other parts of a firearm from dirt, sand, moisture, lubricant residues and other foreign materials that have accumulated during use. It is possible to utilize common tools to have a better access to inner mechanisms of a gun or alcohol to more easily dissolve oil residue. This particular set fits 12ga shotguns. "Aurora" kit comes with three specialized brush types, one for respectively after-fire cleaning, lubricant spreading and rust removal. Keeps your favorite shotgun in a good shape at all times.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] 12게이지 무기들\n \n
+		%c[ui_gray_1]총열을 청소하고 총기의 다른 부품들을 먼지, 모래, 습기, 윤활 방해 요소들 그리고 사용 중에 쌓이는 다른 외부 물질들을 청소하는 데 사용되는 특수한 브러시 세트입니다. 이러한 도구들은 총기의 내부 기계부품들에 쉽게 도달하여 알콜이나 윤활유 용제들을 더욱 쉽게 도포하기 위해 사용할 수 있습니다. 이런 종류의 도구들은 12게이지 산탄총에 사용됩니다. "오로라" 키트는 각각 발사 이후 청소, 윤활제 도포와 녹 제거를 담당하는 세 종류의 특화된 브러시로 구성됩니다. 항상 산탄총을 좋은 상태로 유지해 줍니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
 	<string id="st_cleaning_kit_r5">
-		<text>"ValuPro III" smallbore rifle cleaning kit</text>
+		<text>"밸류프로 III" 소구경 소총 청소 키트</text>
 	</string>
 	<string id="st_cleaning_kit_r5_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] 5.45 and 5.56 caliber weapons\n \n
-		%c[ui_gray_1]A set of specialized brushes which can be used to clean the barrel and other parts of a firearm from dirt, sand, moisture, lubricant residues and other foreign materials that have accumulated during use. Such sets are quite commonly used in the Zone in order to keep firearms in a good shape at all times. It is possible to utilize common tools to have a better access to inner mechanisms of a gun or alcohol to more easily dissolve oil residue. Can also be used to better spread gun oil, however a more cost-efficient method used by most experienced stalkers entails the application of animal fat on the brushes as an alternative lubricant. This particular pack fits medium-caliber rifles with long barrels and comes in a hard plastic reusable container.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] 5.45 그리고 5.56 구경 무기들\n \n
+		%c[ui_gray_1]총열을 청소하고 총기의 다른 부품들을 먼지, 모래, 습기, 윤활 방해 요소들 그리고 사용 중에 쌓이는 다른 외부 물질들을 청소하는 데 사용되는 특수한 브러시 세트입니다. 이런 도구들은 존에서 총기를 항상 좋은 상태로 유지하기 위해 일반적으로 사용됩니다. 이러한 도구들은 총기의 내부 기계부품들에 쉽게 도달하여 알콜이나 윤활유 용제들을 더욱 쉽게 도포하기 위해 사용할 수 있습니다. 좋은 총기 윤활유를 도포하는 데 사용할 수 도 있지만, 경험이 많이 쌓인 스토커들이 동물의 지방질을 프러시에 발라 윤활제의 대체품으로 사용하는 좀 더 저렴한 방법도 있습니다. 이런 종류의 도구 상자는 긴 총열을 가진 중형 구경의 무기들에 적합하고 단단한 플라스틱 재사용 상자에 담겨 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
 	<string id="st_cleaning_kit_r7">
-		<text>Medium and large caliber rifle cleaning kit</text>
+		<text>중대구경 소총 청소 키트</text>
 	</string>
 	<string id="st_cleaning_kit_r7_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] 7.62, 7.92, 9x39 and .338 caliber weapons\n \n
-		%c[ui_gray_1]A set of specialized brushes which can be used to clean the barrel and other parts of a firearm from dirt, sand, moisture, lubricant residues and other foreign materials that have accumulated during use. Such sets are quite commonly used in the Zone in order to keep firearms in a good shape at all times. It is possible to utilize common tools to have a better access to inner mechanisms of a gun or alcohol to more easily dissolve oil residue. Can also be used to better spread gun oil, however a more cost-efficient method used by most experienced stalkers entails the application of animal fat on the brushes as an alternative lubricant. This particular set fits large-caliber rifles and very long barrels. Manufacturer unknown, but its simple design and construction as well as very high quality materials used suggest a military, presumably special forces origin.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] 7.62, 7.92, 9x39 그리고 .338 구경 무기들\n \n
+		%c[ui_gray_1]총열을 청소하고 총기의 다른 부품들을 먼지, 모래, 습기, 윤활 방해 요소들 그리고 사용 중에 쌓이는 다른 외부 물질들을 청소하는 데 사용되는 특수한 브러시 세트입니다. 이런 도구들은 존에서 총기를 항상 좋은 상태로 유지하기 위해 일반적으로 사용됩니다. 이러한 도구들은 총기의 내부 기계부품들에 쉽게 도달하여 알콜이나 윤활유 용제들을 더욱 쉽게 도포하기 위해 사용할 수 있습니다. 좋은 총기 윤활유를 도포하는 데 사용할 수 도 있지만, 경험이 많이 쌓인 스토커들이 동물의 지방질을 프러시에 발라 윤활제의 대체품으로 사용하는 좀 더 저렴한 방법도 있습니다. 이런 종류의 도구 세트는 매우 긴 총열을 가진 대구경 소총에 사용됩니다. 생산자는 불명이지만, 간단한 디자인과 구조 및 높은 품질의 재료들로 미루어 볼 때 군용, 아마도 특수부대에서 사용했을 것이라 짐작됩니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
 	<string id="st_cleaning_kit_u">
-		<text>Universal weapon cleaning kit</text>
+		<text>다용도 무기 청소 키트</text>
 	</string>
 	<string id="st_cleaning_kit_u_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] all weapons\n \n
-		%c[ui_gray_1]Advanced gun cleaning kit fitting all common weapon calibers. Besides cleaning and maintenance, it can also be used as an effective repair tool. The set comprises a small portion of efficient lubricant and cleaning solvent as well as some light tools to facilitate access to inner mechanisms of a firearm. In order to maximize effectiveness, combine with additional materials or specialized repair sets.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] 모든 무기들\n \n
+		%c[ui_gray_1]모든 일반적인 총기 구경에 사용할 수 있는 고급 총기 청소 키트입니다. 청소와 유지보수 뿐만 아니라, 효과적인 수리 도구로도 사용할 수 있습니다. 도구 세트는 약간의 효율적인 윤활제와 청소용제와 함께 총기의 내부 구조까지 손볼 수 있게 해주는 몇 가지 가벼운 도구들을 포함하고 있습니다. 효과를 최대화하기 위해, 추가적인 보조 물품들과 특수한 수리 도구와 함께 사용하는 것이 좋습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
 	<string id="st_repair_kit_p">
-		<text>Handgun repair kit</text>
+		<text>권총 수리 키트</text>
 	</string>
 	<string id="st_repair_kit_p_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] 9mm, .45 and .357 caliber weapons\n \n
-		%c[ui_gray_1]This kit contains oils, solvents, basic cleaning equipment and specialized tools used for disassembly and maintenance of mechanisms of weapons. It also by standard comes with set of elementary firearm spare parts. The kit is quite heavy, but is irreplaceable when venturing deep into the Zone as it can be used in life-or-death situations to make a firearm usable again. Due to differences in weapon construction this particular set can only be used for disassembly and repair of weapons with handgun calibers. It's also possible to additionally increase the effectiveness of the kit by borrowing certain materials from or combining with other kits during a single maintenance session.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] 9mm, .45 그리고 .357 구경 무기들\n \n
+		%c[ui_gray_1]이 키트에는 오일, 세척 용제, 기본적인 청소용구와 무기의 기계 부품들을 분해하고 유지보수하는 데 사용되는 특수한 도구들로 구성되어 있습니다. 또한 기초적인 여분의 총기 부품 세트도 기본적으로 포함되어 있습니다. 키트는 상당히 무겁지만, 생사의 기로에서 총기를 다시 사용하게 해 줄 수 있기 때문에 존의 깊숙한 곳을 탐험할 때 대체할 수 없는 물품으로 여겨집니다. 무기의 설계 구조의 차이점 때문에 이런 종류의 도구 세트는 권총 정도의 총기 구경의 무기를 수리하거나 분해할 때만 사용할 수 있습니다. 또한 한 번의 수리 과정에서 다른 보조 재료를 사용하거나 다른 키트와 함께 사용함으로써 수리 과정의 효율성을 더욱 높일 수 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
 	<string id="st_repair_kit_s">
-		<text>Shotgun repair kit</text>
+		<text>산탄총 수리 키트</text>
 	</string>
 	<string id="st_repair_kit_s_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] 12ga weapons\n \n
-		%c[ui_gray_1]This kit contains oils, solvents, basic cleaning equipment and specialized tools used for disassembly and maintenance of mechanisms of weapons. It also by standard comes with set of elementary firearm spare parts. The kit is quite heavy, but is irreplaceable when venturing deep into the Zone as it can be used in life-or-death situations to make a firearm usable again. Due to differences in weapon construction this particular set can only be used for disassembly and repair of weapons with 12ga shotgun caliber. It's also possible to additionally increase the effectiveness of the kit by borrowing certain materials from or combining with other kits during single maintenance session.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] 12게이지 무기들\n \n
+		%c[ui_gray_1]이 키트에는 오일, 세척 용제, 기본적인 청소용구와 무기의 기계 부품들을 분해하고 유지보수하는 데 사용되는 특수한 도구들로 구성되어 있습니다. 또한 기초적인 여분의 총기 부품 세트도 기본적으로 포함되어 있습니다. 키트는 상당히 무겁지만, 존의 깊숙한 곳을 탐험할 때 생사의 기로에서 총기를 다시 사용하게 해 줄 수 있기 때문에 대체할 수 없는 물품으로 여겨집니다. 무기의 설계 구조의 차이점 때문에 이런 종류의 도구 세트는 12게이지 구경의 무기를 수리하거나 분해할 때만 사용할 수 있습니다. 또한 한 번의 수리 과정에서 다른 보조 재료를 사용하거나 다른 키트와 함께 사용함으로써 수리 과정의 효율성을 더욱 높일 수 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
 	<string id="st_repair_kit_r5">
-		<text>Smallbore rifle repair kit</text>
+		<text>소구경 소총 수리 키트</text>
 	</string>
 	<string id="st_repair_kit_r5_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] 5.45 and 5.56 caliber weapons\n \n
-		%c[ui_gray_1]This kit contains oils, solvents, basic cleaning equipment and specialized tools used for disassembly and maintenance of mechanisms of weapons. It also by standard comes with set of elementary firearm spare parts. The kit is quite heavy, but is irreplaceable when venturing deep into the Zone as it can be used in life-or-death situations to make a firearm usable again. Due to differences in weapon construction this particular set can only be used for disassembly and repair of medium-caliber rifles. It's also possible to additionally increase the effectiveness of the kit by borrowing certain materials from or combining with other kits during single maintenance session.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] 5.45 그리고 5.56 구경 무기들\n \n
+		%c[ui_gray_1]이 키트에는 오일, 세척 용제, 기본적인 청소용구와 무기의 기계 부품들을 분해하고 유지보수하는 데 사용되는 특수한 도구들로 구성되어 있습니다. 또한 기초적인 여분의 총기 부품 세트도 기본적으로 포함되어 있습니다. 키트는 상당히 무겁지만, 존의 깊숙한 곳을 탐험할 때 생사의 기로에서 총기를 다시 사용하게 해 줄 수 있기 때문에 대체할 수 없는 물품으로 여겨집니다. 무기의 설계 구조의 차이점 때문에 이런 종류의 도구 세트는 중간 정도 구경의 소총을 수리하거나 분해할 때만 사용할 수 있습니다. 또한 한 번의 수리 과정에서 다른 보조 재료를 사용하거나 다른 키트와 함께 사용함으로써 수리 과정의 효율성을 더욱 높일 수 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
 	<string id="st_repair_kit_r7">
-		<text>Medium and large caliber rifle fixing kit</text>
+		<text>중대구경 소총 수리 키트</text>
 	</string>
 	<string id="st_repair_kit_r7_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] 7.62, 7.92, 9x39 and .338 caliber weapons\n \n
-		%c[ui_gray_1]This kit contains oils, solvents, basic cleaning equipment and specialized tools used for disassembly and maintenance of mechanisms of weapons. It also by standard comes with set of elementary firearm spare parts. The kit is quite heavy, but is irreplaceable when venturing deep into the Zone as it can be used in life-or-death situations to make a firearm usable again. Due to differences in weapon construction this particular set can only be used for disassembly and repair of large-caliber rifles. It's also possible to additionally increase the effectiveness of the kit by borrowing certain materials from or combining with other kits during single maintenance session.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] 7.62, 7.92, 9x39 그리고 .338 구경 무기들\n \n
+		%c[ui_gray_1]이 키트에는 오일, 세척 용제, 기본적인 청소용구와 무기의 기계 부품들을 분해하고 유지보수하는 데 사용되는 특수한 도구들로 구성되어 있습니다. 또한 기초적인 여분의 총기 부품 세트도 기본적으로 포함되어 있습니다. 키트는 상당히 무겁지만, 존의 깊숙한 곳을 탐험할 때 생사의 기로에서 총기를 다시 사용하게 해 줄 수 있기 때문에 대체할 수 없는 물품으로 여겨집니다. 무기의 설계 구조의 차이점 때문에 이런 종류의 도구 세트는 대구경 소총을 수리하거나 분해할 때만 사용할 수 있습니다. 또한 한 번의 수리 과정에서 다른 보조 재료를 사용하거나 다른 키트와 함께 사용함으로써 수리 과정의 효율성을 더욱 높일 수 있습니다.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
@@ -225,8 +225,8 @@
 	</string>
 	<string id="st_repair_kit_p_empty_descr">
 		<text>Empty metal box which previously contained tools and spare parts usable for maintaining 9mm, .45 and .357 caliber firearms. Even in its current state it can prove useful in repairing metal parts of outfits. A low-value trading commodity.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		</text>
 	</string>
 	
@@ -235,8 +235,8 @@
 	</string>
 	<string id="st_repair_kit_s_empty_descr">
 		<text>Empty metal box which previously contained tools and spare parts usable for maintaining 12ga caliber firearms. Even in its current state it can prove useful in repairing metal parts of outfits. A low-value trading commodity.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		</text>
 	</string>
 	
@@ -245,8 +245,8 @@
 	</string>
 	<string id="st_repair_kit_r5_empty_descr">
 		<text>Empty metal box which previously contained tools and spare parts usable for maintaining 5.45 and 5.56 caliber firearms. Even in its current state it can prove useful in repairing metal parts of outfits. A low-value trading commodity.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		</text>
 	</string>
 	
@@ -255,8 +255,8 @@
 	</string>
 	<string id="st_repair_kit_r7_empty_descr">
 		<text>Empty metal box which previously contained tools and spare parts usable for maintaining large caliber firearms. Even in its current state it can prove useful in repairing metal parts of outfits. A low-value trading commodity.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		</text>
 	</string>
 	
@@ -265,12 +265,12 @@
 	</string>
 	<string id="st_sewing_kit_b_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] all outfits and light headgear sets\n \n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] all outfits and light headgear sets\n \n
 		%c[ui_gray_1]A light sewing kit consisting of a cloth reel, several steel needles and a pair of scissors. It can be used to sew up bullet holes or ruptures in soft fabrics of outfits. Its practical applications are limited due to the short length of the thread and subpar durability of needles, so the kit will be useless in case of more serious damage. For the same reason, it's compatible with only a handful of materials. Nonetheless, it is strongly advised to always use whatever is available to make the kit more effective.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
@@ -279,12 +279,12 @@
 	</string>
 	<string id="st_sewing_kit_a_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] all outfits and light headgear sets\n \n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] all outfits and light headgear sets\n \n
 		%c[ui_gray_1]This advanced set contains more and better sewing accessories than its basic counterpart. Double reels of nylon thread and a large selection of higher-quality needles make it suitable for working on thicker and harder materials, including lighter mutant skins and artificial fibers. It is also capable of repairing more damaged outfits.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
@@ -293,14 +293,14 @@
 	</string>
 	<string id="st_sewing_kit_h_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] all outfits and light headgear sets\n \n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] all outfits and light headgear sets\n \n
 		%c[ui_gray_1]This military-grade, heavy sewing kit is designed to handle fractures in protective plates of modern combat armors. It contains enough metallic thread to put together outfits that have literally been torn apart. Capable of sewing on even hardest of mutant hides to your armor of choice. Another advantage of the kit are the basic mechanical tools that can be used to disassemble outfits and headgear in order to salvage repair materials. It's the highest quality sewing kit available in the Zone.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
@@ -309,12 +309,12 @@
 	</string>
 	<string id="st_glue_b_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] all outfits and light headgear sets\n \n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] all outfits and light headgear sets\n \n
 		%c[ui_gray_1]Cheapest of the synthetic adhesives available in the Zone, this epoxy-based solution may be used to put together slightly torn pieces of fabric or to patch up a small hole in your helmet, but it will be useless in case of any serious damage. On the other hand, "Zviezda" has a great value for price, and if used on a regular basis it's able to keep your outfit in a good shape at all times. It is advised to use any type of commonly found materials to greatly increase effectiveness of repair. The glue, however, won't support mutant skins. Can also be used to facilitate sewing.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
@@ -323,12 +323,12 @@
 	</string>
 	<string id="st_glue_a_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] all outfits and headgear sets\n \n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] all outfits and headgear sets\n \n
 		%c[ui_gray_1]Advanced glue produced by the Ukrainian chemical industry, modified epoxy-based adhesive "Tur" is able to quickly bind most solid materials. Versatility and ease of use are the two reasons why "Tur" is kept in such a high regard among stalkers, especially since spare materials are scarce. The glue binds both textile fabrics and lighter protective materials like kevlar, but is useless when it comes to metals.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
@@ -337,14 +337,14 @@
 	</string>
 	<string id="st_glue_e_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] all outfits and headgear sets\n \n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] all outfits and headgear sets\n \n
 		%c[ui_gray_1]M17 is a result of a Soviet military-industrial research project intended to devise an extremely potent, single-ingredient adhesive which could be used in any situation regardless of purpose and materials involved. It was decided to use a highly potent methacrylate which is most often optimized for reacting with either plastic or metal. In case of M17, however, this limitation has been bypassed, making the substance equally effective in both areas. In addition, the adhesive received a significant boost to versatility thanks to its hydrate form: it can be diluted with water and used in any concentration depending on the intended result. There is almost no damage that the glue, combined with appropriate materials, won't be able to repair. Can be used with all materials available in the Zone.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
@@ -353,13 +353,13 @@
 	</string>
 	<string id="st_armor_repair_fa_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] all outfits and light headgear sets\n \n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] all outfits and light headgear sets\n \n
 		%c[ui_gray_1]A repair set allowing the user to perform emergency repairs of outfits. Includes military grade ducktape and ready-to-use sheets of thick textile in a variety of shapes and sizes which make it possible to quickly patch up any outfit damage. This is especially useful to prevent further structural damage of already damaged suits. Due to a relatively low durability of provided materials, the kit can be used only for minor repairs and is ineffective in case of harder materials like kevlar or metal. For this reason, the kit has a very limited use in headgear maintenance.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] fast usage (adhesive tape)\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] fast usage (adhesive tape)\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
@@ -368,14 +368,14 @@
 	</string>
 	<string id="st_helmet_repair_kit_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] medium and heavy headgear sets\n \n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] medium and heavy headgear sets\n \n
 		%c[ui_gray_1]This kit contains everything that is needed to perform effective repair of modern combat helmets. It features heavy tools that will allow you to work on hard materials such as kevlar, steel or titanium, as well as a very strong, methacrylate-based adhesive. As the kit does not contain any sewing equipment, it cannot be effectively utilized for reparation of flexible materials of armors, but it can be used to disassemble headgear sets to greatly improve the effectiveness of repair.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
@@ -384,14 +384,14 @@
 	</string>
 	<string id="st_repair_kit_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] all outfits and headgear sets\n \n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] all outfits and headgear sets\n \n
 		%c[ui_gray_1]This complex and heavy set includes everything necessary - from ultra-durable threads and needles to polymer-based patches - to conduct a complete repair of any armor or headgear. Can be used regardless of materials involved, be it heavy cloth, military-grade kevlar sheets, or heavy mutant pelts. Additional tools and kits increase effectiveness of repairs.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
@@ -400,14 +400,14 @@
 	</string>
 	<string id="st_light_repair_kit_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] very light and light armors\n \n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] very light and light armors\n \n
 		%c[ui_gray_1]This complex and heavy set includes everything necessary - from ultra-durable threads and needles to polymer-based patches - to conduct a complete repair of any light armor. Can be used regardless of materials involved, be it heavy cloth or military-grade kevlar sheets. Additional tools and kits increase effectiveness of repairs.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_orange] � %c[ui_gray_2] used for repairing light armor\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_orange] • %c[ui_gray_2] used for repairing light armor\n
 		</text>
 	</string>
 	
@@ -416,14 +416,14 @@
 	</string>
 	<string id="st_medium_repair_kit_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] medium armors\n \n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] medium armors\n \n
 		%c[ui_gray_1]This complex and heavy set includes everything necessary - from ultra-durable threads and needles to polymer-based patches - to conduct a complete repair of any medium armor. Can be used regardless of materials involved, be it heavy cloth or military-grade kevlar sheets. Additional tools and kits increase effectiveness of repairs.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_orange] � %c[ui_gray_2] used for repairing medium armor\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_orange] • %c[ui_gray_2] used for repairing medium armor\n
 		</text>
 	</string>
 	
@@ -432,13 +432,13 @@
 	</string>
 	<string id="st_exolight_repair_kit_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] heavy armours\n \n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] heavy armours\n \n
 		%c[ui_gray_1]This complex and heavy set includes everything necessary - from ultra-durable threads and needles to polymer-based patches - to conduct a complete repair of any heavy armor. Can be used regardless of materials involved, be it heavy cloth or military-grade kevlar sheets. Additional tools and kits increase effectiveness of repairs.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
 		</text>
 	</string>
 	
@@ -447,14 +447,14 @@
 	</string>
 	<string id="st_exo_repair_kit_descr">
 		<text>\n \n
-		%c[ui_gray_2]COMPATIBILITY:\n \n
-		%c[d_orange] � %c[ui_gray_2] any exoskeleton\n \n
+		%c[ui_gray_2]호환성:\n \n
+		%c[d_orange] • %c[ui_gray_2] any exoskeleton\n \n
 		%c[ui_gray_1]This complex and heavy set includes everything necessary - from ultra-durable threads and needles to polymer-based patches - to conduct a complete repair of any hi-tech armor. Can be used regardless of materials involved, be it heavy cloth or military-grade kevlar sheets. Additional tools and kits increase effectiveness of repairs.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_blue] � %c[ui_gray_2] valuable\n
-		%c[d_orange] � %c[ui_gray_2] usable for repairing equipment\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
+		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
 	
@@ -464,12 +464,12 @@
 	</string>
 	<string id="st_leatherman_tool_descr">
 		<text>A worn but functional multitool, used to disassemble weapons and armour on parts and to maintain worn and rusty trigger mechanisms.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_purple] � %c[ui_gray_2] disassembling tool\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] toolkit\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_orange] � %c[ui_gray_2] usable for weapon parts maintenance\n
+		%c[ui_gray_3]특성:\n
+		%c[d_purple] • %c[ui_gray_2] disassembling tool\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 도구 키트\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_orange] • %c[ui_gray_2] usable for weapon parts maintenance\n
 		</text>
 	</string>
 	
@@ -478,11 +478,11 @@
 	</string>
 	<string id="st_rasp_tool_descr">
 		<text>A file, used to restore weapon parts such as a worn or rusty barrel or breech head.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] toolkit\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_orange] � %c[ui_gray_2] usable for weapon parts maintenance\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 도구 키트\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_orange] • %c[ui_gray_2] usable for weapon parts maintenance\n
 		</text>
 	</string>
 	
@@ -491,11 +491,11 @@
 	</string>
 	<string id="st_ramrod_tool_descr">
 		<text>An old ramrod consisting of three composite wooden parts, used to restore parts such as worn or rusty barrels and gas tubes.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] toolkit\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_orange] � %c[ui_gray_2] usable for weapon parts maintenance\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 도구 키트\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_orange] • %c[ui_gray_2] usable for weapon parts maintenance\n
 		</text>
 	</string>
 
@@ -504,22 +504,22 @@
 	</string>
 	<string id="st_sewing_thread_descr">
 		<text>This sewing thread is made out of many different materials including cotton, linen, nylon, and silk. Every stalker knows it's not easy to avoid cloth tearig every while and then due to the harsh environment inside the Zone. Saving a couple of sewing threads for long trips is a wise idea.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] everyday item\n
-		%c[d_orange] � %c[ui_gray_2] usable for outfit parts maintenance\n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] everyday item\n
+		%c[d_orange] • %c[ui_gray_2] usable for outfit parts maintenance\n
 		</text>
 	</string>
 	
 	<string id="st_heavy_sewing_thread">
-		<text>Field armour toolkit</text>
+		<text>Field armour 도구 키트</text>
 	</string>
 	<string id="st_heavy_sewing_thread_descr">
-		<text>An advanced toolkit for sewing and sealing retardants. Including kevlar thread, one of the strongest and most heat resistant commercially available threads. It is about 2.5 times stronger than nylon and polyester, has very little stretch, does not melt, and decomposes at 800F. This makes it a great choice for high stress applications including sewing seams on heavy duty clothing.\n \n
-		%c[ui_gray_3]PROPERTIES:\n
-		%c[d_blue] � %c[ui_gray_2] technological item\n
-		%c[d_blue] � %c[ui_gray_2] toolkit\n
-		%c[d_blue] � %c[ui_gray_2] high quality\n
-		%c[d_orange] � %c[ui_gray_2] usable for outfit parts maintenance\n
+		<text>An advanced 도구 키트 for sewing and sealing retardants. Including kevlar thread, one of the strongest and most heat resistant commercially available threads. It is about 2.5 times stronger than nylon and polyester, has very little stretch, does not melt, and decomposes at 800F. This makes it a great choice for high stress applications including sewing seams on heavy duty clothing.\n \n
+		%c[ui_gray_3]특성:\n
+		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 도구 키트\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
+		%c[d_orange] • %c[ui_gray_2] usable for outfit parts maintenance\n
 		</text>
 	</string>
 </string_table>
