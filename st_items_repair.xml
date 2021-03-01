@@ -221,53 +221,53 @@
 	</string>
 	
 	<string id="st_repair_kit_p_empty">
-		<text>Handgun repair kit (empty box)</text>
+		<text>권총 수리 키트 (빈 상자)</text>
 	</string>
 	<string id="st_repair_kit_p_empty_descr">
-		<text>Empty metal box which previously contained tools and spare parts usable for maintaining 9mm, .45 and .357 caliber firearms. Even in its current state it can prove useful in repairing metal parts of outfits. A low-value trading commodity.\n \n
+		<text>9mm, .45 그리고 .357 구경의 총기를 유지보수하는 데 사용되는 도구들과 예비 부품들이 들어있었던 빈 금속 상자입니다. 현재 상태 그대로도 방어구의 금속 부품들을 수리하는 데 유용하게 쓸 수 있습니다. 상품으로서의 가치는 낮습니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		</text>
 	</string>
 	
 	<string id="st_repair_kit_s_empty">
-		<text>Shotgun repair kit (empty box)</text>
+		<text>산탄총 수리 키트 (빈 상자)</text>
 	</string>
 	<string id="st_repair_kit_s_empty_descr">
-		<text>Empty metal box which previously contained tools and spare parts usable for maintaining 12ga caliber firearms. Even in its current state it can prove useful in repairing metal parts of outfits. A low-value trading commodity.\n \n
+		<text>12게이지 구경의 총기를 유지보수하는 데 사용되는 도구들과 예비 부품들이 들어있었던 빈 금속 상자입니다. 현재 상태 그대로도 방어구의 금속 부품들을 수리하는 데 유용하게 쓸 수 있습니다. 상품으로서의 가치는 낮습니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		</text>
 	</string>
 	
 	<string id="st_repair_kit_r5_empty">
-		<text>Smallbore rifle repair kit (empty box)</text>
+		<text>소구경 소총 수리 키트 (빈 상자)</text>
 	</string>
 	<string id="st_repair_kit_r5_empty_descr">
-		<text>Empty metal box which previously contained tools and spare parts usable for maintaining 5.45 and 5.56 caliber firearms. Even in its current state it can prove useful in repairing metal parts of outfits. A low-value trading commodity.\n \n
+		<text>5.45 그리고 5.56 mm 구경의 총기를 유지보수하는 데 사용되는 도구들과 예비 부품들이 들어있었던 빈 금속 상자입니다. 현재 상태 그대로도 방어구의 금속 부품들을 수리하는 데 유용하게 쓸 수 있습니다. 상품으로서의 가치는 낮습니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		</text>
 	</string>
 	
 	<string id="st_repair_kit_r7_empty">
-		<text>Medium and large caliber rifle fixing kit (empty box)</text>
+		<text>중대구경 소총 수리 키트 (빈 상자)</text>
 	</string>
 	<string id="st_repair_kit_r7_empty_descr">
-		<text>Empty metal box which previously contained tools and spare parts usable for maintaining large caliber firearms. Even in its current state it can prove useful in repairing metal parts of outfits. A low-value trading commodity.\n \n
+		<text>대구경의 총기를 유지보수하는 데 사용되는 도구들과 예비 부품들이 들어있었던 빈 금속 상자입니다. 현재 상태 그대로도 방어구의 금속 부품들을 수리하는 데 유용하게 쓸 수 있습니다. 상품으로서의 가치는 낮습니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		</text>
 	</string>
 	
 	<string id="st_sewing_kit_b">
-		<text>Basic sewing kit</text>
+		<text>기본 바느질 도구</text>
 	</string>
 	<string id="st_sewing_kit_b_descr">
 		<text>\n \n
 		%c[ui_gray_2]호환성:\n \n
-		%c[d_orange] • %c[ui_gray_2] all outfits and light headgear sets\n \n
-		%c[ui_gray_1]A light sewing kit consisting of a cloth reel, several steel needles and a pair of scissors. It can be used to sew up bullet holes or ruptures in soft fabrics of outfits. Its practical applications are limited due to the short length of the thread and subpar durability of needles, so the kit will be useless in case of more serious damage. For the same reason, it's compatible with only a handful of materials. Nonetheless, it is strongly advised to always use whatever is available to make the kit more effective.\n \n
+		%c[d_orange] • %c[ui_gray_2] 모든 방어구와 가벼운 머리 보호구 세트\n \n
+		%c[ui_gray_1]실타래와, 몇 개의 강철 바늘 그리고 가위 한 쌍으로 되어 있는 가벼운 바느질 키트입니다. 방어구의 부드러운 옷감 부위에 생긴 총탄 구멍이나 찢겨진 곳을 기워내는 데 사용합니다. 이 키트의 성능은 짧은 길이의 실과 튼튼하지 못한 바늘 때문에 제한되어 있어, 상당히 심각한 피해를 입은 방어구에는 무용지물입니다. 같은 이유로, 오직 일부 재료들만 같이 사용할 수 있습니다. 그럼에도 불구하고, 같이 사용할 수 있는 재료들이 있다면 키트를 좀 더 효율적으로 사용하기 위해 언제나 같이 사용하는 것이 추천됩니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
@@ -275,13 +275,13 @@
 	</string>
 	
 	<string id="st_sewing_kit_a">
-		<text>Advanced sewing kit</text>
+		<text>고급 바느질 도구</text>
 	</string>
 	<string id="st_sewing_kit_a_descr">
 		<text>\n \n
 		%c[ui_gray_2]호환성:\n \n
-		%c[d_orange] • %c[ui_gray_2] all outfits and light headgear sets\n \n
-		%c[ui_gray_1]This advanced set contains more and better sewing accessories than its basic counterpart. Double reels of nylon thread and a large selection of higher-quality needles make it suitable for working on thicker and harder materials, including lighter mutant skins and artificial fibers. It is also capable of repairing more damaged outfits.\n \n
+		%c[d_orange] • %c[ui_gray_2] 모든 방어구와 가벼운 머리 보호구 세트\n \n
+		%c[ui_gray_1]이 개선된 바느질 세트는 기초적인 도구들보다 더 많고 더 좋은 바느질용 도구들을 포함하고 있습니다. 이중 나일론 실타래와 다양한 크기의 고품질 바늘들은 가벼운 뮤턴트 가죽이나 인조 섬유들과 같은 더 두껍고 튼튼한 재료들을 사용하는데 적합합니다. 또한 더 심하게 손상된 방어구들을 수리할 수 있는 능력이 있습니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
@@ -289,13 +289,13 @@
 	</string>
 	
 	<string id="st_sewing_kit_h">
-		<text>Heavy sewing kit</text>
+		<text>중형 바느질 도구</text>
 	</string>
 	<string id="st_sewing_kit_h_descr">
 		<text>\n \n
 		%c[ui_gray_2]호환성:\n \n
-		%c[d_orange] • %c[ui_gray_2] all outfits and light headgear sets\n \n
-		%c[ui_gray_1]This military-grade, heavy sewing kit is designed to handle fractures in protective plates of modern combat armors. It contains enough metallic thread to put together outfits that have literally been torn apart. Capable of sewing on even hardest of mutant hides to your armor of choice. Another advantage of the kit are the basic mechanical tools that can be used to disassemble outfits and headgear in order to salvage repair materials. It's the highest quality sewing kit available in the Zone.\n \n
+		%c[d_orange] • %c[ui_gray_2] 모든 방어구와 가벼운 머리 보호구 세트\n \n
+		%c[ui_gray_1]이 군용 등급의 중형 바느질 도구는 최신식 전투 갑옷의 보호 플레이트에 난 상처를 수리하기 위해 디자인되었습니다. 이 도구에는 문자 그대로 산산조각난 방어구를 이어줄 수 있는 금속제 실타래가 충분히 포함되어 있습니다. 선택에 따라 방어구에 가장 튼튼한 뮤턴트 가죽을 기워낼 수도 있습니다. 이 도구의 또다른 장점은 바로 방어구나 머리 보호구를 분해하여 수리 재료들을 뜯어낼 수 있는 기본적인 작업용 도구로 사용할 수 있다는 것입니다. 존에서 이용할 수 있는 가장 높은 품질의 바느질 도구입니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
@@ -305,13 +305,13 @@
 	</string>
 	
 	<string id="st_glue_b">
-		<text>"Zviezda" glue tube</text>
+		<text>"즈볘즈다" 접착제</text>
 	</string>
 	<string id="st_glue_b_descr">
 		<text>\n \n
 		%c[ui_gray_2]호환성:\n \n
-		%c[d_orange] • %c[ui_gray_2] all outfits and light headgear sets\n \n
-		%c[ui_gray_1]Cheapest of the synthetic adhesives available in the Zone, this epoxy-based solution may be used to put together slightly torn pieces of fabric or to patch up a small hole in your helmet, but it will be useless in case of any serious damage. On the other hand, "Zviezda" has a great value for price, and if used on a regular basis it's able to keep your outfit in a good shape at all times. It is advised to use any type of commonly found materials to greatly increase effectiveness of repair. The glue, however, won't support mutant skins. Can also be used to facilitate sewing.\n \n
+		%c[d_orange] • %c[ui_gray_2] 모든 방어구와 가벼운 머리 보호구 세트\n \n
+		%c[ui_gray_1]존에서 사용할 수 있는 가장 값싼 합성 접착제로서, 이 에폭시 기반의 용액은 조금 찢어진 천을 붙이거나 헬멧에 난 작은 구멍을 메꾸는 데 사용할 수 있지만, 심각한 피해를 복구하는 데는 아무런 쓸모가 없습니다. 반면에, "즈볘즈다"는 상당히 가성비가 좋은 물건이고, 규칙적으로 사용한다면 방어구를 항상 좋은 상태로 유지해 줄 수 있습니다. 수리의 효율성을 크게 높이기 위해서는 수리에 쓸 수 있는 아무 종류의 다른 일반 물품들과 함께 사용하는 것이 추천됩니다. 하지만 이 접착제는 뮤턴트의 가죽과 같이 사용할 수는 없습니다. 바느질 과정을 돕는 데 사용할 수 있습니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
@@ -319,13 +319,13 @@
 	</string>
 	
 	<string id="st_glue_a">
-		<text>"Tur" glue tube</text>
+		<text>"투르" 접착제</text>
 	</string>
 	<string id="st_glue_a_descr">
 		<text>\n \n
 		%c[ui_gray_2]호환성:\n \n
-		%c[d_orange] • %c[ui_gray_2] all outfits and headgear sets\n \n
-		%c[ui_gray_1]Advanced glue produced by the Ukrainian chemical industry, modified epoxy-based adhesive "Tur" is able to quickly bind most solid materials. Versatility and ease of use are the two reasons why "Tur" is kept in such a high regard among stalkers, especially since spare materials are scarce. The glue binds both textile fabrics and lighter protective materials like kevlar, but is useless when it comes to metals.\n \n
+		%c[d_orange] • %c[ui_gray_2] 모든 방어구와 머리 보호구 세트\n \n
+		%c[ui_gray_1]우크라이나 화공업에서 생산된 고급 접착제로서, 개량된 에폭시 기반 접착제인 "투르"는 대부분의 고체 물질을 빠르게 접착할 수 있습니다. "투르"가 스토커들 사이에서 높은 평가를 받고 있는 이유는 바로 다양성과 사용의 편의성으로, 특히 예비 물품들이 부족한 상황에서 필요성이 커집니다. 이 접착제는 직물로 된 옷감들과 케블라처럼 가벼운 보호용 소재들을 모두 접착할 수 있지만, 금속에는 아무런 효과가 없습니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
@@ -333,13 +333,13 @@
 	</string>
 	
 	<string id="st_glue_e">
-		<text>"M17" glue tube</text>
+		<text>"M17" 접착제</text>
 	</string>
 	<string id="st_glue_e_descr">
 		<text>\n \n
 		%c[ui_gray_2]호환성:\n \n
-		%c[d_orange] • %c[ui_gray_2] all outfits and headgear sets\n \n
-		%c[ui_gray_1]M17 is a result of a Soviet military-industrial research project intended to devise an extremely potent, single-ingredient adhesive which could be used in any situation regardless of purpose and materials involved. It was decided to use a highly potent methacrylate which is most often optimized for reacting with either plastic or metal. In case of M17, however, this limitation has been bypassed, making the substance equally effective in both areas. In addition, the adhesive received a significant boost to versatility thanks to its hydrate form: it can be diluted with water and used in any concentration depending on the intended result. There is almost no damage that the glue, combined with appropriate materials, won't be able to repair. Can be used with all materials available in the Zone.\n \n
+		%c[d_orange] • %c[ui_gray_2] 모든 방어구와 머리 보호구 세트\n \n
+		%c[ui_gray_1]M17은 어떤 목적과 어떤 소재를 결합하든지에 상관없이 사용할 수 있는 매우 강력하고, 단일 재료로 된 접착제를 만들기 위한 소비에트 군수산업 연구 프로젝트의 결과로서 만들어졌습니다. 이 접착제에는 플라스틱이나 금속 소재에 대한 반응성이 매우 높은 고강도의 메타크릴산이 사용되었습니다. 하지만 M17의 경우에는 이러한 한계를 돌파하여 접착 물질이 양쪽 소재에 똑같은 효과를 가지도록 하였습니다. 게다가, 접착제는 액체로 되어 있어 활용의 다양성이 상당히 증대되었습니다. 이 접착제는 물에 희석하여 목적에 맞는 농도로 사용될 수 있습니다. 이 접착제가 적절한 보조 재료들과 조합될 경우, 수리하지 못하는 물건들은 거의 없습니다. 존에서 찾아볼 수 있는 모든 재료들과 같이 사용할 수 있습니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
@@ -349,16 +349,16 @@
 	</string>
 	
 	<string id="st_armor_repair_fa">
-		<text>Emergency armor repair set</text>
+		<text>비상용 방어구 수리 세트</text>
 	</string>
 	<string id="st_armor_repair_fa_descr">
 		<text>\n \n
 		%c[ui_gray_2]호환성:\n \n
-		%c[d_orange] • %c[ui_gray_2] all outfits and light headgear sets\n \n
-		%c[ui_gray_1]A repair set allowing the user to perform emergency repairs of outfits. Includes military grade ducktape and ready-to-use sheets of thick textile in a variety of shapes and sizes which make it possible to quickly patch up any outfit damage. This is especially useful to prevent further structural damage of already damaged suits. Due to a relatively low durability of provided materials, the kit can be used only for minor repairs and is ineffective in case of harder materials like kevlar or metal. For this reason, the kit has a very limited use in headgear maintenance.\n \n
+		%c[d_orange] • %c[ui_gray_2] 모든 방어구와 가벼운 머리 보호구 세트\n \n
+		%c[ui_gray_1]방어구를 급하게 수리할 때 사용되는 수리 세트입니다. 군용 덕트 테이프와 어떠한 형태의 방어구 피해라도 빠르게 메꿀 수 있게 만들어주는 다양한 형태와 크기의 바로 사용 가능한 두꺼운 직물 시트가 포함되어 있습니다. 특히 이미 피해를 입은 방어구가 추가적인 구조적 피해를 입는 것을 막아주는 데 유용합니다. 이 세트에 포함된 소재들의 내구성이 상대적으로 낮기 때문에, 미미한 파손에 대한 수리에만 사용 가능하며 케블라나 금속의 경우처럼 튼튼한 소재의 수리에는 부적합합니다. 이러한 이유 때문에, 머리 보호구의 유지보수에는 극히 제한된 활용만이 가능합니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
-		%c[d_blue] • %c[ui_gray_2] fast usage (adhesive tape)\n
+		%c[d_blue] • %c[ui_gray_2] 빠른 사용 (접착 테이프)\n
 		%c[d_orange] • %c[ui_gray_2] 장비 수리에 사용함\n
 		</text>
 	</string>
@@ -385,7 +385,7 @@
 	<string id="st_repair_kit_descr">
 		<text>\n \n
 		%c[ui_gray_2]호환성:\n \n
-		%c[d_orange] • %c[ui_gray_2] all outfits and headgear sets\n \n
+		%c[d_orange] • %c[ui_gray_2] 모든 방어구와 머리 보호구 세트\n \n
 		%c[ui_gray_1]This complex and heavy set includes everything necessary - from ultra-durable threads and needles to polymer-based patches - to conduct a complete repair of any armor or headgear. Can be used regardless of materials involved, be it heavy cloth, military-grade kevlar sheets, or heavy mutant pelts. Additional tools and kits increase effectiveness of repairs.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
