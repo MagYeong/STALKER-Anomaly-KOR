@@ -364,13 +364,13 @@
 	</string>
 	
 	<string id="st_helmet_repair_kit">
-		<text>Headgear repair kit</text>
+		<text>머리 보호구 수리 키트</text>
 	</string>
 	<string id="st_helmet_repair_kit_descr">
 		<text>\n \n
 		%c[ui_gray_2]호환성:\n \n
-		%c[d_orange] • %c[ui_gray_2] medium and heavy headgear sets\n \n
-		%c[ui_gray_1]This kit contains everything that is needed to perform effective repair of modern combat helmets. It features heavy tools that will allow you to work on hard materials such as kevlar, steel or titanium, as well as a very strong, methacrylate-based adhesive. As the kit does not contain any sewing equipment, it cannot be effectively utilized for reparation of flexible materials of armors, but it can be used to disassemble headgear sets to greatly improve the effectiveness of repair.\n \n
+		%c[d_orange] • %c[ui_gray_2] 평갑 및 중갑 머리 보호구 세트\n \n
+		%c[ui_gray_1]이 키트에는 현대적인 전투용 헬멧을 효과적으로 수리하는 데 사용할 수 있는 모든 것들이 포함되어 있습니다. 이 키트에는 케블라나 강철, 그리고 티타늄 등의 단단한 소재에 작업을 할 수 있는 중형 도구들과 함께 매우 강력한, 메타크릴산 소재의 접착제가 포함되어 있습니다. 이 키트에는 어떠한 바느질 도구들도 포함되어 있지 않기 때문에, 유연한 소재의 방어구의 수리에는 별로 효과적이지 않지만, 수리의 효율성을 크게 개선하기 위해 머리 보호구 세트를 분해하는 데 사용할 수 있습니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
@@ -380,13 +380,13 @@
 	</string>
 	
 	<string id="st_repair_kit">
-		<text>Heavy outfit repair kit</text>
+		<text>중형 방어구 수리 키트</text>
 	</string>
 	<string id="st_repair_kit_descr">
 		<text>\n \n
 		%c[ui_gray_2]호환성:\n \n
 		%c[d_orange] • %c[ui_gray_2] 모든 방어구와 머리 보호구 세트\n \n
-		%c[ui_gray_1]This complex and heavy set includes everything necessary - from ultra-durable threads and needles to polymer-based patches - to conduct a complete repair of any armor or headgear. Can be used regardless of materials involved, be it heavy cloth, military-grade kevlar sheets, or heavy mutant pelts. Additional tools and kits increase effectiveness of repairs.\n \n
+		%c[ui_gray_1]이 복잡하고 무거운 도구 세트에는 매우 튼튼한 실과 바늘부터 폴리머 재질의 수선용 조각까지, 어떠한 방어구나 머리 보호구라도 완전히 수리하는 데 필요한 모든 것들이 포함되어 있습니다. 무거운 옷감부터, 군용 등급의 케블라 시트, 또는 무거운 뮤턴트 모피까지 어떠한 종류의 소재와도 같이 사용할 수 있습니다. 추가적인 보조 도구나 키트를 사용해 수리의 효과를 높일 수 있습니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
@@ -396,45 +396,45 @@
 	</string>
 	
 	<string id="st_light_repair_kit">
-		<text>Light armor repair kit</text>
+		<text>경갑 수리 키트</text>
 	</string>
 	<string id="st_light_repair_kit_descr">
 		<text>\n \n
 		%c[ui_gray_2]호환성:\n \n
-		%c[d_orange] • %c[ui_gray_2] very light and light armors\n \n
-		%c[ui_gray_1]This complex and heavy set includes everything necessary - from ultra-durable threads and needles to polymer-based patches - to conduct a complete repair of any light armor. Can be used regardless of materials involved, be it heavy cloth or military-grade kevlar sheets. Additional tools and kits increase effectiveness of repairs.\n \n
+		%c[d_orange] • %c[ui_gray_2] 초경갑 또는 경갑 방어구\n \n
+		%c[ui_gray_1]이 복잡하고 무거운 도구 세트에는 매우 튼튼한 실과 바늘부터 폴리머 재질의 수선용 조각까지, 어떠한 경갑이라도 완전히 수리하는 데 필요한 모든 것들이 포함되어 있습니다. 어떠한 소재라도 가리지 않고 같이 사용할 수 있으며, 이는 무거운 옷감이나 군용 등급의 케블라 시트도 포함됩니다. 추가적인 보조 도구나 키트를 사용해 수리의 효과를 높일 수 있습니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
-		%c[d_orange] • %c[ui_gray_2] used for repairing light armor\n
+		%c[d_orange] • %c[ui_gray_2] 경갑을 수리하는 데 사용\n
 		</text>
 	</string>
 	
 	<string id="st_medium_repair_kit">
-		<text>Medium armor repair kit</text>
+		<text>평갑 수리 키트</text>
 	</string>
 	<string id="st_medium_repair_kit_descr">
 		<text>\n \n
 		%c[ui_gray_2]호환성:\n \n
-		%c[d_orange] • %c[ui_gray_2] medium armors\n \n
-		%c[ui_gray_1]This complex and heavy set includes everything necessary - from ultra-durable threads and needles to polymer-based patches - to conduct a complete repair of any medium armor. Can be used regardless of materials involved, be it heavy cloth or military-grade kevlar sheets. Additional tools and kits increase effectiveness of repairs.\n \n
+		%c[d_orange] • %c[ui_gray_2] 평갑\n \n
+		%c[ui_gray_1]이 복잡하고 무거운 도구 세트에는 매우 튼튼한 실과 바늘부터 폴리머 재질의 수선용 조각까지, 어떠한 평갑이라도 완전히 수리하는 데 필요한 모든 것들이 포함되어 있습니다. 어떠한 소재라도 가리지 않고 같이 사용할 수 있으며, 이는 무거운 옷감이나 군용 등급의 케블라 시트도 포함됩니다. 추가적인 보조 도구나 키트를 사용해 수리의 효과를 높일 수 있습니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물품\n
-		%c[d_orange] • %c[ui_gray_2] used for repairing medium armor\n
+		%c[d_orange] • %c[ui_gray_2] 평갑을 수리하는 데 사용\n
 		</text>
 	</string>
 	
 	<string id="st_exolight_repair_kit">
-		<text>Heavy armor repair kit</text>
+		<text>중갑 수리 키트</text>
 	</string>
 	<string id="st_exolight_repair_kit_descr">
 		<text>\n \n
 		%c[ui_gray_2]호환성:\n \n
-		%c[d_orange] • %c[ui_gray_2] heavy armours\n \n
-		%c[ui_gray_1]This complex and heavy set includes everything necessary - from ultra-durable threads and needles to polymer-based patches - to conduct a complete repair of any heavy armor. Can be used regardless of materials involved, be it heavy cloth or military-grade kevlar sheets. Additional tools and kits increase effectiveness of repairs.\n \n
+		%c[d_orange] • %c[ui_gray_2] 모든 중갑 방어구\n \n
+		%c[ui_gray_1]이 복잡하고 무거운 도구 세트에는 매우 튼튼한 실과 바늘부터 폴리머 재질의 수선용 조각까지, 어떠한 중갑 방어구라도 완전히 수리하는 데 필요한 모든 것들이 포함되어 있습니다. 어떠한 소재라도 가리지 않고 같이 사용할 수 있으며, 이는 무거운 옷감이나 군용 등급의 케블라 시트도 포함됩니다. 추가적인 보조 도구나 키트를 사용해 수리의 효과를 높일 수 있습니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
@@ -443,13 +443,13 @@
 	</string>
 	
 	<string id="st_exo_repair_kit">
-		<text>Exoskeleton repair kit</text>
+		<text>외골격 수리 키트</text>
 	</string>
 	<string id="st_exo_repair_kit_descr">
 		<text>\n \n
 		%c[ui_gray_2]호환성:\n \n
-		%c[d_orange] • %c[ui_gray_2] any exoskeleton\n \n
-		%c[ui_gray_1]This complex and heavy set includes everything necessary - from ultra-durable threads and needles to polymer-based patches - to conduct a complete repair of any hi-tech armor. Can be used regardless of materials involved, be it heavy cloth or military-grade kevlar sheets. Additional tools and kits increase effectiveness of repairs.\n \n
+		%c[d_orange] • %c[ui_gray_2] 모든 외골격\n \n
+		%c[ui_gray_1]이 복잡하고 무거운 도구 세트에는 매우 튼튼한 실과 바늘부터 폴리머 재질의 수선용 조각까지, 어떠한 고급 기술로 만든 방어구라도 완전히 수리하는 데 필요한 모든 것들이 포함되어 있습니다. 어떠한 소재라도 가리지 않고 같이 사용할 수 있으며, 이는 무거운 옷감이나 군용 등급의 케블라 시트도 포함됩니다. 추가적인 보조 도구나 키트를 사용해 수리의 효과를 높일 수 있습니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
@@ -460,66 +460,66 @@
 	
 	
 	<string id="st_leatherman_tool">
-		<text>Multitool</text>
+		<text>멀티툴</text>
 	</string>
 	<string id="st_leatherman_tool_descr">
-		<text>A worn but functional multitool, used to disassemble weapons and armour on parts and to maintain worn and rusty trigger mechanisms.\n \n
+		<text>오래 되었지만 잘 작동하는 멀티툴로, 무기나 방어구를 부품으로 분해하고 낡고 녹슨 방아쇠 기계장치를 보수하는 데 사용합니다.\n \n
 		%c[ui_gray_3]특성:\n
-		%c[d_purple] • %c[ui_gray_2] disassembling tool\n
+		%c[d_purple] • %c[ui_gray_2] 분해 도구\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_blue] • %c[ui_gray_2] 도구 키트\n
 		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
-		%c[d_orange] • %c[ui_gray_2] usable for weapon parts maintenance\n
+		%c[d_orange] • %c[ui_gray_2] 무기 부품 수리에 사용\n
 		</text>
 	</string>
 	
 	<string id="st_rasp_tool">
-		<text>File</text>
+		<text>줄</text>
 	</string>
 	<string id="st_rasp_tool_descr">
-		<text>A file, used to restore weapon parts such as a worn or rusty barrel or breech head.\n \n
+		<text>낡고 녹슨 총열이나 약실 머리 부분을 보구하는데 사용되는 줄칼입니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_blue] • %c[ui_gray_2] 도구 키트\n
 		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
-		%c[d_orange] • %c[ui_gray_2] usable for weapon parts maintenance\n
+		%c[d_orange] • %c[ui_gray_2] 무기 부품 수리에 사용\n
 		</text>
 	</string>
 	
 	<string id="st_ramrod_tool">
-		<text>Ramrod</text>
+		<text>꽂을대</text>
 	</string>
 	<string id="st_ramrod_tool_descr">
-		<text>An old ramrod consisting of three composite wooden parts, used to restore parts such as worn or rusty barrels and gas tubes.\n \n
+		<text>세 부분의 나무 부품으로 구성된 오래된 꽂을대로, 낡고 녹슨 총열이나 가스관을 복구하는 데 사용합니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_blue] • %c[ui_gray_2] 도구 키트\n
 		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
-		%c[d_orange] • %c[ui_gray_2] usable for weapon parts maintenance\n
+		%c[d_orange] • %c[ui_gray_2] 무기 부품 수리에 사용\n
 		</text>
 	</string>
 
 	<string id="st_sewing_thread">
-		<text>Basic sewing thread</text>
+		<text>기초 바느질용 실</text>
 	</string>
 	<string id="st_sewing_thread_descr">
-		<text>This sewing thread is made out of many different materials including cotton, linen, nylon, and silk. Every stalker knows it's not easy to avoid cloth tearig every while and then due to the harsh environment inside the Zone. Saving a couple of sewing threads for long trips is a wise idea.\n \n
+		<text>이 바느질용 실은 면, 아마, 나일론, 그리고 비단 원사를 포함한 다양한 소재로 만들어졌습니다. 모든 스토커들은 존 안의 혹독한 환경으로 인해 옷이 찢어지는 상황을 항상 피하는 것이 쉽지 않다는 것을 알고 있습니다. 오랜 탐험을 위해 바느질용 실 몇 묶음을 장만하는 건 현명한 생각이 될 수 있습니다.\n \n
 		%c[ui_gray_3]특성:\n
-		%c[d_blue] • %c[ui_gray_2] everyday item\n
-		%c[d_orange] • %c[ui_gray_2] usable for outfit parts maintenance\n
+		%c[d_blue] • %c[ui_gray_2] 일상 용품\n
+		%c[d_orange] • %c[ui_gray_2] 방어구 부품 수리에 사용\n
 		</text>
 	</string>
 	
 	<string id="st_heavy_sewing_thread">
-		<text>Field armour 도구 키트</text>
+		<text>야전 방어구 전용 도구 키트</text>
 	</string>
 	<string id="st_heavy_sewing_thread_descr">
-		<text>An advanced 도구 키트 for sewing and sealing retardants. Including kevlar thread, one of the strongest and most heat resistant commercially available threads. It is about 2.5 times stronger than nylon and polyester, has very little stretch, does not melt, and decomposes at 800F. This makes it a great choice for high stress applications including sewing seams on heavy duty clothing.\n \n
+		<text>바느질과 방호소재 접착작업을 위한 고급 도구 키트입니다. 시중에서 판매되는 가장 견고하고 열 방호능력이 뛰어난 실 중 하나인 케블라 소재 실이 포함되어 있습니다. 나일론과 폴리에스테르 소재보다 2.5배 정도 더 강하고, 인장력이 극히 적으며, 화씨 800도에서도 녹거나 분해되지 않습니다. 이 제품은 중량감 있는 방어구의 솔기를 바느질하는 등 높은 응력이 가해지는 작업에 매우 적합합니다.\n \n
 		%c[ui_gray_3]특성:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적인 물품\n
 		%c[d_blue] • %c[ui_gray_2] 도구 키트\n
 		%c[d_blue] • %c[ui_gray_2] 높은 품질의 물품\n
-		%c[d_orange] • %c[ui_gray_2] usable for outfit parts maintenance\n
+		%c[d_orange] • %c[ui_gray_2] 방어구 부품 수리에 사용\n
 		</text>
 	</string>
 </string_table>
