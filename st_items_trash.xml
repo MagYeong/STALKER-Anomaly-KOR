@@ -81,17 +81,17 @@
 		<text>강철 수세미</text>
 	</string>
 	<string id="st_steel_wool_descr">
-		<text>Steel wool, also known as wire wool or wire sponge, is a bundle of strands of very fine soft steel filaments. It is used as an abrasive in finishing and repair work for polishing wood or metal objects, cleaning household cookware, and sanding in light painting. Steel wool is made from low-carbon steel (carbon content is low enough to be close to plain iron). It is not made by drawing "steel wool wire" through a tapered die, but rather by a process more like broaching where a heavy steel wire is pulled through a toothed die that removes a thin wire shaving. Bundles of steel wool can be used in precision equipment cleaning and to improve spreading of lubricants and cleaning solvents.\n \n
+		<text>강철 수세미, 또는 철사 수세미나 철사 스펀지로 알려진 이 물건은 매우 곱고 부드러운 강철로 된 실타래의 묶음입니다. 이 물건은 마감 작업의 연마제로 쓰이거나, 나무나 금속 제품을 다듬고 수리할 때나, 설거지를 할 때, 그리고 라이트 페인팅을 매끄럽게 만들 때 쓰입니다. 강철 수세미는 탄소 함량이 낮은 강철(일반적인 철에 가까울 정도로 낮은 탄소 함량)로 만들어졌습니다. 이 물건은 폭이 좁아지는 주형으로 뽑아낸 "강철 울 와이어"를 꼬아 만들어낸 것이 아닌, 무거운 강철 와이어를 톱니가 나 있는 주형으로 뽑아내 얇은 곁가지 철사들을 제거해주는 브로칭 방식과 비슷한 공법으로 제작되었습니다. 강철 수세미는 정밀한 장비 청소나 윤활제 및 청소용제 도포를 더 효율적으로 하는 데 사용할 수 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
 		</text>
 	</string>
 	
 	<string id="st_grease">
-		<text>Industrial grease</text>
+		<text>산업용 그리스</text>
 	</string>
 	<string id="st_grease_descr">
-		<text>Grease is a semi-solid lubricant. It generally consists of a soap emulsified with mineral or vegetable oil. Greases are applied to mechanisms that cannot be lubricated constantly or where typical lubricating oil would not stay in position. They also act as sealants to prevent ingress of water and incompressible materials. Grease-lubricated bearings have greater frictional characteristics due to their high viscosity.\n \n
+		<text>그리스는 반고체 형태로 되어 있는 윤활제입니다. 대개 광물성 또는 식물성 기름이 유화된 비누로 이루어져 있습니다. 그리스는 지속적인 윤활 기능이 불가능한 장치나 기본적인 윤활유가 그 자리에 머물러 있지 않는 장치에서 사용됩니다. 또한 이 물건은 물이나 비압축성 물질이 침투하지 못하게 막는 밀폐제 역할도 합니다. 그리스가 도포된 베어링은 높은 점착성으로 인해 더욱 강한 마찰력을 가집니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
 		%c[d_blue] • %c[ui_gray_2] high quality\n
@@ -99,21 +99,21 @@
 	</string>
 	
 	<string id="st_shovel_old">
-		<text>Metal shovel</text>
+		<text>철제 삽</text>
 	</string>
 	<string id="st_shovel_old_descr">
-		<text>An old metal shovel used for various field purposes. Few people actually keep shovels in their backpacks as they are quite commonly found in the Zone, especially in industrial areas.\n \n
+		<text>다양한 야전 작업을 할 수 있는 금속으로 된 낡은 삽입니다. 삽은 존 내부에서 흔하게 볼 수 있는 물건이고, 특히 산업 지역에서 흔하기 때문에 가방에 항상 삽을 챙기고 다니는 사람은 별로 없습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n</text>
 	</string>
 	
 	<string id="st_shovel_mili">
-		<text>Military field shovel</text>
+		<text>군용 야전삽</text>
 	</string>
 	<string id="st_shovel_mili_descr">
-		<text>High-quality black military shovel. Used for numerous field purposes. Training regimen of Spetsnaz soldiers covers hand-to-hand combat and use of hand-held weapons and other equipment for the purposes of eliminating enemies. One famous example is the entrenching shovel which is a formidable weapon in close combat when used by a Spetsnaz operator.\n \n
+		<text>높은 품질의 검은색 군용 삽입니다. 수많은 야전 작업에 사용됩니다. 스페츠나츠의 훈련대에서는 적군을 없애기 위해 격투술 및 근접 무기 또는 기타 장비를 쓰는 법을 다룹니다. 유명한 예시로는 한 스페츠나츠 간부가 접근전에서 참호작업용 삽을 근접전에서 무시무시한 무기로 사용한 적이 있었습니다.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] military item\n</text>
+		%c[d_blue] • %c[ui_gray_2] 군용 물품\n</text>
 	</string>
 	
 	<string id="st_meinkampf">
@@ -301,7 +301,7 @@
 	<string id="st_wpn_spareparts_descr">
 		<text>Spare parts for what looks to be an AKM assault rifle. The wooden parts are not in a very good condition, and the same can be said of metal elements. Only novices would be interested in buying them. However, it seems that they may be useful for equipment repairs. Certain Zoners replace some parts when finding a new weapon out in the open in order to avoid being hunted for stealing from someone's stash.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] military item\n
+		%c[d_blue] • %c[ui_gray_2] 군용 물품\n
 		</text>
 	</string>
 	
@@ -341,7 +341,7 @@
 	<string id="st_mili_maps_descr">
 		<text>Maps showing the location of military camps around the Zone. Each PDA comes with these maps installed, so this item is of little use to anyone.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] military item\n
+		%c[d_blue] • %c[ui_gray_2] 군용 물품\n
 		</text>
 	</string>
 	
@@ -362,7 +362,7 @@
 	<string id="st_mirror_descr">
 		<text>Small mirror mounted on a telescopic iron tube. A handy item used by fighters versed in the arts of urban combat as it allows to peek around corners without getting shot.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] military item\n</text>
+		%c[d_blue] • %c[ui_gray_2] 군용 물품\n</text>
 	</string>
 	
 	<string id="st_hammer">
@@ -382,7 +382,7 @@
 		<text>
 		A tarpaulin (or hootch) is a large sheet of strong, flexible, water-resistant or waterproof material, often cloth such as canvas or polyester coated with urethane, or made of plastics such as polyethylene. It has reinforced grommets at the corners and along the sides to form attachment points for rope, allowing them to be tied down or suspended. Serves many purposes, but is mainly used to create small and simple tent-like hideouts. Trading value is low due to easily found alternatives.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] military item\n
+		%c[d_blue] • %c[ui_gray_2] 군용 물품\n
 		</text>
 	</string>
 	
