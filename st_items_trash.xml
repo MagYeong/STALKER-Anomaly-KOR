@@ -94,7 +94,7 @@
 		<text>그리스는 반고체 형태로 되어 있는 윤활제입니다. 대개 광물성 또는 식물성 기름이 유화된 비누로 이루어져 있습니다. 그리스는 지속적인 윤활 기능이 불가능한 장치나 기본적인 윤활유가 그 자리에 머물러 있지 않는 장치에서 사용됩니다. 또한 이 물건은 물이나 비압축성 물질이 침투하지 못하게 막는 밀폐제 역할도 합니다. 그리스가 도포된 베어링은 높은 점착성으로 인해 더욱 강한 마찰력을 가집니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
-		%c[d_blue] • %c[ui_gray_2] high quality\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질\n
 		</text>
 	</string>
 	
@@ -117,98 +117,98 @@
 	</string>
 	
 	<string id="st_meinkampf">
-		<text>Mein Kampf</text>
+		<text>나의 투쟁</text>
 	</string>
 	<string id="st_meinkampf_descr">
-		<text>Adolf Hitler's strategic memoires collected in a single book. The book and all that it stands for are hated by many, which makes this an item of high symbolic value. Adolf Hitler (20 April 1889 - 30 April 1945) was an Austrian-born German politician and the leader of the National Socialist German Workers Party (German: Nationalsozialistische Deutsche Arbeiterpartei (NSDAP), commonly referred to as the Nazi Party). He was chancellor of Germany from 1933 to 1945 and dictator of Nazi Germany (as Fuhrer und Reichskanzler) from 1934 to 1945. Hitler is responsible for the founding of Nazism, the start of World War II, and the Holocaust.\n \n
+		<text>아돌프 히틀러의 전략이 담긴 자서전을 하나의 책으로 묶은 것입니다. 이 책과 책에 담긴 사상들은 많은 사람들에 의해 증오받게 되었고, 따라서 이 물건에는 높은 상징적인 가치가 붙게 되었습니다. 아돌프 히틀러 (1889. 4. 20 - 1945. 4. 30)는 오스트리아 출신의 독일 정치인이고 국가 사회주의 독일 노동자 당 (독일어로 Nationalsozialistische Deutsche Arbeiterpartei (NSDAP), 흔히 나치당으로 불림)의 영수입니다. 그는 1933년부터 1945년까지 독일의 수상이었고 또한 1934년부터 1945년까지 나치 독일을 이끄는 독재자(Fuhrer und Reichskanzler)였습니다. 히틀러는 나치즘의 창시자이자, 제 2차 세계대전의 원흉, 그리고 홀로코스트의 책임자입니다.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] personal belongings\n
+		%c[d_blue] • %c[ui_gray_2] 개인 물품\n
 		</text>
 	</string>
 	
 	<string id="st_journal">
-		<text>Personal journal</text>
+		<text>일기장</text>
 	</string>
 	<string id="st_journal_descr">
-		<text>A leather-bound journal. It's filled with the original bearer's inner thoughts, observations, and some rough sketches with notations. A light skim reveals helpful advice for the common man, but little else beyond sentimental value.\n \n
+		<text>가죽 표지의 일기장입니다. 원래 주인의 생각, 관찰 기록, 그리고 주석이 달린 러프 스케치 몇 장이 담겨 있습니다. 가볍게 훑어보면 일반인에게 도움이 되는 충고를 읽어볼 수도 있지만, 감상적인 가치를 넘어서는 것은 거의 없습니다.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] personal belongings\n
+		%c[d_blue] • %c[ui_gray_2] 개인 물품\n
 		</text>
 	</string>
 	
 	<string id="st_maps_kit">
-		<text>Map-making kit</text>
+		<text>지도제작 키트</text>
 	</string>
 	<string id="st_maps_kit_descr">
-		<text>Map-making kit containing a set of pens and measurement instruments. All in a waterproof and camouflaged cover of high quality. Used by and issued to Ukrainian artillery personnel. Some maps have not yet been completed. Your PDA is much more useful than any of this.\n \n
+		<text>펜과 측정 도구 세트가 포함된 지도제작 키트입니다. 모두 고품질의 방수처리와 위장이 되어 있습니다. 우크라이나 포병대의 대원에게 지급되어 사용되었습니다. 지도의 일부분은 아직 완성되지 않았습니다. 이런 것들 보다는 PDA의 지도 정보가 더욱 쓸만할 것입니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
-		%c[d_red] • %c[ui_gray_2] unusable\n</text>
+		%c[d_red] • %c[ui_gray_2] 사용 불가능\n</text>
 	</string>
 	
 	<string id="st_welding_goggles">
-		<text>Welding goggles</text>
+		<text>용접용 고글</text>
 	</string>
 	<string id="st_welding_goggles_descr">
-		<text>Old and corroded welding goggles with a broken leather band. Welding goggles are designed to provide eye protection while welding or cutting. Useless in their current state and of no to little value.\n \n
+		<text>끊어진 가죽 끈이 달린 낡고 부식된 용접용 고글입니다. 용접용 고글은 용접이나 절단 작업을 할 때 눈을 보호하기 위해 디자인되었습니다. 현재 상태에서는 아무런 쓸모가 없고 거의 가치가 없습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n</text>
 	</string>
 	
 	<string id="st_survival_kit">
-		<text>Small survival kit</text>
+		<text>작은 생존용 키트</text>
 	</string>
 	<string id="st_survival_kit_descr">
-		<text>Survival kit containing fabric, sewing needles and a few leather strips. Primarily used as a means to stop the bleeding and treat lacerations, in the hands of a skilled user this small survival kit may prove essential during prolonged excursions in the Zone. It can also be utilized for outfit repairs of even most severe damage.\n \n
-		%c[ui_gray_3]HEALING:\n
-		%c[d_red] • %c[ui_gray_2] Restores 3.6%hp/s, total 162%\n
+		<text>붕대와, 바느질 도구 그리고 몇 개의 가죽 끈이 포함된 생존용 키트입니다. 출혈을 멈추고 상처를 치료하기 위한 수단으로 사용되며, 숙련된 사용자가 다룰 경우 이 생존용 키트는 존에서 오래 여행할 때 그 가치를 증명하게 될 것입니다. 또한 심각한 손상을 입은 의복 수리에도 사용할 수 있습니다.\n \n
+		%c[ui_gray_3]회복력:\n
+		%c[d_red] • %c[ui_gray_2] 생명력 회복 3.6%hp/s, 총 162%\n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
-		%c[d_blue] • %c[ui_gray_2] high quality\n
-		%c[d_red] • %c[ui_gray_2] slow usage (field kit)\n
-		%c[d_blue] • %c[ui_gray_2] immediately stops heavy bleeding\n
-		%c[d_red] • %c[ui_gray_2] prolonged body recovery time\n
+		%c[d_blue] • %c[ui_gray_2] 높은 품질\n
+		%c[d_red] • %c[ui_gray_2] 느린 사용 (야전용 도구)\n
+		%c[d_blue] • %c[ui_gray_2] 심각한 출혈을 즉시 지혈할 수 있음\n
+		%c[d_red] • %c[ui_gray_2] 신체 회복 속도가 느림\n
 		</text>
 	</string>
 	
 	<string id="st_jewelry_box">
-		<text>Decorated jewellery box</text>
+		<text>장식된 보석 상자</text>
 	</string>
 	<string id="st_jewelry_box_descr">
-		<text>A small box that contains finely crafted jewellery. While it is not uncommon for stalkers to poach hooves, horns or teeth from the Zone's mutants, only a select few are skilled enough to craft such materials into treasure like this. However, few stalkers care for such trinkets, and few traders are in the business of exporting such finery.\n \n
+		<text>예쁘게 세공된 장신구가 담겨 있는 작은 상자입니다. 스토커들이 뮤턴트의 발굽이나, 뿔 혹은 이빨들을 전리품으로 챙기는 건 흔한 일이지만, 그것들을 이런 종류의 보물들로 가공할 수 있을 정도로 숙련된 사람들은 손에 꼽을 수 있을 정도로 적습니다. 하지만, 그런 기념품들을 모으는 데 신경쓰는 스토커들도 많지 않은 만큼, 이렇게 귀한 물건들을 수출하는 일을 업으로 삼는 상인들도 많지 않습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
-		%c[d_blue] • %c[ui_gray_2] valuable\n</text>
+		%c[d_blue] • %c[ui_gray_2] 가치 있는 물품\n</text>
 	</string>
 	
 	<string id="st_book1">
-		<text>Mechanics manual</text>
+		<text>정비공의 설명서</text>
 	</string>
 	<string id="st_book1_descr">
-		<text>Manual of mechanical engineering. Some people read such books to expand their expertise and learn more about the facilities and factories in the Zone. Low sale value.\n \n
+		<text>기계 정비의 설명서입니다. 몇몇 사람들은 존 내부에 있는 시설이나 공장들에 대한 정보를 얻기 위해 이런 책들을 읽습니다. 판매 가치는 낮습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
 		</text>
 	</string>
 	
 	<string id="st_book2">
-		<text>Engineering manual</text>
+		<text>공학 설명서</text>
 	</string>
 	<string id="st_book2_descr">
-		<text>Manual of industrial engineering. Some people read such books to expand their expertise and learn more about the facilities and factories in the Zone. Low sale value.\n \n
+		<text>산업 공학의 설명서입니다. 몇몇 사람들은 존 내부에 있는 시설이나 공장들에 대한 정보를 얻기 위해 이런 책들을 읽습니다. 판매 가치는 낮습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
 		</text>
 	</string>
 	
 	<string id="st_drugnotes">
-		<text>Drug distribution notes</text>
+		<text>약물 거래 장부</text>
 	</string>
 	<string id="st_drugnotes_descr">
-		<text>This notebook describes various drug deals in detail. Specific nicknames, locations and time of meets. Some deals are executed through equipment exchanges and others are paid in large amounts of roubles. When browsing the pages, it becomes clear that Freedom is the main distributor of natural drugs such as marijuana. Bandits are producers and distributors of the more powerful (and dangerous) synthetic drugs like salicylic acid and cocaine. Apparently, every faction in the Zone takes part in these deals. In particular, Monolith seems to be taking in large amounts drugs in exchange for more expensive types of ammunition and equipment.\n \n
+		<text>이 장부에는 다양한 약물 거래 내역이 자세히 나타나 있습니다. 특정 인물의 별명과, 장소, 그리고 접선 시간이 기록되어 있습니다. 몇몇 거래들은 장비를 교환하여 지불되었고, 나머지는 많은 양의 루블로 거래되었습니다. 페이지를 들여다 볼 때, 프리덤이 마리화나 같은 자연산 마약의 주된 유통을 담당하고 있는 것이 확실해 보입니다. 밴딧들은 그보다 더 강력한 (그리고 위험한) 살리실산이나 코카인 등의 합성 약물들을 생산하고 거래합니다. 분명히, 존 내부의 모든 세력들이 이런 약물 거래와 관련되어 있습니다. 특히, 모노리스가 비싼 종류의 탄약이나 장비들을 많은 양의 약물과 거래하는 것처럼 보입니다.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] personal belongings\n
-		%c[d_blue] • %c[ui_gray_2] valuable\n
+		%c[d_blue] • %c[ui_gray_2] 개인 물품\n
+		%c[d_blue] • %c[ui_gray_2] 가치 있는 물품\n
 		</text>
 	</string>
 	
@@ -218,7 +218,7 @@
 	<string id="st_picture_woman_descr">
 		<text>This photo contains a softly rendered figure, smiling back at you encouragingly. Great attention has been given to the lighting and the atmosphere around the person within the frame, demonstrating a thoughtful, observational tenderness.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] personal belongings\n
+		%c[d_blue] • %c[ui_gray_2] 개인 물품\n
 		</text>
 	</string>
 	
@@ -239,7 +239,7 @@
 		<text>Everyone is aware of the importance of good gear. An extra pair of boots can prove extremely useful and may be the object of envy of other stalkers since it is such a rarity.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
-		%c[d_blue] • %c[ui_gray_2] personal belongings\n
+		%c[d_blue] • %c[ui_gray_2] 개인 물품\n
 		</text>
 	</string>
 	
@@ -291,7 +291,7 @@
 		<text>An extra pair of socks, a shirt and pants could substantially increase your comfort. Unfortunately, this set is completely soaked. There is little chance any stalker will pay for this garbage. Although they might seem worthless, the material the underwear is made of can be used in armour and weapon maintenance.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
-		%c[d_blue] • %c[ui_gray_2] personal belongings\n
+		%c[d_blue] • %c[ui_gray_2] 개인 물품\n
 		</text>
 	</string>
 	
@@ -466,7 +466,7 @@
 		<text>
 		An old, classic Soviet "raketa3" watch. Looks like it's still in a good shape. It's not surprising that many stalkers prefer mechanical watches over PDAs for usual time checking. Giving the fact that those watches are reliable and durable even at the worst situations, they come in handy where PDAs fail due to strong electromagnetic waves coming from emissions or nearby anomaly fields. However, some simply wear them as a style accessory.\n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_cyan] • %c[ui_gray_2] personal belongings\n
+		%c[d_cyan] • %c[ui_gray_2] 개인 물품\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
 		%c[d_blue] • %c[ui_gray_2] valuable\n
 		</text>
@@ -641,7 +641,7 @@
 		<text>Green cloth</text>
 	</string>
 	<string id="cloth_green_descr">
-		<text>Green fabric, cut from a green suit. Very high quality and dense fabric. Can be used as a repair material.\n \n%c[ui_gray_2]특징:\n \n
+		<text>Green fabric, cut from a green suit. Very 높은 품질 and dense fabric. Can be used as a repair material.\n \n%c[ui_gray_2]특징:\n \n
 		%c[d_cyan] • %c[ui_gray_2] 기술적 물품\n
 		</text>
 	</string>
@@ -649,7 +649,7 @@
 		<text>Black cloth</text>
 	</string>
 	<string id="cloth_black_descr">
-		<text>Black fabric, cut from a black suit. Very high quality and dense fabric. Can be used as a repair material.\n \n%c[ui_gray_2]특징:\n \n
+		<text>Black fabric, cut from a black suit. Very 높은 품질 and dense fabric. Can be used as a repair material.\n \n%c[ui_gray_2]특징:\n \n
 		%c[d_cyan] • %c[ui_gray_2] 기술적 물품\n
 		</text>
 	</string>
@@ -657,7 +657,7 @@
 		<text>Brown cloth</text>
 	</string>
 	<string id="cloth_brown_descr">
-		<text>Brown fabric, cut from a brown suit. Very high quality and dense fabric. Can be used as a repair material. \n \n%c[ui_gray_2]특징:\n \n
+		<text>Brown fabric, cut from a brown suit. Very 높은 품질 and dense fabric. Can be used as a repair material. \n \n%c[ui_gray_2]특징:\n \n
 		%c[d_cyan] • %c[ui_gray_2] 기술적 물품\n
 		</text>
 	</string>
@@ -665,7 +665,7 @@
 		<text>White cloth</text>
 	</string>
 	<string id="cloth_white_descr">
-		<text>White fabric, cut from a white suit. Very high quality and dense fabric. Can be used as a repair material. \n \n%c[ui_gray_2]특징:\n \n
+		<text>White fabric, cut from a white suit. Very 높은 품질 and dense fabric. Can be used as a repair material. \n \n%c[ui_gray_2]특징:\n \n
 		%c[d_cyan] • %c[ui_gray_2] 기술적 물품\n
 		</text>
 	</string>
