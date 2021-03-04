@@ -1,364 +1,364 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="jup_a10_bandit_leader_name">
-		<text>Valet</text>
+		<text>발렛</text>
 	</string>
 	<string id="jup_a10_stalker_vano">
-		<text>Vano</text>
+		<text>바노</text>
 	</string>
 	<string id="jup_a6_duty_leader">
-		<text>Lt-Colonel Shulga</text>
+		<text>슐가 중령</text>
 	</string>
 	<string id="jup_a6_freedom_leader">
-		<text>Loki</text>
+		<text>로키</text>
 	</string>
 	<string id="jup_a6_stalker_barmen">
-		<text>Hawaiian</text>
+		<text>하와이안</text>
 	</string>
 	<string id="jup_a6_stalker_medik">
-		<text>Bonesetter</text>
+		<text>본세터</text>
 	</string>
 	<string id="jup_b10_stalker_drunk">
-		<text>Senka</text>
+		<text>센카</text>
 	</string>
 	<string id="jup_b15_zulus">
-		<text>Zulu</text>
+		<text>줄루</text>
 	</string>
 	<string id="jup_b19_freedom_yar_name">
-		<text>Yar</text>
+		<text>엉클 야르</text>
 	</string>
 	<string id="jup_b1_stalker_1">
-		<text>Topol</text>
+		<text>토폴</text>
 	</string>
 	<string id="jup_b1_stalker_2">
-		<text>Bulava</text>
+		<text>불라바</text>
 	</string>
 	<string id="jup_b1_stalker_3">
-		<text>Grisha</text>
+		<text>그리샤</text>
 	</string>
 	<string id="jup_b1_stalker_4">
-		<text>Snake</text>
+		<text>스네이크</text>
 	</string>
 	<string id="jup_b207_merc_leader_name">
-		<text>Grif</text>
+		<text>그리프</text>
 	</string>
 	<string id="jup_b217_stalker_tech">
-		<text>Nitro</text>
+		<text>니트로</text>
 	</string>
 	<string id="jup_b220_trapper">
-		<text>Trapper</text>
+		<text>트래퍼</text>
 	</string>
 	<string id="jup_b25_freedom_flint">
-		<text>Flint</text>
+		<text>플린트</text>
 	</string>
 	<string id="jup_b46_duty_founder_name">
-		<text>General Tachenko</text>
+		<text>타첸코 장군</text>
 	</string>
 	<string id="jup_b46_duty_founder_squad_02_name">
-		<text>Lieutenant Bunchuk</text>
+		<text>번척 중위</text>
 	</string>
 	<string id="jup_b46_duty_founder_squad_03_name">
-		<text>Colonel Kosmach</text>
+		<text>코스마흐 대령</text>
 	</string>
 	<string id="jup_b46_duty_founder_squad_04_name">
-		<text>Lieutenant Zaharchuk</text>
+		<text>자하르추크 중위</text>
 	</string>
 	<string id="yan_merc_01">
-		<text>Hatchet</text>
+		<text>햇쳇</text>
 	</string>
 	<string id="yan_merc_02">
-		<text>Oak</text>
+		<text>오크</text>
 	</string>
 	<string id="yan_merc_03">
-		<text>Pianist</text>
+		<text>피아니스트</text>
 	</string>
 	<string id="yan_merc_04">
-		<text>Tank</text>
+		<text>탱크</text>
 	</string>
 	<string id="yan_merc_05">
-		<text>Kirzach</text>
+		<text>키르자흐</text>
 	</string>
 	<string id="yan_merc_06">
-		<text>Gazon</text>
+		<text>가존</text>
 	</string>
 	<string id="yan_merc_07">
-		<text>Snout</text>
+		<text>스나우트</text>
 	</string>
 	<string id="jup_b4_monolith_squad_leader_name">
-		<text>Rogue</text>
+		<text>로그</text>
 	</string>
 	<string id="jup_b4_monolith_squad_soldier_1_name">
-		<text>Bracer</text>
+		<text>브레이서</text>
 	</string>
 	<string id="jup_b4_monolith_squad_soldier_2_name">
-		<text>Sickle</text>
+		<text>식클</text>
 	</string>
 	<string id="jup_b4_monolith_squad_soldier_3_name">
-		<text>Walrus</text>
+		<text>월러스</text>
 	</string>
 	<string id="jup_b4_monolith_squad_soldier_4_name">
-		<text>Tihiy</text>
+		<text>티히</text>
 	</string>
 	<string id="jup_b4_monolith_squad_soldier_5_name">
-		<text>Foma</text>
+		<text>포마</text>
 	</string>
 	<string id="jup_b6_scientist_biochemist">
-		<text>Professor Ozersky</text>
+		<text>오제르스키 교수</text>
 	</string>
 	<string id="jup_b6_scientist_novikov">
-		<text>Tukarev</text>
+		<text>노비코프</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist">
-		<text>Professor Hermann</text>
+		<text>헤르만 교수</text>
 	</string>
 	<string id="jup_b9_shliachin_name">
-		<text>Sergeant Shlyachin</text>
+		<text>슐랴친 병장</text>
 	</string>
 	<string id="pri_a15_military_recon_1_name">
-		<text>Lieutenant Sergeev</text>
+		<text>세르게예프 중위</text>
 	</string>
 	<string id="pri_a15_military_recon_2_name">
-		<text>Sergeant Valyushok</text>
+		<text>발류샥 병장</text>
 	</string>
 	<string id="pri_a15_military_recon_3_name">
-		<text>Sergeant Ostrovskiy</text>
+		<text>오스트로프스키 병장</text>
 	</string>
 	<string id="pri_a15_military_recon_leader_name">
-		<text>Captain Klimenko</text>
+		<text>클리멘코 대위</text>
 	</string>
 	<string id="pri_a15_sokolov_name">
-		<text>Lieutenant Sokolov</text>
+		<text>소콜로프 중위</text>
 	</string>
 	<string id="pri_a17_military_captain_tarasov">
-		<text>Captain Tarasov</text>
+		<text>타라소프 대위</text>
 	</string>
 	<string id="pri_a17_military_colonel_kovalski_name">
-		<text>Colonel Kovalsky</text>
+		<text>코발스키 대령</text>
 	</string>
 	<string id="pri_a17_military_lieutenant_podorojniy">
-		<text>Lieutenant Podorozhniy</text>
+		<text>포도르즈니 중위</text>
 	</string>
 	<string id="pri_a18_skorlupko_in_suit_name">
-		<text>Lieutenant Skelya</text>
+		<text>스켈랴 중위</text>
 	</string>
 	<string id="pri_a18_vano_in_suit_reserve_name">
-		<text>Sergeant Merkulov</text>
+		<text>메르쿨로프 병장</text>
 	</string>
 	<string id="pri_a21_sentry_lieutenant_stecenko_name">
-		<text>Lieutenant Stecenko</text>
+		<text>스테켄코 중위</text>
 	</string>
 	<string id="pri_a22_military_yarmoshuk_name">
-		<text>Sergeant Yarmoshuk</text>
+		<text>야르모슈크 병장</text>
 	</string>
 	<string id="pri_a25_army_medic_name">
-		<text>Lieutenant Rogovets</text>
+		<text>로고베츠 중위</text>
 	</string>
 	<string id="pri_a28_evac_com_name">
-		<text>Lieutenant Smirnov</text>
+		<text>스미르노프 중위</text>
 	</string>
 	<string id="pri_b305_strelok_name">
-		<text>Strelok</text>
+		<text>스트렐록</text>
 	</string>
 	<string id="pri_b306_envoy_name">
-		<text>Durad Vidic</text>
+		<text>듀라드 비딕</text>
 	</string>
 	<string id="st_actor_name">
-		<text>Degtyarev</text>
+		<text>덱탸레프</text>
 	</string>
 	<string id="st_actor_generic_name">
-		<text>Player</text>
+		<text>플레이어</text>
 	</string>
 	<string id="st_jup_a12_bandit_cashier">
-		<text>Gnom</text>
+		<text>노움</text>
 	</string>
 	<string id="st_jup_a12_bandit_chief">
-		<text>Shishak</text>
+		<text>쉬샤크</text>
 	</string>
 	<string id="st_jup_a12_stalker_assaulter">
-		<text>Bear</text>
+		<text>베어</text>
 	</string>
 	<string id="st_jup_a12_stalker_diplomat">
-		<text>Torba</text>
+		<text>톨바</text>
 	</string>
 	<string id="st_jup_a12_stalker_prisoner">
-		<text>Mityay</text>
+		<text>미타이</text>
 	</string>
 	<string id="st_jup_b207_duty_security_squad_leader_name">
-		<text>Lieutenant Gavrilenko</text>
+		<text>가브릴렌코 중위</text>
 	</string>
 	<string id="st_jup_b207_freedom_assault_squad_leader_name">
-		<text>Kremen</text>
+		<text>크레멘</text>
 	</string>
 	<string id="st_jup_b207_freedom_recon_squad_leader_name">
-		<text>Gayduk</text>
+		<text>게이덕</text>
 	</string>
 	<string id="st_jup_b43_stalker_assistant">
-		<text>Garik</text>
+		<text>개릭</text>
 	</string>
 	<string id="st_pri_a22_army_signaller">
-		<text>Lieutenant Kirillov</text>
+		<text>키릴로프 중위</text>
 	</string>
 	<string id="st_pri_b35_envoy">
-		<text>Serbin</text>
+		<text>세르빈</text>
 	</string>
 	<string id="st_pri_b35_merc_leader">
-		<text>Jackal</text>
+		<text>자칼</text>
 	</string>
 	<string id="st_zat_a2_stalker_nimble_name">
-		<text>Nimble</text>
+		<text>님블</text>
 	</string>
 	<string id="st_zat_b106_stalker_crab_name">
-		<text>Crab</text>
+		<text>크랩</text>
 	</string>
 	<string id="st_zat_b106_stalker_garmata_name">
-		<text>Garmata</text>
+		<text>가르마타</text>
 	</string>
 	<string id="st_zat_b106_stalker_gonta_name">
-		<text>Gonta</text>
+		<text>곤타</text>
 	</string>
 	<string id="st_zat_b29_stalker_rival_1">
-		<text>Kuvalda</text>
+		<text>쿠발다</text>
 	</string>
 	<string id="st_zat_b29_stalker_rival_2">
-		<text>Greben</text>
+		<text>그레벤</text>
 	</string>
 	<string id="st_zat_b30_owl_stalker_trader_name">
-		<text>Owl</text>
+		<text>아울</text>
 	</string>
 	<string id="st_zat_b38_stalker_cop_name">
-		<text>Gluhar</text>
+		<text>글루하</text>
 	</string>
 	<string id="st_zat_b38_stalker_hunter_name">
-		<text>Danila</text>
+		<text>다닐라</text>
 	</string>
 	<string id="st_zat_b7_bandit_boss_sultan_name">
-		<text>Sultan</text>
+		<text>술탄</text>
 	</string>
 	<string id="st_zat_b7_duty_illicit_dealer_name">
-		<text>Morgan</text>
+		<text>모건</text>
 	</string>
 	<string id="st_zat_b7_stalker_raider_leader">
-		<text>Kastet</text>
+		<text>커스텟</text>
 	</string>
 	<string id="st_zat_b7_stalker_squad_leader">
-		<text>Spartacus</text>
+		<text>스파르타쿠스</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_name">
-		<text>Beard</text>
+		<text>베어드</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_name">
-		<text>Cardan</text>
+		<text>카르단</text>
 	</string>
 	<string id="zat_b103_lost_merc_1_name">
-		<text>Goblin</text>
+		<text>고블린</text>
 	</string>
 	<string id="zat_b103_lost_merc_2_name">
-		<text>Oak</text>
+		<text>오크</text>
 	</string>
 	<string id="zat_b103_lost_merc_3_name">
-		<text>Pianist</text>
+		<text>피아니스트</text>
 	</string>
 	<string id="zat_b103_lost_merc_4_name">
-		<text>Gazon</text>
+		<text>가존</text>
 	</string>
 	<string id="zat_b103_lost_merc_5_name">
-		<text>Kirzach</text>
+		<text>키르자흐</text>
 	</string>
 	<string id="zat_b103_lost_merc_6_name">
-		<text>Tank</text>
+		<text>탱크</text>
 	</string>
 	<string id="zat_b103_lost_merc_7_name">
-		<text>Snout</text>
+		<text>스나우트</text>
 	</string>
 	<string id="zat_b103_lost_merc_leader_name">
-		<text>Hatchet</text>
+		<text>햇쳇</text>
 	</string>
 	<string id="zat_b14_stalker_1_name">
-		<text>Vobla</text>
+		<text>보블라</text>
 	</string>
 	<string id="zat_b18_noah_name">
-		<text>Noah</text>
+		<text>노아</text>
 	</string>
 	<string id="zat_b215_stalker_guide_name">
-		<text>Navigator</text>
+		<text>내비게이터</text>
 	</string>
 	<string id="zat_b22_stalker_medic_name">
-		<text>Axel</text>
+		<text>액셀</text>
 	</string>
 	<string id="zat_b28_draper_name">
-		<text>Lieutenant Drapey</text>
+		<text>드레이피 중위</text>
 	</string>
 	<string id="zat_b28_umerov_name">
-		<text>Sergeant Umerov</text>
+		<text>우메로프 병장</text>
 	</string>
 	<string id="zat_b33_stalker_snag">
-		<text>Snag</text>
+		<text>스내그</text>
 	</string>
 	<string id="zat_b40_merc_squad_leader_1_name">
-		<text>Hook</text>
+		<text>후크</text>
 	</string>
 	<string id="zat_b40_merc_squad_leader_2_name">
-		<text>Backbone</text>
+		<text>백본</text>
 	</string>
 	<string id="zat_b42_mayron_name">
-		<text>Mayron</text>
+		<text>메이런</text>
 	</string>
 	<string id="zat_b44_stalker_barge_name">
-		<text>Barge</text>
+		<text>바지</text>
 	</string>
 	<string id="zat_b53_artefact_hunter_1_name">
-		<text>Petruha</text>
+		<text>페트루하</text>
 	</string>
 	<string id="zat_b53_artefact_hunter_2_name">
-		<text>Awl</text>
+		<text>아울</text>
 	</string>
 	<string id="jup_b46_duty_founder_squad_01_name">
-		<text>Major Chepurnoy</text>
+		<text>체푸르노이 소령</text>
 	</string>
 	<string id="pri_a17_military_prapor_valentyr">
-		<text>Sergeant Valentir</text>
+		<text>발렌티르 병장</text>
 	</string>
 	<string id="pri_a17_military_sergeant_morozov">
-		<text>Senior Sergeant Morozov</text>
+		<text>모로조프 상사</text>
 	</string>
 	<string id="zat_b28_smoliak_name">
-		<text>Senior Lieutenant Smolyak</text>
+		<text>스몰랴크 대위</text>
 	</string>
 	<string id="jup_b25_stalker_senya">
-		<text>Chip</text>
+		<text>칩</text>
 	</string>
 	<string id="zat_b100_army_1">
-		<text>Sergeant Gazda</text>
+		<text>가즈다 병장</text>
 	</string>
 	<string id="zat_b100_army_2">
-		<text>Captain Furtes</text>
+		<text>펄츠 대위</text>
 	</string>
 	<string id="zat_b100_army_3">
-		<text>Senior Sergeant Shveyko</text>
+		<text>슈베이코 상사</text>
 	</string>
 	<string id="cit_doctor_name">
-		<text>Ivan Trodnik</text>
+		<text>이반 트로드니크</text>
 	</string>
 	<string id="marsh_doctor_name">
-		<text>Doctor</text>
+		<text>닥터</text>
 	</string>
 	<string id="mar_smart_terrain_base_stalker_leader_marsh_name">
-		<text>Cold</text>
+		<text>콜드</text>
 	</string>
 	<string id="esc_wolf_bio">
-		<text>Personal guard of Nimble. An old stalker planning to be rich.</text>
+		<text>님블의 개인 경호원. 부자가 되고 싶은 늙은 스토커.</text>
 	</string>
 	<string id="esc_wolf_name">
-		<text>Wolf</text>
+		<text>울프</text>
 	</string>
 	<string id="esc_fanat_bio">
-		<text>Took over leadership at the rookie camp after Wolf. Full of purpose, aggressive, and has well-deserved authority over newcomers.</text>
+		<text>울프 다음으로 루키 캠프에서 리더쉽을 이어받았습니다. 목적의식이 풍부하고, 공격적이며, 신입에 대한 충분한 권한이 있습니다.</text>
 	</string>
 	<string id="esc_fanat_name">
-		<text>Fanatic</text>
+		<text>파나틱</text>
 	</string>
 	<string id="bar_barmen_name">
-		<text>Barkeep</text>
+		<text>바텐더</text>
 	</string>
 	<string id="bar_barmen_bio">
 		<text>Neither a saint, nor a scoundrel. The Barkeep knows his worth and is respected by all stalkers. Rumour has it he is hiding in the Zone from some dark events in his past. After an encounter with the anomaly, he started limping slightly and decided to change jobs. He set up a bar by the Duty faction, and the place gradually turned into the meeting point for all the Zone's veterans. The Barkeep has numerous connections both in the Zone and in the outside world.</text>
