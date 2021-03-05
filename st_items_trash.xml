@@ -213,30 +213,30 @@
 	</string>
 	
 	<string id="st_picture_woman">
-		<text>Photo of a loved one</text>
+		<text>연인의 사진</text>
 	</string>
 	<string id="st_picture_woman_descr">
-		<text>This photo contains a softly rendered figure, smiling back at you encouragingly. Great attention has been given to the lighting and the atmosphere around the person within the frame, demonstrating a thoughtful, observational tenderness.\n \n
+		<text>이 사진에는 한 사람이 열렬히 미소짓고 있는 모습이 부드럽게 현상되어 있습니다. 액자 속 사람 주변을 둘러싸고 있는 광원과 분위기에는 세심한 주의가 기울여져, 사려깊은 모습과, 눈으로 보일 정도의 상냥함을 표현하였습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 개인 물품\n
 		</text>
 	</string>
 	
 	<string id="st_porn2">
-		<text>Ukrainian MAXIM</text>
+		<text>우크라이나 맥심</text>
 	</string>
 	<string id="st_porn2_descr">
-		<text>This magazine is well-worn but still contains some glossy spreads of beautiful Slavic girls. Many of the pages have been torn out. Some stalkers argue whether it's funny or sad that rookies bring stuff like this into a place as deadly and sublime as the Zone. It smells faintly of cheese.\n \n
+		<text>이 잡지는 많이 낡았지만 아직 아름다운 슬라브 여인들의 화려한 단편들이 몇몇 남아 있습니다. 상당 수의 페이지가 찢겨져 나갔습니다. 몇몇 스토커들은 초짜들이 존처럼 가혹하고 극한적인 장소로 이런 물건을 가져오는 게 웃긴 일인지 슬픈 일인지에 대해 논쟁하곤 합니다. 희미한 치즈 냄새가 납니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
 		</text>
 	</string>
 	
 	<string id="st_boots">
-		<text>Leather boots</text>
+		<text>가죽 부츠</text>
 	</string>
 	<string id="st_boots_descr">
-		<text>Everyone is aware of the importance of good gear. An extra pair of boots can prove extremely useful and may be the object of envy of other stalkers since it is such a rarity.\n \n
+		<text>누구나 좋은 장비의 중요성을 알고 있을 것입니다. 추가적인 부츠 한 쌍은 매우 유용하다는 것이 증명되었고 매우 희귀한 물건이기 때문에 다른 스토커들의 질투의 대상이 될 수도 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
 		%c[d_blue] • %c[ui_gray_2] 개인 물품\n
@@ -244,51 +244,51 @@
 	</string>
 	
 	<string id="st_batteries_dead_empty">
-		<text>Old batteries (emptied)</text>
+		<text>낡은 건전지 (고갈됨)</text>
 	</string>
 	<string id="st_batteries_dead_empty_descr">
-		<text>Only one out of ten batteries found in the Zone still carry some juice. These, however, are completely drained and because of that do not have any value whatsoever.\n \n
+		<text>존에서 발견할 수 있는 건전지 중 열 개 중 하나 정도만이 전력을 가지고 있다고 합니다. 하지만, 이 건전지는 완전히 고갈되어 어떠한 가치도 없습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
-		%c[d_red] • %c[ui_gray_2] depleted\n</text>
+		%c[d_red] • %c[ui_gray_2] 고갈됨\n</text>
 	</string>
 	
 	<string id="st_batteries_empty">
-		<text>Batteries (emptied)</text>
+		<text>건전지 (고갈됨)</text>
 	</string>
 	<string id="st_batteries_empty_descr">
-		<text>These batteries have been completely drained of whatever energy they once had. Their only value is the amount of metal they are made of.\n \n
+		<text>이 건전지들이 가지고 있던 에너지는 완전히 고갈되었습니다. 이런 물건이 지닌 가치는 건전지를 만든 재료인 금속의 가치밖에 없습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
 		%c[d_red] • %c[ui_gray_2] depleted\n</text>
 	</string>
 	
 	<string id="st_batteries_ccell_empty">
-		<text>Military battery unit (emptied)</text>
+		<text>군용 배터리 (고갈됨)</text>
 	</string>
 	<string id="st_batteries_ccell_empty_descr">
-		<text>An empty military battery unit. If full they are very valuable and in high demand due to the relative scarcity of batteries in the Zone. However, now that the juice has run out they constitute a backpack burden.\n \n
+		<text>비어 있는 군용 배터리입니다. 만약 배터리가 가득 차 있다면 존에서의 희귀성으로 인해 높은 수요를 가지고 매우 가치가 높았을 것입니다. 하지만 이제 전력이 다 뽑혀나가 버려 그저 짐덩이만 될 뿐입니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
 		%c[d_red] • %c[ui_gray_2] depleted\n</text>
 	</string>
 	
 	<string id="st_flashlight_broken">
-		<text>Broken flashlight</text>
+		<text>부서진 손전등</text>
 	</string>
 	<string id="st_flashlight_broken_descr">
-		<text>The handle is broken and even duct tape wouldn't be able to keep the batteries in place. This is no longer of any value.\n \n
+		<text>손잡이는 부서져 있어 덕트 테이프를 붙인다고 해도 건전지를 제자리에 넣을 수 없을 정도입니다. 이 물건에는 어떠한 가치도 없습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
-		%c[d_red] • %c[ui_gray_2] broken beyond repair\n
+		%c[d_red] • %c[ui_gray_2] 수리가 불가능할 정도로 부서짐\n
 		%c[d_red] • %c[ui_gray_2] unusable\n</text>
 	</string>
 	
 	<string id="st_underwear">
-		<text>Soaked underwear</text>
+		<text>젖은 속옷</text>
 	</string>
 	<string id="st_underwear_descr">
-		<text>An extra pair of socks, a shirt and pants could substantially increase your comfort. Unfortunately, this set is completely soaked. There is little chance any stalker will pay for this garbage. Although they might seem worthless, the material the underwear is made of can be used in armour and weapon maintenance.\n \n
+		<text>편안함을 느끼게 해주는 추가적인 양말과 셔츠, 팬티 한 벌입니다. 안타깝게도, 이 한 벌은 완전히 젖어버렸습니다. 이런 쓰레기같은 물건에 값을 지불할 스토커를 만날 기회는 거의 없습니다. 비록 가치가 없어 보이긴 해도, 이 속옷을 만든 재료는 방어구나 무기의 유지보수에 이용할 수 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
 		%c[d_blue] • %c[ui_gray_2] 개인 물품\n
@@ -296,80 +296,80 @@
 	</string>
 	
 	<string id="st_wpn_spareparts">
-		<text>Weapon spare parts</text>
+		<text>여분의 무기 부품</text>
 	</string>
 	<string id="st_wpn_spareparts_descr">
-		<text>Spare parts for what looks to be an AKM assault rifle. The wooden parts are not in a very good condition, and the same can be said of metal elements. Only novices would be interested in buying them. However, it seems that they may be useful for equipment repairs. Certain Zoners replace some parts when finding a new weapon out in the open in order to avoid being hunted for stealing from someone's stash.\n \n
+		<text>AKM 돌격 소총에서 나온 것으로 보이는 여분의 부품입니다. 목재 부분은 그다지 좋은 상태가 아니며, 금속 부분도 마찬가지입니다. 초짜만이 이런 물건을 사려고 할 것입니다. 하지만, 장비를 수리하는 데는 쓸모가 있어 보입니다. 일부 존 거주자들은 누군가의 은닉처를 뒤지다 현상금이 걸리는 것을 피하기 위해 새로운 무기를 찾아냈을 때 부품 몇 개를 교체하기도 합니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 군용 물품\n
 		</text>
 	</string>
 	
 	<string id="st_beadspread">
-		<text>Bed spread</text>
+		<text>침대보</text>
 	</string>
 	<string id="st_beadspread_descr">
-		<text>Luxury item in the Zone. Since there are only a few beds in safehouses in the Zone, having a sleeping bag and a bed spread may prove essential if you don't want to hit the wall in most inappropriate of circumstances. Bed spreads are included in the equipment of some military units.\n \n
+		<text>존에서는 매우 사치스런 물건입니다. 존에는 안전 가옥에만 침대가 몇 개 놓여 있는 만큼, 매우 부적절한 상황에 곤란에 처하는 걸 원하지 않는다면 침낭과 침대보를 가지고 다니는 것은 필수적인 선택이라고 할 수 있습니다. 침대보는 몇몇 내무군 병사들의 장비에 포함되어 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
 		</text>
 	</string>
 	
 	<string id="st_walkie">
-		<text>Walkie talkie</text>
+		<text>워키 토키</text>
 	</string>
 	<string id="st_walkie_descr">
-		<text>The display is dead and there is a constant hiss from the speaker indicating that this is of no use. Has what appears to be bite marks all over it.\n \n
+		<text>화면이 꺼져 있고 스피커에서 계속 치직거리는 소리가 들리는 것으로 보아 이 물건은 쓸모가 없어 보입니다. 뮤턴트 이빨로 보이는 자국이 새겨져 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
-		%c[d_red] • %c[ui_gray_2] broken beyond repair\n
-		%c[d_red] • %c[ui_gray_2] unusable\n</text>
+		%c[d_red] • %c[ui_gray_2] 수리가 불가능할 정도로 부서짐\n
+		%c[d_red] • %c[ui_gray_2] 사용 불가능\n</text>
 	</string>
 	
 	<string id="st_cards">
-		<text>Deck of cards</text>
+		<text>카드 덱</text>
 	</string>
 	<string id="st_cards_descr">
-		<text>Playing cards is a popular pastime, but a deck of cards can also be used for sorting special trades. The cover depicts the proud architectural design of the Moscow Metro.\n \n
+		<text>카드놀이는 인기있는 취미거리 중 하나지만, 한 덱의 카드 묶음은 특별한 거래를 하는 데에도 사용될 수 있습니다. 커버에는 모스크바 지하철의 자랑스러운 건축 양식의 디자인이 그려져 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n</text>
 	</string>
 	
 	<string id="st_mili_maps">
-		<text>Military maps</text>
+		<text>군용 지도</text>
 	</string>
 	<string id="st_mili_maps_descr">
-		<text>Maps showing the location of military camps around the Zone. Each PDA comes with these maps installed, so this item is of little use to anyone.\n \n
+		<text>존의 군 주둔지의 위치를 보여주는 지도입니다. PDA에는 모두 이런 지도가 설치되어 있기 때문에, 이런 물건은 누구에게라도 그다지 쓸모가 없습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 군용 물품\n
 		</text>
 	</string>
 	
 	<string id="st_headlamp">
-		<text>Old head lamp</text>
+		<text>낡은 헤드램프</text>
 	</string>
 	<string id="st_headlamp_descr">
-		<text>Although few dare to explore the Zone during the night, there are circumstances where a head lamp is crucial. And another source of light won't hurt, because you never know when you'll have to move from place to place. Unfortunately, this particular unit has long seen its working days and can now only serve as a source of cheap spare parts.\n \n
+		<text>감히 야간에 존을 탐험할 만큼 용감한 사람들은 거의 없긴 하지만, 언젠가는 헤드램프가 필수적인 상황이 오게 됩니다. 그리고 빛을 제공하는 다른 수단을 갖는 것은 그다지 손해보는 일이 아닌데, 왜냐하면 언제 다른 장소로 옮겨야 할지 알 수 없기 때문입니다. 안타깝게도, 이 물건은 작동이 이루어진 지 오랜 시간이 지나 값싼 보조 부품 공급원으로서의 역할밖에 하지 못합니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
-		%c[d_red] • %c[ui_gray_2] broken beyond repair\n
-		%c[d_red] • %c[ui_gray_2] unusable\n</text>
+		%c[d_red] • %c[ui_gray_2] 수리가 불가능할 정도로 부서짐\n
+		%c[d_red] • %c[ui_gray_2] 사용 불가능\n</text>
 	</string>
 	
 	<string id="st_mirror">
-		<text>Telescopic mirror</text>
+		<text>망원 거울</text>
 	</string>
 	<string id="st_mirror_descr">
-		<text>Small mirror mounted on a telescopic iron tube. A handy item used by fighters versed in the arts of urban combat as it allows to peek around corners without getting shot.\n \n
+		<text>망원용 철제 튜브 위에 설치된 작은 거울입니다. 전투원들이 시가전을 벌일 때 총에 맞지 않고 모퉁이를 훔쳐보는 데 사용하는 유용한 물건입니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 군용 물품\n</text>
 	</string>
 	
 	<string id="st_hammer">
-		<text>Old hammer (reusable)</text>
+		<text>낡은 망치 (재사용 가능)</text>
 	</string>
 	<string id="st_hammer_descr">
-		<text>Hammer with a wooden handle and an iron head. A common sight in industrial areas of the Zone. Despite its heavy weight, it's often carried in backpack due to its versatility.\n \n
+		<text>나무 손잡이와 철제 머리가 달린 망치입니다. 존의 산업 지대에서 자주 찾을 수 있습니다. 무거운 무게에도 불구하고, 다용도로 사용할 수 있기 때문에 배낭에 들고 다니는 사람이 많습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
 		%c[d_orange] • %c[ui_gray_2] unlimited usages\n</text>
@@ -416,7 +416,7 @@
 		Music is a good way to calm your nerves. But with a broken antenna this radio is of little use. Moisture and dirt have also damaged this item.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
-		%c[d_red] • %c[ui_gray_2] broken beyond repair\n
+		%c[d_red] • %c[ui_gray_2] 수리가 불가능할 정도로 부서짐\n
 		%c[d_red] • %c[ui_gray_2] unusable\n
 		</text>
 	</string>
@@ -429,7 +429,7 @@
 		A small radio in a poor condition. Dirty and damaged by moisture. The interior seems to be in quite a bad shape as the radio rattles when moved around. No to little value.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
-		%c[d_red] • %c[ui_gray_2] broken beyond repair\n
+		%c[d_red] • %c[ui_gray_2] 수리가 불가능할 정도로 부서짐\n
 		%c[d_red] • %c[ui_gray_2] unusable\n
 		</text>
 	</string>
@@ -442,7 +442,7 @@
 		A broken Bear detector. The screen is smashed and the interior seems to be in quite a bad shape. Some of the electronic parts inside are still safe. They can be reused for repair purposes, or perhaps even in crafting.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
-		%c[d_red] • %c[ui_gray_2] broken beyond repair\n
+		%c[d_red] • %c[ui_gray_2] 수리가 불가능할 정도로 부서짐\n
 		%c[d_red] • %c[ui_gray_2] unusable\n
 		</text>
 	</string>
