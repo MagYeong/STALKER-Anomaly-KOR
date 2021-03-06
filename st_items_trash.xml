@@ -376,119 +376,119 @@
 	</string>
 
 	<string id="st_tarpaulin">
-		<text>Camouflaged tarpaulin</text>
+		<text>위장된 방수포</text>
 	</string>
 	<string id="st_tarpaulin_descr">
 		<text>
-		A tarpaulin (or hootch) is a large sheet of strong, flexible, water-resistant or waterproof material, often cloth such as canvas or polyester coated with urethane, or made of plastics such as polyethylene. It has reinforced grommets at the corners and along the sides to form attachment points for rope, allowing them to be tied down or suspended. Serves many purposes, but is mainly used to create small and simple tent-like hideouts. Trading value is low due to easily found alternatives.\n \n
+		방수포 (또는 후치) 는 강하고, 유연하고 물에 대한 저항력을 갖거나 방수 기능이 있는 물질로 된 큰 시트이며, 우레탄 코팅이 된 캔버스나 폴리에스테르 재질, 또는 폴리에틸렌 같은 플라스틱으로 만듭니다. 귀퉁이는 쇠고리로 강화되어 있고 옆면에는 로프를 걸 수 있는 지점이 있어, 묶거나 걸게 할 수 있습니다. 다양한 용도로 사용되지만, 주로 사용되는 용도는 작고 간단한 천막처럼 생긴 은신처를 만드는 데 사용됩니다. 대체할 만한 물건을 쉽게 찾을 수 있기 때문에 가격은 낮습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 군용 물품\n
 		</text>
 	</string>
 	
 	<string id="st_synthrope">
-		<text>2 synthetic ropes</text>
+		<text>2개의 합성섬유 로프</text>
 	</string>
 	<string id="st_synthrope_descr">
 		<text>
-		Synthetic ropes are commonly found in military warehouses. But for some reason few military stalkers actually carry them. A good rope serves many purposes, especially in a place like the Zone. Many stalkers can put this to good use, which generates a rather high trading value. Each is about 5 metres long.\n \n
+		군 창고에서 주로 찾을 수 있는 합성섬유 로프입니다. 하지만 몇 가지 이유 때문에 실제로 가지고 다니는 내무군 스토커들은 별로 없습니다. 특히 존 같은 곳에서, 좋은 로프는 다용도로 사용할 수 있습니다. 많은 스토커들은 이 물건을 유용하게 사용할 수 있어, 상당히 높은 거래가격을 갖습니다. 각 로프의 길이는 5미터 정도입니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
 		</text>
 	</string>
 	
 	<string id="st_cutlery">
-		<text>Field cutlery</text>
+		<text>야외용 식기구</text>
 	</string>
 	<string id="st_cutlery_descr">
 		<text>
-		A spoon, a knife and a fork made of heavy steel. A robust and reasonably light cutlery set, ideal for backpacking and field exploration. The cutlery is held together by a copper cord. If cleaned properly and derusted, it would be safe to use.\n \n
+		무거운 강철로 만들어진 숟가락, 나이프 그리고 포크입니다. 튼튼하고 상당히 가벼운 식기구로, 배낭에 가지고 다니거나 야외 탐사에 적합합니다. 식기구는 구리선으로 같이 연결되어 있습니다. 적절히 청소하고 녹을 제거해준다면, 안전하게 사용할 수 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
 		</text>
 	</string>
 	
 	<string id="st_radio">
-		<text>Small radio</text>
+		<text>작은 라디오</text>
 	</string>
 	<string id="st_radio_descr">
 		<text>
-		Music is a good way to calm your nerves. But with a broken antenna this radio is of little use. Moisture and dirt have also damaged this item.\n \n
+		음악은 심신을 안정시킬 수 있는 좋은 방법입니다. 하지만 이런 부러진 안테나를 달고 있는 라디오는 쓸모가 없습니다. 이 물건은 습기와 먼지에 의한 피해도 입었습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
 		%c[d_red] • %c[ui_gray_2] 수리가 불가능할 정도로 부서짐\n
-		%c[d_red] • %c[ui_gray_2] unusable\n
+		%c[d_red] • %c[ui_gray_2] 사용 불가능\n
 		</text>
 	</string>
 	
 	<string id="st_radio2">
-		<text>Broken radio</text>
+		<text>부서진 라디오</text>
 	</string>
 	<string id="st_radio2_descr">
 		<text>
-		A small radio in a poor condition. Dirty and damaged by moisture. The interior seems to be in quite a bad shape as the radio rattles when moved around. No to little value.\n \n
+		상태가 나쁜 작은 라디오입니다. 더럽고 습기 때문에 피해를 입었습니다. 라디오를 흔들어볼 때 덜그럭거리는 소리가 나는 것으로 보아 내부 상태도 영 좋지 않아 보입니다. 일말의 가치도 없습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
 		%c[d_red] • %c[ui_gray_2] 수리가 불가능할 정도로 부서짐\n
-		%c[d_red] • %c[ui_gray_2] unusable\n
+		%c[d_red] • %c[ui_gray_2] 사용 불가능\n
 		</text>
 	</string>
 	
 	<string id="st_broken_detector">
-		<text>Broken detector</text>
+		<text>부서진 탐지기</text>
 	</string>
 	<string id="st_broken_detector_descr">
 		<text>
-		A broken Bear detector. The screen is smashed and the interior seems to be in quite a bad shape. Some of the electronic parts inside are still safe. They can be reused for repair purposes, or perhaps even in crafting.\n \n
+		부서진 베어 탐지기입니다. 화면은 박살이 났고 내부도 엉망이 된 것으로 보입니다. 안에 있는 전자부품들 중 일부는 아직 멀쩡합니다. 나중에 수리나, 아마도 제작에 재사용할 수 있을 것 같습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
 		%c[d_red] • %c[ui_gray_2] 수리가 불가능할 정도로 부서짐\n
-		%c[d_red] • %c[ui_gray_2] unusable\n
+		%c[d_red] • %c[ui_gray_2] 사용 불가능\n
 		</text>
 	</string>
 	
 	<string id="st_gloves">
-		<text>Leather gloves</text>
+		<text>가죽 장갑</text>
 	</string>
 	<string id="st_gloves_descr">
 		<text>
-		A pair of leather gloves. Feel and smell good as if they are bought recently. When the weather gets cold, it's important to keep your hands warm and ready.\n \n
+		가죽장갑 한 쌍입니다. 마치 새로 구입한 물건처럼 느낌과 향이 좋습니다. 날씨가 추워지면, 손을 따스하고 좋은 상태로 유지해주는데 중요한 역할을 할 것입니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
-		%c[d_blue] • %c[ui_gray_2] valuable\n
+		%c[d_blue] • %c[ui_gray_2] 가치 있는 물품\n
 		</text>
 	</string>
 	
 	<string id="st_hand_watch">
-		<text>Hand watch</text>
+		<text>손목시계</text>
 	</string>
 	<string id="st_hand_watch_descr">
 		<text>
-		An old, classic Soviet "raketa3" watch. Looks like it's still in a good shape. It's not surprising that many stalkers prefer mechanical watches over PDAs for usual time checking. Giving the fact that those watches are reliable and durable even at the worst situations, they come in handy where PDAs fail due to strong electromagnetic waves coming from emissions or nearby anomaly fields. However, some simply wear them as a style accessory.\n \n
+		오래된 고전풍의 소비에트 "라케타3" 시계입니다. 아직 멀쩡한 상태로 보입니다. 많은 스토커들이 시간을 확인할 때 이런 기계식 시계를 PDA보다 더 선호하는 것은 잘 알려진 사실입니다. 이러한 시계들이 최악에 상황에서도 믿음직하고 튼튼한 것은 사실이며, 에미션이나 근처 이상현상으로부터 나오는 강한 전자기파를 맞아 PDA가 고장났을 때도 유용하게 쓰일 수 있습니다. 하지만, 몇몇은 그저 멋진 악세사리처럼 차고 다니는 것으로 보입니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_cyan] • %c[ui_gray_2] 개인 물품\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물품\n
-		%c[d_blue] • %c[ui_gray_2] valuable\n
+		%c[d_blue] • %c[ui_gray_2] 가치 있는 물품\n
 		</text>
 	</string>
 	
 	<string id="st_ball_hammer">
-		<text>Ball-peen hammer</text>
+		<text>볼핀 해머</text>
 	</string>
 	<string id="st_ball_hammer_descr">
 		<text>
-		Also known as a machinist's hammer. Ball-peen hammer is a type of peening hammer used in metalworking. Despite being old and rusty, you can never go wrong with having one for small repair jobs.\n \n
+		수리공의 망치로도 알려져 있습니다. 볼핀 해머는 금속 가공에 사용되는 끝이 둥근 망치의 일종입니다. 낡고 녹슬기는 했지만, 이 물건을 가지고 있으면 간단한 수리를 하는 데 뭔가 잘못될 만한 일은 없을 것입니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
 		</text>
 	</string>
 	
 	<string id="st_duct_tape">
-		<text>Duct tape</text>
+		<text>덕트 테이프</text>
 	</string>
 	<string id="st_duct_tape_descr">
 		<text>
-		Duct tape is commonly used in situations that require a strong, flexible, and very sticky tape. An easy and temporary solution for quick repair jobs. This type also has a long-lasting adhesive and resistance to weathering.\n \n
+		덕트 테이프는 강하고, 탄력있고, 아주 끈끈한 테이프가 필요한 상황에서 널리 쓰입니다. 빠른 수리가 필요할 때 쉽고 일시적인 해결책이 됩니다. 또한 이 물건은 오래가는 접착성을 가지고 있고 풍화에 대한 저항력이 있습니다.\n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 일상용품\n
 		</text>
