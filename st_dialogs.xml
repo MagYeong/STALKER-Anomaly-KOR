@@ -3,35 +3,35 @@
 
 <!-- Trading / Repair dialog -->
 	<string id="st_stalker_trade_dialog_init">
-		<text>Got anything to sell? %c[d_orange][Trade]</text>
+		<text>뭔가 팔고 있는게 있어? %c[d_orange][거래]</text>
 	</string>
 	<string id="st_stalker_trade_dialog_reply_1">
-		<text>Don't expect anything fancy. Here's what I got.</text>
+		<text>별로 쓸모 있는 건 없으니까 너무 기대하지 말라고. 여기 내가 파는 물건들이야.</text>
 	</string>
 	<string id="st_stalker_trade_dialog_reply_2">
-		<text>Alright.</text>
+		<text>좋아.</text>
 	</string>
 	<string id="st_stalker_trade_dialog_reply_3">
-		<text>Uh... sure thing.</text>
+		<text>어... 물론이지.</text>
 	</string>
 	<string id="st_stalker_trade_dialog_reply_no_1">
-		<text>Not really. Find someone else.</text>
+		<text>별로 없어. 다른 사람을 알아보라고.</text>
 	</string>
 	<string id="st_stalker_trade_dialog_reply_no_2">
-		<text>Sorry, I'd prefer to hang on to my stuff.</text>
+		<text>미안, 내 물건을 팔고 싶지는 않아.</text>
 	</string>
 	
 	<string id="st_trader_dialog_init">
-		<text>I want to buy some equipment. %c[d_orange][Trade]</text>
+		<text>장비를 좀 사고 싶은데. %c[d_orange][거래]</text>
 	</string>
 	<string id="st_trader_dialog_reply_1">
-		<text>Sure thing.</text>
+		<text>물론이지.</text>
 	</string>
 	<string id="st_trader_dialog_reply_2">
-		<text>Take a look.</text>
+		<text>한 번 보라고.</text>
 	</string>
 	<string id="st_trader_dialog_reply_3">
-		<text>Here's what I've got.</text>
+		<text>이게 내가 파는 물건들이야.</text>
 	</string>
 	
 	<string id="st_mechanic_dialog_init">
@@ -404,16 +404,16 @@
 		<text>Give me some details.</text>
 	</string>
 	<string id="st_jg_4">
-		<text>Alright, let�s go.</text>
+		<text>Alright, lets go.</text>
 	</string>
 	<string id="st_jg_5">
 		<text>Lead the way, stalker! When we get where I need to go, talk to me again and I'll give you your payment.</text>
 	</string>
 	<string id="st_jg_6">
-		<text>Sorry, but you don�t have the money to pay me in case the plan doesn�t go through.</text>
+		<text>Sorry, but you dont have the money to pay me in case the plan doesnt go through.</text>
 	</string>
 	<string id="st_jg_mlr_1">
-		<text>I don�t even know who you are. No, thanks, stalker.</text>
+		<text>I dont even know who you are. No, thanks, stalker.</text>
 	</string>
 	<string id="st_jg_7">
 		<text>Remind me, where are we going?</text>
@@ -422,34 +422,34 @@
 		<text>Here we are.</text>
 	</string>
 	<string id="st_jg_9">
-		<text>Finally! Thanks, stalker, nice work. Here�s your money.</text>
+		<text>Finally! Thanks, stalker, nice work. Heres your money.</text>
 	</string>
 	<string id="st_jg_10">
-		<text>I�ve changed my mind. I�d prefer to cancel the job.</text>
+		<text>Ive changed my mind. Id prefer to cancel the job.</text>
 	</string>
 	<string id="st_jg_11">
 		<text>Really? Are you sure about that?</text>
 	</string>
 	<string id="st_jg_12">
-		<text>Yes, I�m sure.</text>
+		<text>Yes, Im sure.</text>
 	</string>
 	<string id="st_jg_13">
 		<text>Actually, never mind.</text>
 	</string>
 	<string id="st_jg_14">
-		<text>Looking for an experienced stalker who can lead me to %s. Right now, I�m %s. Name�s %s.</text>
+		<text>Looking for an experienced stalker who can lead me to %s. Right now, Im %s. Names %s.</text>
 	</string>
 	<string id="st_jg_15">
-		<text>We�re too late. Sorry but this was not the deal, you won't get the full payment.</text>
+		<text>Were too late. Sorry but this was not the deal, you won't get the full payment.</text>
 	</string>
 	<string id="st_jg_16">
-		<text>Here�s the deal: within %s hours, I need to be %s. I can pay you %s roubles for the job, but keep in mind that you won't get the full payment if we don�t get there in time.</text>
+		<text>Heres the deal: within %s hours, I need to be %s. I can pay you %s roubles for the job, but keep in mind that you won't get the full payment if we dont get there in time.</text>
 	</string>
 	<string id="st_jg_17">
 		<text>I need to be</text>
 	</string>
 	<string id="st_jg_18">
-		<text>Then I�ll continue on my own, and I�ll be taking that money. What a shame.</text>
+		<text>Then Ill continue on my own, and Ill be taking that money. What a shame.</text>
 	</string>
 	<string id="st_jg_19">
 		<text>Length, including starting point and destination:&#032;</text>
@@ -473,7 +473,7 @@
 		<text>%s, can you lend me some money?</text>
 	</string>
 	<string id="debt_register_1">
-		<text>You probably need the money for a good reason...but so do I. You�ll return fifty percent of the amount plus the amount itself, and keep in mind that my stuff won�t be available to you until you pay back your debt.</text>
+		<text>You probably need the money for a good reason...but so do I. Youll return fifty percent of the amount plus the amount itself, and keep in mind that my stuff wont be available to you until you pay back your debt.</text>
 	</string>
 	<string id="debt_register_2">
 		<text>I just need %c[d_orange][5,000 RU].</text>
@@ -528,16 +528,16 @@
 		<text>Got any special offers?</text>
 	</string>
 	<string id="buy_extra_items_1">
-		<text>What�s on your mind?</text>
+		<text>Whats on your mind?</text>
 	</string>
 	<string id="buy_extra_items_2">
-		<text>I�d like to purchase some extra equipment.</text>
+		<text>Id like to purchase some extra equipment.</text>
 	</string>
 	<string id="buy_extra_items_3">
-		<text>That�s certainly possible, but nobody right now will want to sell you anything extra. You�ll have to gain some trust and experience, and after that you can buy equipment wholesale.</text>
+		<text>Thats certainly possible, but nobody right now will want to sell you anything extra. Youll have to gain some trust and experience, and after that you can buy equipment wholesale.</text>
 	</string>
 	<string id="buy_extra_items_4">
-		<text>I�d like to purchase some extra equipment.</text>
+		<text>Id like to purchase some extra equipment.</text>
 	</string>
 	<string id="buy_extra_items_5">
 		<text>What are you interested in?</text>
@@ -561,7 +561,7 @@
 			<text>Choose.</text>
 		</string>
 	<string id="buy_extra_items_12">
-		<text>I�ve changed my mind.</text>
+		<text>Ive changed my mind.</text>
 	</string>
 	
 	<string id="buy_extra_items_txt">
@@ -586,7 +586,7 @@
 		<text>Here you go.</text>
 	</string>
 	<string id="st_buy_route_dialog">
-		<text>%c[255,160,160,190]�%c[255,220,220,220] %s - %s for %c[255,160,160,190][%s RU]</text>
+		<text>%c[255,160,160,190]%c[255,220,220,220] %s - %s for %c[255,160,160,190][%s RU]</text>
 	</string>
 	
 	<string id="st_route_open_title">
