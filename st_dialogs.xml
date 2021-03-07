@@ -6,10 +6,10 @@
 		<text>뭔가 팔고 있는게 있어? %c[d_orange][거래]</text>
 	</string>
 	<string id="st_stalker_trade_dialog_reply_1">
-		<text>별로 쓸모 있는 건 없으니까 너무 기대하지 말라고. 여기 내가 파는 물건들이야.</text>
+		<text>별로 쓸만한 건 없으니까 너무 기대하지 말라고. 여기 내가 파는 물건들이야.</text>
 	</string>
 	<string id="st_stalker_trade_dialog_reply_2">
-		<text>좋아.</text>
+		<text>그래.</text>
 	</string>
 	<string id="st_stalker_trade_dialog_reply_3">
 		<text>어... 물론이지.</text>
@@ -22,10 +22,10 @@
 	</string>
 	
 	<string id="st_trader_dialog_init">
-		<text>장비를 좀 사고 싶은데. %c[d_orange][거래]</text>
+		<text>장비를 사고 싶어. %c[d_orange][거래]</text>
 	</string>
 	<string id="st_trader_dialog_reply_1">
-		<text>물론이지.</text>
+		<text>좋아.</text>
 	</string>
 	<string id="st_trader_dialog_reply_2">
 		<text>한 번 보라고.</text>
@@ -35,118 +35,118 @@
 	</string>
 	
 	<string id="st_mechanic_dialog_init">
-		<text>My equipment needs some tweaking. %c[d_orange][Repair/Upgrade]</text>
+		<text>내 장비를 고치고 싶어. %c[d_orange][수리/개조]</text>
 	</string>
 	<string id="st_mechanic_dialog_reply_1">
-		<text>I see, show me the equipment... And your money as well.</text>
+		<text>그래, 장비를 보여줘... 물론 돈도 같이 말이지.</text>
 	</string>
 	<string id="st_mechanic_dialog_reply_2">
-		<text>More crap to fix? Fine by me.</text>
+		<text>고칠게 더 있나? 기꺼이 봐주지</text>
 	</string>
 	<string id="st_mechanic_dialog_reply_3">
-		<text>Great, more work.</text>
+		<text>좋아, 일이 늘었군.</text>
 	</string>
 	
 	<string id="st_medic_dialog_init">
-		<text>I want to buy medical supplies. %c[d_orange][Trade]</text>
+		<text>의약품을 사고 싶어. %c[d_orange][거래]</text>
 	</string>
 	<string id="st_medic_dialog_reply_1">
-		<text>I'm low on supplies but here's what I have.</text>
+		<text>약품이 부족하긴 하지만 여기 내가 가지고 있는 것들이야.</text>
 	</string>
 	<string id="st_medic_dialog_reply_2">
-		<text>Damn, I'm gonna run out of this shit soon enough... Anyway, here.</text>
+		<text>젠장, 곧 있으면 물건들이 동나겠군... 어쨌든, 여기 있어.</text>
 	</string>
 	<string id="st_medic_dialog_reply_3">
-		<text>Alright, don't waste the goods.</text>
+		<text>좋아, 약품을 낭비하지는 말라고.</text>
 	</string>
 	
 	<string id="st_bartender_dialog_init">
-		<text>What you got to sell? %c[d_orange][Trade]</text>
+		<text>뭐 팔고 있는 거라도 있어? %c[d_orange][거래]</text>
 	</string>
 	<string id="st_bartender_dialog_reply_1">
-		<text>Food, drinks, a smoke... what do you want?</text>
+		<text>음식, 음료, 담배... 어떤걸 원하지?</text>
 	</string>
 	<string id="st_bartender_dialog_reply_2">
-		<text>Hungry? I've got just the thing...</text>
+		<text>배고파? 배를 채워 줄 만한 걸 가지고 있지...</text>
 	</string>
 	<string id="st_bartender_dialog_reply_3">
-		<text>What would you like to drink today? Vodka, or Putinka?</text>
+		<text>오늘은 어떤 걸 마시고 싶은데? 보드카, 아니면 푸틴카?</text>
 	</string>
 
 <!-- Selling important documents -->
 	<string id="st_trade_important_documents_0">
-		<text>I found some old documents, are you interested?</text>
+		<text>오래된 서류를 찾았는데, 관심 있어?</text>
 	</string>
 	<string id="st_trade_important_documents_1">
-		<text>Sure!  Let's see what you got there.</text>
+		<text>물론! 뭘 가지고 있는지 보여 줘.</text>
 	</string>
 	<string id="st_trade_important_documents_2">
-		<text>Here, take a look.</text>
+		<text>여기, 한 번 보라고.</text>
 	</string>
 	<string id="st_trade_important_documents_4">
-		<text>Deal.</text>
+		<text>거래하지.</text>
 	</string>
 	<string id="st_trade_important_documents_5">
-		<text>I think I will keep them for now...</text>
+		<text>당장은 내가 가지고 있어야겠군...</text>
 	</string>
 	<string id="st_trade_important_documents_7">
-		<text>Fine then.</text>
+		<text>좋아.</text>
 	</string>
 	
 	<string id="st_trade_important_documents_ask_esc_m_trader">
-		<text>I won't even ask where you got these from. Such documents are extraordinary. Almost everyone will benefit from them... including me. I'm ready to buy them right now for %s RU, plus a nice thing from my stock. What do you say?</text>
+		<text>이걸 어디서 구했는지는 묻지 않을게. 정말 귀한걸 가져왔군. 대부분의 사람들이 이 문서를 통해 이득을 볼 수 있지... 나를 포함해서. %s RU에 살 생각이 있어, 거기다 내가 가지고 물건 중 좋은 걸 얹어주지. 생각 있어?</text>
 	</string>
 	<string id="st_trade_important_documents_answer_esc_m_trader">
-		<text>Excellent! If you find something similar, bring it to me immediately. I will make sure that you get something nice in returns... Hehe.</text>
+		<text>좋아! 만약 이와 비슷한 걸 찾게되면, 바로 나에게 가져와줘. 보답으로 좋은 걸 약속하지... 헤헤</text>
 	</string>
 	
 	<string id="st_trade_important_documents_ask_bar_visitors_barman_stalker_trader">
-		<text>What the... Alright, listen up. These documents are indeed worthy, they contain information about experiments involving the Zone. If I were you I would be careful about putting them in the wrong hands. Here's a deal, %s RU is a good price for such documents. I will get you covered with other stuff as well. I will arrange more money for any other documents you can bring. What do you think?</text>
+		<text>이걸... 좋아, 잘 들어. 이 문서는 정말 귀한거야. 존과 관련된 실험에 대한 정보가 들어있지. 내가 너라면 이 문서가 엉뚱한 놈들 손에 들어가는 걸 조심할 거야. 이렇게 제안하지, %s RU 정도면 잘 쳐주는거야. 네 다른 물건들도 내가 보관해주지. 네가 가져올 문서를 위해 돈을 더 마련해 놓을게. 어떻게 생각해?</text>
 	</string>
 	<string id="st_trade_important_documents_answer_bar_visitors_barman_stalker_trader">
-		<text>Great! You know where to find me when you get more of these.</text>
+		<text>좋아! 이런 걸 또 찾으면 나에게 가져와.</text>
 	</string>
 	
 	<string id="st_trade_important_documents_ask_zat_b7_bandit_boss_sultan">
-		<text>Look at you, a little brave hero who came across these out of the sudden. I will be nice today and ignore these details. I know people who would kill for such documents, this is something that has been hidden for long fucking years you know. %s RU, and I advice you to think carefully.</text>
+		<text>이게 누구야, 작고 용감한 영웅의 갑작스런 등장이군. 나는 오늘 관대할 것이고 이 외의 일들은 무시하겠다. 난 그 서류를 위해 살인까지 할 수 있는 사람들을 알아, 아주 오랜 세월 동안 숨겨져 있었지. %s RU, 신중히 생각하는게 좋을거야.</text>
 	</string>
 	<string id="st_trade_important_documents_answer_zat_b7_bandit_boss_sultan">
-		<text>Nice job boy, next time you "find" such a thing. Don't forget to give me a visit.</text>
+		<text>잘했어, 다음에 이런 걸 또 "발견"하면 잊지 말고 나에게 가져와.</text>
 	</string>
 	
 	<string id="st_trade_important_documents_ask_mar_smart_terrain_base_stalker_leader_marsh">
-		<text>I guess these documents contain valuable information for our group. Unfortunately, things are not going so well currently, we have just gotten up on our feet. I can only offer you %s RU, forgive me.</text>
+		<text>이 문서는 우리한테 귀중한 정보가 될거야. 유감이지만, 현재 상황이 좋지 않아서, 우리는 이제 겨우 다시 일어서고 있어. %s RU이 최대야, 미안해.</text>
 	</string>
 	<string id="st_trade_important_documents_answer_mar_smart_terrain_base_stalker_leader_marsh">
-		<text>Thank you! I understand that what I just gave you is not enough for such valuable information. I'll talk to our merchant, Dispute. Maybe he will save you some extra equipment the next time you bring more documents to us. When our situation improve, I can pay much more for such information, I promise!</text>
+		<text>고마워! 내가 방금 지불한 액수로는 그런 귀중한 정보를 얻을 수 없다는 것을 알고 있어. 우리쪽 상인한테 얘기를 해두지. 다음번 서류를 가져왔을 때 네 장비를 보관해 줄거야. 상황이 나아지면, 이런 정보를 위해 더 큰 액수를 지불하지, 약속할게!</text>
 	</string>
 	
 	<string id="st_trade_important_documents_ask_bar_dolg_leader">
-		<text>Interesting... Let's proceed as follows... %s RU would be the correct price. Not to mention that "Duty" aren't at their best nowadays. Thanks to these documents, we will be able to arrange the deliveries of the equipment we need. I think that you will get something from this, too. Do you agree?</text>
+		<text>흥미롭군... 이렇게 하자... %s RU 정도면 합당할 거야. 요즘 "듀티"가 최고가 아니라는 것은 말할 것도 없지.. 이 문서만 있으면, 우리에게 필요한 장비를 조달할 수 있을 거야. 너도 뭔가 얻어낼 수 있는게 있을텐데, 동의하나?</text>
 	</string>
 	<string id="st_trade_important_documents_answer_bar_dolg_leader">
-		<text>Today I will start negotiations with the military, I believe it won't take long enough to see some results. Next time you bring us such documents, I will pick up a more worthy reward for you. For now, take this, in gratitude from "Duty"!</text>
+		<text>오늘 내무군과 협상을 시작할거야, 결판을 낼 때까지 그리 오래 걸리진 않겠지. 다음에 이와 비슷한 서류를 가지고 오면, 더 큰 보상을 약속하지. 일단 지금은, 이걸 줄게, "듀티"로부터의 감사라고!</text>
 	</string>
 	
 	<string id="st_trade_important_documents_ask_agr_smart_terrain_1_6_near_2_military_colonel_kovalski">
-		<text>Interesting... Very interesting. I'll ignore to the fact that you suddenly found such documents by yourself. Anyway, I have a better idea, or rather: a business proposal. So, you pass these documents to me and forget that you have ever seen them. If you find more, bring them over here, to me personally, without any middlemen, understand? I, on my part, can pay you in cash. %s RU for every document. So, are we agreed?</text>
+		<text>흥미롭군... 아주 흥미로워. 너가 어떻게 이런 서류를 찾아 냈는지는 묻지 않도록 하지. 어쨌든, 나에게 좋은 생각이 있어, 다른 말로: 동업의 제안이지. 너는 이 문서를 넘겨주고, 이걸 본 사실을 잊는 거야. 만약 더 찾게되면, 여기로 가지고 와, 나에게만 개인적으로, 그 누구도 거치지 말고, 알겠어? 나, 나는 말이지, 현금으로 지불 할 수 있어. %s RU로 모든 문서를 구매하지. 합의 된건가?</text>
 	</string>
 	<string id="st_trade_important_documents_answer_agr_smart_terrain_1_6_near_2_military_colonel_kovalski">
-		<text>So, we agreed. For now, here is some money from my pocket, so as not to offend you at all.</text>
+		<text>그래, 합의 되었군. 일단 지금으로서는, 내가 가지고 있는 돈의 전부야, 네가 기분 나빠하지 않았으면 한다.</text>
 	</string>
 	
 	<string id="st_trade_important_documents_ask_cit_killers_merc_trader_stalker">
-		<text>Truly entertaining... Documents about experiments on the territory of the Zone... In times of breakthrough, some of our important clients would offer fabulous sums for them. Times are different now, and it's not that we need them especially in this poor state, but the information here is still of sufficient value, hmmm... Let's do it. I'll take them now for %s RU. Deal?</text>
+		<text>정말 즐겁군... 존에 대한 실험 정보가 담긴 문서란 말이지... 연구에 필요한 중요한 자료를 위해, 우리 고객들은 엄청난 금액을 지불할거야. 지금은 시대가 변했어, 이런 정보는 상황이 좋지 않은 곳에서는 별로 유용하지 않겠지, 하지만 여기서는 아주 유용해, 음... 이렇게 하지. %s RU에 가져가도록 하지. 어때?</text>
 	</string>
 	<string id="st_trade_important_documents_answer_cit_killers_merc_trader_stalker">
-		<text>That's fine. If you find the same kind of documents you should bring them, don't be shy.</text>
+		<text>괜찮아, 이와 같은 좋류의 서류를 찾게되면 여기로 가져와, 주저하지 말고.</text>
 	</string>
 	
 	<string id="st_trade_important_documents_ask_yan_stalker_sakharov">
-		<text>Very interesting stuff indeed! Such documents are not our specialty, but their contents can shed light on many of our studies. In addition, I have no doubts that our sponsors will be extremely interested in having them, which will have a very positive impact on our funding in returns. Do you want to conclude a special deal with us on this occasion? For documents like these, you can receive a monetary reward from us. I can arrange %s RU for the documents you just gave me.</text>
+		<text>아주 흥미로운 놈이군! 이런 서류는 우리 소관은 아니지만, 여기에 담긴 정보들은 여러 연구에 쓰일 수 있지. 게다가, 우리의 후원자들은 아주 큰 관심을 가질거야, 후원에 아주 긍정적인 영향을 끼치겠지. 이번 기회에 우리와 특별한 계약을 맺도록 하자. 이런 서류들이라면, 엄청난 보수를 받을 수 있을거야. 방금 네가 준 서류를 위해 %s RU를 지불하지.</text>
 	</string>
 	<string id="st_trade_important_documents_answer_yan_stalker_sakharov">
-		<text>Thank you! I am very pleased with our new cooperation.</text>
+		<text>고마워! 새로운 고객이 생겨 아주 기쁘군.</text>
 	</string>
 	
 	<string id="st_trade_important_documents_ask_mil_smart_terrain_7_7_freedom_leader_stalker">
