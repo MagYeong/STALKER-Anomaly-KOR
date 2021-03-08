@@ -73,7 +73,7 @@
 		<text>내화성 옷감</text>
 	</string>
 	<string id="upgr_2_03_description">
-		<text>내화성 옷감 한 묶음으로, 짧은 시간 동안 높은 온도를 견뎌낼 능력이 있다. \n \n
+		<text>내화성 옷감 한 묶음으로, 짧은 시간 동안 높은 온도를 견뎌낼 능력이 있습니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 천으로 된 물품\n
 		%c[d_blue] • %c[ui_gray_2] 경갑의 성능을 개선하기 위해 사용\n
@@ -84,7 +84,7 @@
 		<text>운반용 조끼</text>
 	</string>
 	<string id="upgr_1_03_description">
-		<text>추가 안감이 달린 조끼로, 몇 개의 큰 주머니가 달려 있다. \n \n
+		<text>추가 안감이 달린 조끼로, 몇 개의 큰 주머니가 달려 있습니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 천으로 된 물품\n
 		%c[d_blue] • %c[ui_gray_2] 경갑의 성능을 개선하기 위해 사용\n
@@ -998,7 +998,7 @@
 		<text>분리형 보호구</text>
 	</string>
 	<string id="upgr_2_38_description">
-		<text>다양한 길이, 너비, 그리고 모양을 가진 얇은 장갑판으로 외골격이나 중갑에 삽입하여 사용합니다.. \n \n
+		<text>다양한 길이, 너비, 그리고 모양을 가진 얇은 장갑판으로 외골격이나 중갑에 삽입하여 사용합니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 강철로 된 물품\n
 		%c[d_blue] • %c[ui_gray_2] 중갑의 성능을 개선하기 위해 사용\n
