@@ -745,10 +745,10 @@
 	</string>
 	
 	<string id="upgr_2_27_name">
-		<text>Carcass weight distribution device</text>
+		<text>카르카스 무게 분산 장치</text>
 	</string>
 	<string id="upgr_2_27_description">
-		<text>A device for insertion in armoured suits, increasing of carrying capacity. \n \n
+		<text>운반 무게를 늘려주는, 방어구에 삽입하는 장치입니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물건\n
 		%c[d_blue] • %c[ui_gray_2] 평갑과 중갑의 성능을 개선하기 위해 사용\n
@@ -756,10 +756,10 @@
 	</string>
 	
 	<string id="upgr_1_20_name">
-		<text>Dust protection system</text>
+		<text>먼지 보호 시스템</text>
 	</string>
 	<string id="upgr_1_20_description">
-		<text>Built-in dust protection system with replaceable filters. \n \n
+		<text>교체 가능한 필터가 달린 내장형 먼지 보호 시스템입니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물건\n
 		%c[d_blue] • %c[ui_gray_2] 평갑과 중갑의 성능을 개선하기 위해 사용\n
@@ -767,10 +767,10 @@
 	</string>
 	
 	<string id="upgr_2_28_name">
-		<text>Oracle psy-stimulator</text>
+		<text>오라클 정신자극기</text>
 	</string>
 	<string id="upgr_2_28_description">
-		<text>A 과학 관련 물품 that slightly reduces exposure to psy-effects. \n \n
+		<text>정신파 효과에 노출되는 정도를 약간 줄여주는 과학적인 물품입니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 과학 관련 물품\n
 		%c[d_blue] • %c[ui_gray_2] 평갑과 중갑의 성능을 개선하기 위해 사용\n
@@ -779,10 +779,10 @@
 	</string>
 	
 	<string id="upgr_3_21_name">
-		<text>Light life support system</text>
+		<text>라이트 생명 보조 시스템</text>
 	</string>
 	<string id="upgr_3_21_description">
-		<text>Portable life support system for stabilising critical states. \n \n
+		<text>치명적인 건강 상태를 안정화시켜주는 휴대용 생명 보조 장치입니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 의학용 장치\n
 		%c[d_blue] • %c[ui_gray_2] 평갑과 중갑의 성능을 개선하기 위해 사용\n
@@ -791,10 +791,10 @@
 	</string>
 	
 	<string id="upgr_1_21_name">
-		<text>Active filters</text>
+		<text>활성 필터</text>
 	</string>
 	<string id="upgr_1_21_description">
-		<text>Built-in active filter system. \n \n
+		<text>내장형 활성 필터 시스템입니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물건\n
 		%c[d_blue] • %c[ui_gray_2] 평갑과 중갑의 성능을 개선하기 위해 사용\n
@@ -802,10 +802,10 @@
 	</string>
 	
 	<string id="upgr_2_29_name">
-		<text>Protective coating</text>
+		<text>보호 코팅</text>
 	</string>
 	<string id="upgr_2_29_description">
-		<text>Screening cover for helmets and armoured suits, slightly reducing the effects of psy-influences. \n \n
+		<text>헬멧이나 방어구에 덮는 차폐형 덮개로, 정신파 자극의 효과를 약간 줄여줍니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 특별한 물건\n
 		%c[d_blue] • %c[ui_gray_2] 평갑과 중갑의 성능을 개선하기 위해 사용\n
@@ -814,22 +814,22 @@
 	</string>
 	
 	<string id="upgr_2_30_name">
-		<text>1PN93-1 analogue night vision goggles</text>
+		<text>1PN93-1 아날로그형 야간 투시경 고글</text>
 	</string>
 	<string id="upgr_2_30_description">
-		<text>A military night vision device for performing missions in darkness. \n \n
+		<text>어둠 속에서 임무를 수행하기 위한 군용 야간 투시경 장치입니다. \n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] military item\n
+		%c[d_blue] • %c[ui_gray_2] 군용 물품\n
 		%c[d_blue] • %c[ui_gray_2] 평갑과 중갑의 성능을 개선하기 위해 사용\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물건\n
 		</text>
 	</string>
 	
 	<string id="upgr_3_22_name">
-		<text>Protective dome</text>
+		<text>보호용 돔</text>
 	</string>
 	<string id="upgr_3_22_description">
-		<text>Special lining for helmets, reducing the effects of psy-influences.  \n \n
+		<text>헬멧에 덧대는 특수한 안감으로, 정신파 자극 효과를 줄여줍니다.  \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 과학 관련 물품\n
 		%c[d_blue] • %c[ui_gray_2] 평갑과 중갑의 성능을 개선하기 위해 사용\n
@@ -838,270 +838,270 @@
 	</string>
 	
 	<string id="upgr_3_23_name">
-		<text>Ion Wind cooling system</text>
+		<text>이온 윈드 냉각 시스템</text>
 	</string>
 	<string id="upgr_3_23_description">
-		<text>A cooling system for use in medium and heavy armour suits, increasing endurance. \n \n
+		<text>평갑이나 중갑에 사용하는 냉각 시스템으로, 내구성을 높여줍니다. \n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] scientific equipment\n
+		%c[d_blue] • %c[ui_gray_2] 과학 장비\n
 		%c[d_blue] • %c[ui_gray_2] 평갑과 중갑의 성능을 개선하기 위해 사용\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물건\n
 		</text>
 	</string>
 	
 	<string id="upgr_2_31_name">
-		<text>PN21KL night vision goggles</text>
+		<text>PN21KL 야간 투시경 고글</text>
 	</string>
 	<string id="upgr_2_31_description">
-		<text>Digital military night vision for performing missions in darkness. It produces a grey colour. \n \n
+		<text>야간에서의 임무수행을 위한 디지털 군용 야간 투시경입니다. 시야를 회색으로 보여줍니다. \n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] military item\n
+		%c[d_blue] • %c[ui_gray_2] 군용 물품\n
 		%c[d_blue] • %c[ui_gray_2] 평갑과 중갑의 성능을 개선하기 위해 사용\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물건\n
 		</text>
 	</string>
 	
 	<string id="upgr_2_32_name">
-		<text>PN2KL digital night vision goggles</text>
+		<text>PN2KL 디지털 야간 투시경 고글</text>
 	</string>
 	<string id="upgr_2_32_description">
-		<text>Digital military night vision for performing missions in darkness. It produces a violet colour. \n \n
+		<text>야간에서의 임무수행을 위한 디지털 군용 야간 투시경입니다. 시야를 보라색으로 보여줍니다. \n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] military item\n
+		%c[d_blue] • %c[ui_gray_2] 군용 물품\n
 		%c[d_blue] • %c[ui_gray_2] 평갑과 중갑의 성능을 개선하기 위해 사용\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물건\n
 		</text>
 	</string>
 	
 	<string id="upgr_1_22_name">
-		<text>Respiratory mask cleaning system</text>
+		<text>호흡 마스크 세척 시스템</text>
 	</string>
 	<string id="upgr_1_22_description">
-		<text>An integrated cleaning system for gas masks and helmets. \n \n
+		<text>방독면과 헬멧의 내장형 청소 시스템입니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물건\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of headgear\n
+		%c[d_blue] • %c[ui_gray_2] 머리 보호구의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_2_33_name">
-		<text>Coal filter</text>
+		<text>활성탄 필터</text>
 	</string>
 	<string id="upgr_2_33_description">
-		<text>A supplementary replaceable charcoal filter. \n \n
+		<text>교체 가능한 보조 활성탄 필터입니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물건\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of headgear\n
+		%c[d_blue] • %c[ui_gray_2] 머리 보호구의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_3_24_name">
-		<text>Protective antenna</text>
+		<text>보호용 안테나</text>
 	</string>
 	<string id="upgr_3_24_description">
-		<text>A protective antenna, designed for installation in gas masks and helmets. Offers slight protection against psy-influences.  \n \n
+		<text>방독면과 헬멧에 설치하는 보호용 안테나입니다. 정신파의 영향으로부터 약간의 보호를 제공해 줍니다.  \n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] scientific equipment\n
+		%c[d_blue] • %c[ui_gray_2] 과학 장비\n
 		%c[d_blue] • %c[ui_gray_2] 평갑과 중갑의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_1_23_name">
-		<text>Respirator for two filters</text>
+		<text>이중 필터가 달린 호흡기</text>
 	</string>
 	<string id="upgr_1_23_description">
-		<text>A respirator for two filters, replacing other single-filter respirators. \n \n
+		<text>다른 단일 필터 사용 호흡기를 대체하는 이중 필터가 달린 호흡기입니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물건\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of headgear\n
+		%c[d_blue] • %c[ui_gray_2] 머리 보호구의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_1_24_name">
-		<text>Harmful particle filter</text>
+		<text>유해 입자 필터</text>
 	</string>
 	<string id="upgr_1_24_description">
-		<text>A protective filter, preventing the entry of harmful particles into the body through respiratory systems. \n \n
+		<text>보호용 필터로, 호흡기를 통해 해로운 입자들이 신체에 침투하는 것을 막아줍니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물건\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of headgear\n
+		%c[d_blue] • %c[ui_gray_2] 머리 보호구의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_2_34_name">
-		<text>Poison filter</text>
+		<text>독성 필터</text>
 	</string>
 	<string id="upgr_2_34_description">
-		<text>A protective filter, preventing the entry of various poisons and chemicals into the body through respiratory systems. \n \n
+		<text>보호용 필터로, 다양한 독성 물질과 화학 물질들이 호흡기를 통해 인체에 침투하는 것을 막아줍니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물건\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of headgear\n
+		%c[d_blue] • %c[ui_gray_2] 머리 보호구의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_2_35_name">
-		<text>Constantan mask</text>
+		<text>콘스탄탄 마스크</text>
 	</string>
 	<string id="upgr_2_35_description">
-		<text>A protective mask made of constantan, increasing resistance to chemical and thermal effects. \n \n
+		<text>콘스탄탄으로 만들어진 보호용 마스크로, 화학 요소나 열에 대한 저항력을 높여줍니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] constantan item\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of headgear\n
+		%c[d_blue] • %c[ui_gray_2] 머리 보호구의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_1_25_name">
-		<text>Enhanced poison filter</text>
+		<text>강화된 독성 필터</text>
 	</string>
 	<string id="upgr_1_25_description">
-		<text>A filter with a supplementary protective coating, preventing the entry of various poisons and chemicals into the body through respiratory systems. \n \n
+		<text>보조 보호 코팅을 한 필터로, 다양한 독성 물질과 화학 물질들이 호흡기를 통해 인체에 침투하는 것을 막아줍니다.. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물건\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of headgear\n
+		%c[d_blue] • %c[ui_gray_2] 머리 보호구의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_2_36_name">
-		<text>SPB-VPZ.m.IV device</text>
+		<text>SPB-VPZ.m.IV 장치</text>
 	</string>
 	<string id="upgr_2_36_description">
-		<text>A modern protection system, increasing protection against psy-influences. \n \n
+		<text>최신형 보호 시스템으로, 정신파 자극에 대한 보호도가 증가합니다. \n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] scientific equipment\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of headgear\n
+		%c[d_blue] • %c[ui_gray_2] 과학 장비\n
+		%c[d_blue] • %c[ui_gray_2] 머리 보호구의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_1_26_name">
-		<text>Reinforced titanium parts</text>
+		<text>강화된 티타늄 부품</text>
 	</string>
 	<string id="upgr_1_26_description">
-		<text>Strengthened exoskeleton parts made of titanium and its alloys. \n \n
+		<text>티타늄 및 티타늄 합금으로 만들어진 강화된 외골격 부품입니다. \n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] titanium item\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of heavy armour\n
+		%c[d_blue] • %c[ui_gray_2] 티타늄제 물품\n
+		%c[d_blue] • %c[ui_gray_2] 중갑의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_2_37_name">
-		<text>Mobile plates</text>
+		<text>탈착식 강철판</text>
 	</string>
 	<string id="upgr_2_37_description">
-		<text>Supplementary protective steel plates for insertion into exoskeletons and heavy armour suits. \n \n
+		<text>외골격이나 중갑 보호구에 삽입하는 보호용 보조 강철판입니다.. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 강철로 된 물품\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of heavy armour\n
+		%c[d_blue] • %c[ui_gray_2] 중갑의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_2_38_name">
-		<text>Segmented protection</text>
+		<text>분리형 보호구</text>
 	</string>
 	<string id="upgr_2_38_description">
-		<text>A set of thin 장갑판 of various length, width and shape for insertion into exoskeletons and heavy armoured suits. \n \n
+		<text>다양한 길이, 너비, 그리고 모양을 가진 얇은 장갑판으로 외골격이나 중갑에 삽입하여 사용합니다.. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 강철로 된 물품\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of heavy armour\n
+		%c[d_blue] • %c[ui_gray_2] 중갑의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_3_25_name">
-		<text>Titanium armour</text>
+		<text>티타늄 장갑판</text>
 	</string>
 	<string id="upgr_3_25_description">
-		<text>Reinforced titanium 장갑판 of various lengths, widths and shapes for insertion into exoskeletons and heavy armoured suits.  \n \n
+		<text>다양한 길이, 너비 그리고 모양을 가진 강화 티타늄 판으로 외골격이나 중갑에 삽입하여 사용합니다.  \n \n
 		%c[ui_gray_3]특징:\n
-		%c[d_blue] • %c[ui_gray_2] titanium item\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of heavy armour\n
+		%c[d_blue] • %c[ui_gray_2] 티타늄제 물품\n
+		%c[d_blue] • %c[ui_gray_2] 중갑의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_3_26_name">
-		<text>Multilayered protection</text>
+		<text>다중 보호판</text>
 	</string>
 	<string id="upgr_3_26_description">
-		<text>Multilayered polymer-ceramic 장갑판 of various lengths, widths and shapes for insertion into exoskeletons and heavy armoured suits.  \n \n
+		<text>다양한 길이, 너비 그리고 모양을 가진 다층으로 이루어진 폴리머-세라믹 장갑판으로 외굘격이나 중갑에 삽입하여 사용합니다.  \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 세라믹 물품\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of heavy armour\n
+		%c[d_blue] • %c[ui_gray_2] 중갑의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_1_27_name">
-		<text>Silicone shock absorbers</text>
+		<text>실리콘 충격 흡수재</text>
 	</string>
 	<string id="upgr_1_27_description">
-		<text>	Reinforced silicone dampers, designed to replace similar ones from rubber. \n \n
+		<text>	강화된 실리콘 완충재로, 고무로 만들어진 비슷한 부품을 대체하도록 설계되었습니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 폴리머제 물품\n
-		%c[d_blue] • %c[ui_gray_2] used to improve heavy armour\n
+		%c[d_blue] • %c[ui_gray_2] 중갑의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_3_27_name">
-		<text>Polymer suit with bismuth inserts</text>
+		<text>비스무트 내장재가 포함된 폴리머 슈트</text>
 	</string>
 	<string id="upgr_3_27_description">
-		<text>A protective suit-lining made of polymer materials, featuring volumes of bismuth.  \n \n
+		<text>폴리머 재료로 만들어진 보호용 안감으로, 비스무트를 다량 포함하고 있습니다  \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 폴리머제 물품\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of heavy armour\n
+		%c[d_blue] • %c[ui_gray_2] 중갑의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_3_28_name">
-		<text>Aluminium inserts</text>
+		<text>알루미늄 내장재</text>
 	</string>
 	<string id="upgr_3_28_description">
-		<text>Aluminium version of a few plastic parts, designed for exoskeletons and heavy armoured suits.  \n \n
+		<text>몇몇 플라스틱 부품을 알루미늄으로 만든 것으로, 외골격이나 중갑을 위해 설계되었습니다.  \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 알루미늄제 물품\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of heavy armour\n
+		%c[d_blue] • %c[ui_gray_2] 중갑의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_1_28_name">
-		<text>Integrated temperature control system</text>
+		<text>내장형 온도 조절 시스템</text>
 	</string>
 	<string id="upgr_1_28_description">
-		<text>An integrated temperature control system for installation in exoskeleton- and heavy armoured suit life support systems. \n \n
+		<text>내장형 온도조절 시스템으로 외골격이나 중갑의 생명 보조 시스템에 설치합니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 의학용 장치\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of heavy armour\n
+		%c[d_blue] • %c[ui_gray_2] 중갑의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_2_39_name">
-		<text>Motor protection system</text>
+		<text>모터 보호 시스템</text>
 	</string>
 	<string id="upgr_2_39_description">
-		<text>A set of protective 장갑판 of various lengths, widths and shapes for insertion into moving elements of exoskeletons and heavy armoured suits. \n \n
+		<text>다양한 길이, 너비 그리고 모양을 가진 보호용 장갑판으로 외골격이나 중갑의 동력 부품 안에 삽입합니다. \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 강철로 된 물품\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of heavy armour\n
+		%c[d_blue] • %c[ui_gray_2] 중갑의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_3_29_name">
-		<text>Walker motor system</text>
+		<text>워커 모터 시스템</text>
 	</string>
 	<string id="upgr_3_29_description">
-		<text>A system with additional springs and moving parts for exoskeletons and heavy armoured suits.  \n \n
+		<text>외골격과 중갑을 위한 추가 스프링과 동력 부품이 포함된 장치입니다.  \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 강철로 된 물품\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of heavy armour\n
+		%c[d_blue] • %c[ui_gray_2] 중갑의 성능을 개선하기 위해 사용\n
 		</text>
 	</string>
 	
 	<string id="upgr_3_30_name">
-		<text>Hydraulic servo drive amplification system</text>
+		<text>유압식 서보 드라이브 증폭 시스템</text>
 	</string>
 	<string id="upgr_3_30_description">
 		<text>
-		A hydraulic amplification system for servo drives for exoskeletons and heavy armoured suits.  \n \n
+		외골격과 중갑에 있는 서보 드라이브를 위한 유압식 증폭 시스템입니다.  \n \n
 		%c[ui_gray_3]특징:\n
 		%c[d_blue] • %c[ui_gray_2] 기술적 물건\n
-		%c[d_blue] • %c[ui_gray_2] used to improve the properties of heavy armour\n
+		%c[d_blue] • %c[ui_gray_2] 중갑의 성능을 개선하기 위해 사용\n
 		%c[d_blue] • %c[ui_gray_2] 가치있는 물건\n
 		</text>
 	</string>
