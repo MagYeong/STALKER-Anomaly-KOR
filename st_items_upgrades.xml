@@ -8,7 +8,7 @@
 
 <!-- Outfits -->
 	<string id="st_upgr_o_health">
-		<text>Prototype of life support system</text>
+		<text>생명 보조 시스템 프로토타입</text>
 	</string>
 	<string id="st_upgr_o_health_desc">
 		<text>This package contains an integrated system that monitors the wearer's health and supplies vitamins, adrenalin or anabolic substances as required.\n \n
@@ -16,7 +16,7 @@
 	</string>
 	
 	<string id="st_upgr_o_bleed">
-		<text>Prototype of wound healing system</text>
+		<text>상처 치료 시스템 프로토타입</text>
 	</string>
 	<string id="st_upgr_o_bleed_desc">
 		<text>This package contains a medical device designed for continuous administration of medicines in the field.\n \n
@@ -24,91 +24,91 @@
 	</string>
 	
 	<string id="st_upgr_o_armor">
-		<text>Reinforced ballistic inserts</text>
+		<text>강화된 방탄용 안감</text>
 	</string>
 	<string id="st_upgr_o_armor_desc">
 		<text>This package contains various types of kevlar, titanium, beryl, aluminium and carbon fibre plates and matrices. Featuring high viscosity and excellent stopping action.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_damage">
-		<text>Compensating armour layers</text>
+		<text>보조 장갑판</text>
 	</string>
 	<string id="st_upgr_o_damage_desc">
 		<text>This package contains specially crafted armoured plates of different materials, slightly increasing bullet resistance.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_durability">
-		<text>Durable plates and fabrics</text>
+		<text>견고한 장갑판과 옷감</text>
 	</string>
 	<string id="st_upgr_o_durability_desc">
 		<text>This package contains durable armour plates of titanium and aluminium alloy for heavy equipment, and polymeric inserts for lighter outfits.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_power">
-		<text>Plastic and synthetic parts</text>
+		<text>플라스틱 및 합성 부품</text>
 	</string>
 	<string id="st_upgr_o_power_desc">
 		<text>This package contains synthetic and plastic parts from various armoured suits, designed to reduce the weight of armour and increase mobility and endurance.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_chem">
-		<text>Chemical fire retardants and inserts</text>
+		<text>화학적 방화 소재와 안감</text>
 	</string>
 	<string id="st_upgr_o_chem_desc">
 		<text>This package contains a set of hazardous fabrics and materials which can improve the protective performance of suits of armour against chemical effects. They can interrupt the chemical reaction in the gas phase of combustion, while some contain chemicals that cause swelling up behind the protective layer, providing even more insulation.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_burn">
-		<text>Flame-retardant fabrics and inserts</text>
+		<text>방화 옷감 및 안감</text>
 	</string>
 	<string id="st_upgr_o_burn_desc">
 		<text>This package contains a set of protective fabrics and materials with unqiue properties to slow or stop the spread of fire or reduce its intensity. Some are fireproof materials containing magnesium elements of varying length, width, thickness and shape.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_shock">
-		<text>Electrical-insulating textiles and inserts</text>
+		<text>절연용 직물 및 안감</text>
 	</string>
 	<string id="st_upgr_o_shock_desc">
 		<text>This package contains a set of protective constantan, magnesium and silicone inserts, designed to reduce the impact of electrical charges on armour.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_psi">
-		<text>Protective coated layers of fabrics</text>
+		<text>보호 코팅된 피복</text>
 	</string>
 	<string id="st_upgr_o_psi_desc">
 		<text>This package contains a set of screening inserts and aluminized layers for helmets and armoured suits, with radio-repellent rubber to slightly reducing the effects of psy-influences.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_rad">
-		<text>Active filters and radiation shielding materials</text>
+		<text>활성 필터와 방사능 방호 소재</text>
 	</string>
 	<string id="st_upgr_o_rad_desc">
 		<text>A set of protective filters, preventing the entry of various poisons and chemicals into the body through respiratory systems. In addition of high-density materials to reduce the intensity of alpha and gamma particles.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_carry">
-		<text>Fastening system for load distribution</text>
+		<text>무게 분산용 고정 시스템</text>
 	</string>
 	<string id="st_upgr_o_carry_desc">
 		<text>This package contains a set of various fasteners for load distribution.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_arty">
-		<text>Fastening for attachments</text>
+		<text>부착물 고정용 물품</text>
 	</string>
 	<string id="st_upgr_o_arty_desc">
 		<text>This package contains a suit belt attachment to increase the number of simultaneously usable modules and artefact containers.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_run">
-		<text>Hydraulic servo drive amplification system</text>
+		<text>유압식 서보 드라이브 증폭 시스템</text>
 	</string>
 	<string id="st_upgr_o_run_desc">
 		<text>This package contains enhanced prototypical servo drives for first and second generation exoskeletons, allowing the user to sprint.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_weight">
-		<text>Lightweight materials</text>
+		<text>경량화 소재</text>
 	</string>
 	<string id="st_upgr_o_weight_desc">
 		<text>This package contains a set of lightweight polymeric materials of varying length, width, thickness and shape, as well as various properties.\n \n</text>
