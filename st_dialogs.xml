@@ -159,34 +159,34 @@
 	
 <!-- Swap items with Companions -->
 	<string id="st_companion_inv_show_gui">
-		<text>I need to manage the items you're carrying.</text>
+		<text>네가 들고 있는 물건을 관리하고 싶어.</text>
 	</string>
 	<string id="st_companion_inv_take_all_my_items">
-		<text>I need you to carry my loot</text>
+		<text>내 물건들을 들어줬으면 해.</text>
 	</string>
 	<string id="st_companion_inv_take_all_my_items_dummy"> <!-- NPC will refuse -->
-		<text>I need you to carry my loot.</text>
+		<text>내 물건들을 들어줬으면 해.</text>
 	</string>
 	<string id="st_companion_inv_take_all_my_items_response_accept_1">
-		<text>Sure, tell me when you want your stuff back.</text>
+		<text>그래, 물건들을 가져가고 싶을 때 다시 말해줘.</text>
 	</string>
 	<string id="st_companion_inv_take_all_my_items_response_accept_2">
-		<text>Eh, you're making me carry the heavy stuff, aren't you? Alright then.</text>
+		<text>어라, 나한테 무거운 물건을 들고 다니게 하려는 거지? 알겠어.</text>
 	</string>
 	<string id="st_companion_inv_take_all_my_items_response_refuse_1">
-		<text>Hold on man, I have stuff too! I can't carry all of your rubbish at once!</text>
+		<text>잠깐만, 나도 들고 다니는 짐이 있어! 그 잡동사니들을 한번에 들고 다닐 수는 없어.</text>
 	</string>
 	<string id="st_companion_inv_take_all_my_items_response_refuse_2">
-		<text>Sorry, but my backpack is full already.</text>
+		<text>미안, 이미 배낭이 가득 차서.</text>
 	</string>
 	<string id="st_companion_inv_take_all_my_items_response_refuse_3">
-		<text>What am I, a mule? Come on, man, my backpack is already bursting!</text>
+		<text>날 뭘로 보는거야, 당나귀라도 되는 줄 알아? 이 친구야, 이미 내 배낭도 터질 것만 같다고!</text>
 	</string>
 	<string id="st_companion_inv_give_me_back_all_items">
-		<text>My turn to be the pack mule now. Can you pass the loot over?</text>
+		<text>이제 내가 짐꾼이 될 차례야. 내 물건들을 다시 돌려 주겠어?</text>
 	</string>
 	<string id="st_companion_inv_give_me_back_all_items_response">
-		<text>Sure, here you go.</text>
+		<text>그래, 여기 있어.</text>
 	</string>
 
 <!-- Paid Companions -->
