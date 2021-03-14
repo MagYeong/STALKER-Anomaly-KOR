@@ -116,98 +116,98 @@
 
 <!-- Weapons -->
 	<string id="st_upgr_w_weight">
-		<text>Mobile counter-weight components</text>
+		<text>이동형 역가중 부품</text>
 	</string>
 	<string id="st_upgr_w_weight_desc">
 		<text>This package contains a set of lightweight polymer components for various types of weapons. The fashion for polymer components has not only paid off, but it has also become quite a popular upgrade.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_muffle">
-		<text>Barrel external threading components</text>
+		<text>총열 외부 나사깎기용 부품</text>
 	</string>
 	<string id="st_upgr_w_muffle_desc">
 		<text>This package contains a set of external threading components for various types of weapons. External threading allows a silencer to be installed.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_grenade_mount">
-		<text>Underbarrel grenade launcher mounts</text>
+		<text>총열 하단 유탄발사기 거치대</text>
 	</string>
 	<string id="st_upgr_w_grenade_mount_desc">
 		<text>This package contains a set of external underbarrel grenade launcher mounts for various types of weapons.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_reliability">
-		<text>Automatic gas regulators</text>
+		<text>자동 가스 조절기</text>
 	</string>
 	<string id="st_upgr_w_reliability_desc">
 		<text>This package contains a set of special regulator mechanism for various types of weapons. It protects the weapon from dirt.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_speed">
-		<text>Barrel Additional threaded canals</text>
+		<text>총열 추가 나사모양 홈</text>
 	</string>
 	<string id="st_upgr_w_speed_desc">
 		<text>This package contains a set of additional threaded canals for various types of weapons. Installation of a barrel with additional threaded canals improves bullet speed and weapon accuracy at the cost of a considerable increase in recoil.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_recoil">
-		<text>Additional gas pistons</text>
+		<text>추가 가스 피스톤</text>
 	</string>
 	<string id="st_upgr_w_recoil_desc">
 		<text>This package contains a set of additional gas pistons for various types of weapons. A second piston moves the counter-weight, compensating for the bolt mechanism movement impulse.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_magazine">
-		<text>High-capacity magazine set</text>
+		<text>대용량 탄창 세트</text>
 	</string>
 	<string id="st_upgr_w_magazine_desc">
 		<text>This package contains a set of magazines for various types of weapons with higher capacity for calibres.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_scope">
-		<text>Optical scopes mounting set</text>
+		<text>광학식 조준기 거치대 세트</text>
 	</string>
 	<string id="st_upgr_w_scope_desc">
 		<text>This package contains a set of optical scopes for various types of weapons. Mounting includes scopes for close, medium and long range combat.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_dispersion">
-		<text>Balancing elements</text>
+		<text>균형유지 부품</text>
 	</string>
 	<string id="st_upgr_w_dispersion_desc">
 		<text>This package contains a set of balancing elements for various types of weapons. Synthetic elements installed onto rods ensures that they move strictly as intended, increasing accuracy.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_calibre">
-		<text>Calibre components set</text>
+		<text>구경 전환 부품 세트</text>
 	</string>
 	<string id="st_upgr_w_calibre_desc">
 		<text>This package contains a set of calibre components for various types of weapons. A complex, integrated alteration of the weapon's mechanical and automated parts, which allows its calibre to be changed at the cost of reliability.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_inertion">
-		<text>Ergonomic receivers with different shapes</text>
+		<text>다양한 모양의 인체공학적 총몸</text>
 	</string>
 	<string id="st_upgr_w_inertion_desc">
 		<text>This package contains a set of ergonomic receiver for various types of weapons. A modification used exclusively for barrels with solid bullpup receivers, which simplifies maintenance of the weapon.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_rpm">
-		<text>Titanium return mechanism rods</text>
+		<text>티타늄 복귀 메커니즘 막대</text>
 	</string>
 	<string id="st_upgr_w_rpm_desc">
 		<text>This package contains a set of titanium rods for various types of weapons. Titanium rods can endure a much higher rate of fire than regular rods.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_scope_mount">
-		<text>Optical mount set</text>
+		<text>광학식 조준경 거치대 세트</text>
 	</string>
 	<string id="st_upgr_w_scope_mount_desc">
 		<text>This package contains a set of optical mounts for various types of weapons. Allowing installation of a mount for attachment of an optical scope.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_firemode">
-		<text>Trigger mechanism set</text>
+		<text>방아쇠 기계장치 세트</text>
 	</string>
 	<string id="st_upgr_w_firemode_desc">
 		<text>This package contains a set of trigger mechanism for various types of weapons. Improvement of the weapon's automatic parts suitable for different burst and automated fire modes.\n \n</text>
