@@ -11,7 +11,7 @@
 		<text>생명 보조 시스템 프로토타입</text>
 	</string>
 	<string id="st_upgr_o_health_desc">
-		<text>This package contains an integrated system that monitors the wearer's health and supplies vitamins, adrenalin or anabolic substances as required.\n \n
+		<text>이 패키지에는 착용자의 건강 상태를 관찰하고 비타민, 아드레날린이나 기타 신진대사 물질들을 필요한 만큼 공급해주는 통합 시스템이 포함되어 있습니다.\n \n
 		</text>
 	</string>
 	
@@ -19,7 +19,7 @@
 		<text>상처 치료 시스템 프로토타입</text>
 	</string>
 	<string id="st_upgr_o_bleed_desc">
-		<text>This package contains a medical device designed for continuous administration of medicines in the field.\n \n
+		<text>이 패키지에는 야전에서 약품 사용을 지속적으로 관리하기 위한 의료용 기구가 포함되어 있습니다.\n \n
 		</text>
 	</string>
 	
@@ -27,28 +27,28 @@
 		<text>강화된 방탄용 안감</text>
 	</string>
 	<string id="st_upgr_o_armor_desc">
-		<text>This package contains various types of kevlar, titanium, beryl, aluminium and carbon fibre plates and matrices. Featuring high viscosity and excellent stopping action.\n \n</text>
+		<text>이 패키지에는 다양한 종류의 케블라, 티타늄, 베릴, 알루미늄 그리고 카본 섬유 판 및 그물망들을 포함하고 있습니다. 높은 점착력과 훌륭한 총탄 저지력을 가지고 있습니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_damage">
 		<text>보조 장갑판</text>
 	</string>
 	<string id="st_upgr_o_damage_desc">
-		<text>This package contains specially crafted armoured plates of different materials, slightly increasing bullet resistance.\n \n</text>
+		<text>이 패키지에는 특수하게 제작된 다양한 소재의 장갑판이 포함되어 있어, 방탄력을 약간 높여줍니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_durability">
 		<text>견고한 장갑판과 옷감</text>
 	</string>
 	<string id="st_upgr_o_durability_desc">
-		<text>This package contains durable armour plates of titanium and aluminium alloy for heavy equipment, and polymeric inserts for lighter outfits.\n \n</text>
+		<text>이 패키지에는 중장비에 사용되는 티타늄과 알루미늄 합금으로 된 튼튼한 장갑판과, 가벼운 장비에 사용되는 폴리머 안감이 포함되어 있습니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_power">
 		<text>플라스틱 및 합성 부품</text>
 	</string>
 	<string id="st_upgr_o_power_desc">
-		<text>This package contains synthetic and plastic parts from various armoured suits, designed to reduce the weight of armour and increase mobility and endurance.\n \n</text>
+		<text>이 패키지에는 다양한 장갑복에서 사용되었던 합성 섬유와 플라스틱 부품들이 포함되어 있으며, 방어구의 무게를 줄여 기동성과 내구성을 향상시키기 위해 고안되었습니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_chem">
@@ -193,7 +193,7 @@
 	</string>
 	
 	<string id="st_upgr_w_rpm">
-		<text>티타늄 복귀 메커니즘 막대</text>
+		<text>티타늄 복귀 장치 지지대</text>
 	</string>
 	<string id="st_upgr_w_rpm_desc">
 		<text>This package contains a set of titanium rods for various types of weapons. Titanium rods can endure a much higher rate of fire than regular rods.\n \n</text>
