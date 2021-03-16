@@ -55,35 +55,35 @@
 		<text>화학적 방화 소재와 안감</text>
 	</string>
 	<string id="st_upgr_o_chem_desc">
-		<text>This package contains a set of hazardous fabrics and materials which can improve the protective performance of suits of armour against chemical effects. They can interrupt the chemical reaction in the gas phase of combustion, while some contain chemicals that cause swelling up behind the protective layer, providing even more insulation.\n \n</text>
+		<text>이 패키지에는 화학적인 영향으로부터 방어구의 보호 성능을 향상시킬 수 있는 유해한 직물 및 재료 세트가 들어 있습니다. 이러한 소재들은 연소 시 가스 생성 과정에서의 화학 반응에 간섭할 수 있는 한편, 몇몇 소재에서는 보호막 내부에서 부풀어오르는 화학 물질들을 포함하고 있어, 더욱 강한 단열 효과를 제공합니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_burn">
 		<text>방화 옷감 및 안감</text>
 	</string>
 	<string id="st_upgr_o_burn_desc">
-		<text>This package contains a set of protective fabrics and materials with unqiue properties to slow or stop the spread of fire or reduce its intensity. Some are fireproof materials containing magnesium elements of varying length, width, thickness and shape.\n \n</text>
+		<text>이 패키지에는 불이 번지는 것을 늦추거나 막아주고, 불의 세기를 약화시키는 독특한 기능을 가진 보호용 옷감과 소재들이 포함되어 있습니다. 이러한 소재들 중 일부는 다양한 길이, 너비, 두께와 형태를 가진 마그네슘 성분이 포함된 내화성 물질입니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_shock">
 		<text>절연용 직물 및 안감</text>
 	</string>
 	<string id="st_upgr_o_shock_desc">
-		<text>This package contains a set of protective constantan, magnesium and silicone inserts, designed to reduce the impact of electrical charges on armour.\n \n</text>
+		<text>이 패키지에는 보호용 콘스탄탄, 마그네슘 그리고 실리콘 안감 세트가 포함되어 있으며, 방어구에 가해지는 전기 충격을 줄여주도록 고안되었습니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_psi">
 		<text>보호 코팅된 피복</text>
 	</string>
 	<string id="st_upgr_o_psi_desc">
-		<text>This package contains a set of screening inserts and aluminized layers for helmets and armoured suits, with radio-repellent rubber to slightly reducing the effects of psy-influences.\n \n</text>
+		<text>이 패키지에는 머리 보호구나 장갑복에 사용되는 코팅용 안감과 알루미늄 처리된 내피 세트와 함께, 정신파의 효과를 약간 감소시켜 주는 전파 방해용 고무 소재가 포함되어 있습니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_rad">
 		<text>활성 필터와 방사능 방호 소재</text>
 	</string>
 	<string id="st_upgr_o_rad_desc">
-		<text>A set of protective filters, preventing the entry of various poisons and chemicals into the body through respiratory systems. In addition of high-density materials to reduce the intensity of alpha and gamma particles.\n \n</text>
+		<text>보호용 필터 한 세트로, 호흡기를 통해 신체로 다양한 독성 물질이나 화학 물질들이 침투하는 것을 막아줍니다. 알파 및 감마선 입자의 강도를 저감시키기 위한 고밀도 소재들 또한 포함되어 있습니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_carry">
