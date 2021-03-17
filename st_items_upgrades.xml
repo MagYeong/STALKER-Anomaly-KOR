@@ -90,21 +90,21 @@
 		<text>무게 분산용 고정 시스템</text>
 	</string>
 	<string id="st_upgr_o_carry_desc">
-		<text>This package contains a set of various fasteners for load distribution.\n \n</text>
+		<text>이 패키지에는 무게 분산을 위한 다양한 고정끈 세트가 포함되어 있습니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_arty">
 		<text>부착물 고정용 물품</text>
 	</string>
 	<string id="st_upgr_o_arty_desc">
-		<text>This package contains a suit belt attachment to increase the number of simultaneously usable modules and artefact containers.\n \n</text>
+		<text>이 패키지에는 동시에 사용할 수 있는 모듈이나 아티팩트 컨테이너의 숫자를 늘려주는 의복 벨트 부착물이 포함되어 있습니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_run">
 		<text>유압식 서보 드라이브 증폭 시스템</text>
 	</string>
 	<string id="st_upgr_o_run_desc">
-		<text>This package contains enhanced prototypical servo drives for first and second generation exoskeletons, allowing the user to sprint.\n \n</text>
+		<text>이 패키지에는 1세대 및 2세대 외골격에 사용되는 강화 프로토타입 서보 드라이브가 포함되어 있어, 사용자가 외골격을 입고 달릴 수 있도록 합니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_o_weight">
