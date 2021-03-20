@@ -126,91 +126,91 @@
 		<text>총열 외부 나사깎기용 부품</text>
 	</string>
 	<string id="st_upgr_w_muffle_desc">
-		<text>This package contains a set of external threading components for various types of weapons. External threading allows a silencer to be installed.\n \n</text>
+		<text>이 패키지에는 다양한 무기들에 사용되는 총열 외부 나사깎기용 부품 세트가 포함되어 있습니다. 총열을 깎아내면 소음기를 설치할 수 있습니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_grenade_mount">
 		<text>총열 하단 유탄발사기 거치대</text>
 	</string>
 	<string id="st_upgr_w_grenade_mount_desc">
-		<text>This package contains a set of external underbarrel grenade launcher mounts for various types of weapons.\n \n</text>
+		<text>이 패키지에는 다양한 무기들에 사용되는 외부 총열 하단 유탄발사기 거치대 세트가 포함되어 있습니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_reliability">
 		<text>자동 가스 조절기</text>
 	</string>
 	<string id="st_upgr_w_reliability_desc">
-		<text>This package contains a set of special regulator mechanism for various types of weapons. It protects the weapon from dirt.\n \n</text>
+		<text>이 패키지에는 다양한 종류의 무기들에 사용되는 특수한 조절 장치 세트가 포함되어 있습니다. 무기에 먼지가 끼는 것을 막아줍니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_speed">
 		<text>총열 추가 나사모양 홈</text>
 	</string>
 	<string id="st_upgr_w_speed_desc">
-		<text>This package contains a set of additional threaded canals for various types of weapons. Installation of a barrel with additional threaded canals improves bullet speed and weapon accuracy at the cost of a considerable increase in recoil.\n \n</text>
+		<text>이 패키지에는 다양한 무기들에 사용되는 추가 나사모양 홈 개조용 도구들이 포함되어 있습니다. 추가적인 나사모양 홈이 설치된 총열은 상당한 정도의 반동 증가를 대가로 총구 초속과 정확도를 향상시켜 줍니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_recoil">
 		<text>추가 가스 피스톤</text>
 	</string>
 	<string id="st_upgr_w_recoil_desc">
-		<text>This package contains a set of additional gas pistons for various types of weapons. A second piston moves the counter-weight, compensating for the bolt mechanism movement impulse.\n \n</text>
+		<text>이 패키지에는 다양한 무기들에 사용되는 추가 가스 피스톤 세트가 포함되어 있습니다. 추가 피스톤은 역가중 방향으로 움직여서, 노리쇠 장치의 움직임으로 인해 생기는 반발력을 상쇄해 줍니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_magazine">
 		<text>대용량 탄창 세트</text>
 	</string>
 	<string id="st_upgr_w_magazine_desc">
-		<text>This package contains a set of magazines for various types of weapons with higher capacity for calibres.\n \n</text>
+		<text>이 패키지에는 다양한 무기의 각 구경별로 더 많은 용량을 가진 탄창 세트가 포함되어 있습니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_scope">
 		<text>광학식 조준기 거치대 세트</text>
 	</string>
 	<string id="st_upgr_w_scope_desc">
-		<text>This package contains a set of optical scopes for various types of weapons. Mounting includes scopes for close, medium and long range combat.\n \n</text>
+		<text>이 패키지에는 다양한 무기들에 사용되는 광학식 조준기 세트가 포함되어 있습니다. 근거리, 중거리는 물론 장거리 전투에서 사용되는 조준기들을 거치할 수 있습니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_dispersion">
 		<text>균형유지 부품</text>
 	</string>
 	<string id="st_upgr_w_dispersion_desc">
-		<text>This package contains a set of balancing elements for various types of weapons. Synthetic elements installed onto rods ensures that they move strictly as intended, increasing accuracy.\n \n</text>
+		<text>이 패키지에는 다양한 무기들에 사용되는 균형유지용 부품 세트가 포함되어 있습니다. 지지대 부위에 합성 부품을 설치하면 지지대가 설계대로 오차없이 움직일 수 있게 하여, 정확도를 높여줍니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_calibre">
 		<text>구경 전환 부품 세트</text>
 	</string>
 	<string id="st_upgr_w_calibre_desc">
-		<text>This package contains a set of calibre components for various types of weapons. A complex, integrated alteration of the weapon's mechanical and automated parts, which allows its calibre to be changed at the cost of reliability.\n \n</text>
+		<text>이 패키지에는 다양한 무기들에 사용되는 구경 전환 부품 세트가 포함되어 있습니다. 무기의 기계적 구조와 자동화 부품들에 대한 복합적이고, 총체적인 교체를 통해, 신뢰성을 대가로 구경을 전환할 수 있습니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_inertion">
 		<text>다양한 모양의 인체공학적 총몸</text>
 	</string>
 	<string id="st_upgr_w_inertion_desc">
-		<text>This package contains a set of ergonomic receiver for various types of weapons. A modification used exclusively for barrels with solid bullpup receivers, which simplifies maintenance of the weapon.\n \n</text>
+		<text>이 패키지에는 다양한 무기들에 사용되는 인체공학적 총몸 세트가 포함되어 있습니다. 이러한 교정은 특히 완전한 불펍 형태의 총몸에 사용되는 총열에 적용되어, 무기의 유지관리를 좀 더 단순하게 만들어줍니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_rpm">
 		<text>티타늄 복귀 장치 지지대</text>
 	</string>
 	<string id="st_upgr_w_rpm_desc">
-		<text>This package contains a set of titanium rods for various types of weapons. Titanium rods can endure a much higher rate of fire than regular rods.\n \n</text>
+		<text>이 패키지에는 다양한 무기에 사용되는 티타늄 지지대 세트가 포함되어 있습니다. 티타늄 지지대는 기존 지지대에 비해 더욱 높은 연사 속도를 견뎌낼 수 있습니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_scope_mount">
 		<text>광학식 조준경 거치대 세트</text>
 	</string>
 	<string id="st_upgr_w_scope_mount_desc">
-		<text>This package contains a set of optical mounts for various types of weapons. Allowing installation of a mount for attachment of an optical scope.\n \n</text>
+		<text>이 패키지에는 다양한 무기에 사용되는 광학식 조준경 거치대가 포함되어 있습니다. 광학식 조준경을 부착하기 위한 거치대를 설치할 수 있도록 합니다.\n \n</text>
 	</string>
 	
 	<string id="st_upgr_w_firemode">
 		<text>방아쇠 기계장치 세트</text>
 	</string>
 	<string id="st_upgr_w_firemode_desc">
-		<text>This package contains a set of trigger mechanism for various types of weapons. Improvement of the weapon's automatic parts suitable for different burst and automated fire modes.\n \n</text>
+		<text>이 패키지에는 다양한 무기에 사용되는 방아쇠 장치 세트가 포함되어 있습니다. 무기의 자동화 부품들을 다양한 점사 및 연사 모드로의 전환에 적합하도록 개선해줍니다.\n \n</text>
 	</string>
 
 </string_table>
