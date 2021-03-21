@@ -140,7 +140,7 @@
 		<text>5.56x45 mm AP 탄</text>
 	</string>
 	<string id="ammo-5.56x45-ap_descr">
-		<text>The latest NATO military 5.56x45 calibre enhanced penetration round, known as M855A1, used by the US armed forces. Increased effectiveness against both body armour and soft tissue.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]medium</text>
+		<text>M855A1 식별 번호로 알려진 최신식 NATO 군용 5.56x45 구경 강화 장갑관통탄으로, 미군이 사용하고 있습니다. 방탄복과 신체조직 모두에 대한 효과성이 증대되었습니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]중간</text>
 	</string>
 	<string id="ammo-5.56x45-ap_s">
 		<text>5.56x45 AP</text>
@@ -150,7 +150,7 @@
 		<text>5.56x45 mm EP 탄</text>
 	</string>
 	<string id="ammo-5.56x45-ss190_descr">
-		<text>A standard-issue NATO 5.56x45 calibre round with a steel core. The new design improved penetration at the cost of less reliable tissue damage. Widely known under its M855 index.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]medium</text>
+		<text>강철 심을 가진 나토의 제식 5.56x45 구경 탄환입니다. 새로운 디자인을 통해 생체조직 피해량을 조금 줄인 대신 관통력을 늘렸습니다. 식별번호 M855로 널리 알려져 있습니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]중간</text>
 	</string>
 	<string id="ammo-5.56x45-ss190_s">
 		<text>5.56x45 EP</text>
@@ -160,7 +160,7 @@
 		<text>5.56x45 mm FMJ 탄</text>
 	</string>
 	<string id="ammo-5.56x45-fmj_descr">
-		<text>A standard-issue NATO 5.56x45 calibre M193 round specially designed for accurate automatic fire. Provides good ballistic characteristics, having been designed on the basis of a hunting round. Well known for being used in the Vietnam war and having great performance against tissue, but limited penetration.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]high</text>
+		<text>정확한 자동 사격을 위해 특별히 고안된 NATO 제식 5.56x45 구경 M193 탄환입니다. 사냥용 탄환을 기초로 설계되어, 괜찮은 수준의 탄도를 보여줍니다. 베트남 전쟁에서 사용된 것으로 유명하며 훌륭한 생체조직 피해량을 보여주지만, 관통력이 제한되어 있습니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]높음</text>
 	</string>
 	<string id="ammo-5.56x45-fmj_s">
 		<text>5.56x45 FMJ</text>
@@ -170,7 +170,7 @@
 		<text>5.7x28 SS190 탄</text>
 	</string>
 	<string id="ammo-5.7x28-ss190_descr">
-		<text>The FN 5.7x28mm is a high velocity cartridge designed and manufactured by FN Herstal. It is a bottlenecked centrefire cartridge that is somewhat similar to the .22 Hornet or .22 K-Hornet. The 5.7x28mm was developed in conjunction with the FN P90 personal defense weapon (PDW) and FN Five-seven pistol, in response to NATO requests for a replacement for the 9x19mm Parabellum cartridge.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]low - medium</text>
+		<text>FN 5.7x28mm 탄은 FN 에르스탈에서 설계 및 생산된 고속탄입니다. 이 탄약은 보틀넥 형태의 센터파이어 탄으로 .22 호넷이나 .22 K-호넷 탄과 다소 유사한 모습입니다. 5.7x28mm 탄은 NATO의 9x19mm 파라벨럼 탄을 대체하는 무기체계 개발 요구에 의해, FN P90 개인방어화기 (PDW) 와 FN 파이브-세븐 권총의 합동 개발 프로젝트로 만들어졌습니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]낮음 - 중간</text>
 	</string>
 	<string id="ammo-5.7x28-ss190_s">
 		<text>5.7x28 AP</text>
@@ -180,7 +180,7 @@
 		<text>4.6x30 mm FMJ 탄</text>
 	</string>
 	<string id="ammo-4.6x30-fmj_descr">
-		<text>The HK 4.6?30mm cartridge is a type of ammunition primarily used in the Heckler & Koch MP7 Personal defense weapon (PDW). It is designed to minimize weight and recoil while increasing penetration of body armor. It features a bottlenecked case and a pointed, steel-core, brass-jacketed bullet. 
+		<text>HK 4.6x30mm 탄은 헤클러 운트 코흐 사의 MP7 개인방어화기 (PDW) 에서 주로 사용되는 형태의 탄약입니다. 무게와 반동을 최소화하면서 방탄복에 대한 관통력을 증가시키는 방향으로 디자인되었습니다. 보틀넥 탄피와 뾰족하고, 강철 심과 청동 코팅으로 이루어진 탄자를 갖추었습니다. 
 		\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IIIA
 		\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]low - medium</text>
 	</string>
@@ -188,10 +188,10 @@
 		<text>4.6x30 FMJ</text>
 	</string>
 	<string id="ammo-4.6x30-fmj_bad">
-		<text>4.6x30 mm FMJ 탄 (old)</text>
+		<text>4.6x30 mm FMJ 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-4.6x30-fmj_verybad">
-		<text>4.6x30 mm FMJ 탄 (damaged)</text>
+		<text>4.6x30 mm FMJ 탄 (손상됨)</text>
 	</string>
 	
 	<string id="ammo-5.7x28-ss195">
@@ -217,10 +217,10 @@
 		<text>.50 BMG</text>
 	</string>
 	<string id="ammo-50-bmg_bad">
-		<text>.50 BMG 탄 (old)</text>
+		<text>.50 BMG 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-50-bmg_verybad">
-		<text>.50 BMG 탄 (damaged)</text>
+		<text>.50 BMG 탄 (손상됨)</text>
 	</string>
 	
 	<string id="ammo-7.62x25-p">
@@ -469,250 +469,250 @@
 	
 		<!-- Bad Ammo Addon-->
 	<string id="ammo-11.43x23-fmj_bad">
-		<text>.45 ACP 탄 (old)</text>
+		<text>.45 ACP 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-11.43x23-fmj_verybad">
-		<text>.45 ACP 탄 (damaged)</text>
+		<text>.45 ACP 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-7.62x51_fmj_bad">
-		<text>7.62x51 mm NATO 탄 (old)</text>
+		<text>7.62x51 mm NATO 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-7.62x51_fmj_verybad">
-		<text>7.62x51 mm NATO 탄 (damaged)</text>
+		<text>7.62x51 mm NATO 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-7.62x51_ap_bad">
-		<text>7.62x51 mm AP 탄 (old)</text>
+		<text>7.62x51 mm AP 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-7.62x51_ap_verybad">
-		<text>7.62x51 mm AP 탄 (damaged)</text>
+		<text>7.62x51 mm AP 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-11.43x23-hydro_bad">
-		<text>.45 ACP Hydra-shock 탄 (old)</text>
+		<text>.45 ACP Hydra-shock 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-11.43x23-hydro_verybad">
-		<text>.45 ACP Hydra-shock 탄 (damaged)</text>
+		<text>.45 ACP Hydra-shock 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-357-hp_bad">
-		<text>.357 HP 탄 (old)</text>
+		<text>.357 HP 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-357-hp_verybad">
-		<text>.357 HP 탄 (damaged)</text>
+		<text>.357 HP 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-338-lapua_bad">
-		<text>.338 Lapua Magnum 탄 (old)</text>
+		<text>.338 Lapua Magnum 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-338-lapua_verybad">
-		<text>.338 Lapua Magnum 탄 (damaged)</text>
+		<text>.338 Lapua Magnum 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-12x70-buck_bad">
-		<text>12x70 shot 탄 (old)</text>
+		<text>12x70 shot 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-12x70-buck_verybad">
-		<text>12x70 shot 탄 (damaged)</text>
+		<text>12x70 shot 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-12x76-zhekan_bad">
-		<text>12x76 slug 탄 (old)</text>
+		<text>12x76 slug 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-12x76-zhekan_verybad">
-		<text>12x76 slug 탄 (damaged)</text>
+		<text>12x76 slug 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-12x76-dart_bad">
-		<text>12x76 dart 탄 (old)</text>
+		<text>12x76 dart 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-12x76-dart_verybad">
-		<text>12x76 dart 탄 (damaged)</text>
+		<text>12x76 dart 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-5.45x39-ap_bad">
-		<text>5.45x39 mm AP 탄 (old)</text>
+		<text>5.45x39 mm AP 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-5.45x39-ap_verybad">
-		<text>5.45x39 mm AP 탄 (damaged)</text>
+		<text>5.45x39 mm AP 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-5.45x39-ep_bad">
-		<text>5.45x39 mm EP 탄 (old)</text>
+		<text>5.45x39 mm EP 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-5.45x39-ep_verybad">
-		<text>5.45x39 mm EP 탄 (damaged)</text>
+		<text>5.45x39 mm EP 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-5.45x39-fmj_bad">
-		<text>5.45x39 mm FMJ 탄 (old)</text>
+		<text>5.45x39 mm FMJ 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-5.45x39-fmj_verybad">
-		<text>5.45x39 mm FMJ 탄 (damaged)</text>
+		<text>5.45x39 mm FMJ 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-5.56x45-ap_bad">
-		<text>5.56x45 mm AP 탄 (old)</text>
+		<text>5.56x45 mm AP 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-5.56x45-ap_verybad">
-		<text>5.56x45 mm AP 탄 (damaged)</text>
+		<text>5.56x45 mm AP 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-5.56x45-ss190_bad">
-		<text>5.56x45 mm EP 탄 (old)</text>
+		<text>5.56x45 mm EP 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-5.56x45-ss190_verybad">
-		<text>5.56x45 mm EP 탄 (damaged)</text>
+		<text>5.56x45 mm EP 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-5.56x45-fmj_bad">
-		<text>5.56x45 mm FMJ 탄 (old)</text>
+		<text>5.56x45 mm FMJ 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-5.56x45-fmj_verybad">
-		<text>5.56x45 mm FMJ 탄 (damaged)</text>
+		<text>5.56x45 mm FMJ 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-7.62x54-7n1_bad">
-		<text>7.62x54 mm 7N1 탄 (old)</text>
+		<text>7.62x54 mm 7N1 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-7.62x54-7n1_verybad">
-		<text>7.62x54 mm 7N1 탄 (damaged)</text>
+		<text>7.62x54 mm 7N1 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-7.62x54_7n14_bad">
-		<text>7.62x54 mm 7N14 탄 (old)</text>
+		<text>7.62x54 mm 7N14 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-7.62x54_7n14_verybad">
-		<text>7.62x54 mm 7N14 탄 (damaged)</text>
+		<text>7.62x54 mm 7N14 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-7.62x54-ap_bad">
-		<text>7.62x54 mm AP 탄 (old)</text>
+		<text>7.62x54 mm AP 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-7.62x54-ap_verybad">
-		<text>7.62x54 mm AP 탄 (damaged)</text>
+		<text>7.62x54 mm AP 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-7.62x54-r_bad">
-		<text>7.62x54 mm PP 탄 (old)</text>
+		<text>7.62x54 mm PP 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-7.62x54-r_verybad">
-		<text>7.62x54 mm PP 탄 (damaged)</text>
+		<text>7.62x54 mm PP 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-9x18-fmj_bad">
-		<text>9x18 mm FMJ 탄 (old)</text>
+		<text>9x18 mm FMJ 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-9x18-fmj_verybad">
-		<text>9x18 mm FMJ 탄 (damaged)</text>
+		<text>9x18 mm FMJ 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-9x18-pmm_bad">
-		<text>9x18 mm +P+ 탄 (old)</text>
+		<text>9x18 mm +P+ 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-9x18-pmm_verybad">
-		<text>9x18 mm +P+ 탄 (damaged)</text>
+		<text>9x18 mm +P+ 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-9x18-ap_bad">
-		<text>9x18 RG028 탄 (old)</text>
+		<text>9x18 RG028 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-9x18-ap_verybad">
-		<text>9x18 RG028 탄 (damaged)</text>
+		<text>9x18 RG028 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-9x19-fmj_bad">
-		<text>9x19 mm FMJ 탄 (old)</text>
+		<text>9x19 mm FMJ 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-9x19-fmj_verybad">
-		<text>9x19 mm FMJ 탄 (damaged)</text>
+		<text>9x19 mm FMJ 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-9x19-pbp_bad">
-		<text>9x19 mm JHP 탄 (old)</text>
+		<text>9x19 mm JHP 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-9x19-pbp_verybad">
-		<text>9x19 mm JHP 탄 (damaged)</text>
+		<text>9x19 mm JHP 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-9x19-ap_bad">
-		<text>9x19 mm AP 탄 (old)</text>
+		<text>9x19 mm AP 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-9x19-ap_verybad">
-		<text>9x19 mm AP 탄 (damaged)</text>
+		<text>9x19 mm AP 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-9x39-ap_bad">
-		<text>9x39 mm SP-6 탄 (old)</text>
+		<text>9x39 mm SP-6 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-9x39-ap_verybad">
-		<text>9x39 mm SP-6 탄 (damaged)</text>
+		<text>9x39 mm SP-6 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-9x39-pab9_bad">
-		<text>9x39 mm SP-5 탄 (old)</text>
+		<text>9x39 mm SP-5 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-9x39-pab9_verybad">
-		<text>9x39 mm SP-5 탄 (damaged)</text>
+		<text>9x39 mm SP-5 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-gauss_bad">
-		<text>Batteries (old)</text>
+		<text>Batteries (오래됨)</text>
 	</string>
 	<string id="ammo-gauss_verybad">
-		<text>Batteries (damaged)</text>
+		<text>Batteries (손상됨)</text>
 	</string>
 	<string id="ammo-m209_bad">
-		<text>M203 grenade (old)</text>
+		<text>M203 grenade (오래됨)</text>
 	</string>
 	<string id="ammo-m209_verybad">
-		<text>M203 grenade (damaged)</text>
+		<text>M203 grenade (손상됨)</text>
 	</string>
 	<string id="ammo-og-7b_bad">
-		<text>OG-7V warhead (old)</text>
+		<text>OG-7V warhead (오래됨)</text>
 	</string>
 	<string id="ammo-og-7b_verybad">
-		<text>OG-7V warhead (damaged)</text>
+		<text>OG-7V warhead (손상됨)</text>
 	</string>
 	<string id="ammo-vog-25_bad">
-		<text>VOG-25 grenade (old)</text>
+		<text>VOG-25 grenade (오래됨)</text>
 	</string>
 	<string id="ammo-vog-25_verybad">
-		<text>VOG-25 grenade (damaged)</text>
+		<text>VOG-25 grenade (손상됨)</text>
 	</string>
 	<string id="ammo-7.62x39_ap_bad">
-		<text>7.62x39 mm M43 탄 (old)</text>
+		<text>7.62x39 mm M43 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-7.62x39_ap_verybad">
-		<text>7.62x39 mm M43 탄 (damaged)</text>
+		<text>7.62x39 mm M43 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-7.62x39_fmj_bad">
-		<text>7.62x39 mm FMJ 탄 (old)</text>
+		<text>7.62x39 mm FMJ 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-7.62x39_fmj_verybad">
-		<text>7.62x39 mm FMJ 탄 (damaged)</text>
+		<text>7.62x39 mm FMJ 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-7.92x33_fmj_bad">
-		<text>7.92x57 mm Mauser 탄 (old)</text>
+		<text>7.92x57 mm Mauser 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-7.92x33_fmj_verybad">
-		<text>7.92x57 mm Mauser 탄 (damaged)</text>
+		<text>7.92x57 mm Mauser 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-7.92x33_ap_bad">
-		<text>7.92x57 mm SA 탄 (old)</text>
+		<text>7.92x57 mm SA 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-7.92x33_ap_verybad">
-		<text>7.92x57 mm SA 탄 (damaged)</text>
+		<text>7.92x57 mm SA 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-5.7x28-ss190_bad">
-		<text>5.7x28 SS190 탄 (old)</text>
+		<text>5.7x28 SS190 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-5.7x28-ss190_verybad">
-		<text>5.7x28 SS190 탄 (damaged)</text>
+		<text>5.7x28 SS190 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-5.7x28-ss195_bad">
-		<text>5.7x28 mm SS195 탄 (old)</text>
+		<text>5.7x28 mm SS195 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-5.7x28-ss195_verybad">
-		<text>5.7x28 mm SS195 탄 (damaged)</text>
+		<text>5.7x28 mm SS195 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-7.62x25-p_bad">
-		<text>7.62x25 mm P 탄 (old)</text>
+		<text>7.62x25 mm P 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-7.62x25-p_verybad">
-		<text>7.62x25 mm P 탄 (damaged)</text>
+		<text>7.62x25 mm P 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-7.62x25-ps_bad">
-		<text>7.62x25 mm Pst 탄 (old)</text>
+		<text>7.62x25 mm Pst 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-7.62x25-ps_verybad">
-		<text>7.62x25 mm Pst 탄 (damaged)</text>
+		<text>7.62x25 mm Pst 탄 (손상됨)</text>
 	</string>
 	<string id="ammo-12.7x55-fmj_bad">
-		<text>12.7x55mm STs-130 탄 (old)</text>
+		<text>12.7x55mm STs-130 탄 (오래됨)</text>
 	</string>
 	<string id="ammo-12.7x55-fmj_verybad">
-		<text>12.7x55mm STs-130 탄 (damaged)</text>
+		<text>12.7x55mm STs-130 탄 (손상됨)</text>
 	</string>
 	<string id="ammo_12.7x55_ap_bad">
-		<text>12.7x55 mm STs-130 VPS 탄 (old)</text>
+		<text>12.7x55 mm STs-130 VPS 탄 (오래됨)</text>
 	</string>
 	<string id="ammo_12.7x55_ap_verybad">
-		<text>12.7x55 mm STs-130 VPS 탄 (damaged)</text>
+		<text>12.7x55 mm STs-130 VPS 탄 (손상됨)</text>
 	</string>
 	<!-- Bad Ammo Addon-->
 	
