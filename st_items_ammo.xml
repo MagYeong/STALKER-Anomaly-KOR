@@ -182,7 +182,7 @@
 	<string id="ammo-4.6x30-fmj_descr">
 		<text>HK 4.6x30mm 탄은 헤클러 운트 코흐 사의 MP7 개인방어화기 (PDW) 에서 주로 사용되는 형태의 탄약입니다. 무게와 반동을 최소화하면서 방탄복에 대한 관통력을 증가시키는 방향으로 디자인되었습니다. 보틀넥 탄피와 뾰족하고, 강철 심과 청동 코팅으로 이루어진 탄자를 갖추었습니다. 
 		\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IIIA
-		\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]low - medium</text>
+		\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]낮음 - 중간</text>
 	</string>
 	<string id="ammo-4.6x30-fmj_s">
 		<text>4.6x30 FMJ</text>
@@ -198,7 +198,7 @@
 		<text>5.7x28 mm SS195 탄</text>
 	</string>
 	<string id="ammo-5.7x28-ss195_descr">
-		<text>The SS195 FN 5.7x28mm is an expansive cartridge designed and manufactured by FN Herstal. It is a bottlenecked centrefire cartridge that is somewhat similar to the .22 Hornet or .22 K-Hornet. \n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IIA\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]medium</text>
+		<text>SS195 FN 5.7x28mm 탄은 FN 에르스탈이 설계 및 개발한 비싼 탄약입니다. 이 탄약은 보틀넥 형태의 센터파이어 탄으로 .22 호넷이나 .22 K-호넽 탄과 다소 유사한 모습입니다. \n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IIA\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]중간</text>
 	</string>
 	<string id="ammo-5.7x28-ss195_s">
 		<text>5.7x28 HP</text>
