@@ -287,7 +287,7 @@
 		<text>7.62x54 mm 7N14 탄</text>
 	</string>
 	<string id="ammo-7.62x54_7n14_descr">
-		<text>The 7.62x54 calibre 7N14 is an armour-piercing cartridge. The bullet has a steel core to penetrate body armour or light barriers, and a boat-tail base to increase accuracy.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]high</text>
+		<text>7.62x54 mm 7N14 탄은 장갑 관통탄입니다. 이 탄약은 강철 심이 내장되어 있어 방탄복이나 얇은 방탄판을 관통할 수 있으며, 보트-테일 구조를 채택하여 정확도를 높였습니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]높음</text>
 	</string>
 	<string id="ammo-7.62x54_7n14_s">
 		<text>7.62x54 7N14</text>
@@ -297,7 +297,7 @@
 		<text>7.62x54 mm 7N1 탄</text>
 	</string>
 	<string id="ammo-7.62x54-7n1_descr">
-		<text>A 7.62x54 calibre sniper round with a steel penetrator specially designed for the SVD. Unlike the machine gun round, the 7N1 provides much tighter groupings.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]high</text>
+		<text>SVD를 위해 특별하게 제작된 강철 관통탄두가 내장된 7.62 구경 저격용 탄입니다. 기관총 탄과는 달리, 7N1 탄은 조밀한 탄착군과 훌륭한 관통 능력을 자랑합니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]높음</text>
 	</string>
 	<string id="ammo-7.62x54-7n1_s">
 		<text>7.62x54 7N1</text>
@@ -307,7 +307,7 @@
 		<text>7.62x54 mm AP 탄</text>
 	</string>
 	<string id="ammo-7.62x54-ap_descr">
-		<text>The 7.62x54mm calibre 7N13 armor-piercing machine gun round. It is a high-powered round and thanks to a hard steel core it possesses quite good penetrative capabilities.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]high</text>
+		<text>7.62x54mm 구경 7N13 장갑 관통형 기관총 탄약입니다. 강력한 탄환으로 단단한 강철 심 덕분에 상당히 훌륭한 관통 능력을 가집니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]높음</text>
 	</string>
 	<string id="ammo-7.62x54-ap_s">
 		<text>7.62x54 AP</text>
@@ -317,7 +317,7 @@
 		<text>7.62x54 mm PP 탄</text>
 	</string>
 	<string id="ammo-7.62x54-r_descr">
-		<text>The 7.62x54 PP is a dated rifle calibre introduced in the Soviet Empire at the turn of the 19th century and was still used by the USSR after World War II. It was originally designed for the Mosin-Nagant standard-issue infantry rifle and is quite common in the Zone due to the popularity of the rifle. The round is relatively cheap but has surprisingly good penetrative capabilities, even in comparison to more modern ammo types. It can also be used as a cheaper solution in the PKM machine gun.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]high</text>
+		<text>7.62 PP (또는 7.62 R) 탄은 19세기 말에 러시아 제국에서 처음 사용된 오래된 라이플 탄약이며 제 2차 세계대전 이후의 소련에서도 계속해서 사용되었습니다. 이 탄약은 원래 모신나강 제식 소총을 위해 디자인 되었으며 이 소총의 인기로 인하여 존에서도 상당히 흔한 탄약입니다. 이 탄약은 상대적으로 저렴하지만 놀랍게도 괜찮은 관통 능력을 지니고 있어, 좀 더 현대적인 탄종과도 견줄 수 있을 정도입니다. 또한 이 탄약은 PKM 기관총의 저렴한 탄약으로도 사용할 수 있습니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]높음</text>
 	</string>
 	<string id="ammo-7.62x54-r_s">
 		<text>7.62x54 PP</text>
@@ -327,7 +327,7 @@
 		<text>7.92x57 mm SA 탄</text>
 	</string>
 	<string id="ammo-7.92x33_ap_descr">
-		<text>7.92x57 SA is a round that was used by the British military against armoured targets. It features a hardened steel core which gives it higher piercing capabilities. Used primarily for long range shots, the grain quality of this round is higher than the standard. This cartridge is supported by several sniper rifles.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]high</text>
+		<text>7.92x57 mm SA 탄은 장갑을 걸친 목표물을 상대하기 위해 영국군에서 사용되었습니다. 이 탄약은 강화된 강철 심을 가지고 있어 높은 관통 능력을 갖습니다. 장거리 사격을 목적으로 제작되었기 때문에, 이 탄약에 든 화약의 품질은 기준보다 좀 더 높습니다. 이 탄약은 몇몇 저격소총들에 사용됩니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]높음</text>
 	</string>
 	<string id="ammo-7.92x33_ap_s">
 		<text>7.62x57 AP</text>
@@ -337,7 +337,7 @@
 		<text>7.92x57 mm Mauser 탄</text>
 	</string>
 	<string id="ammo-7.92x33_fmj_descr">
-		<text>The 7.92x57 Mauser round was adopted by the German Empire and then the Third Reich. It was one of the most popular cartridges in the period of two world wars. However, nowadays, the round is primarily used for hunting and sports.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]high</text>
+		<text>7.92x57 mm 마우저 탄은 독일 제국과 그 뒤를 이은 제 3제국에서 사용되었습니다. 이 탄약은 두 번의 세계 대전에서 가장 자주 사용되었던 탄약들 중 하나입니다. 하지만 지금은 주로 사냥이나 스포츠 용도로 사용되고 있습니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]높음</text>
 	</string>
 	<string id="ammo-7.92x33_fmj_s">
 		<text>7.62x57 FMJ</text>
@@ -347,7 +347,7 @@
 		<text>9x18 RG028 탄</text>
 	</string>
 	<string id="ammo-9x18-ap_descr">
-		<text>RG028 is a cartridge used for its armour penetration capabilities. The goal of the RG028 was to become a counter to body armour; for this reason, it's loaded with a hardened steel core. Unfortunately, the round itself isn't much of an improvement over the standard, it just has a stronger impact than typical 9x18 round.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]II\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]low - medium</text>
+		<text>RG028 탄은 장갑 관통 능력을 가지고 있는 탄입니다. RG028 탄의 목적은 방탄복을 관통하는 것입니다. 그래서, 강화된 강철 심이 탄두에 내장되어 있습니다. 안타깝게도, 이 탄약 자체는 기존 탄약에 비해 그리 많은 개선이 이루어지지 못했고, 기본적인 9x18 탄들보다 좀 더 강한 위력을 가질 뿐입니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]II\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]낮음 - 중간</text>
 	</string>
 	<string id="ammo-9x18-ap_s">
 		<text>9x18 RG028</text>
@@ -357,7 +357,7 @@
 		<text>9x18 mm FMJ 탄</text>
 	</string>
 	<string id="ammo-9x18-fmj_descr">
-		<text>A full metal jacket round with a steel penetrator and a lead core under a metal jacket. Provides good stopping power but is ineffective against body armour.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]none\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]low - medium</text>
+		<text>금속 자켓 아래에 납과 강철 관통심으로 되어 있는 탄자가 있는 풀 메탈 재킷탄입니다. 좋은 저지력을 가지고 있지만 방탄복을 뚫는 데는 효과적이지 못합니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]없음\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]낮음 - 중간</text>
 	</string>
 	<string id="ammo-9x18-fmj_s">
 		<text>9x18 FMJ</text>
@@ -367,7 +367,7 @@
 		<text>9x18 mm +P+ 탄</text>
 	</string>
 	<string id="ammo-9x18-pmm_descr">
-		<text>This round contains a bullet with enhanced stopping power, while its European +P+ designation indicates "overpressure ammunition" with a 30% increase in muzzle velocity. Ineffective against body armour.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]I\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]medium - high</text>
+		<text>이 탄약은 유럽의 30% 증가한 총구 초속을 가진 "고압탄"을 의미하는 +P+ 설계를 바탕으로 만들어진, 강화된 저지력을 가진 탄두로 되어 있습니다. 방탄복 상대로는 효과적이지 않습니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]I\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]중간 - 높음</text>
 	</string>
 	<string id="ammo-9x18-pmm_s">
 		<text>9x18 +P+</text>
@@ -377,7 +377,7 @@
 		<text>9x19 mm AP 탄</text>
 	</string>
 	<string id="ammo-9x19-ap_descr">
-		<text>This Russian 9x19 calibre bullet comes with a hard steel core and increased pressure. Designed to enhance armour penetrating capabilities of small arms and submachine guns.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]low - medium</text>
+		<text>이 러시아제 9x19 구경 탄약은 단단한 강철 심으로 되어 있고 압력이 높아졌습니다. 소형 화기와 기관단총의 장갑 관통 능력을 향상시키기 위해 설계되었습니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]낮음 - 중간</text>
 	</string>
 	<string id="ammo-9x19-ap_s">
 		<text>9x19 AP</text>
@@ -387,7 +387,7 @@
 		<text>9x19 mm FMJ 탄</text>
 	</string>
 	<string id="ammo-9x19-fmj_descr">
-		<text>This basic 9x19 calibre round with a jacketed bullet has good characteristics while being simple to produce. The round is popular due to the fact that international conventions prohibit the use of expanding ammunition in combat. Ineffective against body armour.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]I\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]medium</text>
+		<text>이 코팅된 탄두를 가진 기본 9x19 구경 탄약은 간단하게 만들 수 있으면서 몇 가지 장점들을 가지고 있습니다. 이 탄약은 국제 협약으로 인해 전투에서 더 큰 탄약을 사용하는 것이 금지되어 있기 때문에 인기가 많습니다. 방탄복 상대로는 효과적이지 않습니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]I\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]중간</text>
 	</string>
 	<string id="ammo-9x19-fmj_s">
 		<text>9x19 FMJ</text>
@@ -397,7 +397,7 @@
 		<text>9x19 mm JHP 탄</text>
 	</string>
 	<string id="ammo-9x19-pbp_descr">
-		<text>This 9x19 calibre jacketed hollow-point bullet with an expanding hollow has high stopping power and low ricochet propensity. Used by police and for self-defense. Ineffective against body armour due to its low penetration potential.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]I\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]high</text>
+		<text>이 9x19 구경의 확장된 공동이 있는 재킷이 부착된 할로우 포인트 탄약은 높은 저지력과 낮은 도탄성을 가지고 있습니다. 경찰용 또는 자기 방어 목적으로 사용됩니다. 낮은 관통력으로 인해 방탄복을 상대하는 데는 효과적이지 않습니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]I\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]높음</text>
 	</string>
 	<string id="ammo-9x19-pbp_s">
 		<text>9x19 JHP</text>
@@ -407,7 +407,7 @@
 		<text>9x39 mm SP-6 탄</text>
 	</string>
 	<string id="ammo-9x39-ap_descr">
-		<text>The SP-6 is a subsonic armour-piercing round with a jacketed soft point bullet with a hard steel core that protrudes from the casing. Requires a suppressor for stealth firing. Used by special services of Warsaw Pact countries. Effective against light body armour.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]high\n \n%c[ui_gray_1]특이사항:\n \n%c[d_red] • %c[ui_gray_2] sub-sonic ammunition\n%c[d_purple] • %c[ui_gray_2] greatly increased projectile drop with distance</text>
+		<text>SP-6 탄은 코팅된 연성 탄두와 탄두에서 튀어나와 있는 단단한 강철 심으로 이루어진 아음속 장갑 관통탄입니다. 은밀한 사격을 위해서는 소음기가 필요합니다. 바르샤바 조약 기구 소속 국가들의 특수부대들에서 사용됩니다. 경량 방탄복을 뚫는 데 효과적입니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]높음\n \n%c[ui_gray_1]특이사항:\n \n%c[d_red] • %c[ui_gray_2] 아음속탄\n%c[d_purple] • %c[ui_gray_2] 거리가 멀수록 낙차가 매우 커짐</text>
 	</string>
 	<string id="ammo-9x39-ap_s">
 		<text>9x39 SP-6</text>
@@ -417,7 +417,7 @@
 		<text>9x39 mm SP-5 탄</text>
 	</string>
 	<string id="ammo-9x39-pab9_descr">
-		<text>The SP-5 is a subsonic rifle round with a bimetallic casing. The round contains a steel core with a gap behind it that is filled with lead. Requires a suppressor for stealth firing. Used by special services of Warsaw Pact countries.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]high\n \n%c[ui_gray_1]특이사항:\n \n%c[d_red] • %c[ui_gray_2] sub-sonic ammunition\n%c[d_purple] • %c[ui_gray_2] greatly increased projectile drop with distance</text>
+		<text>SP-5 탄은 두 가지 금속으로 이루어진 탄피를 가진 아음속 소총탄입니다. 탄자는 강철 심과 그 뒷부분 사이의 빈 공간을 채워놓은 납으로 이루어집니다. 은밀한 사격을 위해서는 소음기가 필요합니다. 바르샤바 조약 기구 소속 국가들의 특수부대들에서 사용됩니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]높음\n \n%c[ui_gray_1]특이사항:\n \n%c[d_red] • %c[ui_gray_2] 아음속탄\n%c[d_purple] • %c[ui_gray_2] 거리가 멀수록 낙차가 매우 커짐</text>
 	</string>
 	<string id="ammo-9x39-pab9_s">
 		<text>9x39 SP-5</text>
@@ -720,7 +720,7 @@
 		<text>Home-made 12x70 shot shells</text>
 	</string>
 	<string id="ammo-12x70-buck_self_descr">
-		<text>Home-made 12 gauge shell filled with small pieces of metal junk, including used or damaged bullets or even shrapnel. Highly lethal at close range. Only suitable for use with smoothbore weapons.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]none\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]medium - high\n \n%c[ui_gray_1]특이사항:\n \n%c[d_purple] • %c[ui_gray_2] expanding cloud of pellets, short eff. range</text>
+		<text>Home-made 12 gauge shell filled with small pieces of metal junk, including used or damaged bullets or even shrapnel. Highly lethal at close range. Only suitable for use with smoothbore weapons.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]none\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]중간 - 높음\n \n%c[ui_gray_1]특이사항:\n \n%c[d_purple] • %c[ui_gray_2] expanding cloud of pellets, short eff. range</text>
 	</string>
 	<string id="ammo_flw">
 		<text>Flamethrower fuel</text>
