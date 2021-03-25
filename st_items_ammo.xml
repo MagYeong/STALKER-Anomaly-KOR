@@ -424,21 +424,21 @@
 	</string>
 	
 	<string id="ammo-gauss">
-		<text>Batteries</text>
+		<text>배터리</text>
 	</string>
 	<string id="ammo-gauss_descr">
-		<text>Batteries that use a capsulated fragment of the "Flash" artefact as their power source. Manufactured using hi-tech equipment.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]V\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]매우 높음\n \n%c[ui_gray_1]특이사항:\n \n%c[d_purple] • %c[ui_gray_2] technological item\n%c[d_purple] • %c[ui_gray_2] prototype</text>
+		<text>캡슐화된 "섬광" 아티팩트 조각을 동력원으로 사용하는 배터리입니다. 하이테크 기반 장비들을 사용하여 제조되었습니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]V\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]매우 높음\n \n%c[ui_gray_1]특이사항:\n \n%c[d_purple] • %c[ui_gray_2] 기술적 물품\n%c[d_purple] • %c[ui_gray_2] 프로토타입</text>
 	</string>
 	
 	<string id="ammo-gauss_cardan">
-		<text>Home-made batteries</text>
+		<text>수제 배터리</text>
 	</string>
 	<string id="ammo-gauss_cardan_descr">
-		<text>These lower-capacity cells use capsulated fragments of the "Flash" artefact as their power source. Their lower capacity is due to makeshift production conditions and lack of specialised equipment.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]V\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]매우 높음\n \n%c[ui_gray_1]특이사항:\n \n%c[d_purple] • %c[ui_gray_2] technological item\n%c[d_purple] • %c[ui_gray_2] prototype</text>
+		<text>이 저용량의 배터리에는 캡슐화된 "섬광" 아티팩트 조각이 동력원으로 사용되었습니다. 이 배터리의 낮은 동력은 급조된 제조환경과 전문 도구의 부족으로 인한 것입니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]V\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]매우 높음\n \n%c[ui_gray_1]특이사항:\n \n%c[d_purple] • %c[ui_gray_2] 기술적 물품\n%c[d_purple] • %c[ui_gray_2] 프로토타입</text>
 	</string>
 	
 	<string id="ammo-m209">
-		<text>M203 grenade</text>
+		<text>M203 유탄</text>
 	</string>
 	<string id="ammo-m209_descr">
 		<text>40 mm grenade for the M203 underbarrel grenade launcher. This round has a 3.5 metre kill zone. Also suitable for use in the FN F2000 integrated grenade launcher.\n \n%c[d_purple] • %c[ui_gray_2] Blast power: %c[ui_gray_1]medium\n%c[d_purple] • %c[ui_gray_2] Blast radius: %c[ui_gray_1]4.1 m\n%c[d_purple] • %c[ui_gray_2] Fragments' radius: %c[ui_gray_1]28 m\n%c[d_purple] • %c[ui_gray_2] Av. number of fragments: %c[ui_gray_1]95 (small shrapnels)\n%c[d_purple] • %c[ui_gray_2] Explosion delay: %c[ui_gray_1]none (explodes on impact)</text>
