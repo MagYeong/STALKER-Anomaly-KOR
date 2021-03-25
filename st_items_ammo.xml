@@ -720,12 +720,12 @@
 		<text>수제 12x70 산탄</text>
 	</string>
 	<string id="ammo-12x70-buck_self_descr">
-		<text>Home-made 12 gauge shell filled with small pieces of metal junk, including used or damaged bullets or even shrapnel. Highly lethal at close range. Only suitable for use with smoothbore weapons.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]none\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]중간 - 높음\n \n%c[ui_gray_1]특이사항:\n \n%c[d_purple] • %c[ui_gray_2] expanding cloud of pellets, short eff. range</text>
+		<text>이미 사용되었거나 손상된 총알과 심지어는 유탄 파편들까지 포함된 작은 금속 잡동사니들로 채워진 수제 12게이지 산탄입니다. 근접 거리에서 강한 살상력을 가집니다. 활강식 총열을 사용하는 총에서만 사용할 수 있습니다.\n \n%c[d_purple] • %c[ui_gray_2] 관통할 수 있는 가장 높은 등급의 방어구: %c[ui_gray_1]없음\n%c[d_purple] • %c[ui_gray_2] 생체조직 피해량 수준: %c[ui_gray_1]중간 - 높음\n \n%c[ui_gray_1]특이사항:\n \n%c[d_purple] • %c[ui_gray_2] 확산되는 산탄을 발사함, 짧은 유효 사거리</text>
 	</string>
 	<string id="ammo_flw">
-		<text>Flamethrower fuel</text>
+		<text>화염방사기 연료</text>
 	</string>
 	<string id="ammo_flw_descr">
-		<text>Boiled animal fat, diesel and bits of melted rubber. Makes for a sticky, napalm-like substance when lit.</text>
+		<text>동물 지방, 경유 그리고 약간의 녹인 고무를 넣고 끓인 것입니다. 점화되었을 때 끈적한 네이팜 같은 물질이 됩니다.</text>
 	</string>
 </string_table>
