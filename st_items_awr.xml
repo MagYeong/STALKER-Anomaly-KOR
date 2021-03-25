@@ -8,258 +8,258 @@
 		Interface
 	-->
 	<string id="st_current_condition">
-		<text>Current condition: </text>
+		<text>현재 상태: </text>
 	</string>
 	<string id="st_detail_success">
-		<text>+++ Part [%s] has successfully been installed</text>
+		<text>+++ 부품 [%s] 이(가) 성공적으로 설치됨</text>
 	</string>
 	<string id="st_detail_fail">
-		<text>--- Part [%s] has been damaged during replacement</text>
+		<text>--- 부품 [%s] 이(가) 교체 중 손상을 입음</text>
 	</string>
 	<string id="st_quality_worn">
-		<text>++++ One or more parts have been replaced with worn ones. Weapon quality has been changed to worn.</text>
+		<text>++++ 하나 또는 그 이상의 부품들이 오래된 부품으로 교체되었습니다. 무기의 품질은 오래된 상태로 변화됩니다.</text>
 	</string>
 	<string id="st_quality_good">
-		<text>++++ All parts have been replaced with serviceable ones. Weapon is now in fresh condition.</text>
+		<text>++++ 모든 부품들이 작동하는 부품으로 교체되었습니다. 무기의 상태는 이제 정상입니다.</text>
 	</string>
 	<string id="st_quality_wgood">
-		<text>++++ All parts have been replaced. Weapon quality has not changed.</text>
+		<text>++++ 모든 부품들이 교체되었습니다. 무기의 품질은 변하지 않습니다.</text>
 	</string>
 	<string id="st_already_repair">
-		<text>--- Part replacement procedure has been completed. To increase the quality of the weapon, the condition must be at 100%</text>
+		<text>--- 부품 교체가 완료되었습니다. 무기의 품질을 높이려면 내구도가 반드시 100% 가 되어야 합니다</text>
 	</string>
 	<string id="st_no_barrel">
-		<text>--- It is not possible to replace any parts before replacing the barrel</text>
+		<text>--- 총열을 교체하기 전에는 어떤 부품도 교체할 수 없습니다</text>
 	</string>
 	<string id="st_bar_no_need_new">
-		<text>--- The barrel of this weapon does not require any replacement</text>
+		<text>--- 이 무기의 총열은 교체가 필요하지 않습니다</text>
 	</string>
 	<string id="st_part_no_need_new">
-		<text>--- The weapon parts do not require any replacement</text>
+		<text>--- 무기의 부품은 어떠한 교체도 필요하지 않습니다</text>
 	</string>
 	<string id="st_bar_no_need_old">
-		<text>--- The barrel of this weapon does not require any replacement. To increase the quality of the weapon, the condition must be at 100%</text>
+		<text>--- 이 무기의 총열은 교체가 필요하지 않습니다. 무기의 품질을 높이려면 내구도가 반드시 100% 가 되어야 합니다</text>
 	</string>
 	<string id="st_part_no_need_old">
-		<text>--- The weapon parts do not require any replacement. To increase the quality of the weapon, the condition must be at 100%</text>
+		<text>--- 무기의 부품은 어떠한 교체도 필요하지 않습니다. 무기의 품질을 높이려면 내구도가 반드시 100% 가 되어야 합니다</text>
 	</string>
 	<string id="st_no_barrel_to_kit">
-		<text>--- There are no compatible barrels of [%s] calibre</text>
+		<text>--- [%s] 구경에 알맞은 총열이 없습니다</text>
 	</string>
 	<string id="st_no_details">
-		<text>--- There are no available parts for [%s]</text>
+		<text>--- [%s] 에 사용할 수 있는 부품이 없습니다</text>
 	</string>
 	<string id="st_selected_worn">
-		<text>--- Selected%s: [%s] Chance of successful repair: %i%% To repair, restore part</text>
+		<text>--- Selected%s: [%s] 수리가 성공할 확률: %i%% 의 확률로 수리나 복구가 성공함</text>
 	</string>
 	<string id="st_selected_good">
-		<text>--- Selected%s: [%s] Chance of successful repair: %i%%</text>
+		<text>--- Selected%s: [%s] 수리가 성공할 확률: %i%%</text>
 	</string>
 	<string id="st_selected_r_kit">
-		<text>--- Selected: [%s]</text>
+		<text>--- 선택됨: [%s]</text>
 	</string>
 	<string id="st_sel_detail">
-		<text>--- Click on the image of the corresponding part to commence a replacement</text>
+		<text>--- 수리를 진행하기 위해 알맞은 부품의 이미지를 클릭하세요</text>
 	</string>
 	<string id="st_cond_grow">
-		<text>Condition: %i%%</text>
+		<text>상태: %i%%</text>
 	</string>
 	<string id="st_awr_back">
 		<text>Back</text>
 	</string>
 	<string id="st_awr_exit">
-		<text>Exit</text>
+		<text>뒤로</text>
 	</string>
 	<string id="st_awr_ctrl">
-		<text>%sTo prevent unintentional disassembly of items,\nthe procedure can be carried out only when the ALT key is held down%s</text>
+		<text>%s 실수로 물품을 해체하는 것을 막기 위해서,\n 해체 과정은 ALT 키를 누른 상태에서만 시행됩니다 %s</text>
 	</string>
 	<string id="st_unload">
-		<text>Weapon needs to be unloaded and free of any attachments before maintenance</text>
+		<text>무기를 수리하기 전에 탄약을 비우고 모든 부착물을 제거해야 합니다</text>
 	</string>
 	<string id="st_no_weap">
-		<text>A weapon must be pulled out to use the vice</text>
+		<text>작업대를 사용하려면 무기를 꺼내들어야 합니다</text>
 	</string>
 	<string id="st_handsfree">
-		<text>Your hands are full</text>
+		<text>손에 물건을 들고 있습니다</text>
 	</string>
 	<string id="st_stolen_1">
-		<text>The trigger mechanism has been stolen from your weapon during your absence. Condition has been worsened</text>
+		<text>자리를 비우는 동안 누군가가 무기에서 방아쇠 장치를 훔쳐갔습니다. 무기의 상태가 나빠졌습니다</text>
 	</string>
 	<string id="st_stolen_2">
-		<text>The breech head has been stolen from your weapon during your absence. Condition has been worsened</text>
+		<text>자리를 비우는 동안 누군가가 무기에서 노리쇠를 훔쳐갔습니다. 무기의 상태가 나빠졌습니다</text>
 	</string>
 	<string id="st_stolen_3">
-		<text>The breech block has been stolen from your weapon during your absence. Condition has been worsened</text>
+		<text>자리를 비우는 동안 누군가가 무기에서 노리쇠 뭉치를 훔쳐갔습니다. 무기의 상태가 나빠졌습니다</text>
 	</string>
 	<string id="st_not_in_list">
-		<text>You do not possess the knowledge to repair this weapon</text>
+		<text>이 무기를 수리할 수 있는 지식을 갖추지 못했습니다</text>
 	</string>
 	<string id="st_awr_timer_msg_on">
-		<text>%sYou have five minutes%s</text>
+		<text>%s 5분의 시간이 주어집니다 %s</text>
 	</string>
 	<string id="st_awr_timer_msg_off">
-		<text>%sTime is up%s</text>
+		<text>%s 대여 시간이 끝났습니다 %s</text>
 	</string>
 	<string id="st_awr_dead_mechanic">
-		<text>%sThe technician %s has been killed by %s.%s \nYou no longer need permission to use his vice.</text>
+		<text>%s 기술자 %s 이(가) 다음 인물에 의해 사망했습니다: %s.%s \n 이제 허가를 받을 필요 없이 작업대를 자유롭게 사용할 수 있습니다<.</text>
 	</string>
 	<string id="st_by_unknown">
-		<text>unknown</text>
+		<text>알 수 없음</text>
 	</string>
 	<string id="st_mech_tiski">
-		<text>technician's vice\n</text>
+		<text>기술자의 작업대 \n</text>
 	</string>
 	<string id="st_mech_tiski_w">
-		<text>Technician's vice with %s</text>
+		<text>기술자의 작업대 - %s</text>
 	</string>
 	<!-- ListBox status texts -->
 	<string id="st_ending_1">
-		<text>�</text>
+		<text>û</text>
 	</string>
 	<string id="st_ending_2">
-		<text>�</text>
+		<text>à</text>
 	</string>
 	<string id="st_ending_3">
-		<text>�</text>
+		<text>î</text>
 	</string>
 	<string id="st_text_status">
-		<text>[CONDITION]:%s%s%%</text>
+		<text>[상태]:%s%s%%</text>
 	</string>
 	<string id="st_text_wpn">
-		<text>[WEAPON]:%s%s</text>
+		<text>[무기]:%s%s</text>
 	</string>
 	<string id="st_text_mode">
-		<text>[MODE]:%s%s</text>
+		<text>[모드]:%s%s</text>
 	</string>
 	<string id="st_text_mode_1">
-		<text>RESTORATION</text>
+		<text>복구</text>
 	</string>
 	<string id="st_text_mode_2">
-		<text>REPAIR WITH POSSIBILITY OF RESTORATION</text>
+		<text>복구할 가능성이 있는 상태로 수리</text>
 	</string>
 	<string id="st_text_mode_3">
-		<text>NOT AVAILABLE</text>
+		<text>사용 불가</text>
 	</string>
 	<string id="st_text_warning_mode_1_4">
-		<text>%sAfter upgrading, the state of the weapon will be %s%%, and quality - new</text>
+		<text>%s 개조를 마친 후, 무기의 상태는 %s%% 이고, 품질은 신품 상태가 됩니다</text>
 	</string>
 	<string id="st_text_warning_mode_1_3">
-		<text>%sWhen upgrading, it is possible to use only serviceable parts</text>
+		<text>%s 개조할 때는 반드시 작동하는 부품만 사용할 수 있습니다</text>
 	</string>
 	<string id="st_text_warning_mode_1_1">
-		<text>[Attention]: In this mode, it is only possible to upgrade rusty and worn-out weapons</text>
+		<text>[주의]: 이 모드에서는 녹슬거나 오래된 무기만 개조할 수 있습니다</text>
 	</string>
 	<string id="st_text_warning_mode_2_5">
-		<text>%sAfter finishing the repair with upgrading: %i%% for worn out and %i%% for a new</text>
+		<text>%s 수리와 개조를 마친 뒤: 오래된 상태가 될 확률 %i%% 그리고 신품 상태가 될 확률 %i%%</text>
 	</string>
 	<string id="st_text_warning_mode_2_4">
-		<text>%sAfter the repair is completed without upgrading, the condition of the weapon will be equal to %i%%</text>
+		<text>%s 개조를 하지 않은 채로 수리를 마친 뒤의 무기 상태: %i%%</text>
 	</string>
 	<string id="st_text_warning_mode_2_3">
-		<text>%sThe quality of the weapon, at the same time, will correspond to the replaced part of the lowest quality</text>
+		<text>%s 동시에, 무기의 품질은 가장 낮은 품질의 교체 부품과 동일해집니다</text>
 	</string>
 	<string id="st_text_warning_mode_2_1">
-		<text>[Attention]: In this mode it is possible to repair and upgrade weapons</text>
+		<text>[주의]: 이 모드에서는 무기의 수리와 개조가 가능해집니다</text>
 	</string>
 	<string id="st_text_warning_mode_3_3">
-		<text>%sUpgrade is not possible until the state is raised to 100%%</text>
+		<text>%s 무기 상태가 다음과 같아지지 않으면 개조가 불가능함: 100%%</text>
 	</string>
 	<string id="st_text_warning_mode_3_2">
-		<text>[WARNING]: Repair of this weapon is not possible, as the condition for the quality of the weapon is at maximum.</text>
+		<text>[경고]: 무기의 품질이 최상의 상태이기 때문에, 이 무기를 수리하는 것은 불가능합니다.</text>
 	</string>
 	<string id="st_text_warning_mode_3_1">
-		<text>[WARNING]: The quality of the weapon is already at maximum. Further restoration is not possible.</text>
+		<text>[경고]: 무기의 품질은 이미 최상의 상태입니다. 이 이상의 복구는 불가능합니다.</text>
 	</string>
 	<string id="st_text_warning_mode_help">
-		<text>For help, press F1</text>
+		<text>도움말을 보려면, F1을 누르세요</text>
 	</string>
 	<!-- Disassembly -->
 	<string id="st_dis_news">
 		<text>[AWR]</text>
 	</string>
 	<string id="st_dis_count">
-		<text>��.</text>
+		<text>øò.</text>
 	</string>
 	<string id="st_dis_text_1">
-		<text>%s%s %s%s has been disassembled</text>
+		<text>%s%s %s%s 이(가) 분해됨</text>
 	</string>
 	<string id="st_dis_text_2">
-		<text>%sYou attempted to disassemble %s %s, but no parts have been obtained.</text>
+		<text>%s 당신은 %s %s 을(를) 분해했지만, 아무런 부품도 얻지 못했습니다.</text>
 	</string>
 	<string id="st_dis_text_3">
-		<text>%sRequired tools missing %s %s</text>
+		<text>%s 필요한 도구가 없음: %s %s</text>
 	</string>
 	<string id="st_dis_text_4">
-		<text>\nThe cartridges were removed: %iPC type %s\nItems Received: </text>
+		<text>\n탄이 제거됨: %iPC type %s\n물건을 받음: </text>
 	</string>
 	<string id="st_dis_text_5">
-		<text>%sYou managed to restore the part %s\n%s</text>
+		<text>%s 다음의 부품을 복구하는 데 성공함: %s\n%s</text>
 	</string>
 	<string id="st_dis_text_6">
-		<text>%sYou were unable to restore the part %s</text>
+		<text>%s 부품을 복구하는 데 실패함 %s</text>
 	</string>
 	<string id="st_dis_text_7">
 		<text>%s%s %s %s%s</text> <!--text>%s %s %s %s has been disassembled</text-->
 	</string>
 	<string id="st_dis_text_8">
-		<text>%s%s %s %s%s has been cut</text>
+		<text>%s%s %s %s%s 이(가) 분해됨</text>
 	</string>
 	<string id="st_dis_text_9">
-		<text>\nObtained parts: </text>
+		<text>\n획득한 부품: </text>
 	</string>
 	<string id="st_dis_text_10">
-		<text>%sYou disassembled the %s%s, but no parts were obtained.</text>
+		<text>%s 당신은 %s%s 을(를) 분해했지만, 아무런 부품도 얻지 못했습니다.</text>
 	</string>
 	<string id="st_dis_text_11">
 		<text>%s%s %s %s%s</text>
 	</string>
 	<!-- Dialogues -->
 	<string id="st_awr_dialog_1">
-		<text>Can I use your vice? I need to fix something up.</text>
+		<text>작업대를 사용할 수 있을까? 뭔가를 고쳐야 하는데.</text>
 	</string>
 	<string id="st_awr_dialog_2">
-		<text>Alright... It's yours for a thousand roubles.</text>
+		<text>그래... 천 루블만 내면 쓰게 해줄게.</text>
 	</string>
 	<string id="st_awr_dialog_3">
-		<text>Here.</text>
+		<text>여기.</text>
 	</string>
 	<string id="st_awr_dialog_4">
-		<text>Great. I will have a rest for the moment. In the meantime, be quick. I've got more work to finish today.</text>
+		<text>좋아. 난 잠깐 쉬러 가야겠어. 그 동안 빨리 작업하라고. 오늘 끝내야 할 일이 많으니까.</text>
 	</string>
 	<string id="st_awr_dialog_5">
-		<text>I haven't got that much.</text>
+		<text>가지고 있지 않아.</text>
 	</string>
 	<string id="st_awr_dialog_6">
-		<text>Got it.</text>
+		<text>알았어.</text>
 	</string>
 	<string id="st_awr_dialog_7">
-		<text>After all you have done to help me? Of course! Still, try to be quick. I've got more work to finish today.</text>
+		<text>네가 날 많이 도와줬잖아? 당연히 해줘야지! 하지만 빨리 작업하라고, 오늘 끝내야 할 일이 많으니까.</text>
 	</string>
 
 	<!-- Sell dialog -->
 	<string id="st_awr_sell_dialog_1">
-		<text>I have spare parts. Do you know who would buy them?</text>
+		<text>예비 부품들이 좀 있는데. 이걸 살 만한 사람을 알고 있어?</text>
 	</string>
 	<string id="st_awr_sell_dialog_2">
-		<text>Technicians like me store all sorts of junk you can think of. I might buy what you've got. For the right price, of course.</text>
+		<text>나같은 기술자들이 네가 생각할 수 있는 온갖 종류의 고철덩이들을 쌓아두고 있지. 네가 가지고 있는 걸 좀 사줄 수 있어. 물론, 값은 정가야.</text>
 	</string>
 	<string id="st_awr_sell_dialog_3">
-		<text>And what can you offer?</text>
+		<text>그럼 얼마를 줄 건데?</text>
 	</string>
 	<string id="st_awr_sell_dialog_4">
-		<text>Well, for functional parts I can give you 300 RU per new part. The worn ones for 150. About the rest of the junk, you get 250 for new parts, and 125 for worn out parts. Eh, 60 should be good for rusty parts. These are not that useful, you know.</text>
+		<text>보자, 작동하는 부품들은 각각 300 루블을 줄 수 있어. 오래된 부품은 150 루블이고. 나머지 고철들은, 새 부품 하나당 250 루블이고, 낡은 부품은 125 루블이야. 아, 그리고 녹슨 부품들은 개당 60 루블이면 충분할 거야. 너도 알다시피 그런 물건들은 별로 쓸모가 없거든.</text>
 	</string>
 	<string id="st_awr_sell_dialog_5">
-		<text>Hmm... Well, your offer is so-so. But I have no actual use for these. Here, give me the money.</text>
+		<text>음… 좋아, 그럭저럭 괜찮은 제안이네. 나에겐 이런 물건이 쓸모가 없지만. 여기, 돈 줘.</text>
 	</string>
 	<string id="st_awr_sell_dialog_6">
-		<text>That's a bit cheap for me. Guess I'll think about it.</text>
+		<text>가격이 좀 싸군. 좀 더 생각해 볼게.</text>
 	</string>
 	<string id="st_awr_sell_dialog_7">
-		<text>Nice doing business with you. If you get more spare parts, you know where to find me.</text>
+		<text>거래해줘서 고마워. 예비 부품을 더 찾게 된다면, 다시 찾아와 줘.</text>
 	</string>
 	<string id="st_awr_sell_dialog_8">
-		<text>Uh, I'll keep that in mind. Thanks.</text>
+		<text>어, 생각해 볼게. 고마워.</text>
 	</string>
 
 	<!-- Help -->
@@ -267,19 +267,19 @@
 		<text>Instructions</text>
 	</string>
 	<string id="st_awr_help_1">
-		<text>The repair procedure is affected by the overall quality of the weapon (new, worn, rusty) and its current condition. Moreover, the terms 0�65, 0�75 and 0�85 determine the weapon status for each of the quality types: 0�65% for rusty weapons, 0�75% for worn weapons and 0�85% for new weapons.</text>
+		<text>The repair procedure is affected by the overall quality of the weapon (new, worn, rusty) and its current condition. Moreover, the terms 065, 075 and 085 determine the weapon status for each of the quality types: 065% for rusty weapons, 075% for worn weapons and 085% for new weapons.</text>
 	</string>
 	<string id="st_awr_help_2">
-		<text>Repair and upgrade procedure (weapons with condition from 0�65/0�75/0�85):</text>
+		<text>Repair and upgrade procedure (weapons with condition from 065/075/085):</text>
 	</string>
 	<string id="st_awr_help_3">
-		<text>1. Select a repair kit to replace the weapon barrel with another barrel of the same calibre with the weapon status from 0�20/0�25/0�30 or using a weapon upgrade kit in a condition from 20�65/25�75/30�85 by double clicking on the name of the set with the list.\n2. Select a part in the list with a single mouse click. Replacing parts when repairing weapons with a low state occurs in a certain sequence:\n \nAt condition 0�20/0�25/0�30%: Replacement of barrel\nAt condition 20�35/25�45/30�55%: Replacement of trigger (shock�trigger mechanism)\nAt condition 35�45/45�60/55�70%: Replacement of breech head\nAt condition 45�55/60�70/70�80%: Replacement of gas tube\nAt condition 55�65/70�75/80�85%: Replacement of breech block\n \n3. Click on the image of the part that is being currently replaced (the part selected for the replacement that is available for replacement is indicated by a green light). Attempting to replace one part spends one charge of a belt. set\n4. In case the replacement is successful, this procedure is repeated for all parts in the specified order\n5. In case the part has been damaged, try again if there is a repair kit and any more weapon parts.\n6. All replaced parts are retained until the condition of the weapon is lowered. In this case, to improve the quality, the parts will need to be replaced anew.\n7. When all five parts have been replaced, the quality of the weapon will be changed to the corresponding one. On that note, if at least one of the replaced items has been worn out, the quality of the weapon will be changed to "worn", even if other weapon parts are replaced with new ones.</text>
+		<text>1. Select a repair kit to replace the weapon barrel with another barrel of the same calibre with the weapon status from 020/025/030 or using a weapon upgrade kit in a condition from 2065/2575/3085 by double clicking on the name of the set with the list.\n2. Select a part in the list with a single mouse click. Replacing parts when repairing weapons with a low state occurs in a certain sequence:\n \nAt condition 020/025/030%: Replacement of barrel\nAt condition 2035/2545/3055%: Replacement of trigger (shocktrigger mechanism)\nAt condition 3545/4560/5570%: Replacement of breech head\nAt condition 4555/6070/7080%: Replacement of gas tube\nAt condition 5565/7075/8085%: Replacement of breech block\n \n3. Click on the image of the part that is being currently replaced (the part selected for the replacement that is available for replacement is indicated by a green light). Attempting to replace one part spends one charge of a belt. set\n4. In case the replacement is successful, this procedure is repeated for all parts in the specified order\n5. In case the part has been damaged, try again if there is a repair kit and any more weapon parts.\n6. All replaced parts are retained until the condition of the weapon is lowered. In this case, to improve the quality, the parts will need to be replaced anew.\n7. When all five parts have been replaced, the quality of the weapon will be changed to the corresponding one. On that note, if at least one of the replaced items has been worn out, the quality of the weapon will be changed to "worn", even if other weapon parts are replaced with new ones.</text>
 	</string>
 	<string id="st_awr_help_4">
 		<text>The predetermined order of replacing weapon parts is due to the need to match the parts to the state of the weapon, since all replaced parts for each weapon that have ever been partially repaired in the vice are stored in the game memory. This allows you to continue repairs from the same location without having to re-replace parts, provided that the weapon condition has not been lowered after repair.</text>
 	</string>
 	<string id="st_awr_help_5">
-		<text>Weapon upgrade procedure is only available at a condition of 95�100% for weapons of rusty or worn quality:</text>
+		<text>Weapon upgrade procedure is only available at a condition of 95100% for weapons of rusty or worn quality:</text>
 	</string>
 	<string id="st_awr_help_6">
 		<text>1. Select a repair kit for the replacement of barrel or a weapon upgrade kit in the list by double clicking on the name of the set in the list. The replacement order is not available for upgrades.\n2. Select a part corresponding to the repair kit in the list with a single mouse click. When upgrading, only working parts can be used.\n3. Click on the image of the part that is being currently replaced\n4. In case the replacement is successful, this procedure remains the same for all other weapon parts.\n5. In case the part has been damaged, try again if there is a repair kit and any more weapon parts.\n6. All replaced parts are retained until the state of the weapon is lowered. In this case, to improve the quality, the parts will require further replacements.\n7. When all five parts have been replaced with new ones, the quality of the weapon will be changed to "new".</text>
