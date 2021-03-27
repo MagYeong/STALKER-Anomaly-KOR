@@ -3,56 +3,56 @@
 
 <!-- Miscellaneous gear -->
 	<string id="st_psy_helmet_name">
-		<text>Scientific psy-helmet (calibrated)</text>
+		<text>과학연구용 정신파 보호 헬멧 (교정됨)</text>
 	</string>
 	<string id="st_psy_helmet_desc">
-		<text>A psy-helmet designed to fit under regular headgear. It was developed under the leadership of Sakharov at the research station near Yantar. The unique layout of the helmet, consisting of electrical artefacts together with the device�s mounted antennas operate on the principle of the shield. When activated, the helmet projects an invisible dome near the carrier, acting on the energised particles released by the Shell artefact, thanks to which most of the radiation is extinguished, then the remnants are reflected by the protection system built directly into the helmet�s body. The uniqueness of this Psy-helmet lies in its ability to withstand the unusual mind-altering psy-frequencies of the various DUGA emitters within the Chernobyl Exclusion Zone.</text>
+		<text>기존 머리 보호구 밑에 착용하도록 되어 있는 정신파 보호 헬멧입니다. 얀타 호수 근처의 연구소에 있는 사하로프 교수 주도로 만들어졌습니다. 헬멧의 독특한 외형은 전기적 특성을 가진 아티팩트들과 장치에 달린 안테나들이 모여 정신파 보호막을 만들어내는 원리로 만들어졌습니다. 작동했을 때, 헬멧은 방사능이 모두 소멸된 껍질 아티팩트에서 에너지 형태의 입자를 발사하여 쓰고 있는 사람 주변에 보이지 않는 돔을 씌워 정신파를 일부 막아내고, 정신파의 나머지 부분은 헬멧의 몸체 바로 내부에 만들어진 보호 시스템을 통해 반사됩니다. 이 정신파 보호 헬멧만의 고유한 능력은 바로 체르노빌 통제 구역 내부에 있는 다양한 DUGA 방출기에서 뿜어져 나오는 수수께끼의 정신 조작 파장의 주파수를 견딜 수 있게 한다는 것입니다.</text>
 	</string>
 	
 	<string id="st_bad_psy_helmet_name">
-		<text>Scientific psy-helmet (uncalibrated)</text>
+		<text>과학연구용 정신파 보호 헬멧 (교정되지 않음)</text>
 	</string>
 	<string id="st_bad_psy_helmet_desc">
-		<text>An uncalibrated psy-helmet designed to fit under regular headgear. It was developed under the leadership of Sakharov at the research station near Yantar. The unique layout of the helmet, consisting of electrical artefacts together with the device�s mounted antennas operate on the principle of the shield. When activated, the helmet projects an invisible dome near the carrier, acting on the energised particles released by the Shell artefact, thanks to which most of the radiation is extinguished, then the remnants are reflected by the protection system built directly into the helmet�s body. The uniqueness of this Psy-helmet lies in its ability to withstand the unusual mind-altering psy-frequencies of the various DUGA emitters within the Chernobyl Exclusion Zone.</text>
+		<text>기존 머리 보호구 밑에 착용하도록 되어 있는 교정되지 않은 정신파 보호 헬멧입니다. 얀타 호수 근처의 연구소에 있는 사하로프 교수 주도로 만들어졌습니다. 헬멧의 독특한 외형은 전기적 특성을 가진 아티팩트들과 장치에 달린 안테나들이 모여 정신파 보호막을 만들어내는 원리로 만들어졌습니다. 작동했을 때, 헬멧은 방사능이 모두 소멸된 껍질 아티팩트에서 에너지 형태의 입자를 발사하여 쓰고 있는 사람 주변에 보이지 않는 돔을 씌워 정신파를 일부 막아내고, 정신파의 나머지 부분은 헬멧의 몸체 바로 내부에 만들어진 보호 시스템을 통해 반사됩니다. 이 정신파 보호 헬멧만의 고유한 능력은 바로 체르노빌 통제 구역 내부에 있는 다양한 DUGA 방출기에서 뿜어져 나오는 수수께끼의 정신 조작 파장의 주파수를 견딜 수 있게 한다는 것입니다.</text>
 	</string>
 	
 
 <!-- Headgear -->
 	<string id="st_helm_exo_name">
-		<text>Exohelm</text>
+		<text>외골격 헬멧</text>
 	</string>
 	<string id="st_helm_exo_descr">
-		<text>%c[ui_gray_1]This helmet resembles that of an ordinary exoskeleton, but differs slightly from its standard counterpart and has differing protective characteristics. Good protection from gunfire and high calibre rounds in combination with anomaly protection make this helmet one of the best in its category.\n \n
+		<text>%c[ui_gray_1]이 헬멧은 일반적인 외골격에 달려있는 것과 닮았지만, 기존 제품과는 살짝 다르며 보호 능력에서 약간의 차이가 있습니다. 대구경 탄환까지 감당할 수 있는 방어력과 이상현상 방호력을 함께 얻을 수 있기 때문에, 동종의 물건들 중 가장 뛰어난 성능을 자랑합니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_helm_battle">
-		<text>Sphere M12 helmet</text>
+		<text>스피어 M12 헬멧</text>
 	</string>
 	<string id="st_helm_battle_dolg">
-		<text>Duty Sphere M12 helmet</text>
+		<text>듀티 스피어 M12 헬멧</text>
 	</string>
 	<string id="st_helm_battle_freedom">
-		<text>Freedom Sphere M12 helmet</text>
+		<text>프리덤 스피어 M12 헬멧/text>
 	</string>
 	<string id="st_helm_battle_descr">
-		<text>%c[ui_gray_1]An aluminium/titanium helmet with a cloth exterior for camouflage. Comes with pockets that can be filled with additional armour pieces.  This helmet is in common use among Military Stalkers and Spetsnaz, who typically use it in tandem with PSZ-series body armour. Overall, the M12 Sphere Helmet provides some of the best combat-oriented protection in the Zone, and is in demand among any wealthy stalker who expects to get caught in a serious battle.\n \n
+		<text>%c[ui_gray_1]위장 기능이 있는 천으로 보호된 알루미늄과 티타늄 합금 헬멧입니다. 추가 장갑판을 넣을 수 있는 주머니가 달려 있습니다.  이 헬멧은 내무군 스토커들과 스페츠나츠 대원들 사이에서 널리 사용되며, 주로 PSZ 계열의 몸통 보호구와 조합하여 사용됩니다. 대체적으로, 스피어 헬멧은 존에서 가장 훌륭한 전투 목적의 방어력을 제공하는 머리 보호구들 중 하나로 여겨지며, 중요한 전투를 앞둔 부유한 스토커들 사이에서 인기가 높습니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_helm_hardhat">
-		<text>Surplus steel helmet</text>
+		<text>보급용 강철 헬멧</text>
 	</string>
 	<string id="st_helm_hardhat_descr">
-		<text>%c[ui_gray_1]A desperately outdated steel army helmet with a retractable visor for the eyes and not much else. Provides negligible protection against anomalies or radiation, but can deflect bullets. This helmet was never particularly popular in the Zone, except for use in brief armed conflicts between factions.\n \n
+		<text>%c[ui_gray_1]수납식 바이저 이외에는 별로 내세울 게 없는 엄청나게 오래된 강철 군용 헬멧입니다. 이상현상이나 방사능은 거의 보호해주지 않지만, 총알을 튕겨낼 수는 있습니다. 이 헬멧은 존에서 전혀 인기를 끈 적이 없었지만, 세력 간 짧은 무력 분쟁이 일어날 때 종종 사용됩니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_helm_protective">
-		<text>SSP-99 screen helmet</text>
+		<text>SSP-99 스크린 헬멧</text>
 	</string>
 	<string id="st_helm_protective_descr">
-		<text>%c[ui_gray_1]An uncomfortable but high quality curtain helmet made by the same Defense Research Institute as the SEVA bodysuit. Has a hermetic design, and allows for complete isolation from the conditions of an anomalous environment. It is intended to be used in tandem with military suits for the purpose of operations in highly anomalous areas.\n \n
+		<text>%c[ui_gray_1]SEVA 바디슈트를 만들어낸 곳과 동일한 방위 산업 연구 시설에서 만들어낸 불편하지만 높은 품질의 차폐형 헬멧입니다. 밀폐된 디자인을 하고 있어, 이상현상 환경과 같은 조건에서도 완전한 차폐가 가능합니다. 이상현상이 극심한 지역에서의 작전 수행을 위해 군용 방탄조끼와 함께 조합해서 사용할 수 있도록 고안되었습니다.\n \n
 		</text>
 	</string>
 
@@ -273,7 +273,7 @@
 	</string>
 
 	<string id="novice_outfit_tourist_name">
-		<text>Tourist�s jacket</text>
+		<text>Tourist’s jacket</text>
 	</string>
 	<string id="novice_outfit_tourist_description">
 		<text>%c[ui_gray_1]A warm leather anorak with an integrated backpack, worn over a cosy turtleneck sweater, tucked into sturdy jeans and hiking boots. It seems the previous owner was a real lover for hikes. The educated choice of materials and weight management system makes this more useful than most leather jackets, but is still unsuitable for anything more than quiet walks along the Zone's borders.\n \n
@@ -443,7 +443,7 @@
 		<text>CS-3b body armour</text>
 	</string>
 	<string id="csky_heavy_outfit_description">
-		<text>%c[ui_gray_1]Formerly the standard outfit issued to Clear Sky assault squads, after the faction�s infamous failure against the NPP in 2011 this armour serves as a reminder that even an excellent protective bodysuit cannot guarantee safety on the wrong side of the perimeter. The armour is capable of stopping a pistol bullet, while the wearer is also reasonably protected from anomalies.\n \n
+		<text>%c[ui_gray_1]Formerly the standard outfit issued to Clear Sky assault squads, after the faction’s infamous failure against the NPP in 2011 this armour serves as a reminder that even an excellent protective bodysuit cannot guarantee safety on the wrong side of the perimeter. The armour is capable of stopping a pistol bullet, while the wearer is also reasonably protected from anomalies.\n \n
 		</text>
 	</string>
 	
@@ -675,7 +675,7 @@
 		<text>Wind of Freedom</text>
 	</string>
 	<string id="svoboda_light_outfit_description">
-		<text>%c[ui_gray_1]This comfortable stalker bodysuit is made by Freedom craftsmen. The suit�s fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to chemical anomalies. One can only guess what the side effects might be.\n \n
+		<text>%c[ui_gray_1]This comfortable stalker bodysuit is made by Freedom craftsmen. The suit’s fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to chemical anomalies. One can only guess what the side effects might be.\n \n
 		</text>
 	</string>
 
@@ -979,7 +979,7 @@
 	</string>
 	
 	<string id="military_outfit_description">
-		<text>%c[ui_gray_1]An excellent protective suit for the Zone. This heavy military-grade armour is designed for major battle operations in anomalous areas. Comprises a PSZ-12p heavy military armoured suit, built-in compensation suit, and an anomalous protection bodysuit. The armour provides excellent protection against bullet and fragmentation damage, without greatly reducing the wearer�s mobility. Although originally intended for the sole use of Military stalkers and experienced Spetsnaz operators, this armour occasionally finds its way into factions outside of the Military through unknown means.\n \n
+		<text>%c[ui_gray_1]An excellent protective suit for the Zone. This heavy military-grade armour is designed for major battle operations in anomalous areas. Comprises a PSZ-12p heavy military armoured suit, built-in compensation suit, and an anomalous protection bodysuit. The armour provides excellent protection against bullet and fragmentation damage, without greatly reducing the wearer’s mobility. Although originally intended for the sole use of Military stalkers and experienced Spetsnaz operators, this armour occasionally finds its way into factions outside of the Military through unknown means.\n \n
 		</text>
 	</string>
 	
@@ -1021,7 +1021,7 @@
 		<text>Watchman of Freedom</text>
 	</string>
 	<string id="svoboda_scientific_outfit_description">
-		<text>%c[ui_gray_1]Produced by Freedom craftsmen especially for observing anomalous phenomena in the Zone. The closed system of breathing and special treatment materials provide excellent protection against harmful radiation and anomalous effects. However, the built-in "Sentinel" body armour isn�t the best and can break somewhat easily, so is not suitable for active hostilities.\n \n
+		<text>%c[ui_gray_1]Produced by Freedom craftsmen especially for observing anomalous phenomena in the Zone. The closed system of breathing and special treatment materials provide excellent protection against harmful radiation and anomalous effects. However, the built-in "Sentinel" body armour isn’t the best and can break somewhat easily, so is not suitable for active hostilities.\n \n
 		</text>
 	</string>
 
@@ -1061,7 +1061,7 @@
 		<text>UNISG SEVA suit</text>
 	</string>
 	<string id="isg_scientific_outfit_description">
-		<text>%c[ui_gray_1]Commissioned by UNISG from one of Kiev's defence research institutes especially for research in the Zone. The closed system of breathing and special treatment materials provide excellent protection against harmful radiation and anomalous effects, even compared to other SEVA suits. However, the built-in body armour isn�t the best and can break somewhat easily, so is not suitable for active hostilities.\n \n
+		<text>%c[ui_gray_1]Commissioned by UNISG from one of Kiev's defence research institutes especially for research in the Zone. The closed system of breathing and special treatment materials provide excellent protection against harmful radiation and anomalous effects, even compared to other SEVA suits. However, the built-in body armour isn’t the best and can break somewhat easily, so is not suitable for active hostilities.\n \n
 		</text>
 	</string>
 
@@ -1167,7 +1167,7 @@
 		<text>SSP-99 Diamond</text>
 	</string>
 	<string id="st_ecologist_outfit_white_description">
-		<text>%c[ui_gray_1]A SSP-99 chemical protection suit specially designed for the Zone�s harsh conditions. It is used by scientific expeditions and the eco-stalkers who cooperate with them. It has an integrated air-filtering and air-conditioning system, thus providing excellent protection from radiation. The Diamond variant gives superior protection from electricity. Also has an integrated system for suppressing anomalies� activity, which provides an average protection against chemicals and high temperatures. It is not designed to conduct military operations, therefore it doesn�t provide any protection from bullets or from shrapnel.\n \n
+		<text>%c[ui_gray_1]A SSP-99 chemical protection suit specially designed for the Zone’s harsh conditions. It is used by scientific expeditions and the eco-stalkers who cooperate with them. It has an integrated air-filtering and air-conditioning system, thus providing excellent protection from radiation. The Diamond variant gives superior protection from electricity. Also has an integrated system for suppressing anomalies’ activity, which provides an average protection against chemicals and high temperatures. It is not designed to conduct military operations, therefore it doesn’t provide any protection from bullets or from shrapnel.\n \n
 		</text>
 	</string>
 
@@ -1180,10 +1180,10 @@
 	</string>
 
 	<string id="st_ecologist_outfit_red_name">
-		<text>SSP-99� Ruby</text>
+		<text>SSP-99Ì Ruby</text>
 	</string>
 	<string id="st_ecologist_outfit_red_description">
-		<text>%c[ui_gray_1]High quality modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions. The �Ruby� model gives excellent protection against mutant attacks, as well as a wound healing system integrated in the suit. It provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments and other effects dangerous to the body.\n \n
+		<text>%c[ui_gray_1]High quality modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions. The ‘Ruby’ model gives excellent protection against mutant attacks, as well as a wound healing system integrated in the suit. It provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments and other effects dangerous to the body.\n \n
 		</text>
 	</string>
 
@@ -1329,7 +1329,7 @@
 		<text>Mercenary heavy armour TB-1</text>
 	</string>
 	<string id="exo_merc_outfit_description">
-		<text>NOT IN GAME. This heavy armoured suit, known as the TB-1, possesses a high physical protection comparing to the original heavy armours. For all other parameters it�s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. Used by expert Mercenaries on missions in the north, for taking down elite squads of the Monolith. It bears a standard merc dark blue camouflage pattern, suitable for operations in urban environment (or anywhere else, but only at nighttime). \n \n
+		<text>NOT IN GAME. This heavy armoured suit, known as the TB-1, possesses a high physical protection comparing to the original heavy armours. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. Used by expert Mercenaries on missions in the north, for taking down elite squads of the Monolith. It bears a standard merc dark blue camouflage pattern, suitable for operations in urban environment (or anywhere else, but only at nighttime). \n \n
 		</text>
 	</string>
 	
@@ -1453,7 +1453,7 @@
 		<text>Paragon of Freedom</text>
 	</string>
 	<string id="svoboda_exo_outfit_description">
-		<text>%c[ui_gray_1]Produced by Freedom�s finest artisans. Experimenting with different modifications, after numerous attempts they managed to create a really successful design. While not always the most practical suit to maintain, it is undeniably powerful, and as such is entrusted only to Freedom's finest warriors and guardsmen. Consists of a three-part exosuit (tactical helmet, tactical vest and a kevlar environmental jumpsuit) fitted with modern powered servos. \n \n
+		<text>%c[ui_gray_1]Produced by Freedom’s finest artisans. Experimenting with different modifications, after numerous attempts they managed to create a really successful design. While not always the most practical suit to maintain, it is undeniably powerful, and as such is entrusted only to Freedom's finest warriors and guardsmen. Consists of a three-part exosuit (tactical helmet, tactical vest and a kevlar environmental jumpsuit) fitted with modern powered servos. \n \n
 		</text>
 	</string>
 
@@ -1566,7 +1566,7 @@
 		<text>Ghillie suit</text>
 	</string>
 	<string id="ghillie_outfit_description">
-		<text>%c[ui_gray_1]This suit is designed to simulate a �heap of foliage.� Usually this type of suit is worn by snipers and hunters to blend in with the environment and hide themselves from enemies. Ghillie suits are commercially produced, but usually both military personnel and civilians customise and improve them to suit their needs. Despite its high efficiency, it can be very impractical: even in a temperate climate, it becomes hot over time and is very heavy.\n \n
+		<text>%c[ui_gray_1]This suit is designed to simulate a ‘heap of foliage.’ Usually this type of suit is worn by snipers and hunters to blend in with the environment and hide themselves from enemies. Ghillie suits are commercially produced, but usually both military personnel and civilians customise and improve them to suit their needs. Despite its high efficiency, it can be very impractical: even in a temperate climate, it becomes hot over time and is very heavy.\n \n
 		</text>
 	</string>
 
