@@ -264,24 +264,24 @@
 
 	<!-- Help -->
 	<string id="st_awr_help_0">
-		<text>Instructions</text>
+		<text>설명</text>
 	</string>
 	<string id="st_awr_help_1">
-		<text>The repair procedure is affected by the overall quality of the weapon (new, worn, rusty) and its current condition. Moreover, the terms 065, 075 and 085 determine the weapon status for each of the quality types: 065% for rusty weapons, 075% for worn weapons and 085% for new weapons.</text>
+		<text>수리 과정은 무기의 전체적인 품질 (신품, 오래됨, 녹슬음) 및 무기의 현재 내구도 상태에 따라 영향을 받습니다. 또한, 065, 075 그리고 085 의 수치가 각각의 품질 상태에 따른 무기 상태를 결정합니다: 녹슨 무기들은 065%, 오래된 무기들은 075% 그리고 신품 무기들은 085% 입니다.</text>
 	</string>
 	<string id="st_awr_help_2">
-		<text>Repair and upgrade procedure (weapons with condition from 065/075/085):</text>
+		<text>수리 및 개조 과정 (065/075/085 사이의 내구도를 가진 무기들):</text>
 	</string>
 	<string id="st_awr_help_3">
-		<text>1. Select a repair kit to replace the weapon barrel with another barrel of the same calibre with the weapon status from 020/025/030 or using a weapon upgrade kit in a condition from 2065/2575/3085 by double clicking on the name of the set with the list.\n2. Select a part in the list with a single mouse click. Replacing parts when repairing weapons with a low state occurs in a certain sequence:\n \nAt condition 020/025/030%: Replacement of barrel\nAt condition 2035/2545/3055%: Replacement of trigger (shocktrigger mechanism)\nAt condition 3545/4560/5570%: Replacement of breech head\nAt condition 4555/6070/7080%: Replacement of gas tube\nAt condition 5565/7075/8085%: Replacement of breech block\n \n3. Click on the image of the part that is being currently replaced (the part selected for the replacement that is available for replacement is indicated by a green light). Attempting to replace one part spends one charge of a belt. set\n4. In case the replacement is successful, this procedure is repeated for all parts in the specified order\n5. In case the part has been damaged, try again if there is a repair kit and any more weapon parts.\n6. All replaced parts are retained until the condition of the weapon is lowered. In this case, to improve the quality, the parts will need to be replaced anew.\n7. When all five parts have been replaced, the quality of the weapon will be changed to the corresponding one. On that note, if at least one of the replaced items has been worn out, the quality of the weapon will be changed to "worn", even if other weapon parts are replaced with new ones.</text>
+		<text>1. 목록에 있는 세트의 이름을 더블 클릭하여 020/025/030 사이의 내구도 상태를 가진 무기와 동일한 구경의 총열을 소지한 채로 총열 교체용 무기 수리 키트를 선택하거나 2065/2575/3085 내구도 사이에 있는 무기들에 알맞는 무기 개조 키트를 선택합니다.\n2. 목록에 있는 무기 부품을 클릭하여 선택합니다. 낮은 내구도의 무기를 수리할 때 부품을 교체하는 것은 다음과 같은 과정으로 이루어집니다:\n \n무기 상태 020/025/030%: 총열 교체\n무기 상태 2035/2545/3055%: 방아쇠 교체 (충격식방아쇠 장치)\n무기 상태 3545/4560/5570%: 노리쇠 교체\n무기 상태 4555/6070/7080%: 가스관 교체\n무기 상태 5565/7075/8085%: 노리쇠 뭉치 교체\n \n3. 현재 교체되는 부품의 이미지를 클릭합니다 (교체를 위해 선택된 교체 가능한 상태의 부품은 녹색으로 표시됩니다). 하나의 부품을 교체하려는 시도는 무기 수리 키트 충전량을 하나 소모합니다\n4. 교체가 성공적으로 이루어졌을 경우, 이러한 과정은 모든 부품들을 순차적으로 교체할 때까지 반복됩니다\n5. 만약 부품이 손상되었을 경우, 수리 키트와 더 많은 무기 부품들이 있는지 여부를 확인 후 다시 시도할 수 있습니다.\n6. 모든 교체된 부품들은 무기의 상태가 낮아지기 전까지 그대로 남아 있습니다. 이 때, 무기의 품질을 높이려면 부품들은 새로운 것으로 교체되어야 합니다.\n7. 다섯 가지의 부품들이 모두 교체된다면, 무기의 품질은 이에 맞는 품질로 변화합니다. 즉, 만일 교체된 부품들 중 하나의 부품이라도 오래됨 상태로 변화할 경우, 무기의 품질도 같이 "오래됨" 상태가 되며, 이는 다른 무기 부품들의 상태가 신품으로 교체되어도 마찬가지입니다.</text>
 	</string>
 	<string id="st_awr_help_4">
-		<text>The predetermined order of replacing weapon parts is due to the need to match the parts to the state of the weapon, since all replaced parts for each weapon that have ever been partially repaired in the vice are stored in the game memory. This allows you to continue repairs from the same location without having to re-replace parts, provided that the weapon condition has not been lowered after repair.</text>
+		<text>작업대에서 일부라도 수리된 적이 있는 각각의 무기에 사용된 모든 교체 부품들이 게임 메모리에 저장되기 때문에, 무기의 상태와 이에 적합한 부품들을 맞춰야할 필요성에 따라 예정된 무기 부품 교체 순서가 정해집니다. 따라서 같은 지역에서 같은 교체 부품을 다시 교체할 필요 없이 수리를 계속할 수 있으며, 무기의 상태가 수리 후에 오히려 낮아지는 것을 막아줍니다.</text>
 	</string>
 	<string id="st_awr_help_5">
-		<text>Weapon upgrade procedure is only available at a condition of 95100% for weapons of rusty or worn quality:</text>
+		<text>무기 개조 과정은 95100% 의 내구도를 가진 녹슬거나 오래된 품질의 무기들에서만 다음과 같은 순서로 진행됩니다:</text>
 	</string>
 	<string id="st_awr_help_6">
-		<text>1. Select a repair kit for the replacement of barrel or a weapon upgrade kit in the list by double clicking on the name of the set in the list. The replacement order is not available for upgrades.\n2. Select a part corresponding to the repair kit in the list with a single mouse click. When upgrading, only working parts can be used.\n3. Click on the image of the part that is being currently replaced\n4. In case the replacement is successful, this procedure remains the same for all other weapon parts.\n5. In case the part has been damaged, try again if there is a repair kit and any more weapon parts.\n6. All replaced parts are retained until the state of the weapon is lowered. In this case, to improve the quality, the parts will require further replacements.\n7. When all five parts have been replaced with new ones, the quality of the weapon will be changed to "new".</text>
+		<text>1. 목록에 있는 세트의 이름을 더블 클릭하여 알맞은 총열 교체용 무기 수리키트나 무기 개조키트를 선택합니다. 교체 순서는 개조 시에는 적용되지 않습니다.\n2. 수리 키트에 알맞은 부품을 목록에서 골라 클릭하여 선택합니다. 개조 시에는, 작동하는 부품들만 사용할 수 있습니다.\n3. 현재 교체되는 부품의 이미지를 클릭합니다\n4. 교체가 성공적으로 이루어질 경우, 이러한 과정은 다른 모든 무기 부품에 동일하게 적용됩니다.\n5. 만약 부품이 손상되었을 경우, 수리 키트와 더 많은 무기 부품들이 있다면 다시 시도할 수 있습니다.\n6. 교체된 모든 부품들은 무기의 상태가 나빠질 때까지 계속 유지됩니다. 이 경우, 품질을 높이기 위해서는 이후의 교체를 위한 부품이 필요하게 됩니다.\n7. 다섯 가지의 모든 부품들이 새로운 부품으로 교체되면, 무기의 품질은 "신품"으로 변화할 것입니다.</text>
 	</string>
 </string_table>
