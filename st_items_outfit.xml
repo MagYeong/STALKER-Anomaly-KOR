@@ -57,40 +57,40 @@
 	</string>
 
 	<string id="st_helm_respirator">
-		<text>Refitted PBF gas mask kit</text>
+		<text>개장된 PBF 방독면 키트</text>
 	</string>
 	<string id="st_helm_respirator_freedom">
-		<text>Freedom PBF gas mask kit</text>
+		<text>프리덤 PBF 방독면 키트</text>
 	</string>
 	<string id="st_helm_respirator_dolg">
-		<text>Duty PBF gas mask kit</text>
+		<text>듀티 PBF 방독면 키트</text>
 	</string>
 	<string id="st_helm_respirator_descr">
-		<text>%c[ui_gray_1]A ShMB gas mask refitted with external 40mm filters for greater functionality. Because the process of conversion from the old internal "porkchop" filters was never standardized, however, there is some slight variance in weight and radiological protection between individual masks. As a general rule, masks like this offer respectable protection in areas of increased radioactive activity, but suffer from a high failure rate in toxic environments and have negligible protection against physical impacts, rapidly breaking when placed under such conditions.\n \n
+		<text>%c[ui_gray_1]기능 강화를 위한 40mm 정화통 탈부착 개조가 이루어진 ShMB 방독면입니다. 하지만 기존의 내장형 "폭찹" 정화통에서 새로운 정화통으로 교체되는 과정은 제식으로 채용된 적이 없었기 때문에, 개별 방독면마다 무게나 방사능 방호 능력에 약간의 차이가 있습니다. 일반적인 관점에서, 이런 종류의 방독면들은 방사능의 영향이 높은 지역에서는 주목할 만한 수준의 보호를 제공하나, 독성 환경에서는 높은 고장율을 보이고 물리적 충격에 대해서는 미미한 수준의 보호만을 제공하며, 그러한 환경 조건에서 빠르게 손상된다는 한계가 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_helm_resp">
-		<text>Respirator</text>
+		<text>호흡기</text>
 	</string>
 	<string id="st_helm_resp_descr">
-		<text>%c[ui_gray_1]A basic plastic and rubber respirator, used to protect the wearer from inhaling harmful dusts, fumes, vapours or gases. Widely used by rookies and even some veterans from all factions due to its light weight and economical environmental protection. However, it provides negligible physical protection and is practically guaranteed to fail in more heavily irradiated areas.\n \n
+		<text>%c[ui_gray_1]착용자로 하여금 해로운 먼지, 연기, 증기나 가스를 들이마시지 않도록 보호하는 일반적인 플라스틱과 고무로 된 호흡기입니다. 무게가 가볍고 저렴하게 환경요소들에 대한 보호를 갖출 수 있는 수단으로서 모든 세력의 초보자들이나 심지어는 숙련자들까지 자주 사용하고 있습니다. 하지만, 물리적 위협에 대한 보호는 거의 제공하지 않으며 방사능 수준이 높은 지역에서는 방호력이 무용지물이 될 가능성이 높습니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_helm_respirator_gp5">
-		<text>GP-5 gas mask</text>
+		<text>GP-5 방독면</text>
 	</string>
 	<string id="st_helm_respirator_gp5_descr">
-		<text>%c[ui_gray_1]Originally manufactured from 1962 to 1989, the GP-5 gas mask was built with the intention to protect the Soviet people from radioactive fallout. It is a helmet-mask made of white and black rubber, with the lenses held in place by a crimping rim. The filters, however, have been restored or replaced with a great deal of care. Compared to gas mask kits of similar price and availability, such as the PBF, this reconditioned respiratory device boasts greater protection against radiation, but an even greater failure rate in toxic environments. \n \n
+		<text>%c[ui_gray_1]GP-5 방독면은 소비에트 연방의 인민들을 방사성 낙진으로부터 보호하기 위해 고안되었고, 1962년부터 1989년까지의 냉전 기간 동안 생산되었습니다. 이 방독면은 흰색과 검은색 고무로 만들어졌고, 주름진 눈구멍에 렌즈를 끼워 만든 헬멧 모양의 마스크입니다. 하지만 정화통은 복구되었거나 매우 세심한 관리를 통해 교체되어 왔습니다. PBF 방독면 등의 비슷한 가격대와 물량을 갖춘 다른 방독면들과 비교해보았을 때, 이 개장된 호흡용 장비는 방사능에 대해 더 훌륭한 방호를 제공하지만, 독성 환경에 대해서는 더 높은 고장율을 보입니다. \n \n
 		</text>
 	</string>
 
 	<string id="st_helm_bandana">
-		<text>Bandana</text>
+		<text>두건</text>
 	</string>
 	<string id="st_helm_bandana_descr">
-		<text>%c[ui_gray_1]An ordinary fabric bandana worn by conscripts, support corps and rear-echelon troops in the Military. Normally worn on the head, soldiers will often drape it around their mouth and nose instead to avoid breathing in toxic or radioactive particles. While better than nothing, this obviously isn't very effective, and bandanas used this way need frequent replacement.\n \n
+		<text>%c[ui_gray_1]내무군 징집병들이나, 보급부대 그리고 기타 하급 병사들이 사용한 평범한 천으로 된 두건입니다. 본래 머리에 두르는 물건이지만, 병사들은 그 대신 호흡할 때 독성 물질이나 방사능에 오염된 입자들을 거르기 위해 입가나 코를 덮도록 사용하는 경우가 많습니다. 없는 것보다는 낫긴 하지만, 확실히 그리 효과적인 물건은 아니며, 그런 방식으로 두건을 사용한다면 잦은 교체가 필요합니다.\n \n
 		</text>
 	</string>
 
