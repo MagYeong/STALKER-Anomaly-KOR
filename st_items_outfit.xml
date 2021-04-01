@@ -95,50 +95,50 @@
 	</string>
 
 	<string id="st_helm_rp_bala">
-		<text>Balaclava</text>
+		<text>발라클라바</text>
 	</string>
 	<string id="st_helm_rp_bala_descr">
-		<text>%c[ui_gray_1]A regular black fabric balaclava. It'll help keep your face warm in Eastern Europe's frigid winters, if nothing else. While the cloth of the mask does help filter some toxic and radioactive particles from the air you breathe, this protection is unreliable at best, and balaclavas used this way will soon need to be replaced.\n \n
+		<text>%c[ui_gray_1]평범한 검정색 천 발라클라바입니다. 적어도 동유럽의 혹독한 겨울로부터 얼굴을 따뜻하게 유지시켜 줄 정도는 됩니다. 마스크의 옷감 부분을 통해 호흡하는 공기에 섞여 있는 독성 물질이나 방사능 입자를 조금 걸러주는 데 도움이 될 수는 있지만, 믿음직한 수준은 결코 못 되며, 이런 식으로 사용된 발라클라바는 조만간 교체해야만 할 겁니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_helm_cloth_mask">
-		<text>Cloth mask</text>
+		<text>천으로 된 마스크</text>
 	</string>
 	<string id="st_helm_cloth_mask_descr">
-		<text>%c[ui_gray_1]A simple piece of cloth, folded into a mask. It is often used by stalkers to prevent dangerous particles from entering the body, as a precautionary measure. However, with prolonged use, it can accumulate toxins, so it is always desirable to have a spare for a quick replacement.\n \n
+		<text>%c[ui_gray_1]마스크 형태로 접힌 단순한 옷감 한 조각입니다. 스토커들이 위험한 입자들이 몸속으로 들어오는 것을 막기 위한 예방적 수단으로 자주 사용합니다. 하지만, 오래 사용하면 독성 물질이 축적되기 때문에, 빠른 교체를 위한 여분의 두건을 남겨놓는 것이 권장됩니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_helm_m40">
-		<text>M40 gas mask</text>
+		<text>M40 방독면</text>
 	</string>
 	<string id="st_helm_m40_descr">
-		<text>%c[ui_gray_1]This M40 is equipped with a multilayered 40-millimetre breathing filter placed on the left. This mask provides respectable radiation and chemical protection for extended periods, even after suffering damage. This gas mask is mass-produced for the US Armed Forces, and finds great use among Mercenaries.\n \n
+		<text>%c[ui_gray_1]이 M40 방독면의 좌측에는 다층 구조의 40 밀리미터 정화통이 달려 있습니다. 이 방독면은 피해를 입은 뒤에도 오랜 기간 동안 방사능이나 화학 요소에 대한 훌륭한 방호력을 제공해 줍니다. 이 방독면은 미군이 사용할 목적으로 대량 생산되었으며, 용병들 사이에서 사용되는 모습을 자주 찾아볼 수 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_helm_metro">
-		<text>Apocalypse helm</text>
+		<text>아포칼립스 투구</text>
 	</string>
 	<string id="st_helm_metro_descr">
-		<text>%c[ui_gray_1]Believed to have first been created by a faction known as "Final Day", this helm resembles a Czech M10 Gas Mask with heavy armour plating modifications. While it is uncomfortably heavy for most, it still boasts good protective characteristics versus chemical, radioactive and physical threats. When Final Day's leaders were assassinated and the faction dissolved by a stalker named Ghost, these helmets gradually entered into circulation among well-heeled stalkers, particularly those who intended to raid the myriad underground labs across the Zone.\n \n
+		<text>%c[ui_gray_1]"최후의 날" 로 알려진 세력에서 처음 제작된 것으로 알려진 이 투구는 체코산 M10 방독면에 중갑 개조가 가해진 것처럼 생겼습니다. 이 투구는 무엇보다도 불편할 정도로 무겁다는 특징이 있지만, 화학적 요소나 방사능, 그리고 물리적 충격으로부터 훌륭한 방호력을 갖습니다. 최후의 날 세력의 지도층이 암살되고 고스트라는 이름의 한 스토커에 의해 세력이 와해되고 나서, 이 투구들은 특히 존에 있는 수많은 지하 연구소를 습격하려는 부유한 스토커들 사이에서 점차 유통되기 시작했습니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_helm_tactic">
-		<text>Sphere-08 helmet</text>
+		<text>스피어-08 헬멧</text>
 	</string>
 	<string id="st_helm_tactic_descr">
-		<text>%c[ui_gray_1]A modern, high quality helmet with a built-in air filtration system, with features based on Western models. The design consists of several layers of Kevlar to protect the wearer from severe physical harm. The helmet is also made of composite dielectric materials, thereby granting the wearer greater insulation from shock than most similar models. Most commonly used by the Zone's Spetsnaz operators, especially in conjunction with the PS5 body armour series.\n \n
+		<text>%c[ui_gray_1]서구권 헬멧들의 특징을 갖춘, 공기 정화 장치가 내장된 현대적인 스타일의 고품질 헬멧입니다. 헬멧은 착용자를 심각한 물리적 위협으로부터 보호하는 몇 층의 케블라로 구성되어 있습니다. 또한 헬멧은 유전체 물질의 합금으로 만들어져 있기 때문에, 착용자를 다른 유사한 종류의 보호구에 비해 전기 충격으로부터 더 잘 보호해줍니다. 존에서 활동하는 스페츠나츠 요원들이 가장 자주 사용하며, 특히 PS5 계열 방탄복들과 같이 사용됩니다.\n \n
 		</text>
 	</string>
 
 	<string id="helm_spartan">
-		<text>Cz-M10 Spartan helmet</text>
+		<text>Cz-M10 스파르탄 헬멧</text>
 	</string>
 	<string id="helm_spartan_descr">
-		<text>%c[ui_gray_1]A helmet commissioned by extremely influential stalkers, based off the Apocalypse helm designs formerly used by "Final Day". Compared to the Apocalypse, however, this helmet is not only lighter, but more protective across the board. It compares highly favourably to modern combat helmets such as the "sphere" series in addition to boasting amazing protection against anomalies. A popular choice among stalkers who can get hold of it.\n \n
+		<text>%c[ui_gray_1]엄청난 영향력을 가진 스토커들이 특별 주문한 헬멧으로, "최후의 날" 세력이 사용하던 아포칼립스 투구의 설계를 바탕으로 제작되었습니다. 하지만, 아포칼립스 투구와 비교해 보았을 때 이 헬멧은 더 가벼울 뿐만 아니라, 전반적으로 더 우수한 보호 능력을 갖추었습니다. "스피어" 계열의 현대식 전투 헬멧과 비교해 보았을 때도 더욱 유리하며 이상현상에 대해서도 놀라운 보호 능력을 자랑합니다. 이 헬멧을 감당할 수 있는 능력을 갖춘 스토커들에게 인기있는 선택이라 할 수 있습니다.\n \n
 		</text>
 	</string>
 	
