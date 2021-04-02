@@ -2,10 +2,10 @@
 <string_table>
 	<!-- Level Names -->
 	<string id="l03_agroprom">
-		<text>아그로포롬</text>
+		<text>농공단지</text>
 	</string>
 	<string id="l03u_agr_underground">
-		<text>아그로포롬 지하</text>
+		<text>농공단지 지하</text>
 	</string>
 	<string id="l07_military">
 		<text>군 창고</text>
