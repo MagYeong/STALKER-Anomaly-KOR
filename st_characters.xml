@@ -109,7 +109,7 @@
 		<text>노비코프</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist">
-		<text>헤르만 교수</text>
+		<text>허먼 교수</text>
 	</string>
 	<string id="jup_b9_shliachin_name">
 		<text>슐랴친 병장</text>
@@ -352,7 +352,7 @@
 		<text>울프</text>
 	</string>
 	<string id="esc_fanat_bio">
-		<text>울프 다음으로 루키 캠프에서 리더쉽을 이어받았습니다. 목적의식이 풍부하고, 공격적이며, 신입에 대한 충분한 권한이 있습니다.</text>
+		<text>울프 다음으로 초보자 캠프에서 지도력을 이어받았습니다. 목적의식이 풍부하고, 공격적이며, 신입에 대한 충분한 권한이 있습니다.</text>
 	</string>
 	<string id="esc_fanat_name">
 		<text>파나틱</text>
@@ -361,496 +361,496 @@
 		<text>바텐더</text>
 	</string>
 	<string id="bar_barmen_bio">
-		<text>Neither a saint, nor a scoundrel. The Barkeep knows his worth and is respected by all stalkers. Rumour has it he is hiding in the Zone from some dark events in his past. After an encounter with the anomaly, he started limping slightly and decided to change jobs. He set up a bar by the Duty faction, and the place gradually turned into the meeting point for all the Zone's veterans. The Barkeep has numerous connections both in the Zone and in the outside world.</text>
+		<text>성자도 아니지만 악당도 아닙니다. 바텐더는 그의 가치를 스스로 잘 알고 있으며 스토커들에게 존경받고 있습니다. 소문에 의하면 어두운 과거를 숨기기 위해 존에 뛰어들었다고 합니다. 이상현상으로 인해 다리를 절게된 후 그는 직업을 바꿨습니다. 듀티 팩션의 바에서 일하게 되었으며, 그 곳은 점점 존의 모든 베테랑 스토커들의 만남의 장이 되었습니다. 바텐더는 존의 내부와 외부에 수많은 연결책을 갖고 있습니다.</text>
 	</string>
 	<string id="bar_bar_guard_bio">
-		<text>Bouncer at the bar. Or the Barkeep's bodyguard if you wish. Nothing is known about his present or his past.</text>
+		<text>바의 가드입니다. 바텐더의 보디가드이기도 하죠. 그의 과거나 현재에 대해 알려진 것은 아무것도 없습니다. </text>
 	</string>
 	<string id="bar_bar_guard_name">
-		<text>Garik</text>
+		<text>가릭</text>
 	</string>
 	<string id="bar_bar_guard2_bio">
-		<text>Garik's twin brother. Bouncer at the bar. As close-mouthed as his brother.</text>
+		<text>가릭의 쌍둥이 형제입니다. 바의 가드이며 형제와 마찬가지로 말수가 없습니다.</text>
 	</string>
 	<string id="bar_bar_guard2_name">
-		<text>Zhorik</text>
+		<text>조릭</text>
 	</string>
 	<string id="st_bar_duty_security_squad_leader_name">
-		<text>Captain Gavrilenko</text>
+		<text>가브릴렌코 대위</text>
 	</string>
 	<string id="bar_kicenko_name">
-		<text>Master Sergeant Kitsenko</text>
+		<text>키첸코 상사</text>
 	</string>
 	<string id="sim_dolg_veteran_bio">
-		<text>Militant from the Duty faction. Usually well equipped. No details available.</text>
+		<text>듀티 팩션의 공격투사입니다. 장비가 잘 갖춰져 있습니다. 더이상의 세부정보가 없습니다.</text>
 	</string>
 	<string id="escape_trader_bio">
-		<text>Has been making his living since childhood by trading. In kindergarten, he used to sell crayons. In high school, he took to selling chewing gum. At the Institute, he dealt in light drugs. As soon as the Zone came to be, he realized its money-making potential. Famous for being able to build strong trade relations with any kind of ill-sorted clients.</text>
+		<text>그의 삶은 어린 시절부터 상인 그 자체였습니다. 유치원을 다닐 때는 크레용을 팔았습니다. 고등학교 시절에는 풍선껌을 팔았습니다. 연구소를 다니면서 가벼운 마약을 팔았습니다. 존에 들어오자마자 그는 존에서 돈을 굴릴 수 있는 잠재력을 깨달았습니다. 불량 고객들과 강력한 거래 관계를 구축할 수 있는 것으로 유명합니다.</text>
 	</string>
 	<string id="escape_trader_name">
-		<text>Sidorovich</text>
+		<text>시드로비치</text>
 	</string>
 	<string id="red_forester_name">
-		<text>Forester</text>
+		<text>숲지기</text>
 	</string>
 	<string id="yan_st_sakharov_name">
-		<text>Professor Sakharov</text>
+		<text>샤카로프 교수</text>
 	</string>
 	<string id="yan_semenov_bio">
-		<text>Research assistant at the mobile lab. No details available.</text>
+		<text>이동식 연구소의 보조 연구원입니다. 더이상의 세부정보가 없습니다.</text>
 	</string>
 	<string id="yan_semenov_name">
-		<text>Professor Semenov</text>
+		<text>세메노프 교수</text>
 	</string>
 	<string id="yan_vasilyev_name">
-		<text>Professor Vasiliev</text>
+		<text>바실리에프 교수</text>
 	</string>
 	<string id="yan_vasilyev_bio">
-		<text>Research assistant at the mobile lab. No details available.</text>
+		<text>이동식 연구소의 보조 연구원입니다. 더이상의 세부정보가 없습니다.</text>
 	</string>
 	<string id="yan_kruglov_bio">
-		<text>Ph.D. in biology. Studied pathogenic mutations in animals outside the Zone. Came to the Zone to study blind dog mutations.</text>
+		<text>생물학 박사학위 취득. 존 외곽의 동물들에게서 병원성 돌연변이를 연구했었습니다. 현재는 눈먼 개 돌연변이 연구를 위해 존으로 들어왔습니다.</text>
 	</string>
 	<string id="yan_kruglov_name">
-		<text>Professor Kruglov</text>
+		<text>크루글로프 교수</text>
 	</string>
 	<string id="mar_base_stalker_tech_name">
-		<text>Novikov</text>
+		<text>노비코프</text>
 	</string>
 	<string id="mar_base_owl_stalker_trader_name">
-		<text>Spore</text>
+		<text>스포어</text>
 	</string>
 	<string id="mar_base_stalker_barmen_name">
-		<text>Librarian</text>
+		<text>사서</text>
 	</string>
 	<string id="mil_Svoboda_engineer_name">
-		<text>Screw</text>
+		<text>스크류</text>
 	</string>
 	<string id="mil_Svoboda_trader_name">
-		<text>Skinflint</text>
+		<text>스킨플린트</text>
 	</string>
 	<string id="bar_petrenko_name">
-		<text>Colonel Petrenko</text>
+		<text>페트렌코 대령</text>
 	</string>
 	<string id="bar_voronin_name">
-		<text>General Voronin</text>
+		<text>보로닌 대장</text>
 	</string>
 	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_name">
-		<text>Limpid</text>
+		<text>림피드</text>
 	</string>
 	<string id="val_smart_terrain_7_4_bandit_trader_stalker_name">
-		<text>Olivius</text>
+		<text>올리비우스</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_name">
-		<text>Xenotech</text>
+		<text>제노테크</text>
 	</string>
 	<string id="pri_monolith_monolith_mechanic_stalker_name">
-		<text>Cleric</text>
+		<text>클레릭</text>
 	</string>
 	<string id="pri_monolith_monolith_trader_stalker_name">
-		<text>Krolik</text>
+		<text>크롤릭</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_name">
-		<text>Hog</text>
+		<text>호그</text>
 	</string>
 	<string id="cit_killers_merc_trader_stalker_name">
-		<text>Dushman</text>
+		<text>더쉬맨</text>
 	</string>
 	<string id="cit_killers_merc_medic_stalker_name">
-		<text>Surgeon</text>
+		<text>외과의</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_mechanic_stalker_name">
-		<text>Senior Lieutenant Kirilov</text>
+		<text>키릴로프 중위</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_trader_stalker_name">
-		<text>Sergeant Spooner</text>
+		<text>스푸너 병장</text>
 	</string>
 	<string id="agr_smart_terrain_1_6_army_medic_stalker_name">
-		<text>Lieutenant Rogovets</text>
+		<text>로고베츠 소위</text>
 	</string>
 	<string id="bar_visitors_stalker_mechanic_name">
-		<text>Senior Sergeant "Mangun" Potryko</text>
+		<text>"맨건" 포트리코 중위</text>
 	</string>
 	<string id="mil_freedom_leader_name">
-		<text>Lukash</text>
+		<text>루카쉬</text>
 	</string>
 	<string id="mar_csky_commander_name">
-		<text>Lebedev</text>
+		<text>레베데프</text>
 	</string>
 	<string id="warlab_osoznanie_name">
-		<text>C-Consciousness representative</text>
+		<text>C-의식 대표</text>
 	</string>
 	<string id="warlab_volunteer_name">
-		<text>C-Consciousness volunteer</text>
+		<text>C-의식 자원봉사자</text>
 	</string>
 	<string id="sar2_clone_name">
-		<text>Projection</text>
+		<text>투사체</text>
 	</string>
 	<string id="sar2_arena_manager_name">
-		<text>Arnie</text>
+		<text>아르니</text>
 	</string>
 	<string id="sar2_arena_savage_name">
-		<text>Beast</text>
+		<text>비스트</text>
 	</string>
 	<string id="sar2_bandit_leader_name">
-		<text>Vasya 'Boar'</text>
+		<text>'멧돼지' 바스야</text>
 	</string>
 	<string id="sar2_bio">
-		<text>A psychomaterial form created by the Monolith.</text>
+		<text>모노리스에 의해 창조된 정신 물질적 형태.</text>
 	</string>
 	<string id="sar2_borov_name">
-		<text>Borov</text>
+		<text>보로프</text>
 	</string>
 	<string id="sar2_crazy_svoboda_name">
-		<text>Insane stalker.</text>
+		<text>미친 스토커.</text>
 	</string>
 	<string id="sar2_dolg_blokpost_leader_name">
-		<text>Warrant officer</text>
+		<text>영장 집행관</text>
 	</string>
 	<string id="sar2_dolg_guard_commander_name">
-		<text>Security Chief</text>
+		<text>보안 책임자</text>
 	</string>
 	<string id="sar2_dolg_skull_name">
-		<text>'Skull'</text>
+		<text>'스컬'</text>
 	</string>
 	<string id="sar2_dolg_zastava_commander_name">
-		<text>Outpost commander</text>
+		<text>전초기지 사령관</text>
 	</string>
 	<string id="sar2_dram_novice_name">
-		<text>Yurik</text>
+		<text>유리크</text>
 	</string>
 	<string id="sar2_explorer_name">
-		<text>Zheka 'Doublet'</text>
+		<text>'더블릿' 제카</text>
 	</string>
 	<string id="sar2_fanat_name">
-		<text>'Fanatic'</text>
+		<text>'파나틱'</text>
 	</string>
 	<string id="sar2_fox_name">
-		<text>'Fox'</text>
+		<text>'폭스'</text>
 	</string>
 	<string id="sar2_gordon_name">
-		<text>Gordon</text>
+		<text>고든</text>
 	</string>
 	<string id="sar2_haron_name">
-		<text>Charon</text>
+		<text>카론</text>
 	</string>
 	<string id="sar2_hellcar_name">
-		<text>Bes</text>
+		<text>베스</text>
 	</string>
 	<string id="sar2_informator_name">
-		<text>Ara</text>
+		<text>아라</text>
 	</string>
 	<string id="sar2_ivancov_name">
-		<text>Captain Ivantsov</text>
+		<text>이반초프 대위</text>
 	</string>
 	<string id="sar2_krot_name">
-		<text>Stalker Mole</text>
+		<text>몰 스토커</text>
 	</string>
 	<string id="sar2_kruglov_name">
-		<text>Professor Kruglov</text>
+		<text>크루글로프 교수</text>
 	</string>
 	<string id="sar2_kuznetsov_name">
-		<text>Colonel Kuznetsov</text>
+		<text>쿠즈네초프 대령</text>
 	</string>
 	<string id="sar2_lucky_name">
-		<text>Lucky</text>
+		<text>럭키</text>
 	</string>
 	<string id="sar2_petrenko_name">
-		<text>Colonel Petrenko</text>
+		<text>페트렌코 대령</text>
 	</string>
 	<string id="sar2_petruha_name">
-		<text>Zhorik</text>
+		<text>조릭</text>
 	</string>
 	<string id="sar2_professor_name">
-		<text>Professor Sakharov</text>
+		<text>샤카로프 교수</text>
 	</string>
 	<string id="sar2_ryaboy_name">
-		<text>Spotty</text>
+		<text>스파티</text>
 	</string>
 	<string id="sar2_seryi_name">
-		<text>'Seriy'</text>
+		<text>'세리'</text>
 	</string>
 	<string id="sar2_svoboda_blockpost_leader_name">
-		<text>'Cap'</text>
+		<text>'캡'</text>
 	</string>
 	<string id="sar2_svoboda_bodyguard_name">
-		<text>'Kaput'</text>
+		<text>'카풋'</text>
 	</string>
 	<string id="sar2_svoboda_cook_name">
-		<text>'Chef'</text>
+		<text>'셰프'</text>
 	</string>
 	<string id="sar2_svoboda_engeneer_name">
-		<text>Screw</text>
+		<text>스크류</text>
 	</string>
 	<string id="sar2_svoboda_leader_name">
-		<text>'Lukash'</text>
+		<text>'루카쉬'</text>
 	</string>
 	<string id="sar2_svoboda_max_name">
-		<text>'Max'</text>
+		<text>'맥스'</text>
 	</string>
 	<string id="sar2_svoboda_stukach_name">
-		<text>Pavlik</text>
+		<text>파블릭</text>
 	</string>
 	<string id="sar2_svoboda_trader_name">
-		<text>'Skinflint'</text>
+		<text>'스킨플린트'</text>
 	</string>
 	<string id="sar2_svoboda_ugrumyi_name">
-		<text>'Murk'</text>
+		<text>'머크'</text>
 	</string>
 	<string id="sar2_tiran_name">
-		<text>Tyran</text>
+		<text>타이런</text>
 	</string>
 	<string id="sar2_tolik_name">
-		<text>Tolik</text>
+		<text>톨릭</text>
 	</string>
 	<string id="sar2_volkodav_name">
-		<text>Wolfhound</text>
+		<text>울프하운드</text>
 	</string>
 	<string id="sar2_voronin_name">
-		<text>General Voronin</text>
+		<text>보로닌 대장</text>
 	</string>
 	<string id="sar2_wolf_name">
-		<text>'Wolf'</text>
+		<text>'울프'</text>
 	</string>
 	<string id="dar_kalugin_name">
-		<text>Piotr Kalugin</text>
+		<text>피오트르 칼루진</text>
 	</string>
 	<string id="dar_rockatansky_name">
-		<text>Rockatansky</text>
+		<text>로카탄스키</text>
 	</string>
 	<string id="bar_arny_name">
-		<text>Arnie</text>
+		<text>아르니</text>
 	</string>
 	<string id="bar_lelik_name">
-		<text>Liolik</text>
+		<text>리올릭</text>
 	</string>
 	<string id="bar_beast_name">
-		<text>Beast</text>
+		<text>비스트</text>
 	</string>
 	<string id="yan_ghost_name">
-		<text>Ghost</text>
+		<text>고스트</text>
 	</string>
 	<string id="warlab_entity_name">
-		<text>Warlab Entity</text>
+		<text>전쟁연구소 개체</text>
 	</string>
 	<string id="warlab_main_poltergeist_1">
-		<text>Psychic Projection</text>
+		<text>초자연적 투사체</text>
 	</string>
 	<string id="warlab_main_poltergeist_2">
-		<text>Psychic Projection</text>
+		<text>초자연적 투사체</text>
 	</string>
 	<string id="warlab_main_psysucker">
-		<text>Psychic Projection</text>
+		<text>초자연적 투사체</text>
 	</string>
 	<string id="warlab_main_psycontroller">
-		<text>Psychic Projection</text>
+		<text>초자연적 투사체</text>
 	</string>
 	<string id="jup_a6_freedom_trader_ashot_name">
-		<text>Ashot</text>
+		<text>에이샷</text>
 	</string>
 	<string id="agr_kuznetsov_name">
-		<text>Colonel Kuznetsov</text>
+		<text>쿠츠네초프 대령</text>
 	</string>
 	<string id="devushka">
-		<text>Hip</text>
+		<text>힙</text>
 	</string>
 
 	<!-- Characters in MLR -->
 
 	<string id="agr_1_6_barman_army_mlr_name">
-		<text>Commander</text>
+		<text>사령관</text>
 	</string>
 	<string id="agr_1_6_medic_army_mlr_name">
-		<text>Lieutenant Rogovets</text>
+		<text>로고베츠 소위</text>
 	</string>
 	<string id="army_south_mechan_mlr_name">
-		<text>Seryoga</text>
+		<text>세르요가</text>
 	</string>
 	<string id="bar_dolg_medic_name">
-		<text>Lieutenant "Aspirin" Sostradov</text>
+		<text>"아스피린" 소츠라도프 소위</text>
 	</string>
 	<string id="bar_informator_mlr_name">
-		<text>Snitch</text>
+		<text>스니치</text>
 	</string>
 	<string id="cit_killers_merc_barman_mlr_name">
-		<text>Aslan</text>
+		<text>아슬란</text>
 	</string>
 	<string id="st_dasc_tech_mlr_name">
-		<text>Polymer</text>
+		<text>폴리머</text>
 	</string>
 	<string id="st_dasc_trade_mlr_name">
-		<text>Cutter</text>
+		<text>커터</text>
 	</string>
 	<string id="ds_killer_guide_main_base_name">
-		<text>Leopard</text>
+		<text>레오파드</text>
 	</string>
 	<string id="ds_killer_medic_mlr_name">
-		<text>Dawn</text>
+		<text>던</text>
 	</string>
 	<string id="esc_3_16_military_trader_name">
-		<text>Major Zhurov</text>
+		<text>주로프 소령</text>
 	</string>
 	<string id="esc_main_base_trader_mlr_name">
-		<text>Loris</text>
+		<text>로리스</text>
 	</string>
 	<string id="guid_bar_stalker_navigator_name">
-		<text>Navigator</text>
+		<text>네비게이터</text>
 	</string>
 	<string id="guid_dv_mal_mlr_name">
-		<text>Pug</text>
+		<text>퍼그</text>
 	</string>
 	<string id="guid_jup_stalker_garik">
-		<text>Garry</text>
+		<text>개리</text>
 	</string>
 	<string id="guid_marsh_mlr_name">
-		<text>Genka</text>
+		<text>젠카</text>
 	</string>
 	<string id="guid_pri_a15_mlr_name">
-		<text>Tourist</text>
+		<text>투어리스트</text>
 	</string>
 	<string id="guid_zan_stalker_locman_name">
-		<text>Pilot</text>
+		<text>파일럿</text>
 	</string>
 	<string id="hunter_gar_trader_name">
-		<text>Butcher</text>
+		<text>부처</text>
 	</string>
 	<string id="lider_monolith_haron_name">
-		<text>Charon</text>
+		<text>카론</text>
 	</string>
 	<string id="mechanic_army_yan_mlr_name">
-		<text>Peregrine</text>
+		<text>페레그린</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_name">
-		<text>Trunk</text>
+		<text>트렁크</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_name">
-		<text>Griffin</text>
+		<text>그리핀</text>
 	</string>
 	<string id="st_mil_freedom_barman_mlr_name">
-		<text>Culinary</text>
+		<text>컬리너</text>
 	</string>
 	<string id="mil_freedom_guid_name">
-		<text>Leshiy</text>
+		<text>레쉬</text>
 	</string>
 	<string id="st_mil_freedom_medic_name">
-		<text>Solid</text>
+		<text>솔리드</text>
 	</string>
 	<string id="pri_a16_mech_mlr_name">
-		<text>Sledge</text>
+		<text>슬레지</text>
 	</string>
 	<string id="pri_special_trader_mlr_name">
-		<text>Meeker</text>
+		<text>미커</text>
 	</string>
 	<string id="trader_pri_a15_mlr_name">
-		<text>Cashier</text>
+		<text>캐셔</text>
 	</string>
 	<string id="yan_povar_army_mlr_name">
-		<text>Spirit</text>
+		<text>스피릿</text>
 	</string>
 	<string id="zat_tech_mlr_name">
-		<text>Spleen</text>
+		<text>스플린</text>
 	</string>
 	<string id="zat_stancia_mech_merc_name">
-		<text>Kolin</text>
+		<text>콜린</text>
 	</string>
 	<string id="zat_stancia_trader_merc_name">
-		<text>Vector</text>
+		<text>벡터</text>
 	</string>
 	<string id="mar_smart_terrain_base_doctor_name">
-		<text>Professor Kalancha</text>
+		<text>칼란차 교수</text>
 	</string>
 	
 	<string id="stalker_gatekeeper_name">
-		<text>Gatekeeper</text>
+		<text>게이트키퍼</text>
 	</string>
 	<string id="lost_stalker_strelok_name">
-		<text>Strelok</text>
+		<text>스트렐록</text>
 	</string>
 	<string id="stalker_scope_name">
-		<text>Scope</text>
+		<text>스코프</text>
 	</string>
 	<string id="stalker_wayfarer_name">
-		<text>Wayfarer</text>
+		<text>웨이페어러</text>
 	</string>
 	<string id="greh_envoy_name">
-		<text>Vodnik</text>
+		<text>보드닉</text>
 	</string>
 	<string id="greh_castigator_1_name">
-		<text>Drekavac</text>
+		<text>드레카박</text>
 	</string>
 	<string id="greh_castigator_2_name">
-		<text>Bolotnik</text>
+		<text>볼론트닉</text>
 	</string>
 	<string id="greh_castigator_3_name">
-		<text>Upyr</text>
+		<text>우피르</text>
 	</string>
 	<string id="greh_castigator_4_name">
-		<text>Leshy</text>
+		<text>레쉬</text>
 	</string>
 	<string id="greh_castigator_5_name">
-		<text>Bes</text>
+		<text>베스</text>
 	</string>
 	<string id="greh_castigator_6_name">
-		<text>Chort</text>
+		<text>초트</text>
 	</string>
 	<string id="greh_castigator_7_name">
-		<text>Ved</text>
+		<text>베드</text>
 	</string>
 	<string id="greh_prisoner_name">
-		<text>Psoglav</text>
+		<text>소글라프</text>
 	</string>
 	<string id="kat_greh_sabaoth_name">
-		<text>Chernobog</text>
+		<text>체르노보그</text>
 	</string>
 	<string id="monolith_eidolon_name">
-		<text>Eidolon</text>
+		<text>에이돌른</text>
 	</string>
 	<string id="army_degtyarev_name">
-		<text>Colonel Degtyarev</text>
+		<text>덱타레프 대령</text>
 	</string>
 	<string id="army_degtyarev_jup_name">
-		<text>Alexander Degtyarev</text>
+		<text>알렉산더 덱타레프</text>
 	</string>
 	<string id="army_isg_spy_name">
-		<text>Corporal Antonov</text>
+		<text>안토노프 상병</text>
 	</string>
 	<string id="army_tarasov_name">
-		<text>Major Tarasov</text>
+		<text>타라소프 소령</text>
 	</string>
 	<string id="stalker_strelok_oa_name">
-		<text>Strelok</text>
+		<text>스트렐록</text>
 	</string>
 	<string id="stalker_rogue_oa_name">
-		<text>Rogue</text>
+		<text>로그</text>
 	</string>
 	<string id="stalker_stitch_oa_name">
-		<text>Stitch</text>
+		<text>스니치</text>
 	</string>
 	<string id="agr_u_bandit_boss_name">
-		<text>Reefer</text>
+		<text>리퍼</text>
 	</string>
 	<string id="red_greh_trader_name">
-		<text>Stribog</text>
+		<text>스트리보</text>
 	</string>
 	<string id="red_greh_tech_name">
-		<text>Dazhbog</text>
+		<text>대지보그</text>
 	</string>
 	<string id="jup_cont_mech_bandit_name">
-		<text>Nile</text>
+		<text>닐레</text>
 	</string>
 	<string id="jup_cont_trader_bandit_name">
-		<text>Klenov</text>
+		<text>클레노프</text>
 	</string>
 	<string id="mechanic_monolith_kbo_name">
-		<text>Bracer</text>
+		<text>브레이서</text>
 	</string>
 	<string id="trader_monolith_kbo_name">
-		<text>Olivar</text>
+		<text>올리버</text>
 	</string>
 	<string id="ds_domik_isg_leader_name">
-		<text>Major Hernandez</text>
+		<text>허넨다즈 소령</text>
 	</string>
 	<string id="jup_depo_isg_tech_name">
-		<text>Lieutenant Maus</text>
+		<text>마우스 소위</text>
 	</string>
 </string_table>
