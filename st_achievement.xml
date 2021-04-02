@@ -2,315 +2,315 @@
 <string_table>
 	
 	<string id="st_achievement_1_name">
-		<text>Heavy Pockets</text>
+		<text>두둑한 주머니</text>
 	</string>
 	<string id="st_achievement_1_hint">
-		<text>Traders are more willing to sell higher tier gear to you, even if you don't meet the goodwill requirements with their faction.</text>
+		<text>이제 당신이 해당 팩션에게 쌓아야 하는 우호도의 최소치를 충족하지 않더라도, 모든 팩션 상인들이 당신에게 높은 수준의 장비를 판매할 것입니다.</text>
 	</string>
 	<string id="st_achievement_1_descr">
-		<text>Your great wealth has become well-known among the traders of the Zone. Eager for your patronage, they're more likely to offer their best wares to you, regardless of your standing with their faction.</text>
+		<text>당신의 막대한 재산은 존의 상인들에게 널리 알려졌습니다. 당신의 후원을 절실히 바라며, 상인들은 당신이 지지하는 과 상관없이 최고의 상품을 제공할 것입니다.</text>
 	</string>
 	<string id="st_achievement_1_unlock">
-		<text>You have unlocked the "Heavy Pockets" achievement.</text>
+		<text>"두둑한 주머니" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_2_name">
-		<text>Radiotherapy</text>
+		<text>방사선 요법</text>
 	</string>
 	<string id="st_achievement_2_hint">
-		<text>Each time a psy-storm or emission begins, there's a chance you won't need to take cover.</text>
+		<text>정신파 폭풍이나 에미션이 올 때마다, 피난처로 대피하지 않고도 살아남을 가능성이 생깁니다.</text>
 	</string>
 	<string id="st_achievement_2_descr">
-		<text>Your mind has numbed to the whispers, and you no longer fear the approach of emissions or psy-storms. At times, their arrival even brings you peace.</text>
+		<text>당신의 마음은 속삭임에 무감각해졌고, 더이상 정신파 폭풍이나 에미션이 다가와도 두렵지 않습니다. 때때로, 오히려 마음의 평화까지 가져다 줍니다.</text>
 	</string>
 	<string id="st_achievement_2_unlock">
-		<text>You have unlocked the "Radiotherapy" achievement.</text>
+		<text>"방사선 요법" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_3_name">
-		<text>Infopreneur</text>
+		<text>정보 기업가</text>
 	</string>
 	<string id="st_achievement_3_hint">
-		<text>Brokers will now pay you a small bonus for any further PDAs you deliver to them.</text>
+		<text>중개인들은 이제 당신이 제공하는 PDA에 소정의 추가금을 제공합니다.</text>
 	</string>
 	<string id="st_achievement_3_descr">
-		<text>Artefacts are flashy, but knowledge is where the true power lies. Having learned this through experience, you're able to charge more for the secrets you sell.</text>
+		<text>아무리 강력한 아티팩트일지라도 진정한 힘은 지식 앞에 놓여있는 법입니다. 경험을 통해 이 사실을 깨닫게되면, 비밀들을 더 비싸게 판매할 수 있게 됩니다.</text>
 	</string>
 	<string id="st_achievement_3_unlock">
-		<text>You have unlocked the "Infopreneur" achievement.</text>
+		<text>"정보 기업가" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_4_name">
-		<text>Duga Free</text>
+		<text>듀가 해방</text>
 	</string>
 	<string id="st_achievement_4_hint">
-		<text>Stalkers are more likely to move through Yantar and Radar, possibly increasing their population in northern areas.</text>
+		<text>이제 스토커들이 얀타와 레이더를 더 자주 돌아다니며, 존의 북부 지역에 스토커들이 늘어날 가능성이 생깁니다.</text>
 	</string>
 	<string id="st_achievement_4_descr">
-		<text>After seeing what reckless experimentation had brought to the Zone of Alienation, you chose to shut down some of its decaying science projects. With two major psy-fields disabled, paths through Yantar and Radar are now more accessible than ever.</text>
+		<text>무분별한 실험이 존에 가져온 악영향을 지켜본 당신은 부패한 기밀 프로젝트를 중단시키기로 결심합니다. 2개의 주요 정신파 필드를 비활성화시켜서 얀타와 레이더로 향하는 접근성이 어느 때보다 훨씬 좋아졌습니다.</text>
 	</string>
 	<string id="st_achievement_4_unlock">
-		<text>You have unlocked the "Duga Free" achievement.</text>
+		<text>"듀가 해방" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_5_name">
-		<text>Well Dressed</text>
+		<text>도축 전문가</text>
 	</string>
 	<string id="st_achievement_5_hint">
-		<text>You are able to skin mutants much faster than normal.</text>
+		<text>이제 뮤턴트 해체를 평소보다 더 빠르게 할 수 있습니다.</text>
 	</string>
 	<string id="st_achievement_5_descr">
-		<text>Rightly so does the Zone's wildlife fear you - more than a fair share have fallen at your hands. Practiced hands make for swift work, and you've grown practiced indeed.</text>
+		<text>당신의 손에 도축당하지 않은 뮤턴트를 세는게 더 빠를지도 모릅니다. 존의 야생동물들이 당신을 두려워하는 것도 당연합니다. 당신은 숙련된 손으로 더 빠르게 시체를 해체할 수 있습니다.</text>
 	</string>
 	<string id="st_achievement_5_unlock">
-		<text>You have unlocked the "Well Dressed" achievement.</text>
+		<text>"도축 전문가" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_6_name">
-		<text>Silver or Lead</text>
+		<text>돈 또는 총알</text>
 	</string>
 	<string id="st_achievement_6_hint">
-		<text>Surrendering stalkers may occasionally reveal the location of a second stash.</text>
+		<text항복한 스토커들이 때때로 두번째 은닉처의 위치를 알려줍니다.</text>
 	</string>
 	<string id="st_achievement_6_descr">
-		<text>Bodies and bullet casings litter the tracks behind you. Your enemies know you as a remorseless killer. Those who survive your horrifying onslaughts are now much more willing to part with their goods if it means living to see another day.</text>
+		<text>시체와 총알 케이스들이 당신의 뒤를 어지럽힙니다. 적들은 당신을 무자비한 살인자로 알고 있습니다. 당신의 끔찍한 습격에서 살아남은 자들은 이제 그들의 물건을 당신과 함께 나누려고 할 것입니다.</text>
 	</string>
 	<string id="st_achievement_6_unlock">
-		<text>You have unlocked the "Silver or Lead" achievement.</text>
+		<text>"돈 또는 총알" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_7_name">
-		<text>Mechanized Warfare</text>
+		<text>기계화 전쟁</text>
 	</string>
 	<string id="st_achievement_7_hint">
-		<text>Bonus items used in repairs are more effective.</text>
+		<text>수리에 사용되는 추가 아이템의 효율이 증가합니다.</text>
 	</string>
 	<string id="st_achievement_7_descr">
-		<text>Grateful for your diligent assistance, the technician you've helped kit out has decided to teach you a thing or two about field maintenance, allowing you to make more efficient repairs yourself.</text>
+		<text>당신의 부지런한 도움에 감사함을 느낀 기술자들이 당신에게 장비의 보존과 유지에 관련된 한 두가지의 기술을 알려줍니다. 이제 당신은 스스로 더 효율적으로 수리할 수 있습니다.</text>
 	</string>
 	<string id="st_achievement_7_unlock">
-		<text>You have unlocked the "Mechanized Warfare" achievement.</text>
+		<text>"기계화 전쟁" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_8_name">
-		<text>Tourist</text>
+		<text>관광객</text>
 	</string>
 	<string id="st_achievement_8_hint">
-		<text>Your keen familiarity with the Zone has allowed you to deduce the whereabouts of some of its best stashes.</text>
+		<text>존에 대한 당신의 예민한 친숙함 덕분에, 당신은 최고의 은닉처에 대한 위치를 추론할 수 있게 되었습니다.</text>
 	</string>
 	<string id="st_achievement_8_descr">
-		<text>Despite the dangers, you have explored all accessible parts of the Zone. From the murky depths of the Great Swamp to the alien landscape of the Generators... you know the Zone like the back of your hand.</text>
+		<text>위험에도 불구하고 당신은 존에서 갈 수 있는 모든 곳을 탐험했습니다. 진흙탕 대습지부터 외계 풍경의 발생기까지... 존은 이제 당신의 손바닥 안에 있습니다.</text>
 	</string>
 	<string id="st_achievement_8_unlock">
-		<text>You have unlocked the "Tourist" achievement.</text>
+		<text>"관광객" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_9_name">
-		<text>Rag and Bone</text>
+		<text>넝마와 뼈</text>
 	</string>
 	<string id="st_achievement_9_hint">
-		<text>You occasionally find more loot when searching stashes.</text>
+		<text>당신은 때때로 은닉처에서 더 많은 물품을 노획합니다.</text>
 	</string>
 	<string id="st_achievement_9_descr">
-		<text>After gaining extensive experience poking around in other stalkers' stashes, you've grown wise to false bottoms and secret pouches where additional goodies might be squirreled away.</text>
+		<text>다른 스토커들의 은닉처를 여기저기 노획한 경험이 쌓이면서, 당신은 가짜 바닥을 헤집고 숨겨진 주머니 속 진짜 귀중품을 발견해내는 능력이 생겼습니다.</text>
 	</string>
 	<string id="st_achievement_9_unlock">
-		<text>You have unlocked the "Rag and Bone" achievement.</text>
+		<text>"넝마와 뼈" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_10_name">
-		<text>Completionist</text>
+		<text>완벽주의자</text>
 	</string>
 	<string id="st_achievement_10_hint">
-		<text>All available achievements have been unlocked.</text>
+		<text>존재하는 모든 업적을 달성했습니다.</text>
 	</string>
 	<string id="st_achievement_10_descr">
-		<text>All there is to achieve has been achieved. The road has been long, but you've arrived at the end triumphant.</text>
+		<text>달성할 수 있는 모든 것이 당신의 발 아래에 있습니다. 시작은 미약했으나, 그 끝은 창대하리라.</text>
 	</string>
 	<string id="st_achievement_10_unlock">
-		<text>You have unlocked the "Completionist" achievement.</text>
+		<text>"완벽주의자" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_11_name">
-		<text>Wishful Thinking</text>
+		<text>희망사항</text>
 	</string>
 	<string id="st_achievement_11_hint">
-		<text>You've unlocked "Renegades" as a playable faction.</text>
+		<text>플레이 가능한 팩션 "레니게이드"가 해제되었습니다.</text>
 	</string>
 	<string id="st_achievement_11_descr">
-		<text>You did whatever it took to obtain secret knowledge from one of the oldest stalkers of the Zone. While you're skeptical he revealed the whole truth to you, what you accomplished in the quest for knowledge cannot be denied.</text>
+		<text>당신은 존에서 가장 오래된 스토커들 중 한 명으로부터 비밀 정보를 얻기 위해 무엇이든 해왔습니다. 그가 당신에게 모든 진실을 밝힌 것인지 의심스럽지만, 지식을 쫓아왔던 당신의 여정이 일단락난 것은 부인할 수 없을 것입니다.</text>
 	</string>
 	<string id="st_achievement_11_unlock">
-		<text>You have unlocked the "Wishful Thinking" achievement.</text>
+		<text>"희망사항" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_12_name">
-		<text>Down to Earth</text>
+		<text>추락</text>
 	</string>
 	<string id="st_achievement_12_hint">
-		<text>Mi-2 helicopters will appear in place of Mi-24s.</text>
+		<text>이제 Mi-24 대신 Mi-2 헬리콥터들이 나타납니다.</text>
 	</string>
 	<string id="st_achievement_12_descr">
-		<text>The higher they fly the harder they fall. Not willing to waste any more expensive equipment, the Zone's helicopters now seem to be of a much weaker variety. But are no less tempting to destroy.</text>
+		<text>높이 날수록 더 가혹하게 떨어지는 법입니다. 더이상 비싼 장비를 낭비하고 싶지 않은건지, 존의 헬리콥터들이 더 약한 기종으로 변경되었습니다. 하지만 파괴의 유혹은 여전군요.</text>
 	</string>
 	<string id="st_achievement_12_unlock">
-		<text>You have unlocked the "Down to Earth" achievement.</text>
+		<text>"추락" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_13_name">
-		<text>Geologist</text>
+		<text>지질학자</text>
 	</string>
 	<string id="st_achievement_13_hint">
-		<text>You have an increased chance of finding artefacts after an emission.</text>
+		<text>에미션 이후 아티팩트를 발견할 확률이 늘어납니다.</text>
 	</string>
 	<string id="st_achievement_13_descr">
-		<text>Humming, buzzing and spitting - the anomalies of the Zone do not scare you any longer. Your extensive experience with detectors additionally makes artefacts easier to find.</text>
+		<text>당신은 흥얼거리며 윙윙거리는 이상현상 속을 거닐고 이따금씩 침을 내뱉습니다. 당신은 더이상 존의 이상현상들이 두렵지 않습니다. 디텍터를 이용한 광범위한 경험 덕분에 아티팩트를 찾기가 더 쉬워졌습니다.</text>
 	</string>
 	<string id="st_achievement_13_unlock">
-		<text>You have unlocked the "Geologist" achievement.</text>
+		<text>"지질학자" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_14_name">
-		<text>Folk Hero</text>
+		<text>영웅</text>
 	</string>
 	<string id="st_achievement_14_hint">
-		<text>You can recruit larger groups of followers to act as your companions.</text>
+		<text>당신은 더 많은 수의 스토커들을 동료로 데리고 다닐 수 있습니다.</text>
 	</string>
 	<string id="st_achievement_14_descr">
-		<text>Your exploits have begun to establish you as a local legend, and you carry yourself with a clear confidence that only experience can bring. Larger groups of stalkers are more willing to place themselves directly under your leadership, believing you'll lead them to success.</text>
+		<text>당신의 위업은 존의 전설로 널리 퍼져나갔고, 당신은 경험만이 가져다 줄 수 있는 확실한 자신감을 갖고 있습니다. 더 많은 수의 스토커들은 당신이 그들을 성공으로 이끌 것이라 믿으면서, 당신의 편에 서려고 합니다.</text>
 	</string>
 	<string id="st_achievement_14_unlock">
-		<text>You have unlocked the "Folk Hero" achievement.</text>
+		<text>"영웅" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_15_name">
-		<text>Bookworm Food</text>
+		<text>책벌레</text>
 	</string>
 	<string id="st_achievement_15_hint">
-		<text>Memory sticks will be replaced by rare PDAs when spawned.</text>
+		<text>메모리 스틱이 스폰될 때 희귀한 PDA로 변경됩니다.</text>
 	</string>
 	<string id="st_achievement_15_descr">
-		<text>Through your own endeavours or by reading about those of others, you have come to learn a lot about the Zone and its many inhabitants. Perhaps you should consider sharing some of this knowledge?</text>
+		<text>당신 자신의 노력 또는 다른 사람들의 노력에 대한 노트를 읽음으로써, 당신은 존에 대해 많은 것을 알게 되었습니다. 어쩌면 그 지식들 중 일부를 공유해야 할지도 모릅니다.</text>
 	</string>
 	<string id="st_achievement_15_unlock">
-		<text>You have unlocked the "Bookworm Food" achievement.</text>
+		<text>"책벌레" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_16_name">
-		<text>Infantile Pleasure</text>
+		<text>유치한 즐거움</text>
 	</string>
 	<string id="st_achievement_16_hint">
-		<text>You're likely to recover more loot from boxes you destroy.</text>
+		<text>당신은 상자를 부술 때 더 많은 물건을 획득할 수 있습니다.</text>
 	</string>
 	<string id="st_achievement_16_descr">
-		<text>Storage crates now tremble at your approach, for hundreds of their boxy brethren have been broken at your hand. You have since elevated box breaking to an art form, cracking them open with minimal damage to the contents within.</text>
+		<text>당신이 수많은 상자들을 부숴왔기에, 상자들은 당신의 접근에 벌벌 떨고 있습니다. 당신은 상자를 부수는 행위를 예술적 형태로 승화시켰으며, 최소한의 피해만을 주면서 상자를 부숴서 내용물을 보존시킬 수 있게 되었습니다.</text>
 	</string>
 	<string id="st_achievement_16_unlock">
-		<text>You have unlocked the "Infantile Pleasure" achievement.</text>
+		<text>"유치한 즐거움" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_17_name">
-		<text>Vigilant Recycler</text>
+		<text>효율적 재활용</text>
 	</string>
 	<string id="st_achievement_17_hint">
-		<text>You have a slight chance to recover additional material during disassembly.</text>
+		<text>당신은 물품을 분해할 때 추가적인 부품을 얻을 수도 있습니다.</text>
 	</string>
 	<string id="st_achievement_17_descr">
-		<text>Believing that every part counts, you cannot help but break down junk into more useful components. After much experience, you have become more precise. Waste not, want not.</text>
+		<text>모든 부품이 중요하다고 믿는 당신은 잡동사니를 더 유용한 부품으로 분해하지 않을 수 없습니다. 많은 경험 후 당신은 더 정확해졌습니다. 낭비하지 않으면, 부족함도 없는 법입니다.</text>
 	</string>
 	<string id="st_achievement_17_unlock">
-		<text>You have unlocked the "Vigilant Recycler" achievement.</text>
+		<text>"효율적 재활용" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_18_name">
-		<text>Artificer Eagerness</text>
+		<text>기술적 열망</text>
 	</string>
 	<string id="st_achievement_18_hint">
-		<text>Crafting requires one or two less components.</text>
+		<text>장비를 제작할 때 필요한 부품 수가 줄어듭니다.</text>
 	</string>
 	<string id="st_achievement_18_descr">
-		<text>Crafting your own equipment has always been an empowering process, but now your increased experience in the matter has allowed you use your components with greater efficiency.</text>
+		<text>장비를 직접 제작하는 것은 항상 힘든 작업이었지만, 이에 대한 경험이 늘어난 덕분에 더욱 효율적으로 제작할 수 있게 되었습니다.</text>
 	</string>
 	<string id="st_achievement_18_unlock">
-		<text>You have unlocked the "Artificer Eagerness" achievement.</text>
+		<text>"기술적 열망" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_19_name">
-		<text>Unforeseen Guest</text>
+		<text>뜻밖의 손님</text>
 	</string>
 	<string id="st_achievement_19_hint">
-		<text>You are less likely to draw suspicion or be discovered while disguised.</text>
+		<text>변장하고 있을 때 의심도가 줄어들어 정체가 탄로나기 어려워집니다.</text>
 	</string>
 	<string id="st_achievement_19_descr">
-		<text>You've grown more familiar with the subtle customs of your enemies, and as a result your disguises are more convincing. Because of this, your various slip-ups in other areas are more likely to be overlooked, seen as nothing more than the quirks of a quiet, well-meaning guest.</text>
+		<text>당신은 적대 세력의 미묘한 관습에 더 익숙해졌고 변장은 더 잘 먹혀듭니다. 그 결과, 적대 지역에서의 사소한 실수들을 적들은 그저 손님의 변덕으로 치부하며 눈감아줄 것입니다.</text>
 	</string>
 	<string id="st_achievement_19_unlock">
-		<text>You have unlocked the "Unforeseen Guest" achievement.</text>
+		<text>"뜻밖의 손님" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_20_name">
-		<text>Absolver</text>
+		<text>면죄</text>
 	</string>
 	<string id="st_achievement_20_hint">
-		<text>You've unlocked "Sin" as a playable faction.</text>
+		<text>플레이 가능한 팩션 "씬"이 해제되었습니다.</text>
 	</string>
 	<string id="st_achievement_20_descr">
-		<text>When the dark stalkers of Sin stepped forth to bring their vision upon the world, you stood against them, giving the world a chance to sort itself out without the manipulation of the noosphere. </text>
+		<text>씬 세력인 어둠의 스토커들이 세상에 발을 내딛었을 때, 당신은 그들과 맞서서 세상이 그 어떤 것도 조작하지 않고 스스로를 정리할 수 있는 기회를 주었습니다.</text>
 	</string>
 	<string id="st_achievement_20_unlock">
-		<text>You have unlocked the "Absolver" achievement.</text>
+		<text>"면죄" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_21_name">
-		<text>Collaborator</text>
+		<text>협력자</text>
 	</string>
 	<string id="st_achievement_21_hint">
-		<text>You've unlocked "UNISG" as a playable faction.</text>
+		<text>플레이 가능한 팩션 "UNISG"가 해제되었습니다.</text>
 	</string>
 	<string id="st_achievement_21_descr">
-		<text>For better or worse, you chose your side and made your decision. It's hard to tell if you were wrong or right...but you made it. And one guesses you should be thankful for that.</text>
+		<text>좋든 나쁘든 간에, 당신은 당신의 편을 선택하고 결정을 내렸습니다. 당신의 선택이 옳은건지 틀린건지 구별하는 것은 어렵지만... 결국 해냈습니다. 그리고 누군가는 그것에 대해 감사할 것입니다.</text>
 	</string>
 	<string id="st_achievement_21_unlock">
-		<text>You have unlocked the "Collaborator" achievement.</text>
+		<text>"협력자" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_22_name">
-		<text>Iron Curtain</text>
+		<text>철의 장막</text>
 	</string>
 	<string id="st_achievement_22_hint">
-		<text>You have been awarded a 50,000 RU bonus for your contribution to the faction's war effort.</text>
+		<text>당신은 팩션 전쟁에 대한 기여도의 보상으로 50,000루블을 받습니다.</text>
 	</string>
 	<string id="st_achievement_22_descr">
-		<text>Your faction has become an indisputable force within the Zone, with lesser groups even considering it a local superpower. The spoils of war are already being divided, and a healthy dividend has come your way.</text>
+		<text>당신의 팩션은 존에서 논쟁의 여지 없이 가장 강력한 집단이고 약한 팩션들도 이에 동의합니다. 전쟁 전리품이 분배되었으며 좋은 것들은 당신에게 지급됩니다.</text>
 	</string>
 	<string id="st_achievement_22_unlock">
-		<text>You have unlocked the "Iron Curtain" achievement.</text>
+		<text>"철의 장막" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_23_name">
-		<text>Murky Spirit</text>
+		<text>어두운 정신</text>
 	</string>
 	<string id="st_achievement_23_hint">
-		<text>Your rank has been greatly increased.</text>
+		<text>당신의 랭크가 크게 증가합니다.</text>
 	</string>
 	<string id="st_achievement_23_descr">
-		<text>You have soundly survived events that would've killed most stalkers several times over. Some stalkers are beginning to wonder if you can even be killed at all.</text>
+		<text>당신은 대부분의 스토커들이 몇 번이나 죽을 수 있는 사건들로부터 완전히 살아남았습니다. 몇몇 스토커들은 당신이 진짜 죽을 수는 있는지 궁금해합니다.</text>
 	</string>
 	<string id="st_achievement_23_unlock">
-		<text>You have unlocked the "Murky Spirit" achievement.</text>
+		<text>"어두운 정신" 업적을 달성했습니다.</text>
 	</string>
 	
 	<string id="st_achievement_24_name">
-		<text>Invictus</text>
+		<text>인빅투스</text>
 	</string>
 	<string id="st_achievement_24_hint">
-		<text>You can now take a screenshot and brag about this achievement to your fellow stalkers.</text>
+		<text>당신은 이제 스크린샷을 찍어서 동료 스토커들에게 이 업적으로 자랑할 수 있습니다.</text>
 	</string>
 	<string id="st_achievement_24_descr">
-		<text>Despite the vicious vicissitudes thrown your way, you have proven yourself to be a resounding success. It is clear that there is nothing left in the Zone to challenge you, and that it may be time to move on to even greater things. </text>
+		<text>당신의 길에 펼쳐진 수많은 우여곡절에도 불구하고 당신은 스스로 엄청난 성공을 거두었음을 증명했습니다. 존에서 당신에게 도전할 수 있는 것은 아무것도 남아있지 않으며, 지금이 더 큰 일로 나아갈 때라는 것은 분명합니다.</text>
 	</string>
 	<string id="st_achievement_24_unlock">
-		<text>You have unlocked the "Invictus" achievement.</text>
+		<text>"인빅투스" 업적을 달성했습니다.</text>
 	</string>
 	
 </string_table>
