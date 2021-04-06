@@ -257,74 +257,74 @@
 
 <!-- Novice outfits -->
 	<string id="novice_outfit_name">
-		<text>Leather jacket</text>
+		<text>가죽 재킷</text>
 	</string>
 	<string id="novice_outfit_description">
-		<text>%c[ui_gray_1]A warm leather anorak worn over a cosy turtleneck sweater, tucked into sturdy jeans and hiking boots. The outfit of choice among naive or inexperienced stalkers, veterans consider it barely a step above walking around the Zone in your underwear.\n \n
+		<text>%c[ui_gray_1]포근한 터틀넥 스웨터 위에 걸쳐진 따듯한 가죽 파카로, 튼튼한 청바지와 산악용 부츠와 함께 입습니다. 순진무구하거나 경험이 적은 스토커들이 선택하는 옷으로, 숙련자들은 이를 입고 돌아다니는 것이 속옷만 입고 돌아다니는 것보다는 그나마 나은 수준이라고 평가합니다.\n \n
 		</text>
 	</string>
 
 	<string id="novice_outfit_camo_name">
-		<text>Firearm enthusiast's jacket</text>
+		<text>총기 애호가의 재킷</text>
 	</string>
 	<string id="novice_outfit_camo_description">
-		<text>%c[ui_gray_1]A warm leather anorak worn over a cosy turtleneck sweater, tucked into sturdy jeans and hiking boots. Formerly owned by a typical firearm enthusiast, it sports several advantages over an ordinary jacket - namely a camouflage pattern and a higher quality material choice alongside a more educated weight distribution system. Still utterly inadequate for the Zone's harsh conditions.\n \n
+		<text>%c[ui_gray_1]포근한 터틀넥 스웨터 위에 걸쳐진 따듯한 가죽 파카로, 튼튼한 청바지와 산악용 부츠와 함께 입습니다. 전형적인 총기 애호가가 소유하고 있던 옷으로, 평범한 재킷들에 비하면 몇 가지 장점이 있습니다. 바로 위장무늬와 높은 품질의 소재로 만들어졌다는 것 그리고 좀 더 영리하게 만들어진 무게 분산 시스템이 갖추어졌다는 점입니다. 물론 존의 혹독한 환경에서는 완전히 부적합한 수준입니다.\n \n
 		</text>
 	</string>
 
 	<string id="novice_outfit_tourist_name">
-		<text>Tourist’s jacket</text>
+		<text>여행자의 재킷</text>
 	</string>
 	<string id="novice_outfit_tourist_description">
-		<text>%c[ui_gray_1]A warm leather anorak with an integrated backpack, worn over a cosy turtleneck sweater, tucked into sturdy jeans and hiking boots. It seems the previous owner was a real lover for hikes. The educated choice of materials and weight management system makes this more useful than most leather jackets, but is still unsuitable for anything more than quiet walks along the Zone's borders.\n \n
+		<text>%c[ui_gray_1]]포근한 터틀넥 스웨터 위에 걸쳐진, 배낭이 포함된 따듯한 가죽 파카로, 튼튼한 청바지와 산악용 부츠와 함께 입습니다. 이전 소유자가 정말로 하이킹을 사랑하는 사람이었던 것으로 보입니다. 영리한 소재 선택과 무게분산 시스템은 이 의상을 다른 가죽 재킷보다는 더 쓸모있는 물건으로 만들었으나, 존의 국경지대를 조용히 지나다니는 것 이상의 활동에는 여전히 부적합한 수준입니다.\n \n
 		</text>
 	</string>
 
 	<string id="csky_novice_outfit_name">
-		<text>Clear Sky leather jacket</text>
+		<text>클리어 스카이 가죽 재킷</text>
 	</string>
 	<string id="csky_novice_outfit_description">
-		<text>%c[ui_gray_1]A soft blue leather anorak worn over a cosy turtleneck sweater, tucked into sturdy jeans and hiking boots. These simple suits are assembled in large quantities by Clear Sky's tailors for use within the faction. Not recommended for use outside the southernmost parts of the Zone.\n \n
+		<text>%c[ui_gray_1]포근한 터틀넥 스웨터 위에 걸쳐진 유연한 푸른색 가죽 파카로, 튼튼한 청바지와 산악용 부츠와 함께 입습니다. 이 단순한 옷은 클리어 스카이 세력의 재단사들이 대원들이 사용할 목적으로 대량 제작되었습니다. 존의 최남단 지역을 벗어나서 사용하는 것은 권장되지 않습니다.\n \n
 		</text>
 	</string>
 
 	<string id="dolg_novice_outfit_name">
-		<text>Duty leather jacket</text>
+		<text>듀티 가죽 재킷</text>
 	</string>
 	<string id="dolg_novice_outfit_description">
-		<text>%c[ui_gray_1]A dark leather anorak worn over a cosy turtleneck sweater, tucked into sturdy jeans and combat boots. Formerly used only as relaxed wear for off-duty Dutyers, these simple suits were never intended for use by those on active service. Desperate times, however, occasionally call for desperate measures.\n \n
+		<text>%c[ui_gray_1]포근한 터틀넥 스웨터 위에 걸쳐진 어두운 색의 가죽 파카로, 튼튼한 청바지와 전투화와 함께 입습니다. 오직 비번인 듀티 대원들이 일상복으로만 입는 옷으로, 작전을 수행하는 듀티 대원들이 입도록 고안된 적은 절대로 없었습니다. 하지만 절박한 순간이 닥쳐올 경우, 절박한 수단으로서 종종 사용되기도 합니다.\n \n
 		</text>
 	</string>
 
 	<string id="bandit_novice_outfit_name">
-		<text>Black leather jacket</text>
+		<text>검은색 가죽 재킷</text>
 	</string>
 	<string id="bandit_novice_outfit_description">
-		<text>%c[ui_gray_1]A black leather jacket commonly associated with the Zone's bandits and crooks. Mostly worn to intimidate rookies from other factions, it provides very little protection against anything more than a stiff breeze or the occasional flying vodka bottle.\n \n
+		<text>%c[ui_gray_1]밴딧들이나 범죄자들이 자주 입는 검은색 가죽 재킷입니다. 주로 다른 세력의 신입들을 위협하기 위해 입는 옷으로, 조금 거센 수준의 바람이나 가끔씩 날아드는 보드카 병보다 심한 충격은 거의 보호해 주지 못합니다.\n \n
 		</text>
 	</string>
 
 	<string id="bandit_novice_alt_outfit_name">
-		<text>Armoured leather jacket</text>
+		<text>장갑을 덧댄 가죽 재킷</text>
 	</string>
 	<string id="bandit_novice_alt_outfit_description">
-		<text>%c[ui_gray_1]Jackets like this first entered circulation among Bandits thanks to Quartermaster Morgan, a corrupt supplier who formerly belonged to the Duty faction. Offers protection comparable to a standard Military service outfit. Still not great protection in the Zone, especially not when fighting against enraged or vengeful Dutyers.\n \n
+		<text>%c[ui_gray_1]이런 종류의 재킷은 이전 듀티 소속의 부패한 병참 장교였던 모건 덕분에 밴딧들 사이에서 처음 유통되었습니다. 제식 군복과 비슷한 수준의 보호를 제공합니다. 하지만 존에서는 그다지 좋을 것 없는 보호 수준으로, 특히 분노하거나 복수심에 찬 듀티 대원들을 상대로 할 경우 그렇습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="redline_novice_outfit_name">
-		<text>Redline leather jacket</text>
+		<text>레드라인 가죽 재킷</text>
 	</string>
 	<string id="redline_novice_outfit_description">
-		<text>%c[ui_gray_1]A snazzy bright red leather anorak worn over a cosy turtleneck sweater, tucked into sturdy jeans and hiking boots. The colour alone should be reason enough to avoid use in the Zone.\n \n
+		<text>%c[ui_gray_1]포근한 터틀넥 스웨터 위에 걸쳐진 밝은 붉은색의 세련된 가죽 파카로, 튼튼한 청바지와 산악용 부츠와 함께 입습니다. 그 색깔만으로도 존에서 입지 말아야 할 충분한 이유가 될 것입니다.\n \n
 		</text>
 	</string>
 
 	<string id="svoboda_novice_outfit_name">
-		<text>Freedom leather jacket</text>
+		<text>프리덤 가죽 재킷</text>
 	</string>
 	<string id="svoboda_novice_outfit_description">
-		<text>%c[ui_gray_1]A camouflaged leather anorak worn over a cosy turtleneck sweater, tucked into sturdy jeans and combat boots. Such attire is typically only worn by Freedomers when they feel absolutely safe - in other words, almost never.\n \n
+		<text>%c[ui_gray_1]포근한 터틀넥 스웨터 위에 걸쳐진 위장색의 가죽 파카로, 튼튼한 청바지와 전투화와 함께 입습니다. 이런 의복은 주로 프리덤 대원들이 완전히 안전하다고 느낄 때만 입는 옷입니다. 그 말인 즉슨, 거의 안 입는다는 뜻이죠.\n \n
 		</text>
 	</string>
 
