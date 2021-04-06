@@ -167,18 +167,18 @@
 	</string>
 	
 	<string id="helm_ach7">
-		<text>ACH-7 headgear set</text>
+		<text>ACH-7 방탄모 세트</text>
 	</string>
 	<string id="helm_ach7_descr">
-		<text>%c[ui_gray_1]The ACH-7 (Advanced Compound Headgear, 7 Parts) is a more modern version of the surplus steel helmet. It is marginally better at stopping shrapnel. Its main draw, however, is its surprising resistance to psychic attacks, along with its unexpectedly low cost. That said, its lack of a respiratory device makes it an extremely poor choice for the Zone's conditions overall, and is typically only purchased by rookies brave enough to investigate psy-anomalies so early in their stalking careers.\n \n
+		<text>%c[ui_gray_1]ACH-7 (Advanced Compound Headgear - 고급 합성 방탄모, 7부품 구성)은 보급용 강철 방탄모를 더욱 현대식으로 개량한 물건입니다. 파편을 막아내는 능력을 근소하게 개선했습니다. 하지만, 이 물건의 진가는 바로 생각보다 적은 가격으로 놀라울 정도의 정신파 방호력을 갖출 수 있다는 점이 있습니다. 그렇긴 하지만, 호흡 장치가 없다는 점은 존의 전반적인 환경에 대비하기에는 극도로 좋지 않은 선택이 된다는 것을 의미하고, 주로 스토커 경력이 얼마 안 되었음에도 정신파 이상현상을 탐사하려 할 정도로 용감한 초짜들이나 사는 물건이 되었습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="helm_ach7ex">
-		<text>ACH-7EX headgear set</text>
+		<text>ACH-7EX 방탄모 세트</text>
 	</string>
 	<string id="helm_ach7ex_descr">
-		<text>%c[ui_gray_1]The ACH-7EX is an "Extended" version of the original ACH-7 headgear set. The inclusion of a respiratory system alone makes this model a major improvement over its predecessor. Boasting chemical and radiological protection somewhere between that of a GP-5 and a PBF kit, along with respectable physical protection makes this headgear an appealing choice for many stalkers who are looking for a good but economical balance between anomalous and combat protection.\n \n
+		<text>%c[ui_gray_1]ACH-7EX 방탄모는 기존의 ACH-7 방탄모 세트의 "확장된" 개량판입니다. 호흡 장치의 추가로 인해 이 물건은 이전 세대에 비해 커다란 개선점을 갖게 되었습니다. GP-5와 PBF 방독면 사이 어딘가의 화학 및 방사능 방호력을 자랑하며, 괜찮은 물리적 방어력을 가진 이 방탄모는 이상현상과 전투에 모두 적합하면서도 경제적으로 균형잡힌 물건을 찾는 많은 스토커들에게 매력적인 선택이 되었습니다.\n \n
 		</text>
 	</string>
 	
@@ -223,31 +223,31 @@
 	</string>
 	
 	<string id="helm_ppm88">
-		<text>PPM-88 gas mask</text>
+		<text>PPM-88 방독면</text>
 	</string>
 	<string id="helm_ppm88_descr">
-		<text>%c[ui_gray_1]A Russian gas mask well suited for CBRN ecological hazards. In the Zone, it can be considered a functional and spiritual successor to the GP-5, possessing comparable overall characteristics alongside significant improvements in protection versus chemical and radiological threats. A good option that most stalkers can use throughout their careers, provided they don't see too much combat or do anything similarly foolish.\n \n
+		<text>%c[ui_gray_1]화생방 환경에서의 위험 요소에 잘 대처할 수 있는 러시아산 방독면입니다. 존에서, 이 물건은 GP-5 방독면의 기술적이자 정신적인 후계자로 여겨지며, 비교될 만한 전반적인 특성들을 가진 한편 화학 및 방사능 방호력에 대해 지대한 개선이 이루어졌습니다. 대부분의 스토커들이 은퇴할 때까지 사용할 만한 괜찮은 선택이지만, 전투를 너무 많이 하거나 비슷한 바보짓을 하지 않아야 한다는 조건이 따릅니다.\n \n
 		</text>
 	</string>
 	
 	<string id="helm_m50">
-		<text>M50z gas mask</text>
+		<text>M50z 방독면</text>
 	</string>
 	<string id="helm_m50_descr">
-		<text>%c[ui_gray_1]An M50 gas mask tweaked for better functionality in the Zone. Although some of its protective characteristics are actually slightly worse as a result, it makes up for this in a much-needed boost to protection from both psychic and radioactive phenomena. Overall, this mask is considered an improvement over the M40. Unlike the M40, however, this mask is bought directly by private military companies for the express purpose of supplying the Zone's Mercenaries. \n \n
+		<text>%c[ui_gray_1]존에서 더 잘 활용되도록 개조된 M50 방독면입니다. 그 결과 이 방독면의 방호 능력 일부는 사실 약간 나빠진 측면이 있기는 하지만, 이를 대가로 정신파나 방사능 현상에 대해 필요한 만큼의 방호력을 갖출 수 있도록 강화될 수 있었습니다. 전체적으로 볼 때, 이 방독면은 M40 방독면보다 더 나은 수준으로 여겨집니다. 하지만 M40 방독면과는 달리, 이 방독면은 존의 용병들에게 보급하기 위한 목적으로 민간 군사 기업들이 직접 구입하였습니다. \n \n
 		</text>
 	</string>
 	
 	<string id="helm_ranger">
-		<text>GP-10z ranger gas mask</text>
+		<text>GP-10z 유격대용 방독면</text>
 	</string>
 	<string id="helm_ranger_descr">
-		<text>%c[ui_gray_1]Using the GP-10 as its model, this gas mask was designed primarily to protect the wearer from controllers and poltergeists. The success rate is somewhat mixed, but this model remains an excellent option for those who need protection from psychic, thermal, and shrapnel attacks.\n \n
+		<text>%c[ui_gray_1]GP-10을 모델로 삼은 이 방독면은 컨트롤러와 폴터가이스트로부터 착용자를 보호하는 것을 중점으로 하여 설계되었습니다. 성공 여부에는 다소 이견이 있으나, 이 모델은 정신파, 열, 그리고 파편 공격으로부터 보호받기를 원하는 사람들에게 여전히 훌륭한 선택입니다.\n \n
 		</text>
 	</string>
 	
 	<string id="helm_dolg_tactic_red">
-		<text>Duty Sphere 08 Krasnyy</text>
+		<text>듀티 스피어 08 크라스니 헬멧</text>
 	</string>
 	<string id="helm_dolg_tactic_red_descr">
 		<text>%c[ui_gray_1] REMOVED FROM GAME. Sphere 08 headgear set modified and used by Duty, usually paired with their version of Berill armoured suit. Same as the rest of Duty's Krasnyy series gear, this helmet is supposed to serve as a combat gear protecting from both human and mutant threat; it is therefore even more vulnerable to environmental threats than the original, but in turn provides more physical and psy protection. \n \n
