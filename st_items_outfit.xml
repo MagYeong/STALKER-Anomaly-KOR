@@ -331,20 +331,20 @@
 
 <!-- Overcoats -->
 	<string id="monolith_trenchcoat_outfit_name">
-		<text>Monolith overcoat</text>
+		<text>모노리스 오버코트</text>
 	</string>
 	<string id="trenchcoat_freedom_brown_outfit_name">
-		<text>Heavy Freedom overcoat</text>
+		<text>중형 프리덤 오버코트</text>
 	</string>
 	<string id="trenchcoat_dolg_brown_outfit_name">
-		<text>Heavy Duty overcoat</text>
+		<text>중형 듀티 오버코트</text>
 	</string>
 	
 	<string id="trenchcoat_outfit_name">
-		<text>Overcoat</text>
+		<text>오버코트</text>
 	</string>
 	<string id="trenchcoat_outfit_description">
-		<text>%c[ui_gray_1]A long, thick overcoat. The protection offered by this apparel can vary tremendously depending on the tailor, but as a general rule is only slightly less useless than the leather jacket. Still, many newer stalkers will swear by it simply because it looks so damn cool.\n \n
+		<text>%c[ui_gray_1]길고 두터운 외투입니다. 이 옷이 제공하는 보호력은 재단사에 따라 크게 달라질 수 있지만, 일반적으로는 가죽 재킷보다 조금 덜 쓸모없는 정도에 불과합니다. 하지만, 많은 신입 스토커들은 그저 끝내주게 잘 빠졌다는 단순한 이유로 이 옷에 열광하고 있습니다.\n \n
 		</text>
 	</string>
 
