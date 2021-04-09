@@ -349,44 +349,44 @@
 	</string>
 
 	<string id="trenchcoat_brown_outfit_name">
-		<text>Heavy brown overcoat</text>
+		<text>중형 갈색 오버코트</text>
 	</string>
 	<string id="trenchcoat_brown_outfit_description">
-		<text>%c[ui_gray_1]A long, thick overcoat worn over a butchered scientist suit. Although the closed cycle system and several other features seem to have been stripped off for whatever reason, the end result still compares favourably to many basic stalker suits.\n \n
+		<text>%c[ui_gray_1]훼손된 과학자용 의복 위에 걸쳐 입는 길고 두터운 외투입니다. 폐쇄 순환 시스템 등의 몇몇 기능들은 알 수 없는 이유로 잘려져 나갔지만, 결과적으로는 다른 수많은 기본 스토커 의복들과도 어깨를 나란히 할 만한 의복으로 남게 되었습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="trenchcoat_green_outfit_name">
-		<text>Heavy green overcoat</text>
+		<text>중형 녹색 오버코트</text>
 	</string>
 	<string id="trenchcoat_green_outfit_description">
-		<text>%c[ui_gray_1]A long, thick green overcoat worn over a butchered scientist suit. Although the closed cycle system and several other features seem to have been stripped off for whatever reason, the end result still compares favourably to many basic stalker suits.\n \n
+		<text>%c[ui_gray_1]훼손된 과학자용 의복 위에 걸쳐 입는 길고 두터운 외투입니다. 폐쇄 순환 시스템 등의 몇몇 기능들은 알 수 없는 이유로 잘려져 나갔지만, 결과적으로는 다른 수많은 기본 스토커 의복들과도 어깨를 나란히 할 만한 의복으로 남게 되었습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="greh_trenchcoat_outfit_name">
-		<text>Sin heavy overcoat</text>
+		<text>중형 씬 오버코트</text>
 	</string>
 	<string id="greh_trenchcoat_outfit_description">
-		<text>%c[ui_gray_1]A long, thick, bloodstained overcoat worn over a butchered scientist suit. Although the closed cycle system and several other features seem to have been stripped off for whatever reason, the end result still compares favourably to many basic stalker suits.\n \n
+		<text>%c[ui_gray_1]훼손된 과학자용 의복 위에 걸쳐 입는 길고 두터우며 핏자국으로 덮여 있는 외투입니다. 폐쇄 순환 시스템 등의 몇몇 기능들은 알 수 없는 이유로 잘려져 나갔지만, 결과적으로는 다른 수많은 기본 스토커 의복들과도 어깨를 나란히 할 만한 의복으로 남게 되었습니다.\n \n
 		</text>
 	</string>
 	
 
 <!-- Exploration -->
 	<string id="travel_outfit_name">
-		<text>"Voyager" stalker suit</text>
+		<text>"보이저" 스토커 슈트</text>
 	</string>
 	<string id="travel_outfit_description">
-		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. This particular outfit is of high quality and intended for extended exploration - it boasts a surprisingly sophisticated weight distribution system along with more than ample protection against the Zone's environmental factors, particularly radiological and chemical threats. A suit of choice for many artefact hunters and even some mutant hunters, its most notable downside - aside from its high price compared to other stalker suits - is its sheer hopelessness in a firefight. It's unlikely its previous owner parted with it willingly. \n \n
+		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. 이 특별한 의복은 높은 품질을 가지고 있으며 좀 더 심도있는 탐험을 위해 고안되었습니다. 놀라울 정도로 세련된 무게 분산 시스템과 함께 충분하다 못해 넘치는 수준의 존의 환경 요소에 대한 방호력, 특히 방사능이나 화학적 위협요소에 대한 방호력을 갖추고 있습니다. 수많은 아티팩트 사냥꾼들이나 심지어는 일부 뮤턴트 사냥꾼들이 선택하는 의복이기는 하나, 단점으로 다른 스토커용 의복에 비해 비싼 가격과 함께 총격전 시에는 문자 그대로 가망이 없다는 점이 크게 부각되고 있습니다. 이 의복의 전 주인이 이 옷을 자진해서 내놓지는 않았던 것으로 보입니다. \n \n
 		</text>
 	</string>
 	
 	<string id="nomad_outfit_name">
-		<text>"Nomad" stalker suit</text>
+		<text>"노매드" 스토커 슈트</text>
 	</string>
 	<string id="nomad_outfit_description">
-		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. This particular outfit is of high quality and feels exceptionally light and comfortable to wear, despite being much more protective overall when compared to other stalker suits. It is clear that whoever assembled this armour was highly familiar with the Zone's nature, and evidently put a great deal of pride and care into their work - something that might not have been true of its previous owner. Either way, its quality is matched only by its price.\n \n
+		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. 이 특별한 의복은 높은 품질을 가지고 있으며 다른 스토커 의상과 비교해보았을 대 전반적으로 훨씬 훌륭한 보호 능력을 갖추었음에도 놀라울 정도로 가볍고 입고 다니기 편리합니다. 이 의복을 제작했던 사람은 존의 성격을 매우 잘 이해하고 있었으며, 자신의 작업에 엄청난 자부심을 가지고 세심한 주의를 기울였던 것이 확실해 보입니다. 하지만 이 물건의 전 주인은 그렇지 않았던 모양입니다. 어찌됐든, 이 물건의 품질과 일치하는 것은 가격뿐입니다.\n \n
 		</text>
 	</string>
 	
