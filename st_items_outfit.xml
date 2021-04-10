@@ -394,15 +394,15 @@
 		<text>GP-5MvC 항방사능 바디슈트</text>
 	</string>
 	<string id="antirad_outfit_description">
-		<text>%c[ui_gray_1]GP-5 항방사능 슈트는 브레인스코처가 발견되기 이전에 설계되었으며, 실제로 군 창고 북쪽에서 비이상적으로 강력한 정신파를 확인했다는 소식을 가지고 온 다양한 스토커들이 착용했던 적이 있었습니다. 이 슈트는 100 라드 바의 단골손님들 중 몇몇이 모여 개발했으며 이 개발 프로젝트를 재정적으로 지원한 바텐더는 이후 슈트를 팔아 큰 돈을 벌게 되었습니다. 그 이후 슈트는 몇 번에 걸쳐 개량되었으나, (선라이즈 슈트를 기반으로 한) 기초 디자인 자체는 그대로 유지되었습니다. 지금 모습의, 현대화된 개량판 (GP-5M)의 주된 구조는 선라이즈 슈트에 특수처리된 옷감과 더 많은 고무처리된 부품들, 그리고 더 많은 주머니가 달린 형태입니다. 흔하고 낡았지만 여전히 믿을 만한 GP-5 방독면이 의복 뒷편의 경량 산소 탱크와 함께 의복에 부착되어 있습니다. The main goal of this outfit was to provide much more radiation protection than the regular Sunrise, making journeys to the north not as dangerous. Even though it is often called a budget SEVA suit, it doesn't even come close to its level of anomalous protection. The suit is meant to be worn in highly irradiated areas, but it doesn't stand much of a chance against stronger anomaly fields. Version C of the outfit additionally bears a camouflage pattern of different shades of green, enabling the wearer to easily hide in dense foliage. \n \n
+		<text>%c[ui_gray_1]GP-5 항방사능 슈트는 브레인스코처가 발견되기 이전에 설계되었으며, 실제로 군 창고 북쪽에서 비이상적으로 강력한 정신파를 확인했다는 소식을 가지고 온 다양한 스토커들이 착용했던 적이 있었습니다. 이 슈트는 100 라드 바의 단골손님들 중 몇몇이 모여 개발했으며 이 개발 프로젝트를 재정적으로 지원한 바텐더는 이후 슈트를 팔아 큰 돈을 벌게 되었습니다. 그 이후 슈트는 몇 번에 걸쳐 개량되었으나, (선라이즈 슈트를 기반으로 한) 기초 디자인 자체는 그대로 유지되었습니다. 지금 모습의, 현대화된 개량판 (GP-5M)의 주된 구조는 선라이즈 슈트에 특수처리된 옷감과 더 많은 고무처리된 부품들, 그리고 더 많은 주머니가 달린 형태입니다. 흔하고 낡았지만 여전히 믿을 만한 GP-5 방독면이 의복 뒷편의 경량 산소 탱크와 함께 의복에 부착되어 있습니다. 이 의복의 주된 목적은 기존의 선라이즈 슈트보다 더 좋은 방사능 보호를 제공하여, 북쪽으로의 여행이 덜 위험해지도록 만들어 주는 것입니다. 이 슈트는 종종 저렴한 SEVA 슈트로 여겨지기는 하지만, 그 정도 수준의 이상현상 보호도에는 견줄 만한 수준조차 되지는 않습니다. 이 슈트는 방사능 수치가 높은 지역에서 입는 것으로 알려져 있으나, 강력한 이상현상 지역에서는 그다지 오래 버티지 못합니다. 이 의복의 C형 개량판은 다양한 채도의 녹색으로 이루어진 위장무늬가 추가되어 있으며, 착용자가 우거진 수풀 속으로 쉽게 숨어들 수 있게 합니다. \n \n
 		</text>
 	</string>
 	
 	<string id="hybrid_outfit_name">
-		<text>Hybrid armoured suit</text>
+		<text>하이브리드 장갑 방탄복</text>
 	</string>
 	<string id="hybrid_outfit_description">
-		<text>%c[ui_gray_1]A bit of an awkward duckling, this outfit was created by one of Kiev's defence research institutes for the purpose of guarding researchers in the Zone. It is clear the suit was created on a budget, however, as the ballistic armour woven into the outfit simultaneously makes it weaker against anomalous phenomena, while still providing less protection in a firefight than a Beryllium vest. As such, none of these suits were ever officially commissioned by the Ukrainian government, although a few nonetheless managed to find their way into the Zone through shady means. A popular choice for stalkers who want decent general protection yet cannot spring for something better.\n \n
+		<text>%c[ui_gray_1]이 의복은 어색한 오리털 패딩처럼 생겼으며, 존에 있는 과학자들을 경호하기 위한 목적으로 키예프의 방산 연구 업체 중 한 곳에서 만들어졌습니다. It is clear the suit was created on a budget, however, as the ballistic armour woven into the outfit simultaneously makes it weaker against anomalous phenomena, while still providing less protection in a firefight than a Beryllium vest. As such, none of these suits were ever officially commissioned by the Ukrainian government, although a few nonetheless managed to find their way into the Zone through shady means. A popular choice for stalkers who want decent general protection yet cannot spring for something better.\n \n
 		</text>
 	</string>
 	
