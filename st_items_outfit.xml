@@ -391,10 +391,10 @@
 	</string>
 	
 	<string id="antirad_outfit_name">
-		<text>GP-5MvC Antirad bodysuit</text>
+		<text>GP-5MvC 항방사능 바디슈트</text>
 	</string>
 	<string id="antirad_outfit_description">
-		<text>%c[ui_gray_1]GP-5 Antirad suit was designed even before the discovery of the Brainscorcher, and was actually worn by the very Stalkers who first brought news about unusually strong psy waves north of Army Warehouses. The suit was developed by some frequent visitors of the 100 Rads and the Barkeep himself, who supported the project financially, and later made a lot of money selling sets of the suit. Since then the suit was upgraded multiple times, but the base design (based on Sunrise suit) remained the same. In its current, modernized version (GP-5M) its main components are the Sunrise suit with specially treated fabrics and more rubberized parts, as well as with a larger number of pockets. A common and old but still reliable GP-5 gas mask is integrated with lightweight oxygen tanks carried on the back. The main goal of this outfit was to provide much more radiation protection than the regular Sunrise, making journeys to the north not as dangerous. Even though it is often called a budget SEVA suit, it doesn't even come close to its level of anomalous protection. The suit is meant to be worn in highly irradiated areas, but it doesn't stand much of a chance against stronger anomaly fields. Version C of the outfit additionally bears a camouflage pattern of different shades of green, enabling the wearer to easily hide in dense foliage. \n \n
+		<text>%c[ui_gray_1]GP-5 항방사능 슈트는 브레인스코처가 발견되기 이전에 설계되었으며, 실제로 군 창고 북쪽에서 비이상적으로 강력한 정신파를 확인했다는 소식을 가지고 온 다양한 스토커들이 착용했던 적이 있었습니다. 이 슈트는 100 라드 바의 단골손님들 중 몇몇이 모여 개발했으며 이 개발 프로젝트를 재정적으로 지원한 바텐더는 이후 슈트를 팔아 큰 돈을 벌게 되었습니다. 그 이후 슈트는 몇 번에 걸쳐 개량되었으나, (선라이즈 슈트를 기반으로 한) 기초 디자인 자체는 그대로 유지되었습니다. 지금 모습의, 현대화된 개량판 (GP-5M)의 주된 구조는 선라이즈 슈트에 특수처리된 옷감과 더 많은 고무처리된 부품들, 그리고 더 많은 주머니가 달린 형태입니다. 흔하고 낡았지만 여전히 믿을 만한 GP-5 방독면이 의복 뒷편의 경량 산소 탱크와 함께 의복에 부착되어 있습니다. The main goal of this outfit was to provide much more radiation protection than the regular Sunrise, making journeys to the north not as dangerous. Even though it is often called a budget SEVA suit, it doesn't even come close to its level of anomalous protection. The suit is meant to be worn in highly irradiated areas, but it doesn't stand much of a chance against stronger anomaly fields. Version C of the outfit additionally bears a camouflage pattern of different shades of green, enabling the wearer to easily hide in dense foliage. \n \n
 		</text>
 	</string>
 	
