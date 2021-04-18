@@ -466,7 +466,7 @@
 	</string>
 
 	<string id="cs_nbc_outfit_name">
-		<text>CS-3 NBC 방탄복</text>
+		<text>CS-3 NBC 바디 슈트</text>
 	</string>
 	<string id="cs_nbc_outfit_description">
 		<text>%c[ui_gray_1]케블라 방탄조끼가 포함된 화생방보호의로, 최근에 클리어 스카이에 의해 개량 및 개조되었습니다. 이러한 종류의 보호의는 전세계에서 장기 군사작전이나 재난 사후처리에 사용하기 위해 존 바깥의 공장들에서 대량으로 생산되었습니다. GP-5 방독면을 호스를 이용해 현대식 정화장치와 연결하는 형태로 주로 사용됩니다. 클리어 스카이가 소유한 모든 NBC 슈트는 존의 가혹한 환경에 적합하게 만들어지도록 노비코프가 검수하고 있습니다.\n \n
@@ -474,7 +474,7 @@
 	</string>
 
 	<string id="nbc_merc_outfit_name">
-		<text>용병 NBC 슈트</text>
+		<text>용병의 NBC 슈트</text>
 	</string>
 	<string id="nbc_merc_outfit_description">
 		<text>%c[ui_gray_1]케블라 방탄조끼가 포함된 화생방보호의로, 주로 돈을 아끼려는 용병들이 사용합니다. 이러한 종류의 보호의는 전세계에서 장기 군사작전이나 재난 사후처리에 사용하기 위해 존 바깥의 공장들에서 대량으로 생산되었습니다. GP-5 방독면을 호스를 이용해 현대식 정화장치와 연결하는 형태로 주로 사용됩니다. 비록 생산 단계에서 존의 특수한 상황을 염두에 두고 만들어진 물건은 아니나, 그럼에도 불구하고 효율적인 무게 분산 시스템을 원하는 사람들에게 인기가 있지만, 다른 존에서 만들어진 보호의들에 비해 뒤떨어지는 수준의 환경보호도를 보여줍니다.\n \n
@@ -508,58 +508,58 @@
 	
 <!-- Assault vest -->
 	<string id="light_loner_outfit_name">
-		<text>Interceptor body armour</text>
+		<text>인터셉터 방탄복</text>
 	</string>
 	<string id="light_loner_outfit_description">
-		<text>%c[ui_gray_1]An old IBA suit imported from the West and modified for the Zone's conditions. It's a little heavy, but provides fair anomaly protection along with good anti-ballistic characteristics. Sometimes worn by stalkers hired as auxiliaries to help fight wars between factions, this suit significantly improves one's chance of surviving a skirmish compared to regular stalker gear.\n \n
+		<text>%c[ui_gray_1]서구권에서 수입된 오래된 IBA 슈트로 존의 환경에 맞게 개조되었습니다. 조금 무거운 편이지만, 괜찮은 이상현상 보호도와 함께 좋은 방탄 능력을 갖추었습니다. 때때로 세력 간 전쟁에 보조병으로 고용된 스토커들이 입기도 하며, 표준적인 스토커 장비들과 비교했을 때 소규모 교전에서 생존할 확률을 상당히 높여 줍니다.\n \n
 		</text>
 	</string>
 	
 	<string id="light_freedom_outfit_name">
-		<text>Defender of Freedom</text>
+		<text>프리덤의 방어자</text>
 	</string>
 	<string id="light_freedom_outfit_description">
-		<text>%c[ui_gray_1]Rumoured to be supplied to the Freedom faction directly from an unknown source, this suit is based on the somewhat outdated IBA system, but modified for greater comfort when operating in the Zone's conditions. A respectable suit of body armour, its intended use in the Zone may well be to properly protect skirmish forces expected to assault lightly entrenched enemy positions.\n \n
+		<text>%c[ui_gray_1]알 수 없는 곳으로부터 직접 프리덤 세력으로 보급된다는 소문이 있는 이 방어구는 약간 철지난 IBA 체계 방어구를 기반으로 하지만, 존의 환경에서 활동할 때 더욱 편리하도록 개조되었습니다. 방탄복이 포함된 괜찮은 수준의 보호구로, 존에서 사용되도록 고안되었다는 점은 적은 수준의 적들이 주둔한 지역을 급습하는 척후 분대를 적절히 보호해줄 능력이 있다는 걸 의미할 수 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="light_voen_outfit_name">
-		<text>Military stalker IBAz suit</text>
+		<text>내무군 스토커용 IBAz 방탄복</text>
 	</string>
 	<string id="light_voen_outfit_description">
-		<text>%c[ui_gray_1]An Interceptor Anomalous Body Armour System that used to belong to a Military Stalker. Compared to the standard model, this suit is more comfortable to wear and features overall superior anomaly protection. Not normally issued to conscripts or Spetsnaz operators, Military Stalkers who wish to use this suit generally have to order it themselves.\n \n
+		<text>%c[ui_gray_1]내무군 스토커들이 사용하도록 고안된 인터셉터 이상현상 보호구 체계입니다. 표준 모델과 비교해보았을 때, 이 보호구는 입었을 때 더욱 편리하며 전반적으로 더 강화된 수준의 이상현상 보호도를 제공합니다. 징집병들이나 스페츠나츠 대원들에게 일반적으로 보급되는 옷은 아니기 때문에, 이 보호구를 사용하려는 내무군 스토커들은 대부분 직접 주문해야만 합니다.\n \n
 		</text>
 	</string>
 
 	<string id="light_monolit_outfit_name">
-		<text>Monolith IBAz assault suit</text>
+		<text>모노리스 IBAz 돌격용 방탄복</text>
 	</string>
 	<string id="light_monolit_outfit_description">
-		<text>%c[ui_gray_1]An Interceptor Anomalous Body Armour System that has somehow ended up in the hands of the Monolith. Compared to the standard model, this suit is slightly more ergonomic and boasts greater protection against psychic interference. These vests usually enter the faction by way of hapless stalkers getting stuck trying to cross the Barrier. More often than not, the next time they're seen by the Zone at large is during the Monolith's next invasion into the Warehouses.\n \n
+		<text>%c[ui_gray_1]알 수 없는 경로로 모노리스 손에 들어간 인터셉터 이상현상 보호구 체계입니다. 표준 모델과 비교해보았을 때, 이 보호구는 좀 더 인체공학적으로 설계되었으며 정신적인 간섭에 대해 더 훌륭한 보호를 제공합니다. 이러한 방탄복들은 대개 장벽 구역을 넘으려다 갇혀버린 불운한 스토커들을 통해 모노리스 세력으로 흘러들어갑니다. 종종, 이러한 물건들이 그 다음에 존 안에서 목격되는 때는 모노리스의 다음 군 창고 습격날이 되곤 합니다.\n \n
 		</text>
 	</string>
 
 	<string id="light_dolg_outfit_name">
-		<text>IBAz universal protection</text>
+		<text>IBAz 다목적 보호구</text>
 	</string>
 	<string id="light_dolg_outfit_description">
-		<text>%c[ui_gray_1]An old IBA suit imported from the West and modified for the Zone's conditions. Uncomfortably heavy both to wear and to carry, the Duty variant seems to have received extensive upgrades for protection against chemical weapons. It is unlikely that Duty order these suits from the outside world themselves, however. Rather, it is widely believed that they are simply refurbished and restored after being salvaged off the bodies of vanquished anarchists.\n \n
+		<text>%c[ui_gray_1]서구권에서 수입된 오래된 IBA 슈트로 존의 환경에 맞게 개조되었습니다. 입고 다닐 때와 운반할 때 모두 불편할 정도로 육중한 편이지만, 듀티의 개량판은 화학전 무기류에 대한 방호를 위해 광범위한 개조를 받은 것처럼 보입니다. 하지만, 듀티가 이러한 방어구를 바깥 세상으로부터 주문해 들여왔을 가능성은 적습니다. 오히려, 이러한 방어구들은 그저 무정부주의자들의 시체에서 회수한 뒤 개량되고 복구된 물건일 뿐이라는 설이 널리 알려져 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="light_merc_outfit_name">
-		<text>Mercenary IBAz suit</text>
+		<text>용병의 IBAz 방탄복</text>
 	</string>
 	<string id="light_merc_outfit_description">
-		<text>%c[ui_gray_1]A well-kept Interceptor Anomalous Body Armour System sold directly to the Mercenaries from various Western sources. This suit, while a little uncomfortable, is overall better than the standard model circulating around the Zone. It's intended to allow Mercenaries to fulfill contracts that call for light assaults on fortified enemy positions within the Zone. \n \n
+		<text>%c[ui_gray_1]서구권의 다양한 경로를 통해 용병들에게 직접적으로 판매된 상태가 좋은 인터셉터 이상현상 보호구 체계입니다. 이 보호구는 다소 불편한 점이 있으나, 존에 돌아다니는 표준 모델에 비해 전반적으로 좋은 성능을 갖추었습니다. 이러한 보호구들은 용병들로 하여금 존 내부의 요새화된 적의 위치에 대한 가벼운 수준의 습격 임무 계약을 수행할 수 있도록 고안되었습니다. \n \n
 		</text>
 	</string>
 	
 	<string id="light_isg_outfit_name">
-		<text>UNISG IBAz suit</text>
+		<text>UNISG IBAz 방탄복</text>
 	</string>
 	<string id="light_isg_outfit_description">
-		<text>%c[ui_gray_1]A strong but somewhat outdated combat suit modified to additionally give adequate anomalous protection to the wearer. This suit is the bare minimum that one should wear in situations where conflict with armed SSU forces seems inevitable. Also not a bad choice for UN scouts who intend to conduct light raids into the Zone's myriad laboratories.\n \n
+		<text>%c[ui_gray_1]착용자에게 적절한 수준의 이상현상 보호를 추가적으로 제공하도록 개조된 튼튼하지만 다소 시대에 뒤쳐진 전투복입니다. 이 보호구는 무장한 SSU 세력과 갈등이 불가피해 보이는 상황에서 입어야 할 최소한의 복장입니다. 또한 존의 수많은 연구소들 안으로 가벼운 수준의 습격을 하려는 UN군 정찰병에게도 나쁜 선택은 아닙니다.\n \n
 		</text>
 	</string>
 
