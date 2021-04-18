@@ -416,92 +416,92 @@
 
 <!-- CS outfits -->
 	<string id="csky_light_novice_outfit_name">
-		<text>CS-1 body armour</text>
+		<text>CS-1 방탄복</text>
 	</string>
 	<string id="csky_light_novice_outfit_description">
-		<text>%c[ui_gray_1]A light suit worn by Clear Sky's novice researchers. It provides more than adequate protection from the anomalous phenomena in the Swamps, but does little to protect from physical threats or radiological phenomena.\n \n
+		<text>%c[ui_gray_1]클리어 스카이의 신입 연구원들이 입는 경량 방탄복입니다. 늪지대에 있는 이상현상들에 대해서는 적정 수준보다 높은 보호도를 제공하지만, 물리적 충격이나 방사능과 관련된 현상에는 거의 없는 수준의 보호도밖에 제공하지 못합니다.\n \n
 		</text>
 	</string>
 	
 	<string id="csky_light_outfit_name">
-		<text>CS-2a body armour</text>
+		<text>CS-2a 방탄복</text>
 	</string>
 	<string id="csky_light_outfit_description">
-		<text>%c[ui_gray_1]A blue bodysuit intended for conducting rapid search operations in areas of low risk - anomalous or otherwise. Not intended for pitched battle or intense firefights, although it'd likely still fare better than the CS-1 in such scenarios.\n \n
+		<text>%c[ui_gray_1]이상현상 등의 위험이 낮은 수준의 지역들에서 신속한 수색 작전을 수행하기 위해 고안된 파란색 몸통 보호구입니다. 총력전이나 격렬한 총격전을 위해 고안된 물건은 아니지만, CS-1 방탄복보다는 그러한 상황에서 더 나은 성능을 보여줄 수는 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="csky_medium_outfit_name">
-		<text>CS-3a body armour</text>
+		<text>CS-3a 방탄복</text>
 	</string>
 	<string id="csky_medium_outfit_description">
-		<text>%c[ui_gray_1]A heavier but still comfortable outfit worn by members of Clear Sky that provides more than adequate general protection, especially in combat. However, the armour is also highly conductive and susceptible to corrosion.\n \n
+		<text>%c[ui_gray_1]클리어 스카이 대원들이 입는 더 무겁지만 여전히 편리한 보호구로 특히 전투 상황에서, 적정 수준보다 더 높은 전반적인 보호도를 제공합니다. 하지만, 전기 전도성이 높으며 부식에 취약한 측면도 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="csky_heavy_outfit_name">
-		<text>CS-3b body armour</text>
+		<text>CS-3b 방탄복</text>
 	</string>
 	<string id="csky_heavy_outfit_description">
-		<text>%c[ui_gray_1]Formerly the standard outfit issued to Clear Sky assault squads, after the faction’s infamous failure against the NPP in 2011 this armour serves as a reminder that even an excellent protective bodysuit cannot guarantee safety on the wrong side of the perimeter. The armour is capable of stopping a pistol bullet, while the wearer is also reasonably protected from anomalies.\n \n
+		<text>%c[ui_gray_1]한때 클리어 스카이 돌격대의 기본 방어구였지만, 클리어 스카이의 2011년 원자력 발전소에서의 불명예스러운 실패 이후 이 방어구는 아무리 좋은 방어력을 갖춘 방어구라도 일정 선을 넘어버리는 상황이 닥쳐오면 안전을 보장해줄 수 없다는 교훈을 주었습니다. 방어구는 권총탄을 막을 수 있고, 착용자는 이상현상에 대한 상당한 방호력을 얻습니다.\n \n
 		</text>
 	</string>
 	
 
 <!-- NBC outfits -->
 	<string id="nbc_outfit_name">
-		<text>NBC suit</text>
+		<text>NBC 슈트</text>
 	</string>
 	<string id="nbc_outfit_description">
-		<text>%c[ui_gray_1]A budget CBRN suit with a kevlar vest. Outfits like these are mass-produced in factories outside the Zone for use in long-term military operations and disaster clean-ups all over the world. It comes standard with a GP-5 gas mask using a hose leading to a modern filter. Although clearly not made with the Zone's specific conditions in mind, it's nonetheless a popular choice among those who appreciate efficient weight distribution systems, and the overall protection is still comparable to an average stalker suit.\n \n
+		<text>%c[ui_gray_1]케블라 방탄조끼가 포함된 저렴한 화생방보호의입니다. 이러한 종류의 보호의는 전세계에서 장기 군사작전이나 재난 사후처리에 사용하기 위해 존 바깥의 공장들에서 대량으로 생산되었습니다. GP-5 방독면을 호스를 이용해 현대식 정화장치와 연결하는 형태로 주로 사용됩니다. 비록 생산 단계에서 존의 특수한 상황을 염두에 두고 만들어진 물건은 아니지만, 그럼에도 불구하고 효율적인 무게 분산 시스템을 원하는 사람들에게 인기가 있으며, 전반적인 보호도는 평균적인 수준의 스토커 방어구와 견줄 만합니다.\n \n
 		</text>
 	</string>
 	
 	<string id="monolith_nbc_outfit_name">
-		<text>Chernobyl NBC suit</text>
+		<text>체르노빌 NBC 슈트</text>
 	</string>
 	<string id="monolith_nbc_outfit_description">
-		<text>%c[ui_gray_1]An old CBRN suit with a kevlar vest, most commonly associated with the fanatical zealots who defend the centre of the Zone from other stalkers. These suits were first used by military personnel after the 1986 accident in order to aid in the cleanup process. Shows obvious signs of immense age and irreparable wear. How so many of these suits were left behind, and how they eventually found their way into the hands of the Monolith, is a mystery. Comes with a refurbished integrated GP-5 gas mask.\n \n
+		<text>%c[ui_gray_1]케블라 방탄조끼가 포함된 오래된 화생방보호의로, 주로 다른 스토커들로부터 존의 중심부를 지키고 있는 광신도들과 연관이 있습니다. 이 보호의는 1986년의 사고가 일어난 뒤 사후처리작업을 지원하기 위해 군 관계자들이 처음으로 사용하였습니다. 외견상 엄청난 노후화와 수리 불가능할 정도의 손상이 일어났음을 보이고 있습니다. 이렇게 많은 보호의들이 어떻게 남겨졌는지, 그리고 결국 어떠한 방법으로 모노리스가 손에 넣었는지는 수수께끼로 남아 있습니다. 개선된 형태의 일체형 GP-5 방독면이 포함되어 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="cs_nbc_outfit_name">
-		<text>CS-3 NBC body armour</text>
+		<text>CS-3 NBC 방탄복</text>
 	</string>
 	<string id="cs_nbc_outfit_description">
-		<text>%c[ui_gray_1]A CBRN suit with a kevlar vest, recently refurbished and modified by Clear Sky. Outfits like these are mass-produced in factories outside the Zone for use in long-term military operations and disaster clean-ups all over the world. It comes standard with a GP-5 gas mask using a hose leading to a modern filter. Each NBC suit that comes into Clear Sky's possession is quality-checked by Novikov to ensure it is suitable for the Zone's harsh conditions.\n \n
+		<text>%c[ui_gray_1]케블라 방탄조끼가 포함된 화생방보호의로, 최근에 클리어 스카이에 의해 개량 및 개조되었습니다. 이러한 종류의 보호의는 전세계에서 장기 군사작전이나 재난 사후처리에 사용하기 위해 존 바깥의 공장들에서 대량으로 생산되었습니다. GP-5 방독면을 호스를 이용해 현대식 정화장치와 연결하는 형태로 주로 사용됩니다. 클리어 스카이가 소유한 모든 NBC 슈트는 존의 가혹한 환경에 적합하게 만들어지도록 노비코프가 검수하고 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="nbc_merc_outfit_name">
-		<text>Mercenary NBC suit</text>
+		<text>용병 NBC 슈트</text>
 	</string>
 	<string id="nbc_merc_outfit_description">
-		<text>%c[ui_gray_1]A CBRN suit with a kevlar vest, primarily used by Mercs on a budget. Outfits like these are mass-produced in factories outside the Zone for use in long-term military operations and disaster clean-ups all over the world. It comes standard with a GP-5 gas mask using a hose leading to a modern filter. Although clearly not made with the Zone's specific conditions in mind, it's nonetheless a popular choice among those who appreciate efficient weight distribution systems, although this model sports sub-par environmental protection compared to most locally made suits.\n \n
+		<text>%c[ui_gray_1]케블라 방탄조끼가 포함된 화생방보호의로, 주로 돈을 아끼려는 용병들이 사용합니다. 이러한 종류의 보호의는 전세계에서 장기 군사작전이나 재난 사후처리에 사용하기 위해 존 바깥의 공장들에서 대량으로 생산되었습니다. GP-5 방독면을 호스를 이용해 현대식 정화장치와 연결하는 형태로 주로 사용됩니다. 비록 생산 단계에서 존의 특수한 상황을 염두에 두고 만들어진 물건은 아니나, 그럼에도 불구하고 효율적인 무게 분산 시스템을 원하는 사람들에게 인기가 있지만, 다른 존에서 만들어진 보호의들에 비해 뒤떨어지는 수준의 환경보호도를 보여줍니다.\n \n
 		</text>
 	</string>
 
 	<string id="nbc_freedom_outfit_name">
-		<text>Keeper of Freedom</text>
+		<text>프리덤의 파수꾼</text>
 	</string>
 	<string id="nbc_freedom_outfit_description">
-		<text>%c[ui_gray_1]Based on the NBC suit designs used by neutral stalkers, this outfit is a variant made by Freedom's local craftsmen. While not on par with the standard NBC in some areas, the faction nevertheless managed to make an outstanding breakthrough in one area - chemical protection. This suit is something of a favourite among Freedomers who want to explore the Zone's myriad ruins without fear of chemical or radiological threats, especially when its highly efficient weight distribution system is factored in. Comes with an integrated GP-5 gas mask as standard.\n \n
+		<text>%c[ui_gray_1]중립 스토커들이 사용하는 NPC 슈트의 설계를 기반으로 프리덤의 기술자가 만든 개량된 형태의 보호의입니다. 일부 지역에서는 표준 NBC 슈트보다 낮은 수준의 보호를 제공하지만, 프리덤은 하나의 분야에서만큼은 놀라운 수준의 혁신을 이루어내는 데 성공했습니다. 바로 화학 방호력입니다. 이 보호의는 화학이나 방사능 위험에 대한 두려움 없이 존의 수많은 폐허들을 탐험하고 싶어하는 프리덤 대원들에게 인기가 많으며, 특히 매우 효율적인 무게 분산 시스템을 고려하는 경우에 그렇습니다. GP-5 방독면을 호스를 이용해 현대식 정화장치와 연결한 방식이 주로 사용됩니다.\n \n
 		</text>
 	</string>
 
 	<string id="nbc_dolg_outfit_name">
-		<text>PS5-Md NBC suit</text>
+		<text>PS5-Md NBC 슈트</text>
 	</string>
 	<string id="nbc_dolg_outfit_description">
-		<text>%c[ui_gray_1]Artefact hunters among the Duty faction are rare, but this suit - based on standard NBC designs - exists to facilitate their lives and fulfill their obligations to aid the Ecologist faction. Compared to the standard PS5-M suit, this outfit boasts an integrated GP-5 gas mask as well as belt slots for AAMs and a highly efficient weight distribution system to help carry all the required equipment. Not the best suit in its class, it tends to be replaced once the Dutyer in question has the rank required for something better.\n \n
+		<text>%c[ui_gray_1]듀티 세력에서는 아티팩트 사냥꾼이 흔하지 않지만, 이 표준 NBC 슈트의 설계를 기반으로 한 보호의는 듀티 대원들의 생명을 보호하고 과학자 세력을 돕는다는 의무를 완수하기 위해 만들어졌습니다. 표준 PS5-M 슈트와 비교했을 때, 이 보호의는 일체형 GP-5 방독면과 함께 아티팩트 보관 장치를 달기 위한 벨트 거치대가 포함되어 있으며 매우 효율적인 무게 분산 시스템을 통해 활동에 필요한 모든 장비들을 운반할 수 있도록 도와줍니다. 이러한 종류의 보호의들 중에서 가장 좋은 보호의는 아닌 만큼, 이 옷을 입는 듀티 대원이 더 나은 방어구를 입을 수 있는 계급에 도달하면 교체되는 경향이 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="bandit_nbc_outfit_name">
-		<text>Looted NBC suit</text>
+		<text>약탈된 NBC 슈트</text>
 	</string>
 	<string id="bandit_nbc_outfit_description">
-		<text>%c[ui_gray_1]A well insulated but otherwise poorly CBRN suit with a kevlar vest. Before starting its service among the Bandits, it was likely reassembled from the tattered remains of some brutally murdered stalker. It comes standard with a GP-5 gas mask using a hose leading to a modern filter. Although clearly not restored with much care for the Zone's specific conditions, it's nonetheless a popular choice among crooks who appreciate efficient weight distribution systems.\n \n
+		<text>%c[ui_gray_1]절연처리는 잘 되어 있지만 나머지는 보잘 것 없는 케블라 방탄조끼가 포함된 화생방보호의입니다. 이 보호의가 밴딧들 사이에서 활용되기 이전에는, 아마도 잔인하게 살해된 몇몇 스토커들의 누더기가 된 유품들을 재조립해서 만들어진 것으로 보입니다. GP-5 방독면을 호스를 이용해 현대식 정화장치와 연결하는 형태로 주로 사용됩니다. 비록 존의 특수한 환경을 그다지 신경쓰지 않은 채로 재조립된 것이 확실해 보이지만, 그럼에도 효율적인 무게 분산 시스템을 원하는 범죄자들에게는 인기있는 선택입니다.\n \n
 		</text>
 	</string>
 	
