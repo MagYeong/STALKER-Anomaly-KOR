@@ -566,15 +566,15 @@
 
 <!-- Sunrise suits -->
 	<string id="stalker_outfit_name">
-		<text>"Sunrise" stalker suit</text>
+		<text>"선라이즈" 스토커 슈트</text>
 	</string>
 	<string id="stalker_outfit_description">
-		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. Made of twin-layered rubberised cloth with plexiglass lining and integrated body armour, the Sunrise is one of the oldest stalker suits in existence. It is also widely considered the BARE MINIMUM protection a stalker should have for serious trips into the Zone. Despite this, it enjoys immense popularity among rookies and veteran stalkers alike thanks to its economical use and great modification potential.\n \n
+		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. 플렉시글라스 안감 처리가 된 이중 구조의 고무처리 천으로 되어있고 일체형 방탄복이 포함되어 있는 선라이즈 슈트는 현존하는 가장 오래된 스토커 슈트들 중 하나입니다. 또한 이 슈트는 스토커가 존 내부로 본격적인 여행을 시작하기 위해서 갖추어야 할 최소한도의 보호구 기준 정도로 여겨집니다. 그렇지만, 선라이즈 슈트는 저렴하다는 점과 개조 가능성이 높다는 점으로 인해 초보들과 베테랑 스토커 모두에게 널리 인기가 있는 보호구입니다.\n \n
 		</text>
 	</string>
 	
 	<string id="stalker_outfit_camo_name">
-		<text>"Chameleon" stalker suit</text>
+		<text>"카멜레온" 스토커 슈트</text>
 	</string>
 	<string id="stalker_outfit_camo_description">
 		<text>%c[ui_gray_1]NOT IN GAME. Camouflaged during assembly, this DIY stalker bodysuit is a combination of twin-layered rubberised cloth with Plexiglas lining and built-in body armour. Despite the fact that the body armour is often strained by anything beyond even pistol bullets, the suit enjoys great popularity due to its low cost and modification potential.\n \n
@@ -582,7 +582,7 @@
 	</string>
 
 	<string id="stalker_outfit_alt_name">
-		<text>"Hipster" stalker suit</text>
+		<text>"힙스터" 스토커 슈트</text>
 	</string>
 	<string id="stalker_outfit_alt_description">
 		<text>%c[ui_gray_1]NOT IN GAME. This DIY stalker bodysuit is a combination of twin-layered rubberised cloth with Plexiglas lining and built-in body armour. Despite the fact that the body armour is often strained by anything beyond even pistol bullets, the suit enjoys great popularity due to its low cost and modification potential.\n \n
@@ -590,31 +590,31 @@
 	</string>
 	
 	<string id="stalker_drought_outfit_name">
-		<text>"Drought" stalker suit</text>
+		<text>"드라우트" 스토커 슈트</text>
 	</string>
 	<string id="stalker_drought_outfit_description">
-		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. For a stalker suit, the Drought possesses marginally better ballistic protection than average, but is also considerably less comfortable to wear. On the plus side, it comes with several belt slots. While intended for artefacts, these slots are most often filled with camelbacks to offset the extra weight of the suit, which is partially what earned it the ironic nickname of "Drought". Like the Sunrise, it is hugely popular for its relatively low cost and great modification potential.\n \n
+		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. 스토커 슈트로서의 드라우트 슈트는 평균보다 살짝 나은 수준의 방탄 능력을 갖추었지만, 입기에는 좀 더 불편합니다. 이 슈트의 장점은 벨트 거치대가 몇 개 추가되었다는 점이 있습니다. 아티팩트를 좀 더 많이 달고 다니기 위한 기능이지만, 대부분은 방어구의 추가 중량을 덜기 위해 카멜백 같은 물건들로 채워지는 경향이 있어, 이 보호구가 아이러니한 별명인 "드라우트 (가뭄)"로 불리게 되는 이유들 중 일부가 되었습니다. 선라이즈 슈트처럼, 상대적으로 낮은 가격과 훌륭한 개조 가능성으로 인기가 많습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="stalker_predator_outfit_name">
-		<text>"Predator" stalker suit</text>
+		<text>"프레데터" 스토커 슈트</text>
 	</string>
 	<string id="stalker_predator_outfit_description">
-		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. An overall upgrade over the "Drought" suit, the "Predator" features similar protection in a gunfight while also being significantly more comfortable to wear. For this reason, it can be a favoured choice among any stalker who needs a little more protection and a lot more mobility than what the average stalker suit can afford. Like most stalker suits, it enjoys popularity among greenhorns and experts alike thanks to its low maintenance costs and great modification potential. \n \n
+		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. "드라우트" 슈트를 전반적으로 개선한 "프레데터" 슈트는 원본과 유사한 수준의 총격전 보호력을 갖추었지만 입기에 조금 더 편리해졌습니다. 이러한 이유 때문에, 일반적인 스토커 슈트보다 조금 더 많은 보호를 제공하면서 더 많은 기동성을 가진 방어구를 찾는 스토커들이 선호하는 방어구가 될 수 있습니다. 대부분의 스토커 슈트들과 마찬가지로, 유지비가 저렴하다는 점과 개조 가능성이 높다는 점으로 인해 풋내기들과 숙련된 스토커 모두에게 널리 인기가 있는 보호구입니다. \n \n
 		</text>
 	</string>
 	
 	<string id="stalker_autumn_outfit_name">
-		<text>"Autumn" stalker suit</text>
+		<text>"어텀" 스토커 슈트</text>
 	</string>
 	<string id="stalker_autumn_outfit_description">
-		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. This suit is a favourite among newer artefact hunters and creative hitmen, as it allows one to either traverse - or hide within - chemical anomaly fields with much greater ease than a stalker suit would normally allow. It is also slightly more comfortable to wear than the average stalker suit, despite further featuring enhanced ballistic protecion. As it is only slightly more expensive than the Sunrise suit, it's a good choice for stalkers willing to spring that little bit further with their Rubles.\n \n
+		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. 이 방어구는 신참 아티팩트 사냥꾼들과 창의적인 청부살인업자들에게 인기가 많은데, 이는 이 방어구가 다른 스토커 슈트가 평균적으로 감당할 수 있는 수준보다 더 쉽게 화학적 이상현상 지대를 돌파하거나 숨어들 수 있도록 하기 때문입니다. 또한 더욱 강화된 방탄 능력에도 불구하고 일반적인 스토커 슈트들보다 조금 더 편하게 입을 수 있는 방어구이기도 합니다. 선라이즈 슈트보다는 살짝 더 비싸기는 하지만, 가진 루블을 써서 조금씩이라도 더 멀리 가볼 의향이 있는 스토커들에게는 좋은 선택입니다.\n \n
 		</text>
 	</string>
 	
 	<string id="stalker_vineleaf_outfit_name">
-		<text>"Vineleaf" stalker suit</text>
+		<text>"바인리프" 스토커 슈트</text>
 	</string>
 	<string id="stalker_vineleaf_outfit_description">
 		<text>%c[ui_gray_1]NOT IN GAME. A higher quality version of the regular Sunrise bodysuit, made of more resistant and expensive materials. The main build of the suit is pretty much the same as that of basic Sunrise, but the use of higher quality materials lead to increased protective qualities without a significant increase in weight. The suit is also more durable and has a potential for more advanced modifications. The "Vineleaf" version is mainly focused of increasing the wearer's mobility and comfort without reducing its protective qualities. It achieves this goal by the use of a more flexible, thermoactive fabric; the outfit slightly shrinks when exposed to a high heat. Stalkers who just bought the outfit make their way to the nearest thermal anomaly and stand next to it for a while - the outfit then shrinks and fits their body perfectly as a result. Even though it sounds dangerous, nobody ever reported the suit disturbing their blood flow. This fabric also seems to be a bit more difficult to cut, therefore making the suit grant more protection from attacks of weaker mutants. One last quality of this suit is that its inner layer is treated with a compound which slightly cools the body, increasing comfort. As its name suggests, "Vineleaf" bears a camouflage in colours similar to that of a vine or ivy leaves. The pattern consists of large, irregularly shaped spots of lighter and darker shades of the colour.\n \n
@@ -622,26 +622,26 @@
 	</string>
 	
 	<string id="stalker_bear_outfit_name">
-		<text>"Bear" stalker suit</text>
+		<text>"베어" 스토커 슈트</text>
 	</string>
 	<string id="stalker_bear_outfit_description">
-		<text>%c[ui_gray_1]A Zone-assembled suit, handmade by local craftsmen as a matter of survival. Slightly heavier than other stalker suits, some still take it along due to its improved protection against ballistics and potent insulation against thermal threats. Sadly this insulation is achieved not through conventional fabrics, but rather through an unnamed home-made anomalous compound created through trial and error. The side effect of this is that the wearer's body is much more likely to be overloaded by electrical shocks. Most often used by stalkers working in the Burner anomalies near Yantar.\n \n
+		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. 다른 스토커 슈트들보다는 살짝 무겁지만, 더 좋은 방탄력과 고열 위험요소들에 대한 강력한 단열 능력 때문에 꾸준히 사용하는 사람들이 있습니다. 안타깝게도 이러한 단열 능력은 기존에 있던 옷감들을 활용한 것은 아니고, 여러 시행착오를 거쳐 만들어진 이름모를 이상한 수제 합성물을 사용해 얻어진 것입니다. 이로 인해 사용자의 신체가 전기 충격에 과부하될 가능성이 좀 더 높아진다는 부작용이 생기게 되었습니다. 얀타 근처의 불판 이상현상 안에서 활동하는 스토커들이 가장 자주 사용합니다.\n \n
 		</text>
 	</string>
 	
 	<string id="stalker_salamander_outfit_name">
-		<text>"Salamander" stalker suit</text>
+		<text>"샐러맨더" 스토커 슈트</text>
 	</string>
 	<string id="stalker_salamander_outfit_description">
-		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. This suit was designed for stalkers who place value on observation and exploration - it has about average protection for a stalker suit in combat (which can be avoided) or against anomalies (which can be spotted), but grants exceptional defence against radiation. A good choice for those who are highly aware of their surroundings and simply need something to stave off the Invisible Killer. Ironically, for something dubbed the "Salamander", it demonstrates a poor ability to safely channel heat. Like all stalker suits, however, it is an economical choice with great upgrade potential.\n \n
+		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. 이 방어구는 관찰과 탐험을 중시하는 스토커들을 위해 설계되었습니다. (피할 수 있는) 전투나 (발견할 수 있는) 이상현상에 대해서는 다른 스토커 슈트에 비해 평균적인 보호를 제공하지만, 방사능에 대해서는 탁월한 방호를 제공합니다. 주변 환경에 대해 높은 경계심을 가졌거나 보이지 않는 살인마들을 몰아낼만한 것이 필요한 사람들에게 좋은 선택입니다. 역설적이게도, "샐러맨더" 라는 별명이 붙은 물건 치고는, 열을 안전하게 전달하는 능력이 떨어집니다. 하지만, 다른 모든 스토커 슈트들과 마찬가지로 높은 개조 가능성을 지닌 저렴한 방어구입니다.\n \n
 		</text>
 	</string>
 	
 	<string id="stalker_graphite_outfit_name">
-		<text>"Graphite" stalker suit</text>
+		<text>"그래파이트" 스토커 슈트</text>
 	</string>
 	<string id="stalker_graphite_outfit_description">
-		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. It was independently designed by a few optimistic stalkers who were expecting to take measurements of psy-storms out in the open. Naturally, this endeavour failed, but their designs were later recovered and used to produce a stalker suit, able to shelter the wearer's nervous system. Somewhat prone to overheating and not too good against chemical spills. An infrequent, and somewhat outdated, joke among modern stalkers is to throw the suit on the floor and then pretend it isn't there.\n \n
+		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. 야외에서 정신파 폭풍을 관측하고 싶어하는 몇몇 낙관적인 스토커들을 위해 독립적으로 설계되었습니다. 물론, 이러한 노력은 실패로 돌아갔지만, but their designs were later recovered and used to produce a stalker suit, able to shelter the wearer's nervous system. Somewhat prone to overheating and not too good against chemical spills. An infrequent, and somewhat outdated, joke among modern stalkers is to throw the suit on the floor and then pretend it isn't there.\n \n
 		</text>
 	</string>
 	
@@ -649,7 +649,7 @@
 		<text>"Tigerstripe" stalker suit</text>
 	</string>
 	<string id="stalker_tigerstripe_outfit_description">
-		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. One of the heavier stalker suits available, this outfit was designed for those who prefer to make their money as hired killers or fighters instead of looting artefacts or skinning mutants. Compared to the average stalker suit, it provides marginally better protection against ballistics and a genuine improvement in defence against shrapnel, cuts and blunt impacts. Compared to many other combat suits, however, this apparel's main draw lies simply in how cheap it is to maintain.\n \n
+		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. One of the heavier stalker suits available, this outfit was designed for those who prefer to make their money as hired killers or fighters instead of looting artefacts or skinning mutants. Compared to the average stalker suit, it provides marginally better protection against ballistics and a genuine improvement in defence against shrapnel, cuts and blunt impacts. Compared to many other combat suits, however, this apparel's main draw lies simply in how cheap it is to maintain.\n \n
 		</text>
 	</string>
 
