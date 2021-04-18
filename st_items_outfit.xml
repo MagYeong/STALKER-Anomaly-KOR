@@ -482,7 +482,7 @@
 	</string>
 
 	<string id="nbc_freedom_outfit_name">
-		<text>프리덤의 파수꾼</text>
+		<text>프리덤의 보호자</text>
 	</string>
 	<string id="nbc_freedom_outfit_description">
 		<text>%c[ui_gray_1]중립 스토커들이 사용하는 NPC 슈트의 설계를 기반으로 프리덤의 기술자가 만든 개량된 형태의 보호의입니다. 일부 지역에서는 표준 NBC 슈트보다 낮은 수준의 보호를 제공하지만, 프리덤은 하나의 분야에서만큼은 놀라운 수준의 혁신을 이루어내는 데 성공했습니다. 바로 화학 방호력입니다. 이 보호의는 화학이나 방사능 위험에 대한 두려움 없이 존의 수많은 폐허들을 탐험하고 싶어하는 프리덤 대원들에게 인기가 많으며, 특히 매우 효율적인 무게 분산 시스템을 고려하는 경우에 그렇습니다. GP-5 방독면을 호스를 이용해 현대식 정화장치와 연결한 방식이 주로 사용됩니다.\n \n
@@ -641,7 +641,7 @@
 		<text>"그래파이트" 스토커 슈트</text>
 	</string>
 	<string id="stalker_graphite_outfit_description">
-		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. 야외에서 정신파 폭풍을 관측하고 싶어하는 몇몇 낙관적인 스토커들을 위해 독립적으로 설계되었습니다. 물론, 이러한 노력은 실패로 돌아갔지만, but their designs were later recovered and used to produce a stalker suit, able to shelter the wearer's nervous system. Somewhat prone to overheating and not too good against chemical spills. An infrequent, and somewhat outdated, joke among modern stalkers is to throw the suit on the floor and then pretend it isn't there.\n \n
+		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. 야외에서 정신파 폭풍을 관측하고 싶어하는 몇몇 낙관적인 스토커들을 위해 독립적으로 설계되었습니다. 물론, 이러한 노력은 실패로 돌아갔지만, 그들이 사용한 디자인은 이후 복구되어 착용자의 신경계를 보호할 수 있는 스토커 슈트를 만들어내는 데 사용되었습니다. 과열에 다소 취약하며 화학적 누출에 그다지 좋은 방호력을 보이지 못한다는 단점이 있습니다. 요즘 스토커들 사이에서 이 슈트를 바닥에 버리고 아무 것도 없는 것처럼 행동하는 다소 철 지난 듯한 농담이 드물게 이루어지고는 합니다.\n \n
 		</text>
 	</string>
 	
