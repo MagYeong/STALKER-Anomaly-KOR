@@ -402,15 +402,15 @@
 		<text>하이브리드 장갑 방탄복</text>
 	</string>
 	<string id="hybrid_outfit_description">
-		<text>%c[ui_gray_1]이 의복은 어색한 오리털 패딩처럼 생겼으며, 존에 있는 과학자들을 경호하기 위한 목적으로 키예프의 방산 연구 업체 중 한 곳에서 만들어졌습니다. It is clear the suit was created on a budget, however, as the ballistic armour woven into the outfit simultaneously makes it weaker against anomalous phenomena, while still providing less protection in a firefight than a Beryllium vest. As such, none of these suits were ever officially commissioned by the Ukrainian government, although a few nonetheless managed to find their way into the Zone through shady means. A popular choice for stalkers who want decent general protection yet cannot spring for something better.\n \n
+		<text>%c[ui_gray_1]이 의복은 어색한 오리털 패딩처럼 생겼으며, 존에 있는 과학자들을 경호하기 위한 목적으로 키예프의 방산 연구 업체 중 한 곳에서 만들어졌습니다. 이 보호복이 저렴한 예산을 기반으로 만들어졌다는 건 사실이지만, 의복 안에 삽입된 방탄복으로 인해 이상현상에 대해서는 약한 모습을 보이는 한편, 총격전에 대해서 베릴륨 방탄 조끼보다도 적은 보호력을 갖습니다. 따라서, 이런 보호복들 중 우크라이나 정부의 의뢰에 의해 만들어진 건 없지만, 그럼에도 불구하고 일부는 어둠의 경로를 통해 존으로 들어오는 데 성공하고 말았습니다. 괜찮은 수준의 전반적인 보호도를 갖추고 싶어하지만 더 나은 걸 구비할 여유가 없는 스토커들이 자주 찾습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="wastelander_outfit_name">
-		<text>"Wastelander" stalker suit</text>
+		<text>"웨이스트랜더" 스토커 슈트</text>
 	</string>
 	<string id="wastelander_outfit_description">
-		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. This particular outfit is of high quality, and comes with an integrated Czech-M10 gas mask. It compares favourably to many other locally made suits, but is often held back by its incompatability with other helmets, a trait which cuts down on how useful or adaptable the suit can be. \n \n
+		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. 이 특별한 의복은 높은 품질을 가지고 있으며, 일체형 체코산 M10 방독면이 포함되어 있습니다. 이 의복은 존에서 만들어진 다른 수많은 슈트보다 선호되지만, 다른 머리 보호구와 같이 쓸 수 없다는 점은 의복의 효용성과 융통성을 감소시키는 특성으로 여겨져 종종 비선호요인이 되기도 합니다. \n \n
 		</text>
 	</string>
 
