@@ -474,7 +474,7 @@
 	</string>
 
 	<string id="nbc_merc_outfit_name">
-		<text>용병의 NBC 슈트</text>
+		<text>용병 NBC 슈트</text>
 	</string>
 	<string id="nbc_merc_outfit_description">
 		<text>%c[ui_gray_1]케블라 방탄조끼가 포함된 화생방보호의로, 주로 돈을 아끼려는 용병들이 사용합니다. 이러한 종류의 보호의는 전세계에서 장기 군사작전이나 재난 사후처리에 사용하기 위해 존 바깥의 공장들에서 대량으로 생산되었습니다. GP-5 방독면을 호스를 이용해 현대식 정화장치와 연결하는 형태로 주로 사용됩니다. 비록 생산 단계에서 존의 특수한 상황을 염두에 두고 만들어진 물건은 아니나, 그럼에도 불구하고 효율적인 무게 분산 시스템을 원하는 사람들에게 인기가 있지만, 다른 존에서 만들어진 보호의들에 비해 뒤떨어지는 수준의 환경보호도를 보여줍니다.\n \n
@@ -704,7 +704,7 @@
 	</string>
 
 	<string id="merc_nighthunter_outfit_name">
-		<text>용병의 STS-N 방탄복</text>
+		<text>용병 STS-N 방탄복</text>
 	</string>
 	<string id="merc_nighthunter_outfit_description">
 		<text>%c[ui_gray_1]때때로 "나이트헌터" 라는 별명으로 일컬어지는 이 방탄복은 약간 중무장된 특수 전술 방탄복으로, 용병에 의해 야간 또는 도심 전투 상황에서 사용됩니다. 디자인과 성능 측면에서, 이 방탄복은 전형적인 스페츠나츠 방어구와 일반적인 스토커 슈트 사이에서 훌륭한 균형을 이루었습니다. 척후전에 대해서는 적정 수준보다 뛰어난 방어 능력을 제공하지만, 살인 청부보다 아티팩트 사냥 계약을 선호하는 사람들 사이에서는 전반적으로 대단치 않은 물건으로 여겨지고 있습니다. \n \n
@@ -723,7 +723,7 @@
 		<text>UNISG Mk 1 전술 방탄복</text>
 	</string>
 	<string id="isg_outfit_description">
-		<text>%c[ui_gray_1]서구권의 특수부대들에서 사용되는 제식 장비를 기반으로 한 이런 종류의 의복은 전세계의 많은 군사조직들에서 널리 찾아볼 수 있습니다. 이 방탄복은 UNISG 요원들이 착용할 만한 최소한도 수준의 의복이라고 할 수 있습니다. 기본적인 용병 전용 경량 전투복과 비교해 보았을 때도, 이 방탄복은 더 무겁지만 더 적은 수준의 보호를 제공하여 존의 환경에 간신히 맞는 수준으로만 여겨지게 되었습니다. 물론, 우크라이나 징집병들이 입는 군복보다는 훨씬 좋은 수준입니다.\n \n
+		<text>%c[ui_gray_1]서구권의 특수부대들에서 사용되는 제식 장비를 기반으로 한 이런 종류의 의복은 전세계의 많은 군사조직들에서 널리 찾아볼 수 있습니다. 이 방탄복은 UNISG 요원들이 착용할 만한 최소한도 수준의 의복이라고 할 수 있습니다. 기본적인 용병 전용 경량 전투용 슈트과 비교해 보았을 때도, 이 방탄복은 더 무겁지만 더 적은 수준의 보호를 제공하여 존의 환경에 간신히 맞는 수준으로만 여겨지게 되었습니다. 물론, 우크라이나 징집병들이 입는 군복보다는 훨씬 좋은 수준입니다.\n \n
 		</text>
 	</string>
 	
@@ -738,10 +738,10 @@
 	
 <!-- LCS (Light Combat Suit) -->
 	<string id="merc_outfit_name">
-		<text>Mercenary LC suit</text>
+		<text>용병 LC 슈트</text>
 	</string>
 	<string id="merc_outfit_description">
-		<text>%c[ui_gray_1]The "Light Combat Suit" is one of the most common outfits used by the Zone's Mercenaries. Its design is based on the suit used by the special forces of Western armies. Due to a special treatment of the fabric, the armour has a strengthened stability during the physical movement of its plates. Adequate for basic operations, but quite poor in quality compared to standard Spetsnaz gear, and was quite obviously not designed with the existence of anomalies in mind.\n \n
+		<text>%c[ui_gray_1]"경량 전투용 슈트 (Light Combat Suit)"는 존에 있는 용병들이 사용하는 가장 흔한 방어구들 중 하나입니다. 서구권 군대의 특수부대들이 사용하는 전투복을 기반으로 디자인되었습니다. 옷감에 특수 처리를 한 결과 이 방어구는 부착된 장갑판이 물리적으로 움직이는 동안에도 강화된 안정성을 지닙니다. 기초 작전에는 적합한 수준이지만, 스페츠나츠의 제식 장비와 비교해보았을 때는 품질이 상당히 떨어지는 편이며, 이상현상의 존재를 염두에 두고 설계된 의복이 아니라는 것은 확실합니다.\n \n
 		</text>
 	</string>
 	
