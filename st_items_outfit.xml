@@ -672,66 +672,66 @@
 
 <!-- STS (Special Tactical Suits) -->
 	<string id="svoboda_light_outfit_name">
-		<text>Wind of Freedom</text>
+		<text>프리덤의 바람</text>
 	</string>
 	<string id="svoboda_light_outfit_description">
-		<text>%c[ui_gray_1]This comfortable stalker bodysuit is made by Freedom craftsmen. The suit’s fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to chemical anomalies. One can only guess what the side effects might be.\n \n
+		<text>%c[ui_gray_1]이 편안한 스토커 바디슈트는 프리덤 기술자들에 의해 만들어졌습니다. 이 슈트의 옷감은 화학 이상현상에 대한 저항력을 높이기 위해서, 프리덤이 시행착오를 거쳐 개발해낸 특수한 합성물질인 호라이즌으로 처리되었습니다. 이 물질이 가져올 부작용이 어떨지는 아직 알려지지 않았습니다.\n \n
 		</text>
 	</string>
 
 	<string id="monolith_outfit_name">
-		<text>Monolith X-18 suit</text>
+		<text>모노리스 X-18 슈트</text>
 	</string>
 	<string id="monolith_outfit_description">
-		<text>%c[ui_gray_1]A mysterious outfit associated with the Monolith faction. It consists of an environmental bodysuit that provides more than adequate chemical and radiological protection, underneath a ballistic vest capable of stopping weak pistol rounds. Its anomaly protection, however, is subpar. Previously of unknown origin, scores of these suits were found in containers and lockers underneath the X18 facility in Dark Valley. Although the stalkers who found this cache have since all mysteriously disappeared, this discovery has nonetheless launched thousands of conspiracy theories among stalkers of other factions, the premise of many claiming that these suits predate the creation of the Zone itself.\n \n
+		<text>%c[ui_gray_1]모노리스 세력과 관련된 수수께끼의 의복입니다. 약한 수준의 권총탄을 막아낼 수 있는 방탄 조끼와 그 안쪽에 입는 적정 수준보다 더 높은 화학 및 방사능 보호를 제공하는 환경 방호용 바디슈트로 이루어져 있습니다. 하지만, 이 슈트의 이상현상 방호력은 수준 이하입니다. 알 수 없는 곳에서 만들어진 듯한 이러한 종류의 슈트 몇 무더기가 검은 계곡에 있는 X18 시설 지하의 상자 및 관물함에서 발견되었습니다. 이 은닉처를 발견했던 스토커들은 모두 알 수 없는 이유로 실종되었지만, 이 발견으로 인해 수천 가지의 음모론들이 다른 세력의 스토커들 사이에서 퍼져나갔으며, 음모론들 중 다수에는 이러한 슈트들이 존이 만들어진 시기보다 더 먼저 만들어졌을 거라는 전제가 깔려 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="bandit_sun_outfit_name">
-		<text>"Sunset" tactical suit</text>
+		<text>"선셋" 전술 방탄복</text>
 	</string>
 	<string id="bandit_sun_outfit_description">
-		<text>%c[ui_gray_1]A Zone-assembled suit, made by local craftsmen as a matter of survival. Its design seems to be modelled on that of a Special Tactical Suit, but bears an especially disturbing resemblance to a Monolith X-18 suit that has had its conventional NBC features stripped down in favour of greater insulation from thermal and electrical threats. Mostly used by Bandits in Dark Valley to clear out the poltergeists that occasionally escape from the local lab.\n \n
+		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. 이 방어복의 디자인은 특수 전술 방탄복을 모델로 한 것으로 보이지만, 특히나 모노리스 X-18 슈트와 불편할 정도로 닮은 특징을 가지고 있는데 그것은 바로 기존의 특수 전술 방호복이 가진 화생방 방호력을 더 강한 단열 및 단전 능력을 위해 희생시켰다는 점입니다. 주로 검은 계곡에 있는 밴딧들이 이따금씩 근처의 연구소에서 탈출하는 폴터가이스트들을 처리하기 위해 사용합니다.\n \n
 		</text>
 	</string>
 
 	<string id="merc_sun_outfit_name">
-		<text>"Twilight" tactical suit</text>
+		<text>"트와일라잇" 전술 방탄복</text>
 	</string>
 	<string id="merc_sun_outfit_description">
-		<text>%c[ui_gray_1]A Zone-assembled suit, made by local craftsmen as a matter of survival. Clearly, the resident Mercenaries have taken a leaf out of the Free Stalkers' book, and have begun to locally produce some of their own outfits. Shows signs of inspiration from the Monolith X-18 suit - an outfit the Mercs no doubt try to salvage from their costly skirmishes in Limansk. Overall of good quality, most Mercenaries find it more than adequate for mid-level operations south of Radar.\n \n
+		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. 존에 있는 용병들이 중립 스토커가 가지고 있던 제조법을 뜯어낸 뒤, 존 안에서 자신들만의 전투복을 직접 만들어내기 시작한 것이 확실해 보입니다. 몇몇 특징들에서는 리만스크에서 용병들의 값비싼 희생을 통해 획득하는 데 성공한 모노리스 X-18 슈트에서 영감을 얻은 듯한 흔적이 나타납니다. 전체적으로 좋은 품질을 보유하고 있어, 대부분의 용병들은 이 방어복이 레이더 남쪽에서 중간 수준의 작전을 수행하는 데 있어서 적정 수준보다 높은 성능을 보여준다고 평가합니다.\n \n
 		</text>
 	</string>
 
 	<string id="merc_nighthunter_outfit_name">
-		<text>Mercenary STS-N body armour</text>
+		<text>용병의 STS-N 방탄복</text>
 	</string>
 	<string id="merc_nighthunter_outfit_description">
-		<text>%c[ui_gray_1]Sometimes nicknamed the "Nighthunter", this outfit is a slightly heavy special tactical suit, used by Mercenaries in both nocturnal and urban combat scenarios. In terms of design and performance, it strikes a good balance between typical Spetsnaz armour and a common 스토커 슈트. It possesses more than adequate protection for skirmishes, but is generally considered mediocre by those who prefer artefact hunting contracts over fulfilling hit jobs. \n \n
+		<text>%c[ui_gray_1]때때로 "나이트헌터" 라는 별명으로 일컬어지는 이 방탄복은 약간 중무장된 특수 전술 방탄복으로, 용병에 의해 야간 또는 도심 전투 상황에서 사용됩니다. 디자인과 성능 측면에서, 이 방탄복은 전형적인 스페츠나츠 방어구와 일반적인 스토커 슈트 사이에서 훌륭한 균형을 이루었습니다. 척후전에 대해서는 적정 수준보다 뛰어난 방어 능력을 제공하지만, 살인 청부보다 아티팩트 사냥 계약을 선호하는 사람들 사이에서는 전반적으로 대단치 않은 물건으로 여겨지고 있습니다. \n \n
 		</text>
 	</string>
 
 	<string id="merc_wolven_outfit_name">
-		<text>Mercenary STS-W body armour</text>
+		<text>용병의 STS-W 방탄복</text>
 	</string>
 	<string id="merc_wolven_outfit_description">
-		<text>%c[ui_gray_1]Sometimes nicknamed the "Wolven", this outfit is a comfortable special tactical suit, used by Mercenaries in both exploratory expeditions and stealth operations. This suit possesses good anomaly protection for its class, allowing the wearer to move through - or hide in - dangerous anomalous fields in relative safety. Naturally useful for artefact hunting, this protection also allows large teams of Mercenaries to set up ambushes in unexpected locations, allowing them to take down targets considered too tough for more orthodox methods.\n \n
+		<text>%c[ui_gray_1]때때로 "울븐" 이라는 별명으로 일컬어지는 이 방탄복은 편한 특수 전술 방탄복으로, 용병에 의해 탐사 목적의 원정 또는 은밀 작전 상황에서 사용됩니다. 이 방탄복은 동급의 방어구와 비교했을 때 괜찮은 수준의 이상현상 보호 능력을 갖추고 있어, 착용자로 하여금 위험한 이상현상 지대를 상대적으로 안전하게 지나가거나 그 안에 숨어들 수 있도록 돕습니다. 기본적으로 아티팩트 사냥에 유용하지만, 이 정도의 보호 수준은 좀 더 정정당당한 방법으로 상대하기에는 너무 강한 목표물을 제압하기 위해 다수의 용병들이 모여 예상하지 못한 곳에서의 습격 작전을 펼치는 데에는 충분한 수준입니다.\n \n
 		</text>
 	</string>
 
 	<string id="isg_outfit_name">
-		<text>UNISG Mk 1 tactical body armour</text>
+		<text>UNISG Mk 1 전술 방탄복</text>
 	</string>
 	<string id="isg_outfit_description">
-		<text>%c[ui_gray_1]Based on a fairly standard suit design used by Western special forces, outfits like this are common to many militaries throughout the world. This is the bare minimum a UNISG operative can expect to be fitted with. Compared to even a basic Mercenary LC suit, this body armour is both heavier and less protective and as such can be considered barely adequate for the Zone's conditions. Still, it is a massive step up from the army uniforms found on Ukrainian conscripts.\n \n
+		<text>%c[ui_gray_1]서구권의 특수부대들에서 사용되는 제식 장비를 기반으로 한 이런 종류의 의복은 전세계의 많은 군사조직들에서 널리 찾아볼 수 있습니다. 이 방탄복은 UNISG 요원들이 착용할 만한 최소한도 수준의 의복이라고 할 수 있습니다. 기본적인 용병 전용 경량 전투복과 비교해 보았을 때도, 이 방탄복은 더 무겁지만 더 적은 수준의 보호를 제공하여 존의 환경에 간신히 맞는 수준으로만 여겨지게 되었습니다. 물론, 우크라이나 징집병들이 입는 군복보다는 훨씬 좋은 수준입니다.\n \n
 		</text>
 	</string>
 	
 	<string id="isg_merc_outfit_name">
-		<text>UNISG Mk 2 tactical body armour</text>
+		<text>UNISG Mk 2 전술 방탄복</text>
 	</string>
 	<string id="isg_merc_outfit_description">
-		<text>%c[ui_gray_1]An improvement over the original Mk-1 design, this outfit is much better suited for the Zone's conditions. Its overall protection against anomalies is more than adequate, and particularly great protection is afforded against chemical, toxic or thermal hazards. These improvements were commissioned by UNISG based on the limited data that could be recovered from their less fortunate predecessors. Still, wearers are encouraged to avoid contact with local stalkers as often as possible.\n \n
+		<text>%c[ui_gray_1]기존의 Mk-1 디자인을 일신한 이 방어구는 존의 환경에 더욱 적합해졌습니다. 이상현상에 대한 전반적인 보호도는 적정 수준보다 높으며, 특히 화학, 독성 및 고열 위험에 대한 보호도가 훌륭한 수준입니다. 이러한 개선 작업은 UNISG가 운이 안 좋았던 전임자들로부터 복구하는 데 성공한 제한된 자료들을 바탕으로 이루어졌습니다. 지금도, 착용자들은 가능한 한 기존 스토커들과의 접촉을 최소화할 것을 요구받고 있습니다.\n \n
 		</text>
 	</string>
 	
