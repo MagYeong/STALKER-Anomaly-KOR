@@ -646,26 +646,26 @@
 	</string>
 	
 	<string id="stalker_tigerstripe_outfit_name">
-		<text>"Tigerstripe" stalker suit</text>
+		<text>"타이거스트라이프" 스토커 슈트</text>
 	</string>
 	<string id="stalker_tigerstripe_outfit_description">
-		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. One of the heavier stalker suits available, this outfit was designed for those who prefer to make their money as hired killers or fighters instead of looting artefacts or skinning mutants. Compared to the average stalker suit, it provides marginally better protection against ballistics and a genuine improvement in defence against shrapnel, cuts and blunt impacts. Compared to many other combat suits, however, this apparel's main draw lies simply in how cheap it is to maintain.\n \n
+		<text>%c[ui_gray_1]존에 거주하는 기술자가 생존을 위해 수제작한 의복입니다. 현재 사용되는 스토커 슈트들 중에서 가장 무거운 종류들 중 하나로, 아티팩트를 모으거나 뮤턴트들을 도축하기보다는 살인청부나 전투를 통해 돈을 버는 것을 선호하는 사람들을 위해 설계되었습니다. 평균적인 스토커 슈트와 비교했을 때, 총탄에 대해서는 근소하게 방어력이 앞서며 파편, 베는 공격 그리고 충격에 대해서는 상당히 개선된 수준의 보호를 제공합니다. 하지만, 다른 전투용 의복들과 비교해 보았을 때 이 슈트가 인기를 끄는 이유는 단순히 유지관리비가 저렴하다는 것이 주된 이유입니다.\n \n
 		</text>
 	</string>
 
 	<string id="ecologist_guard_outfit_name">
-		<text>ISRIT guard jumpsuit</text>
+		<text>ISRIT 경비용 점프슈트</text>
 	</string>
 	<string id="ecologist_guard_outfit_description">
-		<text>%c[ui_gray_1]A basic suit originally intended as spare equipment for Professor Hermann's "Iskra Scientific Research and Investigation Team", it has since become a relatively cheap protective bodysuit for Ecologist guards working all over the Zone. Boasts more than adequate anomaly protection for its price, but will generally struggle to stop more than a pistol bullet. Most guards will spring for a SEVA or SSP-99M when they can. Those who expect to take part in serious combat actions will rather stick to proper Military combat suits.\n \n
+		<text>%c[ui_gray_1]원래 허먼 교수의 "이스크라 과학 연구 및 조사팀"의 예비용 장비로 고안되었던 기본 의상으로, 지금은 존의 모든 곳에 걸쳐 근무하고 있는 과학자 경비원들이 입는 상대적으로 저렴한 보호용 바디슈트가 되었습니다. 가격에 비해서는 적정 수준보다 더 좋은 이상현상 방호력을 제공하지만, 권총 탄환 수준보다 높은 탄환을 막아내는 데는 어려움이 있습니다. 대부분의 경비원들은 가능하면 SEVA나 SSP-99M 같은 방어구를 구하는 것을 선호합니다. 본격적인 전투 활동에 참가하려는 사람들은 적절한 군용 방탄복을 입는 것이 낫다고 여길 것입니다.\n \n
 		</text>
 	</string>
 
 	<string id="cs_stalker_outfit_name">
-		<text>CS-2b body armour</text>
+		<text>CS-2b 방탄복</text>
 	</string>
 	<string id="cs_stalker_outfit_description">
-		<text>%c[ui_gray_1]Unlike other suits in the CS-1, 2 and 3 series, this body armour was only created after the faction's massive losses at the Chernobyl NPP. It is widely considered to be the first proper successor to the CS-1 suit as it focuses on keeping the wearer safe from anomalous environments over armouring them for battle. Provides adequate physical protection and good environmental resistances.\n \n
+		<text>%c[ui_gray_1]CS-1, 2 그리고 3 계열의 다른 방어구와는 달리, 이 방탄복은 체르노빌 원자력 발전소에서 대부분의 세력 구성원들을 잃고 나서야 만들어졌습니다. 착용자를 이상현상에서 보호하는 것을 총격전에서 보호하는 것보다 우선시하여 제작되었기 때문에 CS-1 방탄복의 첫 후계자로서 널리 여겨지고 있습니다. 적절한 수준의 물리적 방어력과 좋은 수준의 환경 저항력을 제공합니다.\n \n
 		</text>
 	</string>
 
@@ -707,7 +707,7 @@
 		<text>Mercenary STS-N body armour</text>
 	</string>
 	<string id="merc_nighthunter_outfit_description">
-		<text>%c[ui_gray_1]Sometimes nicknamed the "Nighthunter", this outfit is a slightly heavy special tactical suit, used by Mercenaries in both nocturnal and urban combat scenarios. In terms of design and performance, it strikes a good balance between typical Spetsnaz armour and a common stalker suit. It possesses more than adequate protection for skirmishes, but is generally considered mediocre by those who prefer artefact hunting contracts over fulfilling hit jobs. \n \n
+		<text>%c[ui_gray_1]Sometimes nicknamed the "Nighthunter", this outfit is a slightly heavy special tactical suit, used by Mercenaries in both nocturnal and urban combat scenarios. In terms of design and performance, it strikes a good balance between typical Spetsnaz armour and a common 스토커 슈트. It possesses more than adequate protection for skirmishes, but is generally considered mediocre by those who prefer artefact hunting contracts over fulfilling hit jobs. \n \n
 		</text>
 	</string>
 
@@ -913,7 +913,7 @@
 		<text>PS5-M universal protection</text>
 	</string>
 	<string id="dolg_outfit_description">
-		<text>%c[ui_gray_1]This old version of the Duty bodysuit is better suited for recruits who may prefer the familiarity of stalker suits over frontline battle armour. Unlike the PSZ series, the suit provides reasonable protection against anomalies while also being capable of stopping a pistol bullet.\n \n
+		<text>%c[ui_gray_1]This old version of the Duty bodysuit is better suited for recruits who may prefer the familiarity of 스토커 슈트s over frontline battle armour. Unlike the PSZ series, the suit provides reasonable protection against anomalies while also being capable of stopping a pistol bullet.\n \n
 		</text>
 	</string>
 	
@@ -937,7 +937,7 @@
 		<text>Sentinel of Freedom</text>
 	</string>
 	<string id="svoboda_heavy_outfit_2_description">
-		<text>%c[ui_gray_1]An aged, slightly heavier stalker bodysuit made long ago by Freedom craftsmen. Although the suit has obviously acquired some wear and tear in places, it's roughly on par with most other basic stalker suits even today. Found semi-regularly on Freedom veterans. That said, younger Freedomers will pay through the nose to acquire one of these outfits, simply because of the amazing stories these venerable suits have acquired over the years.\n \n
+		<text>%c[ui_gray_1]An aged, slightly heavier stalker bodysuit made long ago by Freedom craftsmen. Although the suit has obviously acquired some wear and tear in places, it's roughly on par with most other basic 스토커 슈트s even today. Found semi-regularly on Freedom veterans. That said, younger Freedomers will pay through the nose to acquire one of these outfits, simply because of the amazing stories these venerable suits have acquired over the years.\n \n
 		</text>
 	</string>
 	
@@ -1013,7 +1013,7 @@
 		<text>SEVA bodysuit</text>
 	</string>
 	<string id="scientific_outfit_description">
-		<text>%c[ui_gray_1]This suit was produced by one of Kiev's defence research institutes and represents an excellent alternative to hand-made stalker suits. It combines a closed cycle breathing system and an integrated system of anomalous field suppression with a more than adequate ballistic vest. Due to the perfect materials, this suit is a good choice. Still, it is expensive, and those who prefer pitched battle over careful anomaly investigation are advised to look elsewhere.\n \n
+		<text>%c[ui_gray_1]This suit was produced by one of Kiev's defence research institutes and represents an excellent alternative to hand-made 스토커 슈트s. It combines a closed cycle breathing system and an integrated system of anomalous field suppression with a more than adequate ballistic vest. Due to the perfect materials, this suit is a good choice. Still, it is expensive, and those who prefer pitched battle over careful anomaly investigation are advised to look elsewhere.\n \n
 		</text>
 	</string>
 
