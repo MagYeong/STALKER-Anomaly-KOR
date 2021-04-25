@@ -170,7 +170,7 @@
 		<text>ACH-7 방탄모 세트</text>
 	</string>
 	<string id="helm_ach7_descr">
-		<text>%c[ui_gray_1]ACH-7 (Advanced Compound Headgear - 고급 합성 방탄모, 7부품 구성)은 보급용 강철 방탄모를 더욱 현대식으로 개량한 물건입니다. 파편을 막아내는 능력을 근소하게 개선했습니다. 하지만, 이 물건의 진가는 바로 생각보다 적은 가격으로 놀라울 정도의 정신파 방호력을 갖출 수 있다는 점이 있습니다. 그렇긴 하지만, 호흡 장치가 없다는 점은 존의 전반적인 환경에 대비하기에는 극도로 좋지 않은 선택이 된다는 것을 의미하고, 주로 스토커 경력이 얼마 안 되었음에도 정신파 이상현상을 탐사하려 할 정도로 용감한 초짜들이나 사는 물건이 되었습니다.\n \n
+		<text>%c[ui_gray_1]ACH-7 (Advanced Compound Headgear - 7부품 구성)은 보급용 강철 방탄모를 더욱 현대식으로 개량한 물건입니다. 파편을 막아내는 능력을 근소하게 개선했습니다. 하지만, 이 물건의 진가는 바로 생각보다 적은 가격으로 놀라울 정도의 정신파 방호력을 갖출 수 있다는 점이 있습니다. 그렇긴 하지만, 호흡 장치가 없다는 점은 존의 전반적인 환경에 대비하기에는 극도로 좋지 않은 선택이 된다는 것을 의미하고, 주로 스토커 경력이 얼마 안 되었음에도 정신파 이상현상을 탐사하려 할 정도로 용감한 초짜들이나 사는 물건이 되었습니다.\n \n
 		</text>
 	</string>
 	
@@ -805,47 +805,47 @@
 		<text>이리 플랙 아머</text>
 	</string>
 	<string id="greh_armored_outfit_description">
-		<text>%c[ui_gray_1]A comfortable and ergonomic arming suit used to outfit Sin's followers en masse. It consists of a ballistic vest over an environmental bodysuit. Providing passable protection from anomalies and good protection from gunfire, these suits do a good job fortifying the already durable warriors of Sin.\n \n
+		<text>%c[ui_gray_1]씬의 추종자들을 대량으로 무장시키는 데 사용되는 편안하고 인체공학적인 전투복입니다. 환경 방호용 바디슈트 위에 방탄 조끼가 걸쳐진 형태로 구성되어 있습니다. 이상현상에 대해 나쁘지 않은 방호력을 제공하며 총격전에서는 좋은 방어력을 갖추고 있어, 이미 단련되어 있는 씬의 전사를 무장시키는 데 충분한 성능을 보여줍니다.\n \n
 		</text>
 	</string>
 	
 	<string id="greh_armored_camo_outfit_name">
-		<text>Vyriy flak armour</text>
+		<text>비리 플랙 아머</text>
 	</string>
 	<string id="greh_armored_camo_outfit_description">
-		<text>%c[ui_gray_1]A more advanced variant of regular Sin flak armour, typically gifted to the faction's more loyal and devout members. Compared to its more standard counterpart, this suit provides increased protection from anomalies in addition to fortifying the wearer's strength beyond its often already considerable limits.\n \n
+		<text>%c[ui_gray_1]표준 씬 플랙 아머의 더욱 진보된 개량형으로, 주로 세력의 좀 더 충성스럽고 헌신적인 구성원들에게 수여됩니다. 표준형에 비해서, 이상현상에 대해 높아진 보호력을 제공하며 착용자의 힘을 이미 감당하고있는 수준을 상당히 넘어서는 정도로 강화해 줍니다.\n \n
 		</text>
 	</string>
 
 	<string id="dolg_voin_outfit_name">
-		<text>PS6-V warrior suit</text>
+		<text>PS6-V 워리어 슈트</text>
 	</string>
 	<string id="dolg_voin_outfit_description">
-		<text>%c[ui_gray_1]A modern, updated variant of the original PS5-M universal protection bodysuit. Is more than adequate for all of the Zone's conditions as well as being markedly comfortable for a Duty suit. Originally intended to replace its predecessor entirely, its higher production cost put this goal on hold in the face of Duty's multitude of recent losses.\n \n
+		<text>%c[ui_gray_1]기존 PS5-M 전천후 방호복의 현대적이고 개선된 개량형입니다. 듀티 방어구 치고는 꽤나 편리하며 존의 모든 환경에 대해 적정 수준보다 높은 수준의 방호력을 제공합니다. 본래는 기존 방호복을 완전히 대체하기 위해 고안되었지만, 높은 생산단가로 인해 최근 들어 많은 손실을 직면하게 된 듀티는 이 목표를 보류하게 되었습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="isg_lcs_outfit_name">
-		<text>UNISG LC suit</text>
+		<text>UNISG LC 슈트</text>
 	</string>
 	<string id="isg_lcs_outfit_description">
-		<text>%c[ui_gray_1]A "Light Combat Suit" model adapted for use by UNISG troops. Its design is based on the one used by the special forces of Western armies. Compared to the Mercenary variant, it has better anomaly protection and worse combat protection. Comes with built-in body armour and armour attachment modules, but is mediocre overall outside the most basic of operations within the Zone.\n \n
+		<text>%c[ui_gray_1]UNISG 병사들이 사용하기 위해 만들어진 "경량 전투용 슈트" 입니다. 이 방어구의 디자인은 서구권 군대의 특수부대들이 사용했던 방어구를 기반으로 이루어졌습니다. 용병들이 입는 것과 비교해 보았을 때, 이상현상에 대한 방호력은 좋지만 전투 시의 방어력은 낮습니다. 일체형 방탄복과 부착용 모듈이 포함되어 있지만, 그 외의 전체적인 수준은 존 내부에서 가장 기초적인 수준의 작전을 수행하는 데 있어 평범한 정도에 불과합니다.\n \n
 		</text>
 	</string>
 	
 	<string id="isg_lcs_camo_outfit_name">
-		<text>UNISG LC-C suit</text>
+		<text>UNISG LC-C 슈트</text>
 	</string>
 	<string id="isg_lcs_camo_outfit_description">
-		<text>%c[ui_gray_1]A modified "Light Combat Suit" model adapted for use in the Zone by UNISG troops. Its design is based on the suit used by the special forces of Western armies. Despite its light weight and general comfort, this outfit demonstrates more than adequate protection against anomalies and during gunfights against lightly armed opponents. Sadly, it is not of much help against shrapnel, bludgeoning or stab wounds.\n \n
+		<text>%c[ui_gray_1]UNISG 병사들이 존에서 사용하기 위해 만들어진 개량형 "경량 전투용 슈트" 입니다. 이 방어구의 디자인은 서구권 군대의 특수부대들이 사용했던 방어구를 기반으로 이루어졌습니다. 가벼운 무게와 착용의 편리함에도 불구하고, 이상현상이나 경무장한 상대와의 총격전에 대해 평균 수준보다 나은 보호력을 제공합니다. 안타깝게도, 파편이나 둔기, 찌르는 공격에 대해서는 그다지 도움이 되지 못합니다.\n \n
 		</text>
 	</string>
 	
 	<string id="isg_lcs_urban_outfit_name">
-		<text>UNISG LC-UC suit</text>
+		<text>UNISG LC-UC 슈트</text>
 	</string>
 	<string id="isg_lcs_urban_outfit_description">
-		<text>%c[ui_gray_1]A modified "Light Combat Suit" model adapted for use in battle by UNISG troops. Its design is based on the suit used by the special forces of Western armies. Compares favourably in combat compared to many other outfits in its class, but still falls short of what a Spetsnaz operator would be wearing. Not recommended for use in areas of high anomalous or radiological activity.\n \n
+		<text>%c[ui_gray_1]UNISG 병사들이 전투 상황에서 사용하기 적합하도록 만들어진 개량형 "경량 전투용 슈트" 입니다. 이 방어구의 디자인은 서구권 군대의 특수부대들이 사용했던 방어구를 기반으로 이루어졌습니다. 동급의 수많은 다른 방어구들에 비교했을 때 전투 상황에서 좋은 성능을 보여주지만, 스페츠나츠 대원들이 입을만한 수준에는 여전히 미달합니다. 이상현상이나 방사능 누출이 심한 지역에서는 착용을 권장하지 않습니다.\n \n
 		</text>
 	</string>
 
