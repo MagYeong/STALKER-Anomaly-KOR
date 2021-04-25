@@ -746,63 +746,63 @@
 	</string>
 	
 	<string id="merc_fighter_outfit_name">
-		<text>Mercenary LC-F suit</text>
+		<text>용병 LC-F 슈트</text>
 	</string>
 	<string id="merc_fighter_outfit_description">
-		<text>%c[ui_gray_1]Sometimes bitterly referred to as the "Fighter" by sarcastic Mercenaries, this suit is a variation of the standard LC outfit that has sacrificed a great deal of protection for increased mobility, better thermal protection and a belt slot for artefacts. It can perform surprisingly well in operations where stealth and speed are imperative, and thus finds limited used among Merc scouts and hitmen who operate in the less irradiated parts of the Zone.\n \n
+		<text>%c[ui_gray_1]가끔씩 냉소적인 용병들에 의해 "파이터" 라는 이름으로 씁쓸하게 일컬어지는 이 방어구는 표준적인 경량 전투복의 일종으로 높은 기동성, 좋은 열 방호력과 아티팩트를 거는 벨트 거치대를 추가하는 대가로 상당 수준의 방어력을 희생시킨 슈트입니다. 은신 능력과 속도가 필요한 작전에서는 놀라울 정도로 좋은 성능을 보여주며, 이러한 이유로 존의 방사능이 적은 지역에서 일하는 용병 정찰병이나 살인 청부업자들에 의해 제한적으로 사용됩니다.\n \n
 		</text>
 	</string>
 
 	<string id="banditmerc_outfit_name">
-		<text>Fenced LC suit</text>
+		<text>도둑질된 LC 슈트</text>
 	</string>
 	<string id="banditmerc_outfit_description">
-		<text>%c[ui_gray_1]A light combat suit obtained through shady means to help armour local Bandit gangs. Its design is based on the suit used by the special forces of Western armies. In a twist of dramatic irony, however, it appears whoever supplied these suits was ripping his customers off. This outfit's overall protection is extremely poor for the Zone's conditions and is significantly worse than the Light Combat suits used by the Zone's Mercenaries. Still, it is at least comfortable to wear, and arguably better than what Ukraine's conscripts get. Arguably.\n \n
+		<text>%c[ui_gray_1]존에 있는 밴딧 무리들이 착용하기 위해 비열한 수단을 통해 얻어진 경량 전투용 슈트입니다. 이 방어구의 디자인은 서구권 군대의 특수부대들이 사용했던 방어구를 기반으로 이루어졌습니다. 하지만, 엄청나게 아이러니한 사실은, 바로 이러한 슈트를 공급하는 누군가 또한 고객들을 등쳐먹었다는 사실이 밝혀졌다는 것입니다. 이 전투복의 전반적인 방어력은 존의 환경을 고려했을 때 극도로 낮은 수준이며 존에 있는 용병들이 사용하는 경량 전투용 슈트에 비해서도 현저히 떨어지는 수준입니다. 하지만, 최소한 입기에 편하다는 건 사실이며, 우크라이나 징집병들이 입는 옷에 비하면 아마도 더 나을 겁니다. 아마도요.\n \n
 		</text>
 	</string>
 	
 	<string id="renegademerc_outfit_name">
-		<text>Renegade LC suit</text>
+		<text>레니게이드 LC 슈트</text>
 	</string>
 	<string id="renegademerc_outfit_description">
-		<text>%c[ui_gray_1]A light combat suit obtained through shady means to help armour local groups of Renegades. Its design is based on the suit used by the special forces of Western armies. Surprisingly pleasant to wear, this outfit provides more than adequate protection from small arms, lacerations and errant shrapnel. Still, it is not really intended for use in areas of high radiological or anomalous activity, and as such few wearers will be found deep in the Zone with any regularity.\n \n
+		<text>%c[ui_gray_1]존에 있는 레니게이드 무리들이 착용하기 위해 비열한 수단을 통해 얻어진 경량 전투용 슈트입니다. 이 방어구의 디자인은 서구권 군대의 특수부대들이 사용했던 방어구를 기반으로 이루어졌습니다. 놀라울 정도로 입고 다니기 편리하며, 소형 화기와 열상 그리고 도비된 파편에 대해 적정 수준보다 높은 방어력을 제공합니다. 하지만, 높은 방사능이 검출되거나 이상현상 활동이 활발한 지역에서 사용하도록 고안된 것은 결코 아니므로, 이걸 입은 채로 존의 깊은 곳에서 발견되는 착용자는 어느 시점이든 거의 없습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="merc_sunset_outfit_name">
-		<text>Mercenary LCz suit</text>
+		<text>용병 LCz 슈트</text>
 	</string>
 	<string id="merc_sunset_outfit_description">
-		<text>%c[ui_gray_1]A Mercenary Light Combat Suit modified for better use in the Zone. Possessing overall improvements over the standard LC suit across the board, it is generally considered more than adequate for light combat engagements, but a little uncomfortable to use in anomalous areas. Still, this suit is a genuine improvement all around for most newer Mercenaries, and - for general use - is not a bad alternative to the faction's special tactical suits.\n \n
+		<text>%c[ui_gray_1]존에서 사용하는 데 더욱 적합하도록 개량된 용병 전용 경량 전투용 슈트입니다. 경계 너머 존재하는 표준형 LC 슈트에 비해 전체적으로 개선되었으며, 약한 수준의 교전 상황에서는 보통 적정 수준보다 높은 성능을 보이지만, 이상현상 지역에서 사용하기에는 조금 불편한 점이 있습니다. 그래도, 이 방어구는 대부분의 신입 용병들 사이에서는 상당히 개선된 방어구로 여겨지며, 일반적인 용도로는 용병 세력의 특수 전술형 슈트의 나쁘지 않은 대안이 될 수 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="merc_scout_outfit_name">
-		<text>Mercenary LC-S suit</text>
+		<text>용병 LC-S 슈트</text>
 	</string>
 	<string id="merc_scout_outfit_description">
-		<text>%c[ui_gray_1]Nicknamed the "Scout", this outfit is, essentially, an LC-F suit modified to fill a more specialized niche. While a little heavier and less protective in combat than an LC-F, it is still a very comfortable suit. A cheap source of environmental protection, this suit's modifications make it a good choice for Mercenaries who want to explore the Zone's anomalies on a budget.\n \n
+		<text>%c[ui_gray_1]"스카웃" 이라는 별명이 붙은 이 방어구는, 근본적으로, 좀 더 특화된 부분을 채우기 위해 개조된 LC-F 슈트입니다. LC-F 슈트보다 좀 더 무겁고 전투 상황에서 더 낮은 방어력을 가졌지만, 여전히 입고 다니기 편리한 방어구입니다. 환경 보호력을 제공하는 저렴한 수단으로서, 적은 비용으로 존의 이상현상을 탐험하려는 용병들에게 좋은 선택이 될 수 있습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="merc_jackal_outfit_name">
-		<text>Mercenary LTS-J body suit</text>
+		<text>용병 LTS-J 바디슈트</text>
 	</string>
 	<string id="merc_jackal_outfit_description">
-		<text>%c[ui_gray_1]A light tactical suit, nicknamed "Jackal" after the now dead Merc leader who was assigned to crack open a laboratory named X-8 over six years ago. This outfit provides more-or-less adequate protection from the Zone's dangers, but what sets it apart is how marvellously comfortable it is on top of possessing a fairly sophisticated weight distribution system. This, on top of a relatively affordable price, makes it a favourite among slightly more experienced Mercenaries.\n \n
+		<text>%c[ui_gray_1]6년 전 X-8이라는 이름의 한 연구 시설을 돌파하는 적전에 참가했던, 이제는 고인이 된 용병 지도자인 "자칼" 의 이름이 붙여진 경량 전술형 슈트입니다. 이 방어구는 존의 위협으로부터 적정 수준보다 높거나 낮은 보호 능력을 가졌지만, 상당히 정교한 무게 분산 시스템을 탑재하고 있어 착용 시 경이로울 정도로 편리하다는 점으로 인해 차별화를 갖습니다. 상대적으로 감당할 만한 수준의 가격을 가졌기 때문에, 조금 더 경험을 쌓은 용병들에게 인기가 있습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="merc_coyote_outfit_name">
-		<text>Mercenary MTS-C body suit</text>
+		<text>용병 MTS-C 바디슈트</text>
 	</string>
 	<string id="merc_coyote_outfit_description">
-		<text>%c[ui_gray_1]A medium tactical suit, nicknamed the "Coyote". Widely considered the successor of the LTS-J body suit, this outfit boasts better physical protection on top of an even better weight distribution system. Naturally, its price is higher than that of its predecessor, but this won't stop most Mercs from springing for it when they are able.\n \n
+		<text>%c[ui_gray_1]"코요테" 라는 별명이 붙은 중형 전술형 슈트입니다. LTS-J 바디슈트의 후속작으로 널리 여겨지고 있으며, 더 나은 물리 방어력과 함께 더욱 뛰어난 무게 분산 시스템을 자랑합니다. 물론, 전신에 비해서 가격이 비싸긴 하지만, 그러한 사실이 용병들로 하여금 여유가 될 때 이 방어구로 갈아타려는 일을 막지는 못합니다.\n \n
 		</text>
 	</string>
 
 	<string id="greh_armored_outfit_name">
-		<text>Irij flak armour</text>
+		<text>이리 플랙 아머</text>
 	</string>
 	<string id="greh_armored_outfit_description">
 		<text>%c[ui_gray_1]A comfortable and ergonomic arming suit used to outfit Sin's followers en masse. It consists of a ballistic vest over an environmental bodysuit. Providing passable protection from anomalies and good protection from gunfire, these suits do a good job fortifying the already durable warriors of Sin.\n \n
