@@ -852,34 +852,34 @@
 
 <!-- Berill-5M Armoured Suits -->
 	<string id="army_outfit_name">
-		<text>Military service outfit</text>
+		<text>군복</text>
 	</string>
 	<string id="army_outfit_description">
-		<text>A poor protective outfit contracted by government bureaucrats outsourcing to the lowest bidder. Typically issued to helicopter pilots, tank drivers, rear-echelon personnel, conscripts and enlisted servicemen. Provides adequate protection from small mutants. Although its overall combat protection is better than the leather jackets commonly found on the rookies of other factions, that really isn't saying much.\n \n
+		<text>정부 관료들이 가장 낮은 가격을 부른 입찰 기업에 외주를 맡겨 제작된 방어력이 형편없는 의류입니다. 주로 헬리콥터 파일럿, 전차 운전수, 후방 복무병, 징집병 그리고 현역 장병들에게 지급됩니다. 소형 뮤턴트들에 대해서 적정 수준의 방어력을 제공합니다. 전반적인 전투시 방어력은 다른 세력의 초짜들이 주로 입는 가죽 재킷보다는 낫지만, 그다지 큰 차이는 없습니다.\n \n
 		</text>
 	</string>
 
 	<string id="specops_outfit_name">
-		<text>Berill-5M armoured suit</text>
+		<text>베릴-5M 장갑 방탄복</text>
 	</string>
 	<string id="specops_outfit_description">
-		<text>%c[ui_gray_1]This item comprises military PS5 series body armour with beryllium sputter modified for use in the Zone. Designed for intense rapid-insertion assault operations, this outfit is standard issue for most Spetsnaz operators in the Zone, but requires a high quality respirator to counteract its weaknesses against radiation and anomalies. Occasionally, this suit will be sold to ordinary stalkers in exchange for various "favours".\n \n
+		<text>%c[ui_gray_1]이 물건은 존에서의 사용을 위해 개량된 베릴륨 스퍼터가 장착된 군용 PS5 계열의 방탄복으로 통칭됩니다. 격렬한 수준의 긴급투입 돌격 작전을 수행하기 위해 디자인되었으며, 존에서 활동하는 대부분의 스페츠나츠 대원들의 제식 복장으로 채용되었지만, 방사능과 이상현상들에 대해 취약하다는 단점을 보완하기 위해 고품질의 호흡기와 같이 사용해야 합니다. 때때로, 이 방어구는 중립 스토커들에게 다양한 "편의"를 대가로 팔려나가기도 합니다.\n \n
 		</text>
 	</string>
 	
 	<string id="specops_dolg_outfit_name">
-		<text>PS5-B battle armour</text>
+		<text>PS5-B 전투용 방탄복</text>
 	</string>
 	<string id="specops_dolg_outfit_description">
-		<text>%c[ui_gray_1]This item comprises military PS5 series body armour with beryllium sputter modified for use in the Zone. Compared to a standard PS5-M universal protection suit, this outfit is more ergonomic and protective overall, but is slightly less insulated and provides much less defence against heavy impacts, like a poltergeist's telekinetic attack.\n \n
+		<text>%c[ui_gray_1]이 물건은 존에서의 사용을 위해 개량된 베릴륨 스퍼터가 장착된 군용 PS5 계열의 방탄복으로 통칭됩니다. 표준형 PS5-M 전천후 방호복과 비교했을 때, 이 방어구는 좀 더 인체공학적이며 전체적으로 방어도가 향상되었지만, 단열 능력이 약간 떨어지며 폴터가이스트의 염동력 공격처럼 심한 충격에 대해서는 더욱 낮은 수준의 방어력을 보여줍니다.\n \n
 		</text>
 	</string>
 	
 	<string id="specops_merc_outfit_name">
-		<text>Mercenary B-5M armoured suit</text>
+		<text>용병 B-5M 장갑 방탄복</text>
 	</string>
 	<string id="specops_merc_outfit_description">
-		<text>%c[ui_gray_1]Spetsnaz body armour "acquired" and repurposed by the Zone's Mercenaries. Provides good physical protection while also being remarkably comfortable to wear, although its weaknesses against environmental hazards demand it be used alongside a high quality gas mask and helmet. Often worn by Mercenaries who used to work for the SSU.\n \n
+		<text>%c[ui_gray_1]존에 있는 용병들이 "획득"하여 개량한 스페츠나츠 방탄복입니다. 좋은 물리적 방어력을 제공함과 동시에 입기에도 상당히 편리하지만, 환경적 위험성에 취약하기 때문에 고품질의 방독면과 머리 보호구와 함께 사용해야 합니다. SSU의 의뢰를 받고 일하던 용병들이 주로 착용했습니다.\n \n
 		</text>
 	</string>
 	
