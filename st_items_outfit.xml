@@ -887,12 +887,12 @@
 		<text>탈영병의 B-5M 장갑 방탄복</text>
 	</string>
 	<string id="specops_bandit_outfit_description">
-		<text>%c[ui_gray_1]베릴륨 스퍼터가 장착된 PS5 계열의 방탄복으로, 존에 있는 밴딧들이 비열한 수단을 통해 손에 넣었습니다. 방탄복에는 수리할 수 없을 정도로 손상되고 찢겨진 눈에 띄는 흔적이 보이지만, it's still an excellent choice for battle when both protection and mobility is needed. Not really recommended for use near anomalies, however.\n \n
+		<text>%c[ui_gray_1]베릴륨 스퍼터가 장착된 PS5 계열의 방탄복으로, 존에 있는 밴딧들이 비열한 수단을 통해 손에 넣었습니다. 방탄복에는 수리할 수 없을 정도로 손상되고 찢겨진 눈에 띄는 흔적이 보이지만, 그래도 방어력과 기동성 모두 필요한 전투를 준비할 때는 여전히 훌륭한 선택입니다. 하지만, 이상현상 근처에서 입는 것은 추천하지 않습니다.\n \n
 		</text>
 	</string>
 
 	<string id="svoboda_heavy_outfit_name">
-		<text>Guardian of Freedom</text>
+		<text>프리덤의 수호자</text>
 	</string>
 	<string id="svoboda_heavy_outfit_description">
 		<text>%c[ui_gray_1]A set of Spetsnaz body armour that has been "liberated" for use in the Freedom faction. This suit has been treated with "Sovereign", an anomalous compound invented by the faction through trial and error. As such, it provides reasonable protection against the Zone's hazards on top of being a good combat suit. Any Freedomer expected to help defend the Barrier will do their best to get their hands on this suit, or at least something like it.\n \n
