@@ -884,10 +884,10 @@
 	</string>
 	
 	<string id="specops_bandit_outfit_name">
-		<text>Deserter's B-5M armoured suit</text>
+		<text>탈영병의 B-5M 장갑 방탄복</text>
 	</string>
 	<string id="specops_bandit_outfit_description">
-		<text>%c[ui_gray_1]A set of PS5 series body armour with beryllium sputter, acquired through shady means by the Zone's Bandits. Although the suit shows visible signs of irreparable wear and tear, it's still an excellent choice for battle when both protection and mobility is needed. Not really recommended for use near anomalies, however.\n \n
+		<text>%c[ui_gray_1]베릴륨 스퍼터가 장착된 PS5 계열의 방탄복으로, 존에 있는 밴딧들이 비열한 수단을 통해 손에 넣었습니다. 방탄복에는 수리할 수 없을 정도로 손상되고 찢겨진 눈에 띄는 흔적이 보이지만, it's still an excellent choice for battle when both protection and mobility is needed. Not really recommended for use near anomalies, however.\n \n
 		</text>
 	</string>
 
