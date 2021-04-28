@@ -895,38 +895,38 @@
 		<text>프리덤의 수호자</text>
 	</string>
 	<string id="svoboda_heavy_outfit_description">
-		<text>%c[ui_gray_1]A set of Spetsnaz body armour that has been "liberated" for use in the Freedom faction. This suit has been treated with "Sovereign", an anomalous compound invented by the faction through trial and error. As such, it provides reasonable protection against the Zone's hazards on top of being a good combat suit. Any Freedomer expected to help defend the Barrier will do their best to get their hands on this suit, or at least something like it.\n \n
+		<text>%c[ui_gray_1]프리덤 세력에서 사용하기 위해 "해방된" 형태의 스페츠나츠 방탄복 세트입니다. 이 슈트의 옷감은  프리덤이 시행착오를 거쳐 개발해낸 특이한 합성물질인 "소버린"으로 처리되었습니다. 그 결과, 이 방탄복은 전투복으로서 좋은 성능을 보여줌은 물론 존의 위험들에 대해 괜찮은 수준의 방호력을 가지게 되었습니다. 장벽을 수비하려는 모든 프리덤 대원들은 이 방탄복을 얻기 위해 최선을 다할 것이며, 그렇지 않더라도 최소한 비슷한 수준의 방어구라도 얻으려 할 것입니다.\n \n
 		</text>
 	</string>
 
 	<string id="dolg_specops_red_outfit_name">
-		<text>PS5-B2 veteran battlesuit</text>
+		<text>PS5-B2 베테랑 전투복</text>
 	</string>
 	<string id="dolg_specops_red_outfit_description">
-		<text>%c[ui_gray_1]This suit is a set of former Spetsnaz body armour, bolstered with more substantial protection for one's vital organs. An excellent combat bodysuit, although it has an infamous failure rate in areas of extreme anomalous activity. Despite this, Duty's veterans do not shun this suit, claiming you don't need much protection from anomalies once you know how to spot them.\n \n
+		<text>%c[ui_gray_1]이 방어구는 기존의 스페츠나츠 방탄복 세트를 사용한 것으로, 신체의 중요 기관에 대해 좀 더 탄탄한 방어력을 갖습니다. 전투용 방탄복으로는 훌륭하지만, 극심한 이상현상 활동 지역에서는 불명예스러운 수준의 고장율을 보입니다. 그럼에도 불구하고, 듀티의 숙련된 대원들은 이 방어구를 입는 것을 주저하지 않으며, 이상현상을 감지하는 법만 안다면 이상현상에 대한 보호도 그다지 필요하지 않을 것이라 주장합니다.\n \n
 		</text>
 	</string>
 
 
 <!-- PS5-M Universal protection suit -->
 	<string id="dolg_outfit_name">
-		<text>PS5-M universal protection</text>
+		<text>PS5-M 전천후 방호복</text>
 	</string>
 	<string id="dolg_outfit_description">
-		<text>%c[ui_gray_1]This old version of the Duty bodysuit is better suited for recruits who may prefer the familiarity of 스토커 슈트s over frontline battle armour. Unlike the PSZ series, the suit provides reasonable protection against anomalies while also being capable of stopping a pistol bullet.\n \n
+		<text>%c[ui_gray_1]이 오래된 형태의 듀티 방어구는 최전방 전용의 전투용 방탄복보다 익숙한 스토커 슈트를 선호하는 신병들에게 적합한 방어구입니다. PSZ 계열 방어구와는 달리, 이 방어구는 권총탄 수준의 총알을 막아내는 수준의 방어력을 갖춤과 동시에 이상현상에 대해서도 괜찮은 수준의 방호력을 가졌습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="dolg_scout_outfit_name">
-		<text>PS5-R scout vest</text>
+		<text>PS5-R 정찰병 조끼</text>
 	</string>
 	<string id="dolg_scout_outfit_description">
-		<text>%c[ui_gray_1]An old Duty suit that was developed alongside the PS5-M universal protection outfit. This armour was intended to protect Duty scouts in the early days of the Zone's existence. These days, however, the only parts of the Zone left to be explored are far too dangerous for a light bodysuit like this. As such, these suits are mostly retired now, kept in reserve only to outfit Duty recruits in desperate circumstances.\n \n
+		<text>%c[ui_gray_1]PS5-M 전천후 방호복과 함께 개발된 오래된 듀티 방어구입니다. 이 방어구는 존이 생겨난 지 얼마 되지 않았을 때 듀티 정찰병들을 보호하기 위해 고안되었습니다. 하지만, 현재 존에서 아직 탐사되지 못한 지역은 이러한 경량 방어구를 입고 돌아다니기에는 너무나도 위험한 곳만이 남아 있습니다. 결국, 현재 이러한 종류의 방어구들은 대부분 퇴역하였으며, 절망적인 상황이 닥쳤을 때 듀티의 신병들에게 입히기 위한 예비품만이 보관되어 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="dolg_red_outfit_name">
-		<text>PS5-M hunter suit</text>
+		<text>PS5-M 사냥용 슈트</text>
 	</string>
 	<string id="dolg_red_outfit_description">
 		<text>%c[ui_gray_1]A somewhat heavier variant of the PS5-M universal protection suit, specifically designed for Dutyers intending to hunt mutants. A small amount of ballistic protection is sacrificed in favour of much better protection against common mutant attacks, along with greater protection from the environments such mutants are likely to be found in. Compares well even to modern Duty suits.\n \n
