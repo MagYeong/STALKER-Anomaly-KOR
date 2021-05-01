@@ -850,7 +850,7 @@
 	</string>
 
 
-<!-- Berill-5M 장갑 방탄복s -->
+<!-- Berill-5M Armoured Suits -->
 	<string id="army_outfit_name">
 		<text>군복</text>
 	</string>
@@ -908,7 +908,7 @@
 	</string>
 
 
-<!-- PS5-M Universal Protection -->
+<!-- PS5-M Universal protection suit -->
 	<string id="dolg_outfit_name">
 		<text>PS5-M 전천후 방호복</text>
 	</string>
@@ -987,7 +987,7 @@
 		<text>PSZ-9d 방탄복</text>
 	</string>
 	<string id="dolg_heavy_outfit_description">
-		<text>%c[ui_gray_1]키예프에 위치한 방위 연구 시설에서 개발된 이 듀티 방어구의 첫 신품은 기존의 스페츠나츠 PSZ-9 방탄복 세트 자체로부터 영향을 받았고, 존에 맞게 수정된 형태입니다. 이 방어구의 디자인은 그로부터 몇 년에 걸쳐서 지속적으로 개량되었으나, 이상하게도 새로운 디자인을 시도한 적이 한 번도 없습니다. 현재, 이 방어구의 최신식 디자인은 소총탄을 막아낼 능력이 있으며, 존의 무수한 위험에 대해 대체적으로 훌륭한 보호력을 갖춘 형태입니다. 주요한 단점으로는 근본적으로 육중한 형태와 비싼 가격이 있습니다. 이렇게 희귀한 방어구가 무언가 눈에 띄는 방법으로 자신을 증명하지 않은 듀티 대원들에게 지급되는 일은 거의 없습니다. \n \n
+		<text>%c[ui_gray_1]키예프에 위치한 방위 연구 시설에서 개발된 이 듀티 방어구의 첫 신품은 기존의 스페츠나츠 PSZ-9 방탄복 세트 자체로부터 영향을 받았고, 존에 맞게 수정된 형태입니다. 이 방어구의 디자인은 그로부터 몇 년에 걸쳐서 지속적으로 개량되었으나, 이상하게도 새로운 디자인을 시도한 적이 한 번도 없습니다. 현재, 이 방어구의 최신식 디자인은 소총탄을 막아낼 능력이 있으며, 존의 무수한 위험에 대해 대체적으로 훌륭한 보호력을 갖춘 형태입니다. 주요한 단점으로는 근본적으로 육중한 형태와 비싼 가격이 있습니다. 이렇게 희귀한 방어구가 무언가 눈에 띄는 방법으로 자신을 증명한 적이 없는 듀티 대원들에게 지급되는 일은 거의 없습니다. \n \n
 		</text>
 	</string>
 	
@@ -995,15 +995,15 @@
 		<text>PSZ-7p 셸 방탄복</text>
 	</string>
 	<string id="dolg_pantsir_outfit_description">
-		<text>%c[ui_gray_1]An "in-between" suit that is more protective than Duty's regular PS5 전천후 방호복, yet cheaper and easier to produce than a proper set of PSZ-9d body armour. Ideal for skirmishes, it retains the ballistic and thermal protection of a full PSZ suit, but is otherwise inferior under most other circumstances. Still, its relative ease of maintenance and repair is a great boon to Dutyers far away from friendly territory, such as the investigators who venture up into Yanov or beyond. A great suit overall, although it has displayed a high failure rate against electrical accidents, thunderstorms, and poltergeist attacks.\n \n
+		<text>%c[ui_gray_1]셸 방탄복은 "중간 단계의" 방어구로서 듀티의 표준형 PS5 전천후 방호복보다 방어력이 강하지만, PSZ-9d 방탄복 완제품 세트보다 더욱 저렴하고 생산이 쉽습니다. 척후전에 적합하도록 PSZ 슈트 완제품의 방탄 능력 및 열 방호 능력을 유지하였지만, 다른 대부분의 상황에서는 다소 떨어지는 모습을 보입니다. 하지만, 유지보수와 수리가 상대적으로 쉽다는 것은 우호적인 영역에서 멀리 떨어져있는 듀티 대원들, 예를 들면 야노프나 더 먼 지역을 탐험하는 조사단들에게는 엄청난 이점이 됩니다. 전반적으로 훌륭한 성능을 보이는 방어구이지만, 감전 사고, 천둥번개, 그리고 폴터가이스트의 공격에 의해 망가질 확률이 높습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="dolg_heavy_redline_outfit_name">
-		<text>PSZ-9kl command armour</text>
+		<text>PSZ-9kl 지휘용 방탄복</text>
 	</string>
 	<string id="dolg_heavy_redline_outfit_description">
-		<text>%c[ui_gray_1]A variant of the PSZ armour series that sacrifices some anomaly protection for greatly increased safety against explosions and extreme blunt impacts. This suit was a favourite of the late Lieutenant Colonel Shulga, who rarely ventured outside his operational base in Yanov, yet constantly feared assassination at the hands of Freedom. Thus, heavy protection like this fitted his needs perfectly. As fate would have it, he'd instead later be presumed dead after leading a mass assault into Pripyat with his contingent of troops, never to be seen again. It's not uncommon for Duty sympathizers to claim his sacrifice bought the Zone precious time by slowing the Monolith's sudden resurgence, and veteran Dutyers will occasionally wear suits like this to battle in his honour.\n \n
+		<text>%c[ui_gray_1]크게 증가된 폭발 저항력과 매우 강력한 충격 저항력을 갖추는 대가로 일부 이상현상 방호 능력을 희생한 PSZ 방탄복 계열의 방어구입니다. 이 방어구는 고 슐가 중령이 즐겨 입던 것으로, 그는 프리덤의 지속적인 암살 시도에도 불구하고 가끔씩 야노프의 작전 기지 밖으로 탐험을 떠나는 것으로 알려져 있었습니다. 따라서, 이런 종류의 중갑은 그의 취향에 완벽하게 알맞는 방어구였습니다. 불행하게도, 그 대신인지는 몰라도 그는 이후 프리피야트로 그의 분견대를 이끌고 대규모 돌격 작전을 감행한 이후 사실상 사망한 것으로 여겨지게 되었으며, 그 이후 어디에서도 모습을 볼 수 없게 되었습니다. 듀티를 지지하는 자들 사이에서는 그의 희생이 모노리스 군대의 갑작스런 재건을 늦춤으로써 존에 소중한 시간을 벌어주었다는 의견이 드물지 않게 제기되며, 듀티의 숙련병들 또한 그를 기리기 위해 전투 시 종종 이런 종류의 방어구를 입으려 할 것입니다.\n \n
 		</text>
 	</string>
 
