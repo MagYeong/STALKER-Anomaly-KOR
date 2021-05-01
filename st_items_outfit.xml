@@ -975,7 +975,7 @@
 		<text>CS-4b 장갑 방탄복</text>
 	</string>
 	<string id="military_bandit_outfit_name">
-		<text>약탈된 Skat-9 장갑 방탄복</text>
+		<text>약탈된 스카트-9 장갑 방탄복</text>
 	</string>
 	
 	<string id="military_outfit_description">
@@ -1010,23 +1010,23 @@
 
 <!-- Scientific outfits -->
 	<string id="scientific_outfit_name">
-		<text>SEVA bodysuit</text>
+		<text>SEVA 바디슈트</text>
 	</string>
 	<string id="scientific_outfit_description">
-		<text>%c[ui_gray_1]This suit was produced by one of Kiev's defence research institutes and represents an excellent alternative to hand-made 스토커 슈트s. It combines a closed cycle breathing system and an integrated system of anomalous field suppression with a more than adequate ballistic vest. Due to the perfect materials, this suit is a good choice. Still, it is expensive, and those who prefer pitched battle over careful anomaly investigation are advised to look elsewhere.\n \n
+		<text>%c[ui_gray_1]이 방어구는 키예프의 방산 연구 시설들 중 한 곳에서 생산되었고 수제 스토커 슈트의 훌륭한 대안으로 여겨지고 있습니다. 폐쇄 순환 호흡 장치 및 일체형 이상현상 필드 억제 장치와 함께 적정 수준 이상의 방탄 조끼가 결합한 형태입니다. 완벽한 소재로 만들어졌기 때문에, 이 방어구는 좋은 선택입니다. 하지만, 가격이 비싸고, 조심스러운 이상현상 조사보다 격렬한 전투를 선호하는 사람들에게는 다른 방어구를 구하는 것을 추천합니다.\n \n
 		</text>
 	</string>
 
 	<string id="svoboda_scientific_outfit_name">
-		<text>Watchman of Freedom</text>
+		<text>프리덤의 감시자</text>
 	</string>
 	<string id="svoboda_scientific_outfit_description">
-		<text>%c[ui_gray_1]Produced by Freedom craftsmen especially for observing anomalous phenomena in the Zone. The closed system of breathing and special treatment materials provide excellent protection against harmful radiation and anomalous effects. However, the built-in "Sentinel" body armour isn’t the best and can break somewhat easily, so is not suitable for active hostilities.\n \n
+		<text>%c[ui_gray_1]프리덤 기술자들이 존의 이상현상을 관찰하는 것을 주목적으로 하여 제작한 방어구입니다. 폐쇄 순환 호흡 장치와 특수 처리된 소재를 통해 해로운 방사능과 이상현상 효과들에 대해 훌륭한 보호력을 확보하였습니다. 하지만, 동봉된 "파수꾼" 방탄복은 최고의 방어구는 아니며 다소 쉽게 망가질 수 있어, 적대 활동이 활발한 지역에는 적절하지 않습니다.\n \n
 		</text>
 	</string>
 
 	<string id="monolith_scientific_outfit_name">
-		<text>Monolith scientific suit</text>
+		<text>모노리스 과학 연구용 슈트</text>
 	</string>
 	<string id="monolith_scientific_outfit_description">
 		<text>%c[ui_gray_1]The Monolith scientific suit includes a flak vest of unknown origin and also features unique modifications for greater resistance to radiation at the cost of being more vulnerable to psy-fields. The anomaly protection system otherwise matches the SEVA bodysuit. Curiously, according to some legends, these suits are most often worn by the soldiers who defend the Brain Scorcher in Radar, although no one outside the Monolith faction can easily confirm.\n \n
@@ -1034,7 +1034,7 @@
 	</string>
 
 	<string id="cs_scientific_outfit_name">
-		<text>CS-4a SEVA suit</text>
+		<text>CS-4a SEVA 슈트</text>
 	</string>
 	<string id="cs_scientific_outfit_description">
 		<text>%c[ui_gray_1]An unofficial version of the SEVA scientific suit, fresh off the smuggling route. Typically used by exploratory groups of the Clear Sky faction. Offers good protection from radiation, but is otherwise of mediocre quality for a SEVA suit.\n \n
