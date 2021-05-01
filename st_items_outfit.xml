@@ -146,7 +146,7 @@
 		<text>Duty Sphere M12</text>
 	</string>
 	<string id="helm_dolg_battle_descr">
-		<text>%c[ui_gray_1] REMOVED FROM GAME. One of two versions of Sphere M12 used by Duty. This one is more commonly used and improves upon original M12 in terms of physical and psy protection, at cost of slightly increased weight and worse resistance to elements. It is supposed to be worn with PSZ-9d 장갑 방탄복, same as original M12 is worn with the Bulat.\n \n
+		<text>%c[ui_gray_1] REMOVED FROM GAME. One of two versions of Sphere M12 used by Duty. This one is more commonly used and improves upon original M12 in terms of physical and psy protection, at cost of slightly increased weight and worse resistance to elements. It is supposed to be worn with PSZ-9d armoured suit, same as original M12 is worn with the Bulat.\n \n
 		</text>
 	</string>
 	
@@ -250,7 +250,7 @@
 		<text>듀티 스피어 08 크라스니 헬멧</text>
 	</string>
 	<string id="helm_dolg_tactic_red_descr">
-		<text>%c[ui_gray_1] REMOVED FROM GAME. Sphere 08 headgear set modified and used by Duty, usually paired with their version of Berill 장갑 방탄복. Same as the rest of Duty's Krasnyy series gear, this helmet is supposed to serve as a combat gear protecting from both human and mutant threat; it is therefore even more vulnerable to environmental threats than the original, but in turn provides more physical and psy protection. \n \n
+		<text>%c[ui_gray_1] REMOVED FROM GAME. Sphere 08 headgear set modified and used by Duty, usually paired with their version of Berill armoured suit. Same as the rest of Duty's Krasnyy series gear, this helmet is supposed to serve as a combat gear protecting from both human and mutant threat; it is therefore even more vulnerable to environmental threats than the original, but in turn provides more physical and psy protection. \n \n
 		</text>
 	</string>
 
@@ -908,7 +908,7 @@
 	</string>
 
 
-<!-- PS5-M 전천후 방호복 -->
+<!-- PS5-M Universal Protection -->
 	<string id="dolg_outfit_name">
 		<text>PS5-M 전천후 방호복</text>
 	</string>
@@ -958,7 +958,7 @@
 	</string>
 	
 	
-<!-- Skat-9 Military Armored Suits -->
+<!-- Skat-9 Military Armoured Suits -->
 	<string id="military_outfit_name">
 		<text>스카트-9 장갑 방탄복</text>
 	</string>
