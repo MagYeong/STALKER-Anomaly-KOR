@@ -1026,7 +1026,7 @@
 	</string>
 
 	<string id="monolith_scientific_outfit_name">
-		<text>모노리스 과학 연구용 슈트</text>
+		<text>모노리스 과학연구용 슈트</text>
 	</string>
 	<string id="monolith_scientific_outfit_description">
 		<text>%c[ui_gray_1]알 수 없는 경로로 유입된 플랙 조끼가 포함되었으며 정신파 공격에 더 취약해지는 대신 방사능에 대한 방호력을 강화시키는 특별 개조가 이루어진 모노리스 과학연구용 슈트입니다. 다른 종류의 이상현상 보호 체계는 SEVA 바디슈트와 동일한 수준입니다. 이상하게도, 몇몇 전해지는 이야기에 따르면, 이러한 방어구는 레이더 지역의 브레인 스코처를 방어하는 병사들이 가장 많이 입었던 종류였다고 하지만, 모노리스 세력에 소속되지 않은 사람들이 쉽게 확인할 수 있는 이야기는 아닙니다.\n \n
@@ -1037,84 +1037,84 @@
 		<text>CS-4a SEVA 슈트</text>
 	</string>
 	<string id="cs_scientific_outfit_description">
-		<text>%c[ui_gray_1]An unofficial version of the SEVA scientific suit, fresh off the smuggling route. Typically used by exploratory groups of the Clear Sky faction. Offers good protection from radiation, but is otherwise of mediocre quality for a SEVA suit.\n \n
+		<text>%c[ui_gray_1]SEVA 과학연구용 슈트의 비공식적인 개량판으로, 밀수 경로를 통해 유입된 신품입니다. 주로 클리어 스카이 세력의 탐험대에서 사용됩니다. 방사능으로부터 괜찮은 방호력을 제공하지만, 다른 부분에서는 SEVA 슈트와 별다를 것 없는 수준입니다.\n \n
 		</text>
 	</string>
 
 	<string id="cs_scientific_outfit_good_name">
-		<text>CS-4a pathfinder</text>
+		<text>CS-4a 패스파인더 슈트</text>
 	</string>
 	<string id="cs_scientific_outfit_good_description">
-		<text>%c[ui_gray_1]An unofficial version of the SEVA scientific suit that has been extensively improved by Novikov, Clear Sky's resident technician. While a little more flammable than the typical SEVA, and thus a poor choice for thermal anomalies, it provides beyond excellent anomaly protection in all other cases on top of being extremely comfortable to move around in, and as such is in great demand among Clear Sky's more serious researchers.\n \n
+		<text>%c[ui_gray_1]클리어 스카이 소속 기술자인 노비코프에 의해 엄청난 개조가 이루어진 SEVA 과학연구용 슈트의 비공식적인 개량판입니다. 기본형 SEVA 슈트보다 화재에 조금 더 취약해져 고열 이상현상에 대해서는 좋지 못한 선택이 될 수 있지만, 그 이외의 이상현상들에 대해서는 더욱 훌륭한 방호력을 제공함과 동시에 입고 활동하는 데 엄청나게 편리해졌기 때문에, 좀 더 진지한 연구를 수행하려는 클리어 스카이 세력의 과학자들로부터의 수요가 엄청나게 높습니다.\n \n
 		</text>
 	</string>
 
 	<string id="bandit_scientific_outfit_name">
-		<text>Looted SEVA suit</text>
+		<text>약탈된 SEVA 슈트</text>
 	</string>
 	<string id="bandit_scientific_outfit_description">
-		<text>%c[ui_gray_1]Bandits have never been terribly interested in the science and research of anomalous fields, but, nevertheless, they use protective suits such as these to organise ambushes and attacks on stalkers where they are not expected at all: in anomalous fields and radiation pockets. The suit has a closed breathing system and an external insulation coating, which provides good protection against all kinds of anomalous effects. Due to a lack of any protection from physical impacts, the suit provides very low protection from bullets or shrapnel.\n \n
+		<text>%c[ui_gray_1]밴딧은 과학이나 이상현상 연구 따위에 전혀 관심이 없지만, 그럼에도 이런 방호복을 공격대를 조직해 스토커들이 전혀 예상하지 못했던 이상현상 지역이나 방사능 구덩이 같은 곳에서 기습하는데 써먹습니다. 보호복은 폐쇄 호흡 시스템과 외부 단열 코팅이 되어 있어, 모든 종류의 이상현상에 대한 괜찮은 방호력을 제공합니다. 물리적 충격에 대한 방어력이 매우 부족하기 때문에, 총탄이나 파열에 대한 매우 낮은 방어력을 가집니다.\n \n
 		</text>
 	</string>
 
 	<string id="isg_scientific_outfit_name">
-		<text>UNISG SEVA suit</text>
+		<text>UNISG SEVA 슈트</text>
 	</string>
 	<string id="isg_scientific_outfit_description">
-		<text>%c[ui_gray_1]Commissioned by UNISG from one of Kiev's defence research institutes especially for research in the Zone. The closed system of breathing and special treatment materials provide excellent protection against harmful radiation and anomalous effects, even compared to other SEVA suits. However, the built-in body armour isn’t the best and can break somewhat easily, so is not suitable for active hostilities.\n \n
+		<text>%c[ui_gray_1]UNISG의 의뢰를 통해 키예프의 방산 연구 시설들 중 한 곳에서 존에서의 연구를 주목적으로 하여 생산되었습니다. 폐쇄식 호흡 장치와 특별 처리된 물질이 해로운 방사능과 이상현상의 효과를 아주 잘 보호해 주며, 다른 SEVA 슈트와 비교했을 때도 훌륭한 수준입니다. 하지만, 내장된 몸통 보호구는 그다지 튼튼하지 않고 다소 쉽게 부서지기 때문에, 실제 전투에는 적합하지 않습니다.\n \n
 		</text>
 	</string>
 
 	<string id="merc_scientific_outfit_name">
-		<text>Mercenary SEVA suit</text>
+		<text>용병 SEVA 슈트</text>
 	</string>
 	<string id="merc_scientific_outfit_description">
-		<text>%c[ui_gray_1]A variant of the SEVA bodysuit that was commissioned by Mercenaries. A reasonable amount of physical protection was sacrificed for the sake of greater mobility. Used by veteran Mercs hunting artefacts near the centre of the Zone, often accompanied by a group of trusted guards who are more prepared for combat than the wearer. Has excellent anomaly protection overall, even for a SEVA, but suffers a little in thermal and psy anomalies.\n \n
+		<text>%c[ui_gray_1]용병의 의뢰를 받아 생산된 SEVA 바디슈트입니다. 더 좋은 기동성을 위해 상당한 수준의 물리적 방어력이 희생되었습니다. 존의 중심 근방에 있는 아티팩트를 사냥하는 숙련된 용병들이 사용하며, 이들은 주로 자신들보다 전투 준비태세를 더 잘 갖춘 믿을만한 호위병들과 동행합니다. 일반적인 SEVA 슈트보다 전반적으로 더 훌륭한 이상현상 방호력을 갖추었지만, 열 및 정신파 방호력은 약간 떨어집니다.\n \n
 		</text>
 	</string>
 	
 	<string id="merc_combat_scientific_outfit_name">
-		<text>Mercenary pathfinder</text>
+		<text>용병 패스파인더 슈트</text>
 	</string>
 	<string id="merc_combat_scientific_outfit_description">
-		<text>%c[ui_gray_1]As a token of goodwill (and to help cover their research costs), Clear Sky occasionally makes coveted "pathfinder" suits on commission for use among the Zone's Mercenaries. Compared to the average SEVA suit, this model is superior across the board. Compared to the CS-4a pathfinder, this suit has poorer protection against radiation, psy-fields and blunt trauma, but is lighter with generally better protection overall.\n \n
+		<text>%c[ui_gray_1]신뢰의 증표로서 (그리고 연구비를 기부받는 대가로), 클리어 스카이는 종종 존에서 돌아다니는 용병들이 사용하기 위해 스토커들이 탐내는 "패스파인더" 슈트를 만들어 달라는 의뢰를 받곤 합니다. 평균적인 SEVA 슈트와 비교했을 때, 이 모델은 전 영역에 걸쳐 우수합니다. CS-4a 패스파인더 슈트와 비교했을 때, 이 방어구는 방사능이나 정신파 필드, 그리고 타격 피해에 대해 뒤떨어지는 수준의 보호력을 갖추었지만, 더 가볍고 전반적으로 더 좋은 방어력을 갖습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="dolg_scientific_outfit_name">
-		<text>PS5-9Md universal scientific suit</text>
+		<text>PS5-9Md 전천후 과학 연구용 슈트</text>
 	</string>
 	<string id="dolg_scientific_outfit_description">
-		<text>%c[ui_gray_1]A wonderful protective suit for the Zone, mostly appreciated because it combines excellent anomaly protection with more than adequate bullet-proofing qualities. It includes the PS5-M suit, a closed cycle breathing system and an integrated system of anomalous field suppression. Provides greater insulation and protection from blunt trauma than a standard SEVA suit with negligible resulting downsides. \n \n
+		<text>%c[ui_gray_1]존에 존재하는 놀라운 방호복으로, 주로 훌륭한 이상현상 방호력과 함께 적절한 수준보다 더 높은 방탄 능력이 결합되었다는 이유로 선호도가 높습니다. PS5-M 슈트와, 폐쇄 순환 호흡 장치와 일체형 이상현상 필드 억제 장치가 포함되어 있습니다. 표준형 SEVA 슈트에 비해 미미한 단점들을 대가로 더 훌륭한 단열 능력과 타격 피해에 대한 방어력을 제공합니다. \n \n
 		</text>
 	</string>
 	
 	<string id="dolg_scientific_red_outfit_name">
-		<text>PS5-9Md scientific guard suit</text>
+		<text>PS5-9Md 과학 연구용 경비병 슈트</text>
 	</string>
 	<string id="dolg_scientific_red_outfit_description">
-		<text>%c[ui_gray_1]A variant of the Duty scientific suit that has been geared more towards hunting mutants over studying anomalies. Its light weight helps the wearer avoid feeling overburdened, a massive boon against Burers. Decent protection against blunt trauma and fire is naturally helpful against poltergeists. Increased psychic resistance is a must-have for many of the most insidious creatures within the Zone. However, its anti-ballistic/ laceration protection is still roughly what you'd expect from a SEVA, and as such it's not the best choice when fighting bloodsuckers, chimeras or pseudogiants.\n \n
+		<text>%c[ui_gray_1]이상현상 연구 도중에 뮤턴트들을 사냥하는 데 더 초점을 맞추도록 개량된 듀티 과학연구용 슈트입니다. 가벼운 무게는 착용자가 무게에 의해 부담을 느끼는 것을 피하는 데 도움을 주며, 이는 버러들을 상대할 때 큰 이점을 줍니다. 타격 피해와 화염 피해에 대해 괜찮은 수준의 보호력을 제공함으로써 폴터가이스트를 상대할 때 도움을 줄 수 있습니다. 또한 정신파 저항력이 높아짐으로써 존에 있는 가장 악명높은 뮤턴트들 중 다수를 상대하기 위해 필수적인 조건을 갖추게 되었습니다. 하지만, 방탄 능력과 파열 저항력은 여전히 일반적인 SEVA 슈트에서 기대할 만한 수준보다 높지 않으므로, 블러드써커나, 키메라 혹은 사칭거인들을 상대로 싸울 때는 그다지 더 좋은 선택은 아닙니다.\n \n
 		</text>
 	</string>
 	
 	<string id="dolg_scientific_wood_outfit_name">
-		<text>PS5-9Md pathfinder</text>
+		<text>PS5-9Md 패스파인더 슈트</text>
 	</string>
 	<string id="dolg_scientific_wood_outfit_description">
-		<text>%c[ui_gray_1]As a token of goodwill (and to help cover their research costs), Clear Sky occasionally makes coveted "pathfinder" suits on commission for use among the Duty faction. Altered according to Duty's needs, this suit has a few differences compared to the CS-4a pathfinder. Namely, radiological protection atrophies for a focus on defence from chemical weapons, electrical insulation is neglected for thermal retardation, and protection from blunt trauma is lowered in favour of greater safety from lacerations. Overall, an excellent and comfortable outfit for Duty's more curious members.\n \n
+		<text>%c[ui_gray_1]신뢰의 증표로서 (그리고 연구비를 기부받는 대가로), 클리어 스카이는 종종 듀티 대원들이 사용하기 위해 스토커들이 탐내는 "패스파인더" 슈트를 만들어 달라는 의뢰를 받곤 합니다. 듀티의 요구에 적합하도록 개량된 이 방어구는 CS-4a 패스파인더 슈트와 비교했을 때 몇 가지 차이점을 갖습니다. 즉, 방사능 방호력은 화학 무기로부터의 방어를 중시하기 위해 약화되었고, 전기 저항력은 열 방호력보다 경시되었으며, 열상에 대해 더 높은 안전을 확보하기 위해 충격 피해 방어력이 낮아졌습니다. 전체적으로, 듀티 세력에서 좀 더 호기심많은 대원들을 위한 훌륭하고 편리한 방어구라 할 수 있습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="bandit_scientific_dark_outfit_name">
-		<text>Patchwork closed cycle apparatus</text>
+		<text>땜질된 폐쇄 순환 장치</text>
 	</string>
 	<string id="bandit_scientific_dark_outfit_description">
-		<text>%c[ui_gray_1]A SEVA-like suit made virtually from scratch by one of the Bandits' gifted craftsmen. Compared to the looted SEVAs that are brought in and restored, this patchwork outfit boasts excellent protection against thermal, chemical, radiological and psychic threats, but is otherwise pretty poor for a suit of its class. Still, it's stylish and comfy as all hell, allowing it to become something of a hit among the smooth criminals who can afford it.\n \n
+		<text>%c[ui_gray_1]아마도 밴딧 세력의 솜씨 좋은 기술자들 중 한 명이 이것저것 기워 만들어낸 듯한 SEVA처럼 생긴 방어구입니다. 밴딧 세력으로 유입되어 복구된 약탈된 SEVA 슈트와 비교했을 때, 이 땜질된 방어구는 열, 화학, 방사능 및 정신 피해로부터 훌륭한 방호력을 제공하지만, 그 이외에는 비슷한 체급의 방어구들에 비해 상당히 떨어지는 수준입니다. 그렇지만, 어쨌든 끝내주게 잘 빠졌고 편리한 방어구인 만큼, 이걸 사 입을 정도로 능숙한 범죄자들에게 상당히 인기가 많습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="renegade_scientific_outfit_name">
-		<text>Renegade SEVA suit</text>
+		<text>레니게이드 SEVA 슈트</text>
 	</string>
 	<string id="renegade_scientific_outfit_description">
 		<text>%c[ui_gray_1]This comfortable bodysuit, originally intended for research in the Zone, makes for a great alternative to the various Light Combat or hand-made suits one might have access to. Provides genuinely excellent protection against thermal and chemical hazards, along with good protection against blunt trauma. Still, for a SEVA suit, this armour is fairly mediocre overall.\n \n
