@@ -1117,31 +1117,31 @@
 		<text>레니게이드 SEVA 슈트</text>
 	</string>
 	<string id="renegade_scientific_outfit_description">
-		<text>%c[ui_gray_1]This comfortable bodysuit, originally intended for research in the Zone, makes for a great alternative to the various Light Combat or hand-made suits one might have access to. Provides genuinely excellent protection against thermal and chemical hazards, along with good protection against blunt trauma. Still, for a SEVA suit, this armour is fairly mediocre overall.\n \n
+		<text>%c[ui_gray_1]이 편리한 바디슈트는 원래 존에서의 연구를 위해 만들어졌으며, 다양한 경량 전투용 슈트나 존에서 이용할 만한 수제 스토커 슈트들의 좋은 대안이 될 수 있습니다. 열과 화학적 위험에 대해 아주 훌륭한 보호를 제공하며, 타격 피해에 대해서도 좋은 방어력을 갖습니다. 물론, SEVA 슈트와 비교했을 때는 전반적으로 그다지 나은 부분이 없습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="merc_scientific_armored_outfit_name">
-		<text>Mercenary SEVA body armour</text>
+		<text>용병 SEVA 방탄복</text>
 	</string>
 	<string id="merc_scientific_armored_outfit_description">
-		<text>%c[ui_gray_1]A variant of the SEVA bodysuit that was commissioned by Mercenaries. Some of its environmental protection systems were stripped down to make room for armoured plates that wouldn't impede mobility. Used by veteran Mercs who are expected to guide researchers and artefact hunters in the more dangerous parts of the Zone. Has good physical, thermal and chemical protection for a SEVA, but there definitely are better choices when diving into other anomaly types.\n \n
+		<text>%c[ui_gray_1]용병들이 주문한 SEVA 바디슈트의 일종입니다. 환경요소 방호용 장치들 중 일부는 기동성을 저해하지 않고 장갑판을 부착할 여유를 만들기 위해 제거되었습니다. 존의 더욱 위험한 지역으로 연구원들이나 아티팩트 사냥꾼들을 안내하려는 숙련된 용병들이 사용합니다. SEVA 슈트보다 더 좋은 물리, 열 그리고 화학적 보호력을 갖추었지만, 그 외의 이상현상으로 뛰어들어가기에는 더 좋은 대체재가 확실히 존재할 것입니다.\n \n
 		</text>
 	</string>
 
 	<string id="monolith_scientific_light_outfit_name">
-		<text>Monolith patchwork science suit</text>
+		<text>모노리스의 땜질된 과학 슈트</text>
 	</string>
 	<string id="monolith_scientific_light_outfit_description">
-		<text>%c[ui_gray_1]A SEVA-like suit made virtually from scratch by an unknown craftsman. Compared to an ordinary Monolith scientific suit, this outfit is lighter and provides better protection from both thermal and chemical burns. Other than that, however, it's outright worse. It is unknown what role this suit fills within the Monolith faction as a whole, although it's been speculated that it's purpose is largely ceremonial.\n \n
+		<text>%c[ui_gray_1]신원 불명의 기술자가 이것저것 기워 만들어낸 듯한 SEVA처럼 생긴 방어구입니다. 기존의 모노리스 과학연구용 슈트와 비교했을 때, 이 방어구는 더 가볍고 열과 화학적 화상에 대해 더 좋은 보호를 제공합니다. 하지만, 그 이외의 경우에는 완전히 뒤떨어지는 수준입니다. 아직 모노리스 세력 전체에서 이 방어구가 어떤 역할을 수행하는지에 대해서 확실히 알려진 것은 없지만, 대부분 의례적인 목적으로 사용되고 있을 거라고 추측되고 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="ace_outfit_name">
-		<text>Mercenary ACE scientific suit</text>
+		<text>용병 ACE 과학 연구용 슈트</text>
 	</string>
 	<string id="ace_outfit_description">
-		<text>%c[ui_gray_1]One of the most technologically advanced bodysuits in the Zone, if not the most advanced. The ACE is a masterpiece of Zone outfit design; not only does it protect from rifle bullets, but it also provides great environmental protection. The suit is also built in a way that allows for a great number of high-tech upgrades that increase the wearer's chance of survival even further, on top of allowing extreme comfort through smart selectively permeable materials. The suit is used by highly experienced and wealthy Mercenaries on high-risk contracts, particularly in areas such as the Red Forest, where they would need to be ready for anything.\n \n
+		<text>%c[ui_gray_1]가장 최고의 수준은 아니지만, 존에 있는 최고로 기술적으로 진보된 방어구들 중 하나입니다. ACE 슈트는 존의 방어구 디자인의 걸작 그 자체입니다. 소총탄을 막아낼 수 있는 방탄 능력 뿐만 아니라, 훌륭한 환경 방호력까지 갖추었습니다. 또한 다수의 하이테크 개조가 가능하도록 제작되어 착용자의 생존 확률을 더 높여줄 수 있으며, 거기에 더해 특별히 선택된 통기성 소재를 사용하여 극한의 편의성을 추구하였습니다. 이 슈트는 경험이 많고 부유한 용병들이 특히 어떠한 상황이라도 대비해야만 하는 붉은 숲에서의 계약과 같이, 위험성이 높은 계약을 맺을 때 사용합니다.\n \n
 		</text>
 	</string>
 
