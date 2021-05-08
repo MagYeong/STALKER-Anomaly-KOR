@@ -1434,47 +1434,47 @@
 	
 <!-- Exoskeletons -->
 	<string id="exo_outfit_name">
-		<text>Exoskeleton</text>
+		<text>외골격</text>
 	</string>
 	<string id="exo_outfit_description">
-		<text>%c[ui_gray_1]An experimental sample of a military exoskeleton. Was never mass-produced due to extraordinary cost and some design flaws. Despite this, it is in demand due to its ability to take on the weight of all carried equipment, and therefore small batches are made in underground facilities outside Ukraine. Consists of a three-part exosuit (tactical helmet, tactical vest and a kevlar environmental jumpsuit) fitted with modern powered servos.\n \n
+		<text>%c[ui_gray_1]군용 외골격의 시험용 견본입니다. 천문학적인 비용 문제와 설계 결함으로 인해 대량생산된 적은 없습니다. 그럼에도, 외골격은 많은 장비들의 무게를 감당할 수 있는 능력 덕분에 꾸준한 수요가 있어 왔고, 따라서 소량의 견본들이 우크라이나 바깥쪽의 지하 시설에서 만들어졌습니다. 세 부분으로 구성된 엑소슈트와 (전술 헬멧, 전술 조끼 그리고 케블라 환경방호용 점프슈트) 최신 동력 공급식 보조 제어 장치가 결합되어 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="dolg_exo_outfit_name">
-		<text>PSZ-10d exoskeleton</text>
+		<text>PSZ-10d 외골격</text>
 	</string>
 	<string id="dolg_exo_outfit_description">
-		<text>%c[ui_gray_1]Excellent high-tech armour. Domestically developed by one of the research institutes, specifically for the Duty faction. That said, this armour is slowly being phased out in favour of cheaper, more practical suits, and the few exosuits in active service tend to be in the hands of Duty's oldest veterans. Consists of a three-part exosuit (tactical helmet, tactical vest and a kevlar environmental jumpsuit) fitted with modern powered servos.\n \n
+		<text>%c[ui_gray_1]매우 높은 기술력으로 만든 방어구입니다. 연구 시설중 한 곳에서, 특별히 듀티 세력이 사용할 목적으로 개발하였습니다. 그렇긴 하지만, 이 방어구는 더 저렴하고, 실용적인 방어구들로 점진적으로 교체되어 왔고, 지금은 듀티에서 오랫동안 복무한 숙련자들에 의해 일부 외골격만이 현역으로 착용되고 있습니다. 세 부분으로 구성된 엑소슈트와 (전술 헬멧, 전술 조끼 그리고 케블라 환경방호용 점프슈트) 최신 동력 공급식 보조 제어 장치가 결합되어 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="svoboda_exo_outfit_name">
-		<text>Paragon of Freedom</text>
+		<text>프리덤의 귀감</text>
 	</string>
 	<string id="svoboda_exo_outfit_description">
-		<text>%c[ui_gray_1]Produced by Freedom’s finest artisans. Experimenting with different modifications, after numerous attempts they managed to create a really successful design. While not always the most practical suit to maintain, it is undeniably powerful, and as such is entrusted only to Freedom's finest warriors and guardsmen. Consists of a three-part exosuit (tactical helmet, tactical vest and a kevlar environmental jumpsuit) fitted with modern powered servos. \n \n
+		<text>%c[ui_gray_1]프리덤의 가장 훌륭한 기술자들이 만들었습니다. 기술자들은 다양한 개조를 실험해본 결과, 수많은 시도 끝에 정말로 성공적인 디자인을 만들어내었습니다. 유지보수하기 가장 편한 방어구는 아니지만, 부정할 수 없을 만큼 강력하며, 오직 프리덤에서 가장 훌륭한 솜씨를 가진 전사들이나 호위 병력들에게만 지급됩니다. 세 부분으로 구성된 엑소슈트와 (전술 헬멧, 전술 조끼 그리고 케블라 환경방호용 점프슈트) 최신 동력 공급식 보조 제어 장치가 결합되어 있습니다. \n \n
 		</text>
 	</string>
 
 	<string id="merc_exo_outfit_name">
-		<text>Mercenary exoskeleton</text>
+		<text>용병 외골격</text>
 	</string>
 	<string id="merc_exo_outfit_description">
-		<text>%c[ui_gray_1]An experimental sample of a military exoskeleton of western production for equipping Mercenaries and other armed groups. While not always the most practical suit to maintain in the Zone, it simultaneously allows the wearer to be both heavily armed and extremely well armoured, with enough strength to carry weeks worth of supplies. Most often worn as a morale booster and highly protective utility suit by veteran Mercenary captains expected to lead their men through hellish conditions. Consists of a three-part exosuit (tactical helmet, tactical vest and a kevlar environmental jumpsuit) fitted with modern powered servos.\n \n
+		<text>%c[ui_gray_1]서구권에서 용병이나 다른 무장 단체에게 지급하기 위해 만든 군용 외골격의 시험용 견본입니다. 유지보수하기 가장 편한 방어구는 아니지만, 착용자로 하여금 강력한 공격 수단을 갖춤과 동시에 극한의 방어력을 갖도록 도와주며, 몇 주 동안 사용할 보급품들을 짊어지고 다닐 수 있을 정도의 힘을 제공합니다. 주로 지옥같은 곳으로 대원들을 이끌어야 할 숙련된 용병 지도자가 사기 진작 겸 강력한 방어력을 가진 다목적 방어구를 갖추려는 목적으로 착용합니다. 세 부분으로 구성된 엑소슈트와 (전술 헬멧, 전술 조끼 그리고 케블라 환경방호용 점프슈트) 최신 동력 공급식 보조 제어 장치가 결합되어 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="monolith_exo_outfit_name">
-		<text>Monolith exoskeleton</text>
+		<text>모노리스 외골격</text>
 	</string>
 	<string id="monolith_exo_outfit_description">
-		<text>%c[ui_gray_1]High-tech armour, made on the basis of a military exoskeleton. However, study samples have revealed that its servos are made of alloys and materials unknown to any field of science in any other part of the world. Consists of a three-part exosuit (tactical helmet, tactical vest and an anti-ballistic environmental jumpsuit) fitted with modern, if somewhat alien, powered servos. Wearing this suit feels like being buried under the concrete of the Sarcophagus itself - terrifyingly claustrophobic for most stalkers, but eerily comforting for true servants of the Monolith. \n \n
+		<text>%c[ui_gray_1]군용 외골격을 기반으로 제작된 하이테크 방어구입니다. 하지만, 이 방어구의 견본을 연구한 결과 방어구의 동력 장치가 지금까지 세계의 어떤 과학 분야에서도 알려지지 않은 합금과 소재로 이루어졌다는 사실이 밝혀졌습니다. 세 부분으로 구성된 엑소슈트와 (전술 헬멧, 전술 조끼 그리고 케블라 환경방호용 점프슈트) 현대적인, 아니면 다소 이질적인 동력 공급식 보조 제어 장치가 결합되어 있습니다. 이 방어구를 입는다면 마치 문자 그대로 석관의 콘크리트 밑에 묻혀 있는 듯한 기분을 느끼게 될 겁니다. 대부분의 스토커들에게는 끔찍한 밀실 공포증처럼 다가오겠지만, 모노리스의 진실된 종들에게는 소름끼치도록 편안한 느낌이 될 겁니다. \n \n
 		</text>
 	</string>
 
 	<string id="bandit_exo_outfit_name">
-		<text>Heisted exoskeleton</text>
+		<text>강탈된 외골격</text>
 	</string>
 	<string id="bandit_exo_outfit_description">
 		<text>%c[ui_gray_1]A stolen military exoskeleton customised by outlaws to attack well-guarded facilities and to plunder well-armed stalkers. More martially inclined aspiring Bandit Lords tend to favour this armour, using it as a stark and unquestionable symbol of their strength and authority over lesser criminals. After all, for one to keep wearing such a coveted suit among murderers and thieves, one must by necessity possess great strength and cunning.\n \n
@@ -1482,7 +1482,7 @@
 	</string>
 
 	<string id="military_exo_outfit_name">
-		<text>Military stalker exoskeleton</text>
+		<text>내무군 스토커 외골격</text>
 	</string>
 	<string id="military_exo_outfit_description">
 		<text>%c[ui_gray_1]The official version of a military exoskeleton. Released in limited quantities by special order to the Military Stalkers, who must pay for it themselves. Designed to carry heavy weapons like grenade launchers and machine guns, along with enough ammunition, food and meds to keep the unit supplied for long periods of time. Occasionally fielded in lieu of light vehicles.\n \n
@@ -1490,7 +1490,7 @@
 	</string>
 
 	<string id="cs_exo_outfit_name">
-		<text>CS-5 exoskeleton</text>
+		<text>CS-5 외골격</text>
 	</string>
 	<string id="cs_exo_outfit_description">
 		<text>%c[ui_gray_1]An experimental version of the army exoskeleton smuggled into the Zone from Ukrainian factories before being refurbished by Clear Sky technicians. Generally, suits like these are held in reserve, to be deployed only in times of true crisis. That said, especially trusted comrades and associates of the faction may eventually receive permission to acquire such a suit for their own personal uses, although  not without great cost.\n \n
@@ -1498,7 +1498,7 @@
 	</string>
 
 	<string id="ecolog_exo_outfit_name">
-		<text>Scientific exoskeleton</text>
+		<text>과학 연구용 외골격</text>
 	</string>
 	<string id="ecolog_exo_outfit_description">
 		<text>%c[ui_gray_1]An official version of the military exoskeleton, intended for use by the Ecologists' guards. The suit feels almost impervious to small arms, and its advanced servomotors make it an excellent choice for those in entrenched defensive positions, as it greatly aids in the use of heavy defensive weaponry. When out in the field, wearers of this suit are more commonly used to carrying the ludicrous amount of batteries, LLMCs, AAMs and other supplies an accompanying scientist might need when exploring the Zone.\n \n
@@ -1506,7 +1506,7 @@
 	</string>
 
 	<string id="renegade_exo_outfit_name">
-		<text>Renegade exoskeleton</text>
+		<text>레니게이드 외골격</text>
 	</string>
 	<string id="renegade_exo_outfit_description">
 		<text>%c[ui_gray_1]One of a few exoskeletons assembled by the Renegades back in 2011 to help secure their final push into Clear Sky's base. Unfortunately, they were virtually wiped out before their final victory ever came, thanks to the interference of a Mercenary with a trench coat and a marksman rifle. Modern Renegades who wear this armour always go into battle like a man possessed, eager to mete vengeance upon their most hated foes. That is to say, almost everyone else.\n \n
@@ -1514,7 +1514,7 @@
 	</string>
 
 	<string id="isg_exo_outfit_name">
-		<text>UNISG exoskeleton</text>
+		<text>UNISG 외골격</text>
 	</string>
 	<string id="isg_exo_outfit_description">
 		<text>%c[ui_gray_1]The official version of the UNISG exoskeleton. Released in limited quantities by special order of the United Nations. While it still possesses many of the design flaws of other exoskeletons, it's nonetheless seen as a great alternative to light, command and scout vehicles, which would have great trouble navigating the Zone anyway, and thus is deployed in their stead.\n \n
@@ -1522,7 +1522,7 @@
 	</string>
 	
 	<string id="greh_exo_outfit_name">
-		<text>Vyraj power armour</text>
+		<text>비라이 파워 아머</text>
 	</string>
 	<string id="greh_exo_outfit_description">
 		<text>%c[ui_gray_1]High-tech armour, based on the original experimental military designs. However, as far as anyone can see, its servos are made of alloys and materials unknown to any field of science in any other part of the world. Consists of a three-part exosuit (tactical helmet, tactical vest and an anti-ballistic environmental jumpsuit) fitted with modern, if somewhat alien, powered servos. Wearing this suit creates an unnatural feeling of bliss and calm within the wearer, although whether this sense of security is genuine or not remains to be seen.\n \n
