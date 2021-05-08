@@ -1198,82 +1198,82 @@
 
 <!-- Heavy combat suits -->
 	<string id="exolight_outfit_name">
-		<text>Exosuit</text>
+		<text>엑소슈트</text>
 	</string>
 	<string id="exolight_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. Consists of an integrated tactical helmet, a heavy armoured vest and a reinforced environmental jumpsuit.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 일체형 전술 헬멧, 중장갑 방탄조끼 그리고 강화된 환경 방호용 점프슈트로 구성되어 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="dolg_exolight_outfit_name">
-		<text>PSZ-10d Duty battlesuit</text>
+		<text>PSZ-10d 듀티 배틀슈트</text>
 	</string>
 	<string id="dolg_exolight_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. This suit is typically found in the hands of elite Duty warriors, especially those assigned to guard VIPs or launch exceedingly dangerous raids.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 이 방어구는 정예 듀티 전사들, 특히 중요 인물을 경호하거나 매우 위험한 습격 작전에 참여하는 대원이 주로 착용합니다.\n \n
 		</text>
 	</string>
 
 	<string id="svoboda_exolight_outfit_name">
-		<text>Warrior of Freedom</text>
+		<text>프리덤의 전사</text>
 	</string>
 	<string id="svoboda_exolight_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. Only the most respected members of Freedom will ever be found wearing a suit like this, and even then only in the most dire of need.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 오직 프리덤의 가장 명망높은 대원들만이 이러한 방어구를 착용하며, 그조차 가장 절박한 상황이 닥쳤을 때 뿐입니다.\n \n
 		</text>
 	</string>
 
 	<string id="merc_exolight_outfit_name">
-		<text>Mercenary exosuit</text>
+		<text>용병 엑소슈트</text>
 	</string>
 	<string id="merc_exolight_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. An outfit of choice for the captains and bodyguards of Mercenary companies when actively working out in the field.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 민간 방위업체의 수장이나 그의 경호원들이 현장에서 직접 활동할 때 선택하는 방어구입니다.\n \n
 		</text>
 	</string>
 
 	<string id="bandit_exolight_outfit_name">
-		<text>Looted exosuit</text>
+		<text>약탈된 엑소슈트</text>
 	</string>
 	<string id="bandit_exolight_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. Both imposing and highly intimidating in appearance, this outfit is a favourite among the Zone's most powerful and pitiless outlaws.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 인상적인 동시에 위협적인 외견을 보여주고 있어, 존에서 가장 강력하고 무자비한 무법자들 사이에서 인기가 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="monolith_exolight_outfit_name">
-		<text>Monolith exosuit</text>
+		<text>모노리스 엑소슈트</text>
 	</string>
 	<string id="monolith_exolight_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. A favourite among the Monolith's battle preachers and tactical masters, who claim the confines of the suit to be as comforting as the Sarcophagus itself.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 모노리스의 전투 수사들과 전술 지휘관들 사이에서 인기가 많으며, 이들은 이 방어구의 내부가 석관 그 자체만큼 편안하다고 여깁니다.\n \n
 		</text>
 	</string>
 
 	<string id="military_exolight_outfit_name">
-		<text>Military stalker exosuit</text>
+		<text>내무군 스토커 엑소슈트</text>
 	</string>
 	<string id="military_exolight_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. Considered highly experimental by the Ukrainian government, these suits are never issued to any unit or individual. Thus soldiers - most often Military stalkers and the occasional old veterans - who wish to use such armour must always find and pay for it through their own means.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 우크라이나 정부에서는 이 방어구가 매우 실험적이라고 여겨, 군인들이나 특정 개인에게 지급한 적이 한 번도 없었습니다. 그래서 이 방어구를 사용하려는 군인들, 주로 내무군 스토커들이나 몇몇 오래 복무한 베테랑들은 이 방어구를 눈에 불을 켜고 찾아다니며 각자 활용할 수 있는 어떤 수단을 써서라도 얻고자 합니다.\n \n
 		</text>
 	</string>
 
 	<string id="cs_exolight_outfit_name">
-		<text>CS-5 exosuit</text>
+		<text>CS-5 엑소슈트</text>
 	</string>
 	<string id="cs_exolight_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. These outfits are smuggled in from Ukrainian factories before being refurbished by the faction's head technician.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 이러한 종류의 방어구들은 우크라이나의 공장에서 밀수된 다음 클리어 스카이의 수석 기술자에 의해 개량됩니다.\n \n
 		</text>
 	</string>
 
 	<string id="isg_exolight_outfit_name">
-		<text>UNISG exosuit</text>
+		<text>UNISG 엑소슈트</text>
 	</string>
 	<string id="isg_exolight_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. The UN reserves these suits for only its most successful agents and talented commanders.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. UN에서는 이 방어구를 오직 임무 성공율이 가장 높은 요원들이나 재능있는 지휘관들에게만 지급합니다.\n \n
 		</text>
 	</string>
 	
 	<string id="exo_wood_outfit_name">
-		<text>Woodland exosuit</text>
+		<text>우드랜드 엑소슈트</text>
 	</string>
 	<string id="exo_wood_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. Compared to a standard exosuit, it gives up some combat resistances for greater protection from the environment.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 표준형 엑소슈트와 비교했을 때, 더 뛰어난 환경 방호력을 위해 전투 시 방어력을 일부 포기하였습니다.\n \n
 		</text>
 	</string>
 	
@@ -1281,52 +1281,52 @@
 		<text>Fenced exosuit</text>
 	</string>
 	<string id="bandit_exo_earth_outfit_description">
-		<text>NOT IN GAME. The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. Consists of an integrated tactical helmet, a heavy armoured vest and a reinforced environmental jumpsuit.\n \n
+		<text>NOT IN GAME. 외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. Consists of an integrated tactical helmet, a heavy armoured vest and a reinforced environmental jumpsuit.\n \n
 		</text>
 	</string>
 	
 	<string id="freedom_exo_vineleaf_outfit_name">
-		<text>Hero of Freedom</text>
+		<text>프리덤의 영웅</text>
 	</string>
 	<string id="freedom_exo_vineleaf_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. Quite light and comfortable for a suit of its class, it is also noticeably less protective against shrapnel or chemical weapons.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 동급의 방어구와 비교했을 때 상당히 가볍고 편리하지만, 파편이나 화학 무기에 대해 상당히 낮은 방어력을 갖습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="exo_dolg_outfit_name">
-		<text>PSZ-10d Duty battlesuit</text>
+		<text>PSZ-10d 듀티 배틀슈트</text>
 	</string>
 	<string id="exo_dolg_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. This suit is typically found in the hands of elite Duty warriors, especially those assigned to guard VIPs or launch exceedingly dangerous raids.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 이 방어구는 정예 듀티 전사들, 특히 중요 인물을 경호하거나 매우 위험한 습격 작전에 참여하는 대원이 주로 착용합니다.\n \n
 		</text>
 	</string>
 	
 	<string id="exo_dolg_red_outfit_name">
-		<text>PSZ-10d venator battlesuit</text>
+		<text>PSZ-10d 베나토르 배틀슈트</text>
 	</string>
 	<string id="exo_dolg_red_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. This suit is typically found in the hands of elite Duty huntsmen, who give up anomalous protection in exchange for greater defence against the most dangerous game.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 이 방어구는 정예 듀티 사냥꾼이 주로 착용하며, 매우 위험한 맹수들을 상대하기 위한 더 뛰어난 방어력을 확보하기 위해 이상현상 방호력을 포기한 형태입니다.\n \n
 		</text>
 	</string>
 	
 	<string id="exo_dolg_wood_outfit_name">
-		<text>PSZ-10l forest battlesuit</text>
+		<text>PSZ-10l 삼림 전투용 배틀슈트</text>
 	</string>
 	<string id="exo_dolg_wood_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. This suit is typically found in the hands of elite Duty members, particularly those conducting operations in dangerous anomalous areas like the Red Forest.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 이 방어구는 붉은 숲처럼 위험한 이상현상 지역에서 작전을 수행하려는 정예 듀티 대원들이 주로 착용합니다.\n \n
 		</text>
 	</string>
 	
 	<string id="exo_dolg_urban_outfit_name">
-		<text>PSZ-10g urban battlesuit</text>
+		<text>PSZ-10g 시가전용 배틀슈트</text>
 	</string>
 	<string id="exo_dolg_urban_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. Old and heavy, it's possible that suits like this were used by the Duty faction to raid Pripyat and clash with Freedom back in 2012.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 낡고 육중한 모습으로 미루어볼 때, 이러한 종류의 방어구는 2012년에 듀티 세력에서 프리피야트 습격과 뒤이은 프리덤과의 충돌 당시에 사용되었던 것으로 보입니다.\n \n
 		</text>
 	</string>
 	
 	<string id="exo_merc_outfit_name">
-		<text>Mercenary heavy armour TB-1</text>
+		<text>용병 TB-1 중갑 방탄복</text>
 	</string>
 	<string id="exo_merc_outfit_description">
 		<text>NOT IN GAME. This heavy 장갑 방탄복, known as the TB-1, possesses a high physical protection comparing to the original heavy armours. For all other parameters it’s identical to exoskeleton, except for a slightly less ballistic and rupture protection. Composed of three elements; a tactical helmet, a heavy armoured vest and reinforced jumpsuit. Used by expert Mercenaries on missions in the north, for taking down elite squads of the Monolith. It bears a standard merc dark blue camouflage pattern, suitable for operations in urban environment (or anywhere else, but only at nighttime). \n \n
@@ -1334,26 +1334,26 @@
 	</string>
 	
 	<string id="exo_merc_urban_outfit_name">
-		<text>Mercenary urban exosuit</text>
+		<text>용병 시가전용 엑소슈트</text>
 	</string>
 	<string id="exo_merc_urban_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. An outfit of choice for the captains and bodyguards of Mercenary companies operating in areas like Limansk or Pripyat.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 민간 방위업체의 수장이나 그의 경호원들이 리만스크나 프리피야트 같은 곳에서 임무를 수행할 때 선택하는 방어구입니다.\n \n
 		</text>
 	</string>
 	
 	<string id="exo_merc_wood_outfit_name">
-		<text>Mercenary woodland exosuit</text>
+		<text>용병 삼림 전투용 엑소슈트</text>
 	</string>
 	<string id="exo_merc_wood_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. An outfit of choice for the captains and bodyguards of Mercenary companies operating in combat zones of highly anomalous thermal activity.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 민간 방위업체의 수장이나 그의 경호원들이 높은 수준의 고열 이상현상이 감지되는 전투 지역에서 임무를 수행할 때 선택하는 방어구입니다.\n \n
 		</text>
 	</string>
 	
 	<string id="exo_merc_grass_outfit_name">
-		<text>Mercenary grassland exosuit</text>
+		<text>용병 초지전용 엑소슈트</text>
 	</string>
 	<string id="exo_merc_grass_outfit_description">
-		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. An outfit of choice for the captains and bodyguards of Mercenary companies when actively working out in the field, particularly in areas of high thermal energy.\n \n
+		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 민간 방위업체의 수장이나 그의 경호원들이 현장, 특히 높은 수준의 열 에너지가 존재하는 지역에서 직접 활동할 때 선택하는 방어구입니다.\n \n
 		</text>
 	</string>
 
