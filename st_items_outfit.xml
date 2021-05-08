@@ -1270,7 +1270,7 @@
 	</string>
 	
 	<string id="exo_wood_outfit_name">
-		<text>우드랜드 엑소슈트</text>
+		<text>삼림 전투용 엑소슈트</text>
 	</string>
 	<string id="exo_wood_outfit_description">
 		<text>외골격의 "내복"으로, 가끔 "라드슈트"라고 잘못 알려지기도 합니다. 이 방어구는 완전한 외골격에서 기대할 수 있는 거의 모든 종류의 방어력을 제공하지만, 보조 제어 장치와 배터리가 제거되었기 때문에, 근력 강화 능력은 제공하지 않습니다. 이러한 특징이 가져다주는 긍정적인 측면은, 방어구의 유지보수가 더 쉽다는 점과, 완전한 외골격과는 다르게 착용자가 자유롭게 달릴 수 있다는 점이 있습니다. 표준형 엑소슈트와 비교했을 때, 더 뛰어난 환경 방호력을 위해 전투 시 방어력을 일부 포기하였습니다.\n \n
@@ -1360,74 +1360,74 @@
 
 <!-- Proptotype Exoskeleton -->
 	<string id="stalker_proto_exo_outfit_name">
-		<text>"Sunrise" proto-exoskeleton</text>
+		<text>"선라이즈" 프로토타입 외골격</text>
 	</string>
 	<string id="stalker_proto_exo_outfit_description">
-		<text>%c[ui_gray_1]A stalker bodysuit, specially designed to be fitted with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances, but lacking the armour of a proper exosuit. Compared to a full exoskeleton, it provides less protection and has less efficient servos, but is also considerably cheaper to maintain.\n \n
+		<text>%c[ui_gray_1]스토커 바디슈트를 외골격에 사용되는 보조 제어 장치와 배터리를 사용하도록 특별히 디자인한 형태의 방어구로, 착용자로 하여금 어떠한 상황에서도 원래 감당 가능한 수준보다 더욱 많은 장비들을 짊어질 수 있도록 해주지만, 일반적인 외골격에 있는 장갑판은 없습니다. 완전한 외골격과 비교해 보았을 때, 방어력이 낮고 보조 제어 장치의 효율성이 낮지만, 유지보수가 상당히 저렴합니다.\n \n
 		</text>
 	</string>
 
 	<string id="svoboda_light_proto_exo_outfit_name">
-		<text>Freedom proto-exoskeleton</text>
+		<text>Freedom 프로토타입 외골격</text>
 	</string>
 	<string id="svoboda_light_proto_exo_outfit_description">
-		<text>%c[ui_gray_1]A Wind of Freedom suit that has been specially modified to fit with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances, but lacking the armour of a proper exosuit. Compared to a full exoskeleton, it provides less protection and has less efficient servos, but is also considerably cheaper to maintain.\n \n
+		<text>%c[ui_gray_1]프리덤의 바람 슈트를 외골격에 사용되는 보조 제어 장치와 배터리를 사용하도록 특별히 디자인한 형태의 방어구로, 착용자로 하여금 어떠한 상황에서도 원래 감당 가능한 수준보다 더욱 많은 장비들을 짊어질 수 있도록 해주지만, 일반적인 외골격에 있는 장갑판은 없습니다. 완전한 외골격과 비교해 보았을 때, 방어력이 낮고 보조 제어 장치의 효율성이 낮지만, 유지보수가 상당히 저렴합니다.\n \n
 		</text>
 	</string>
 
 	<string id="dolg_proto_exo_outfit_name">
-		<text>PS5-M proto-exoskeleton</text>
+		<text>PS5-M 프로토타입 외골격</text>
 	</string>
 	<string id="dolg_proto_exo_outfit_description">
-		<text>%c[ui_gray_1]A PS5-M 전천후 방호복 that has been specially modified to fit with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances, but lacking the armour of a proper exosuit. Compared to a full exoskeleton, it provides less protection and has less efficient servos, but is also considerably cheaper to maintain.\n \n
+		<text>%c[ui_gray_1]PS5-M 전천후 방호복을 외골격에 사용되는 보조 제어 장치와 배터리를 사용하도록 특별히 디자인한 형태의 방어구로, 착용자로 하여금 어떠한 상황에서도 원래 감당 가능한 수준보다 더욱 많은 장비들을 짊어질 수 있도록 해주지만, 일반적인 외골격에 있는 장갑판은 없습니다. 완전한 외골격과 비교해 보았을 때, 방어력이 낮고 보조 제어 장치의 효율성이 낮지만, 유지보수가 상당히 저렴합니다.\n \n
 		</text>
 	</string>
 	
 	<string id="dolg_heavy_proto_exo_outfit_name">
-		<text>PSZ-9d proto-exoskeleton</text>
+		<text>PSZ-9d 프로토타입 외골격</text>
 	</string>
 	<string id="dolg_heavy_proto_exo_outfit_description">
-		<text>%c[ui_gray_1]A PSZ-9d 장갑 방탄복 that has been specially modified to fit with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances. Compared to a full exoskeleton, it is similarly, if not more, protective in addition to being significantly more versatile on account of being able to change its headgear. That said, its servos are of an older mark, and thus are notably less efficient.\n \n
+		<text>%c[ui_gray_1]PSZ-9d 장갑 방탄복을 외골격에 사용되는 보조 제어 장치와 배터리를 사용하도록 특별히 디자인한 형태의 방어구로, 착용자로 하여금 어떠한 상황에서도 원래 감당 가능한 수준보다 더욱 많은 장비들을 짊어질 수 있도록 해줍니다. 완전한 외골격과 비교해 보았을 때, 더 낫지는 않지만 비슷한 수준의 방어력을 가지며 머리 보호구를 자유롭게 교체할 수 있다는 점에서 상당히 더 다재다능하다고 할 수 있습니다. 그렇기는 하지만, 보조 제어 장치가 구세대 물건이기 때문에, 눈에 띌 정도로 낮은 효율성을 보여줍니다.\n \n
 		</text>
 	</string>
 
 	<string id="military_proto_exo_outfit_name">
-		<text>Skat-9 proto-exoskeleton</text>
+		<text>스카트-9 프로토타입 외골격</text>
 	</string>
 	<string id="military_proto_exo_outfit_description">
-		<text>%c[ui_gray_1]A Skat-9 장갑 방탄복 that has been specially modified to fit with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances. Compared to a full exoskeleton, it is similarly, if not more, protective in addition to being significantly more versatile on account of being able to change its headgear. That said, its servos are of an older mark, and thus are notably less efficient.\n \n
+		<text>%c[ui_gray_1]스카트-9 장갑 방탄복 외골격에 사용되는 보조 제어 장치와 배터리를 사용하도록 특별히 디자인한 형태의 방어구로, 착용자로 하여금 어떠한 상황에서도 원래 감당 가능한 수준보다 더욱 많은 장비들을 짊어질 수 있도록 해줍니다. 완전한 외골격과 비교해 보았을 때, 더 낫지는 않지만 비슷한 수준의 방어력을 가지며 머리 보호구를 자유롭게 교체할 수 있다는 점에서 상당히 더 다재다능하다고 할 수 있습니다. 그렇기는 하지만, 보조 제어 장치가 구세대 물건이기 때문에, 눈에 띌 정도로 낮은 효율성을 보여줍니다.\n \n
 		</text>
 	</string>
 
 	<string id="monolith_proto_exo_outfit_name">
-		<text>X-18 proto-exoskeleton</text>
+		<text>X-18 프로토타입 외골격</text>
 	</string>
 	<string id="monolith_proto_exo_outfit_description">
-		<text>%c[ui_gray_1]An armour made by either Monolithians or an unknown manufacturer. It has been specially modified to fit with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances, but lacking the armour of a proper exosuit. Compared to a full exoskeleton, it provides less protection and has less efficient servos, but is also considerably cheaper to maintain.\n \n
+		<text>%c[ui_gray_1]모노리스 또는 신원 미상의 생산자에 의해 만들어진 방어구입니다. 외골격에 사용되는 보조 제어 장치와 배터리를 사용하도록 특별히 디자인한 형태의 방어구로, 착용자로 하여금 어떠한 상황에서도 원래 감당 가능한 수준보다 더욱 많은 장비들을 짊어질 수 있도록 해주지만, 일반적인 외골격에 있는 장갑판은 없습니다. 완전한 외골격과 비교해 보았을 때, 방어력이 낮고 보조 제어 장치의 효율성이 낮지만, 유지보수가 상당히 저렴합니다.\n \n
 		</text>
 	</string>
 
 	<string id="cs_stalker_proto_exo_outfit_name">
-		<text>CS-2b proto-exoskeleton</text>
+		<text>CS-2b 프로토타입 외골격</text>
 	</string>
 	<string id="cs_stalker_proto_exo_outfit_description">
-		<text>%c[ui_gray_1]A set of CS-2b body armour that has been specially modified to fit with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances, but lacking the armour of a proper exosuit. Compared to a full exoskeleton, it provides less protection and has less efficient servos, but is also considerably cheaper to maintain.\n \n
+		<text>%c[ui_gray_1]CS-2b 방탄복 한 세트를 외골격에 사용되는 보조 제어 장치와 배터리를 사용하도록 특별히 디자인한 형태의 방어구로, 착용자로 하여금 어떠한 상황에서도 원래 감당 가능한 수준보다 더욱 많은 장비들을 짊어질 수 있도록 해주지만, 일반적인 외골격에 있는 장갑판은 없습니다. 완전한 외골격과 비교해 보았을 때, 방어력이 낮고 보조 제어 장치의 효율성이 낮지만, 유지보수가 상당히 저렴합니다.\n \n
 		</text>
 	</string>
 	
 	<string id="ecolog_proto_exo_outfit_name">
-		<text>Ecologist guard proto-exoskeleton</text>
+		<text>과학자 경호원 전용 프로토타입 외골격</text>
 	</string>
 	<string id="ecolog_proto_exo_outfit_description">
-		<text>%c[ui_gray_1]An Ecologist armoured bodysuit, designed for assault and support operations in anomalous areas. Despite the fact that the body armour cannot provide the necessary protection a full exoskeleton offers, the suit has optimized combat performance. The exo-frames are capable of providing mechanical support for carrying heavy loads, such as large quantities of LLMCs, AAMs and other scientific supplies, making it a great choice to aid researchers during investigative trips inside the Zone.\n \n
+		<text>%c[ui_gray_1]과학자들이 만든 방탄 바디슈트로, 이상현상 지역에서 돌격 및 보조 작전을 수행하기 위해 디자인되었습니다. 방탄복이 완전한 외골격 수준의 방어력을 제공하지는 못하지만, 이 방어구는 최적화된 전투 성능을 갖추었습니다. 외부 프레임은 다수의 LLMC나 AAM, 기타 과학 연구용 보급품 등의 무거운 짐을 나르는 데 기계적으로 보조할 수 있는 능력이 있어, 연구자들이 존의 안쪽으로 연구조사를 떠날 때 도움을 줄 수 있는 훌륭한 선택이 될 수 있습니다.\n \n
 		</text>
 	</string>
 	
 	<string id="isg_proto_exo_outfit_name">
-		<text>UNISG tactical proto-exoskeleton</text>
+		<text>UNISG 전술형 프로토타입 외골격</text>
 	</string>
 	<string id="isg_proto_exo_outfit_description">
-		<text>%c[ui_gray_1]A UN-branded special tactical suit that has been specially modified to fit with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances, but lacking the armour of a proper exosuit. Compared to a full exoskeleton, it provides less protection and has less efficient servos, but is also considerably cheaper to maintain.\n \n
+		<text>%c[ui_gray_1]UN에서 제조한 특수 전술형 슈트를 외골격에 사용되는 보조 제어 장치와 배터리를 사용하도록 특별히 디자인한 형태의 방어구로, 착용자로 하여금 어떠한 상황에서도 원래 감당 가능한 수준보다 더욱 많은 장비들을 짊어질 수 있도록 해주지만, 일반적인 외골격에 있는 장갑판은 없습니다. 완전한 외골격과 비교해 보았을 때, 방어력이 낮고 보조 제어 장치의 효율성이 낮지만, 유지보수가 상당히 저렴합니다.\n \n
 		</text>
 	</string>
 
