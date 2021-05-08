@@ -1148,50 +1148,50 @@
 
 <!-- SSP-99 -->
 	<string id="st_ecologist_outfit_orange_name">
-		<text>SSP-99 Ecologist</text>
+		<text>SSP-99 과학자 슈트</text>
 	</string>
 	<string id="st_ecologist_outfit_orange_description">
-		<text>%c[ui_gray_1]A SSP-99 chemical protection suit specially designed for the Zone conditions. It is used by scientific expeditions and the eco-stalkers who cooperate with them. It has an integrated air-filtering and air-conditioning system. It is heat and electricity resistant, provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments. It is not designed for combat, so it provides neither bullet, nor splinter protection.\n \n
+		<text>%c[ui_gray_1]SSP-99 화학 방호용 슈트는 존의 환경에 맞게 특별히 디자인되었습니다. 과학자 원정대 또는 그들과 협력 관계에 있는 과학자 소속 스토커들이 사용합니다. 일체형 공기 여과 및 정화 시스템을 갖추고 있습니다. 단전 및 단열 기능을 갖추고 있으며, 방사능과 화학 이상현상에 대해 좋은 보호력을 제공합니다. 또한 화학적으로 적대적인 환경에 대해 저항력을 가집니다. 전투용으로 설계된 방어구는 아니므로, 방탄 능력이나 파열 방어력은 없습니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_ecologist_outfit_grn_name">
-		<text>SSP-99M suit</text>
+		<text>SSP-99M 슈트</text>
 	</string>
 	<string id="st_ecologist_outfit_grn_description">
-		<text>%c[ui_gray_1]High quality modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions. It provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments and other effects dangerous to the body.\n \n
+		<text>%c[ui_gray_1]높은 품질의 개량된 SSP-99 슈트입니다. 탄환과 파열 피해에 대한 방어력이 더 높아졌습니다. 과학자 원정대와 함께 일하는 경호원들을 위해 설계되었습니다. 방사능과 생물학적 이상현상에 대해 좋은 방호력을 제공합니다. 또한 화학적으로 적대적인 환경과 기타 신체에 악영향을 미치는 요소들에 대한 저항력이 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_ecologist_outfit_white_name">
-		<text>SSP-99 Diamond</text>
+		<text>SSP-99 다이아몬드 슈트</text>
 	</string>
 	<string id="st_ecologist_outfit_white_description">
-		<text>%c[ui_gray_1]A SSP-99 chemical protection suit specially designed for the Zone’s harsh conditions. It is used by scientific expeditions and the eco-stalkers who cooperate with them. It has an integrated air-filtering and air-conditioning system, thus providing excellent protection from radiation. The Diamond variant gives superior protection from electricity. Also has an integrated system for suppressing anomalies’ activity, which provides an average protection against chemicals and high temperatures. It is not designed to conduct military operations, therefore it doesn’t provide any protection from bullets or from shrapnel.\n \n
+		<text>%c[ui_gray_1]존의 가혹한 환경에 맞게 특별히 디자인된 SSP-99 화학 방호용 슈트입니다. 과학자 원정대 또는 그들과 협력 관계에 있는 과학자 소속 스토커들이 사용합니다. 일체형 공기 여과 및 정화 시스템을 갖추고 있어, 방사능에 대해 훌륭한 보호를 제공합니다. 다이아몬드형 슈트는 전기에 대해 더욱 뛰어난 보호를 제공합니다. 또한 이상현상의 활동을 억제하는 장치가 내장되어 있어, 화학적 요소나 고열에 대해서도 평균적인 수준의 보호를 제공합니다. 군사 작전을 시행하려는 목적으로 설계된 방어구는 아니므로, 탄환이나 파편에 대한 방어력은 전혀 없습니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_ecologist_outfit_blue_name">
-		<text>SSP-99M Sapphire</text>
+		<text>SSP-99M 사파이어 슈트</text>
 	</string>
 	<string id="st_ecologist_outfit_blue_description">
-		<text>%c[ui_gray_1]High quality modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions. The Sapphire model provides excellent protection against psi exposure. It provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments and other effects dangerous to the body.\n \n
+		<text>%c[ui_gray_1]높은 품질의 개량된 SSP-99 슈트입니다. 탄환과 파열 피해에 대한 방어력이 더 높아졌습니다. 과학자 원정대와 함께 일하는 경호원들을 위해 설계되었습니다. 사파이어형 슈트는 정신파에 대한 훌륭한 방호력을 제공함과 동시에, 방사능과 생물학적 이상현상에 대한 좋은 방호력을 제공합니다. 또한 화학적으로 적대적인 환경과 기타 신체에 악영향을 미치는 요소들에 대한 저항력이 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_ecologist_outfit_red_name">
-		<text>SSP-99Ì Ruby</text>
+		<text>SSP-99Ì 루비 슈트</text>
 	</string>
 	<string id="st_ecologist_outfit_red_description">
-		<text>%c[ui_gray_1]High quality modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions. The ‘Ruby’ model gives excellent protection against mutant attacks, as well as a wound healing system integrated in the suit. It provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments and other effects dangerous to the body.\n \n
+		<text>%c[ui_gray_1]높은 품질의 개량된 SSP-99 슈트입니다. 탄환과 파열 피해에 대한 방어력이 더 높아졌습니다. 과학자 원정대와 함께 일하는 경호원들을 위해 설계되었습니다. '루비' 슈트는 부상 치료 시스템이 내장되어 있으며 뮤턴트의 공격에 대해 훌륭한 방어력을 제공합니다. 그리고 방사능과 생물학적 이상현상에 대해서도 좋은 방호력을 제공합니다. 또한 화학적으로 적대적인 환경과 기타 신체에 악영향을 미치는 요소들에 대한 저항력이 있습니다.\n \n
 		</text>
 	</string>
 
 	<string id="st_ecologist_outfit_yello_name">
-		<text>SSP-99 Topaz</text>
+		<text>SSP-99 토파즈 슈트</text>
 	</string>
 	<string id="st_ecologist_outfit_yello_description">
-		<text>%c[ui_gray_1]A SSP-99 chemical protection suit specially designed for the Zone conditions. It is used by scientific expeditions and the eco-stalkers who cooperate with them. The Topaz model provides excellent protection against radiation. It has an integrated air-filtering and air-conditioning system. It is heat and electricity resistant, provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments. It is not designed for combat, so it provides neither bullet, nor splinter protection.\n \n
+		<text>%c[ui_gray_1]존의 가혹한 환경에 맞게 특별히 디자인된 SSP-99 화학 방호용 슈트입니다. 과학자 원정대 또는 그들과 협력 관계에 있는 과학자 소속 스토커들이 사용합니다. 토파즈형 슈트는 방사능에 대해 훌륭한 방호력을 제공합니다. 일체형 공기 여과 및 정화 시스템을 갖추고 있습니다. 열과 전기 저항을 갖추고 있으며, 방사능과 생물학적 이상현상에 대한 좋은 방호력을 제공합니다. 또한 화학적으로 위험한 환경에 대한 저항력도 갖추고 있습니다. 전투용으로 설계된 방어구는 아니므로, 방탄 능력이나 파열 방어력은 없습니다.\n \n
 		</text>
 	</string>
 
