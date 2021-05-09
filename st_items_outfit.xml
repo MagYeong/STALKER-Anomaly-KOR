@@ -1368,7 +1368,7 @@
 	</string>
 
 	<string id="svoboda_light_proto_exo_outfit_name">
-		<text>Freedom 프로토타입 외골격</text>
+		<text>프리덤 프로토타입 외골격</text>
 	</string>
 	<string id="svoboda_light_proto_exo_outfit_description">
 		<text>%c[ui_gray_1]프리덤의 바람 슈트를 외골격에 사용되는 보조 제어 장치와 배터리를 사용하도록 특별히 디자인한 형태의 방어구로, 착용자로 하여금 어떠한 상황에서도 원래 감당 가능한 수준보다 더욱 많은 장비들을 짊어질 수 있도록 해주지만, 일반적인 외골격에 있는 장갑판은 없습니다. 완전한 외골격과 비교해 보았을 때, 방어력이 낮고 보조 제어 장치의 효율성이 낮지만, 유지보수가 상당히 저렴합니다.\n \n
@@ -1485,7 +1485,7 @@
 		<text>내무군 스토커 외골격</text>
 	</string>
 	<string id="military_exo_outfit_description">
-		<text>%c[ui_gray_1]The official version of a military exoskeleton. Released in limited quantities by special order to the Military Stalkers, who must pay for it themselves. Designed to carry heavy weapons like grenade launchers and machine guns, along with enough ammunition, food and meds to keep the unit supplied for long periods of time. Occasionally fielded in lieu of light vehicles.\n \n
+		<text>%c[ui_gray_1]군용 외골격의 정식 형태입니다. 내무군 스토커들이 사비를 들여 특별 주문을 하는 식으로 제한된 수량만이 공급되었습니다. 유탄 발사기나 기관총처럼 무거운 무기들 및 무기들에 사용되는 충분한 탄약, 그리고 오랜 기간 동안 사용할 수 있는 식품 및 의약품 등의 보급품을 짊어지고 다닐 수 있도록 설계되었습니다. 가끔 소형 차량 대신 현장에 투입되기도 합니다.\n \n
 		</text>
 	</string>
 
@@ -1493,7 +1493,7 @@
 		<text>CS-5 외골격</text>
 	</string>
 	<string id="cs_exo_outfit_description">
-		<text>%c[ui_gray_1]An experimental version of the army exoskeleton smuggled into the Zone from Ukrainian factories before being refurbished by Clear Sky technicians. Generally, suits like these are held in reserve, to be deployed only in times of true crisis. That said, especially trusted comrades and associates of the faction may eventually receive permission to acquire such a suit for their own personal uses, although  not without great cost.\n \n
+		<text>%c[ui_gray_1]우크라이나에 있는 공장에서 존으로 밀수된 후 클리어 스카이 기술자들에 의해 개량된 군용 외골격의 실험판입니다. 원래대로라면, 이런 종류의 방어구들은 예비용 품목으로 보관되어, 진짜 위기가 닥쳤을 때만 사용하도록 되어 있었습니다. 그렇긴 해도 특별할 정도로 신망이 높은 대원들이나 클리어 스카이의 혐력자들이라면 방어구를 개인적으로 활용할 수 있도록 하는 허가를 받게 될 수도 있지만, 막대한 비용을 지불해야만 합니다.\n \n
 		</text>
 	</string>
 
@@ -1501,7 +1501,7 @@
 		<text>과학 연구용 외골격</text>
 	</string>
 	<string id="ecolog_exo_outfit_description">
-		<text>%c[ui_gray_1]An official version of the military exoskeleton, intended for use by the Ecologists' guards. The suit feels almost impervious to small arms, and its advanced servomotors make it an excellent choice for those in entrenched defensive positions, as it greatly aids in the use of heavy defensive weaponry. When out in the field, wearers of this suit are more commonly used to carrying the ludicrous amount of batteries, LLMCs, AAMs and other supplies an accompanying scientist might need when exploring the Zone.\n \n
+		<text>%c[ui_gray_1]과학자 세력의 경호원들이 사용하도록 디자인된 군용 외골격의 정식 형태입니다. 방어구는 소형 화기의 공격으로는 거의 뚫리지 않으며, 개량된 서보모터를 활용하여 중화기를 어렵지 않게 다룰 수 있어 진지 속에서 방어 태세를 취하려는 착용자들에게 훌륭한 선택이 될 수 있습니다. 야외에서 활동할 때, 이 방어구를 착용한 사람은 다량의 배터리와 LLMC, AAM 그리고 동행하는 과학자들이 존을 탐험하기 위해 사용하는 기타 각종 보급품들을 더 능숙하게 짊어지고 다닐 수 있습니다.\n \n
 		</text>
 	</string>
 
