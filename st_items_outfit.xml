@@ -1509,7 +1509,7 @@
 		<text>레니게이드 외골격</text>
 	</string>
 	<string id="renegade_exo_outfit_description">
-		<text>%c[ui_gray_1]One of a few exoskeletons assembled by the Renegades back in 2011 to help secure their final push into Clear Sky's base. Unfortunately, they were virtually wiped out before their final victory ever came, thanks to the interference of a Mercenary with a trench coat and a marksman rifle. Modern Renegades who wear this armour always go into battle like a man possessed, eager to mete vengeance upon their most hated foes. That is to say, almost everyone else.\n \n
+		<text>%c[ui_gray_1]레니게이드에서 2011년에 클리어 스카이 본부를 향한 마지막 진격 작전을 완수하는 데 사용하기 위해 조립한 몇 안되는 외골격들 중 하나입니다. 불행히도, 트렌치 코트와 저격총을 장비한 한 용병의 간섭으로 인해 레니게이드 무리는 마지막 승리를 채 이루기도 전에 사실상 와해되고 말았습니다. 이 방어구를 장비한 현재의 레니게이드 대원은 항상 무언가에 사로잡힌 것처럼 전장에 나서서, 가장 증오스러운 적들을 향한 복수를 갈망하고 있습니다. 다시 말하면, 자신들 이외의 거의 모든 사람들을 상대로 말이죠.\n \n
 		</text>
 	</string>
 
@@ -1517,7 +1517,7 @@
 		<text>UNISG 외골격</text>
 	</string>
 	<string id="isg_exo_outfit_description">
-		<text>%c[ui_gray_1]The official version of the UNISG exoskeleton. Released in limited quantities by special order of the United Nations. While it still possesses many of the design flaws of other exoskeletons, it's nonetheless seen as a great alternative to light, command and scout vehicles, which would have great trouble navigating the Zone anyway, and thus is deployed in their stead.\n \n
+		<text>%c[ui_gray_1]UNISG 군용 외골격의 정식 형태입니다. UN에서의 특별 주문을 통해 한정된 수량이 공급되었습니다. 다른 외골격들에서 보이는 설계 결함들 중 다수를 여전히 보유하고 있지만, 그럼에도 불구하고 어찌되었든 존에서 운용하는 데 큰 애로사항이 있는 소형 지휘용 또는 정찰용 차량들의 훌륭한 대안으로 여겨져, 그러한 장비들을 대체하는 형태로 배치되었습니다.\n \n
 		</text>
 	</string>
 	
@@ -1525,48 +1525,48 @@
 		<text>비라이 파워 아머</text>
 	</string>
 	<string id="greh_exo_outfit_description">
-		<text>%c[ui_gray_1]High-tech armour, based on the original experimental military designs. However, as far as anyone can see, its servos are made of alloys and materials unknown to any field of science in any other part of the world. Consists of a three-part exosuit (tactical helmet, tactical vest and an anti-ballistic environmental jumpsuit) fitted with modern, if somewhat alien, powered servos. Wearing this suit creates an unnatural feeling of bliss and calm within the wearer, although whether this sense of security is genuine or not remains to be seen.\n \n
+		<text>%c[ui_gray_1]기존의 실험형 군용 설계판에 기초한 하이테크 방어구입니다. 하지만, 지금까지 이 방어구를 목격한 바에 의하면, 방어구의 보조 제어 장치는 지금까지 전 세계의 과학 분야에서 전혀 알려지지 않았던 합금과 소재로 만들어졌다는 사실이 알려져 있습니다. 세 부분으로 구성된 엑소슈트와 (전술 헬멧, 전술 조끼 그리고 케블라 환경방호용 점프슈트) 현대적인, 아니면 다소 이질적인 동력 공급식 보조 제어 장치가 결합되어 있습니다. 이 방어구를 입음으로써 착용자는 부자연스러울 정도로 축복받고 평온한 듯한 느낌을 받게 되나, 이 보호받는 듯한 느낌이 진짜일지 아닐지는 두고 봐야 알 것입니다.\n \n
 		</text>
 	</string>
 
 
 <!-- Nosorog exskeletal armour -->
 	<string id="dolg_nosorog_outfit_name">
-		<text>PSZ-10d Nosorog</text>
+		<text>PSZ-10d 노소로그 외골격</text>
 	</string>
 	<string id="merc_nosorog_outfit_name">
-		<text>Mercenary Nosorog</text>
+		<text>용병 노소로그 외골격</text>
 	</string>
 	<string id="army_nosorog_outfit_name">
-		<text>Military stalker Nosorog</text>
+		<text>내무군 스토커 노소로그 외골격</text>
 	</string>
 	<string id="monolith_nosorog_outfit_name">
-		<text>Monolith Nosorog</text>
+		<text>모노리스 노소로그 외골격</text>
 	</string>
 	<string id="isg_nosorog_outfit_name">
-		<text>UNISG Nosorog</text>
+		<text>UNISG 노소로그 외골격</text>
 	</string>
 	
 	<string id="nosorog_outfit_description">
-		<text>%c[ui_gray_1]A next generation exoskeleton, consisting of a doubly reinforced exosuit and an armoured Czech-M10 gas mask. This suit is rumoured to have been the brainchild of a now deceased stalker named "Fang", whose designs were later claimed by all sorts of powerful factions across the Zone. If regular exoskeletons allow stalkers to feel like a light vehicle, the Nosorog almost makes them believe they're a main battle tank, able to withstand incredible punishment while carrying tremendous ordnance. Typically only available to a faction's most valuable members, and even then only during exceptionally dangerous missions.\n \n
+		<text>%c[ui_gray_1]차세대 외골격으로서, 이중으로 강화된 엑소슈트와 보강된 체코-M10 방독면으로 구성되어 있습니다. 이 방어구에 대해 현재는 사망한 상태인 "팽" 이라는 이름의 스토커의 발명품이라는 소문이 있으며, 이후 존에 있는 모든 유력한 세력들이 이 방어구의 설계도를 손에 넣게 되었습니다. 일반적인 외골격이 스토커들에게 소형 차량 정도로 여겨진다면, 노소로그는 착용자로 하여금 거의 주력 전차가 된 듯한 기분을 느끼게 하며, 막대한 양의 군수품을 짊어진 채로 놀라울 정도의 피해량을 견딜 수 있게 합니다. 대개 세력에서 가장 가치있는 인원들만 사용하며, 그 중에서도 엄청나게 위험한 임무를 수행하는 사람들만 사용합니다.\n \n
 		</text>
 	</string>
 	
 	<string id="freedom_nosorog_outfit_name">
-		<text>Champion of Freedom</text>
+		<text>프리덤의 챔피언</text>
 	</string>
 	<string id="freedom_nosorog_outfit_desc">
-		<text>%c[ui_gray_1]A next generation exoskeleton, consisting of a doubly reinforced exosuit and an armoured Czech-M10 gas mask. This suit is rumoured to have been the brainchild of a now deceased stalker named "Fang", whose designs were later claimed by all sorts of powerful factions across the Zone. If regular exoskeletons allow stalkers to feel like a light vehicle, the Juggernaut almost makes them believe they're a main battle tank, able to withstand incredible punishment while carrying tremendous ordnance. Typically only available to a faction's most valuable members, and even then only during exceptionally dangerous missions.\n \n
+		<text>%c[ui_gray_1]차세대 외골격으로서, 이중으로 강화된 엑소슈트와 보강된 체코-M10 방독면으로 구성되어 있습니다. 이 방어구에 대해 현재는 사망한 상태인 "팽" 이라는 이름의 스토커의 발명품이라는 소문이 있으며, 이후 존에 있는 모든 유력한 세력들이 이 방어구의 설계도를 손에 넣게 되었습니다. 일반적인 외골격이 스토커들에게 소형 차량 정도로 여겨진다면, 노소로그는 착용자로 하여금 거의 주력 전차가 된 듯한 기분을 느끼게 하며, 막대한 양의 군수품을 짊어진 채로 놀라울 정도의 피해량을 견딜 수 있게 합니다. 대개 세력에서 가장 가치있는 인원들만 사용하며, 그 중에서도 엄청나게 위험한 임무를 수행하는 사람들만 사용합니다.\n \n
 		</text>
 	</string>
 
 
 <!-- No group -->	
 	<string id="ghillie_outfit_name">
-		<text>Ghillie suit</text>
+		<text>길리 슈트</text>
 	</string>
 	<string id="ghillie_outfit_description">
-		<text>%c[ui_gray_1]This suit is designed to simulate a ‘heap of foliage.’ Usually this type of suit is worn by snipers and hunters to blend in with the environment and hide themselves from enemies. Ghillie suits are commercially produced, but usually both military personnel and civilians customise and improve them to suit their needs. Despite its high efficiency, it can be very impractical: even in a temperate climate, it becomes hot over time and is very heavy.\n \n
+		<text>%c[ui_gray_1]이 방어구는 "나뭇잎 더미"를 형상화하여 디자인되었습니다. 대개 이런 종류의 방어구는 저격수들과 사냥꾼들이 주변 환경 속에 섞여들어가 적들로부터 몸을 숨기는 데 사용합니다. 길리 슈트는 상업적으로 제조되었지만, 군인이나 민간인들의 필요에 따라 개조하거나 개량된 형태로 많이 사용됩니다. 높은 효율성에도 불구하고, 입고 있으면 평균 기온에서조차 더위를 느끼게 되는데다 옷 자체가 매우 무겁기 때문에 실용성은 극도로 떨어질 수 있습니다.\n \n
 		</text>
 	</string>
 
