@@ -486,7 +486,7 @@
 		<text>TOZ-66 (대체품)</text>
 	</string>
 	<string id="st_wpn_bm16_full_descr">
-		<text>A powerful weapon that every stalker can afford, TOZ 66 is a close range firearm possessing both reliability and effectiveness. However, being large and unwieldy, many stalkers prefer to spend their hard-earned rubles on a modern handgun instead.\n \n</text>
+		<text>TOZ 66 산탄총은 어떤 스토커들이라도 살 수 있는 강력한 무기로 신뢰성과 효과성을 모두 갖춘 단거리 화기입니다. 하지만, 너무 크고 다루기 불편하다는 점 때문에, 많은 스토커들은 그들이 어렵게 얻은 루블로 현대식 권총을 대신 사는 것을 더 선호합니다.\n \n</text>
 	</string>
 	<string id="st_wpn_bm16_full_rusty">
 		<text>TOZ-66 (녹슬음)</text>
@@ -495,88 +495,88 @@
 		<text>TOZ-66 (낡음)</text>
 	</string>
 	<string id="st_wpn_bm16_rusty">
-		<text>TOZ-66 (rusty sawn-off)</text>
+		<text>TOZ-66 (녹슨 소드-오프)</text>
 	</string>
 	<string id="st_wpn_bm16_worn">
-		<text>TOZ-66 (worn sawn-off)</text>
+		<text>TOZ-66 (낡은 소드-오프)</text>
 	</string>
 	
 	<string id="st_wpn_colt_kimber">
-		<text>Kimber Desert Warrior</text>
+		<text>킴버 데저트 워리어</text>
 	</string>
 	<string id="st_wpn_colt_kimber_descr">
-		<text>An advanced variant of the Colt M1911A1 developed by Kimber Manufacturing. The Desert Warrior was made for conducting special operations by the USA.</text>
+		<text>킴버 산업에서 제작한 개선된 형태의 콜트 M1911A1 권총입니다. 데저트 워리어는 미국에서 특수 작전을 하는 데 사용하도록 만들어졌습니다.</text>
 	</string>
 	
 	<string id="st_wpn_colt1911">
-		<text>Colt M1911</text>
+		<text>콜트 M1911</text>
 	</string>
 	<string id="st_wpn_colt1911_alt">
-		<text>Colt M1911 (대체품)</text>
+		<text>콜트 M1911 (대체품)</text>
 	</string>
 	<string id="st_wpn_colt1911_camo">
-		<text>Colt M1911 (위장됨)</text>
+		<text>콜트 M1911 (위장됨)</text>
 	</string>
 	<string id="st_wpn_colt1911_camo_descr">
-		<text>The M1911 was the standard-issue side arm for the US military from 1911 to 1985. An extremely reliable and robust weapon, it's been adopted for military, police and civilian use around the world and remains a very popular firearm to this day. This is a unique model with red stains on dark-beige colour.\n \n
+		<text>M1911 권총은 1911년부터 1985년까지 미군의 제식 권총으로 사용되었습니다. 엄청난 신뢰성과 내구성을 자랑하는 무기로서, 이 권총은 전 세계의 군인, 경찰 그리고 민간인들이 사용하고 있으며 오늘날까지도 가장 인기있는 총기로 남아 있습니다. 이 권총은 빨간색 줄무늬와 어두운 베이지색으로 도색된 특별한 물건입니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] .45 ACP suppressor (개조 후 사용 가능)</text>
+		%c[d_purple] • %c[ui_gray_2] .45 ACP 소음기 (개조 후 사용 가능)</text>
 	</string>
 	<string id="st_wpn_colt1911_custom">
-		<text>Colt M1911 (주문 제작됨)</text>
+		<text>콜트 M1911 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_colt1911_descr">
-		<text>The M1911 was the standard-issue side arm for the US military from 1911 to 1985. An extremely reliable and robust weapon, it's been adopted for military, police and civilian use around the world and remains a very popular firearm to this day.\n \n
+		<text>M1911 권총은 1911년부터 1985년까지 미군의 제식 권총으로 사용되었습니다. 엄청난 신뢰성과 내구성을 자랑하는 무기로서, 이 권총은 전 세계의 군인, 경찰 그리고 민간인들이 사용하고 있으며 오늘날까지도 가장 인기있는 총기로 남아 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] .45 ACP suppressor (개조 후 사용 가능)</text>
+		%c[d_purple] • %c[ui_gray_2] .45 ACP 소음기 (개조 후 사용 가능)</text>
 	</string>
 	<string id="st_wpn_colt1911_duty">
-		<text>Colt M1911 (듀티식 위장)</text>
+		<text>콜트 M1911 (듀티식 위장)</text>
 	</string>
 	<string id="st_wpn_colt1911_duty_descr">
-		<text>The M1911 was the standard-issue side arm for the US military from 1911 to 1985. An extremely reliable and robust weapon, it's been adopted for military, police and civilian use around the world and remains a very popular firearm to this day. This variant has a distinctive feature - it's more powerful than the normal one.\n \n
+		<text>M1911 권총은 1911년부터 1985년까지 미군의 제식 권총으로 사용되었습니다. 엄청난 신뢰성과 내구성을 자랑하는 무기로서, 이 권총은 전 세계의 군인, 경찰 그리고 민간인들이 사용하고 있으며 오늘날까지도 가장 인기있는 총기로 남아 있습니다. 이 권총은 독특한 특징을 가지고 있는데, 바로 원본보다 위력이 더 강하다는 것입니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] .45 ACP suppressor (개조 후 사용 가능)</text>
+		%c[d_purple] • %c[ui_gray_2] .45 ACP 소음기 (개조 후 사용 가능)</text>
 	</string>
 	<string id="st_wpn_colt1911_merc">
-		<text>Colt M1911 (merc camouflage)</text>
+		<text>콜트 M1911 (merc camouflage)</text>
 	</string>
 	<string id="st_wpn_colt1911_merc_descr">
-		<text>The M1911 was the standard-issue side arm for the US military from 1911 to 1985. An extremely reliable and robust weapon, it's been adopted for military, police and civilian use around the world and remains a very popular firearm to this day. This model is considerably more reliable and accurate.\n \n
+		<text>M1911 권총은 1911년부터 1985년까지 미군의 제식 권총으로 사용되었습니다. 엄청난 신뢰성과 내구성을 자랑하는 무기로서, 이 권총은 전 세계의 군인, 경찰 그리고 민간인들이 사용하고 있으며 오늘날까지도 가장 인기있는 총기로 남아 있습니다. 이 모델은 원본보다 신뢰성과 정확도가 더 높은 편입니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] .45 ACP suppressor (개조 후 사용 가능)</text>
+		%c[d_purple] • %c[ui_gray_2] .45 ACP 소음기 (개조 후 사용 가능)</text>
 	</string>
 	<string id="st_wpn_colt1911_modern">
-		<text>Colt M1911 (현대화됨)</text>
+		<text>콜트 M1911 (현대화됨)</text>
 	</string>
 	<string id="st_wpn_colt1911_new">
-		<text>Colt M1911 (신형)</text>
+		<text>콜트 M1911 (신형)</text>
 	</string>
 	<string id="st_wpn_colt1911_rusty">
-		<text>Colt M1911 (녹슬음)</text>
+		<text>콜트 M1911 (녹슬음)</text>
 	</string>
 	<string id="st_wpn_colt1911_rusty_descr">
-		<text>The M1911 was the standard-issue side arm for the US military from 1911 to 1985. An extremely reliable and robust weapon, it's been adopted for military, police and civilian use around the world and remains a very popular firearm to this day. This model has rust all over the place, which will likely increase a probability of it jamming.\n \n
+		<text>M1911 권총은 1911년부터 1985년까지 미군의 제식 권총으로 사용되었습니다. 엄청난 신뢰성과 내구성을 자랑하는 무기로서, 이 권총은 전 세계의 군인, 경찰 그리고 민간인들이 사용하고 있으며 오늘날까지도 가장 인기있는 총기로 남아 있습니다. This model has rust all over the place, which will likely increase a probability of it jamming.\n \n
 		%c[ui_gray_2]부착물: \n%c[d_red] • %c[d_red] 소음기 장착이 불가능함\n \n</text>
 	</string>
 	<string id="st_wpn_colt1911_worn">
-		<text>Colt M1911 (낡음)</text>
+		<text>콜트 M1911 (낡음)</text>
 	</string>
 	
 	<string id="st_wpn_cz75">
 		<text>CZ-75</text>
 	</string>
 	<string id="st_wpn_cz75_auto">
-		<text>CZ-75 Automatic</text>
+		<text>CZ-75 오토매틱</text>
 	</string>
 	<string id="st_wpn_cz75_auto_descr">
-		<text>The CZ-75 was developed in the Czech Republic by the Koucky brothers. This semi-automatic pistol first appeared in 1975, entered production in 1976 and was intended for the export market. The CZ-75 accumulated the best features from many preceding designs and the resulting pistol was aesthetically attractive, comfortable to handle, shoot, accurate and reliable in operation. Made by CZ arms in various versions and modifications, the CZ-75 was also widely copied and cloned. The CZ-75 Auto is a 1995 model, boasting of a fully automatic fire mode and a longer barrel.</text>
+		<text>CZ-75는 체코 공화국의 코우츠키 형제들에 의해 개발되었습니다. 이 반자동 권총은 1975년에 처음 발표되어, 수출시장을 목표로 1976년 생산에 들어갔습니다. CZ-75 권총은 이전에 나왔던 모든 권총 디자인의 장점을 결합하여 설계되었으며, 그 결과로 미적 측면에서의 매력, 조작 및 사격의 편리함, 사용에서의 정확함과 신뢰성을 모두 갖춘 권총이 탄생하였습니다. CZ 조병창에서 다양한 형태와 개조를 거쳐 생산된 것은 물론, 전 세계에 걸쳐서 복제품이 만들어졌습니다. CZ-75 오토매틱은 1995년에 만들어진 모델로서, 완전자동 사격방식과 더 긴 총열이 특징입니다.</text>
 	</string>
 	<string id="st_wpn_cz75_custom">
 		<text>CZ-75 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_cz75_descr">
-		<text>The CZ-75 was developed in the Czech Republic by the Koucky brothers. This semi-automatic pistol first appeared in 1975, entered production in 1976 and was intended for the export market. The CZ-75 accumulated the best features from many preceding designs and the resulting pistol was aesthetically attractive, comfortable to handle, shoot, accurate and reliable in operation. Made by CZ arms in various versions and modifications, the CZ-75 was also widely copied and cloned.\n \n
+		<text>CZ-75는 체코 공화국의 코우츠키 형제들에 의해 개발되었습니다. 이 반자동 권총은 1975년에 처음 발표되어, 수출시장을 목표로 1976년 생산에 들어갔습니다. CZ-75 권총은 이전에 나왔던 모든 권총 디자인의 장점을 결합하여 설계되었으며, 그 결과로 미적 측면에서의 매력, 조작 및 사격의 편리함, 사용에서의 정확함과 신뢰성을 모두 갖춘 권총이 탄생하였습니다. CZ 조병창에서 다양한 형태와 개조를 거쳐 생산된 것은 물론, 전 세계에 걸쳐서 복제품이 만들어졌습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 9x19 호환 소음기</text>
 	</string>
@@ -585,27 +585,27 @@
 	</string>
 	
 	<string id="st_wpn_desert_eagle">
-		<text>Desert Eagle</text>
+		<text>데저트 이글</text>
 	</string>
 	<string id="st_wpn_desert_eagle_custom">
-		<text>Desert Eagle (주문 제작됨)</text>
+		<text>데저트 이글 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_desert_eagle_descr">
-		<text>The IMI Desert Eagle is a semi-automatic handgun notable for chambering the largest centrefire cartridge of any magazine fed, self-loading pistol and also being the heaviest and blockiest gun of its type. No one knows why IMI thought shooting a calibre of this size out of a handgun was a good idea, even though there are plenty of rounds out there that can do the job without breaking your wrist; this one assumes because of a pissing contest between the .44 and .50 AE. Not only is it heavy and harsh in recoil, you can also use it to bludgeon your enemies to death because of its blockiness and weight. Although militaries and law enforcement around the world, in their moment of sanity, never adopted this brick; Hollywood did, mostly because of its "cool factor" and now is the poster child for gangsters and pimps and a status symbol for those who reached a certain rank in a certain console shooter. Rumour is that there's a stalker with a crowbar wandering around the Zone with a rechambered version of this gun, but it's just a rumour.</text>
+		<text>IMI 데저트 이글 반자동 권총은 자동 급탄식 권총이 사용할 수 있는 가장 큰 구경의 센터파이어 탄약을 장전할 수 있다는 점과 동종 권총 중 가장 무겁고 묵직한 권총으로 유명합니다. 이미 누구도 손목을 부러뜨리지 않고도 쏠 수 있는 수많은 탄 구경들이 있는데도 불구하고 IMI가 어째서 이 정도의 구경을 가진 권총을 쏘는 걸 좋은 아이디어라고 생각했을지는 알 수 없지만, 이 권총은 .44 구경과 .50AE 구경 사이의 경합 결과로 만들어졌습니다. 무겁고 반동이 매우 심할 뿐만 아니라, 이 권총은 엄청나게 묵직하고 무거워서 적들을 향해 휘두를 수 있는 둔기로 쓸 수 있을 정도입니다. 비록 아직까지 세계의 군경들이 제정신을 차리고는 있는 모양인지 이런 벽돌같은 무기는 아무데서도 채용되지 않았지만, 헐리우드 같은 곳에서는 뭔가 이 총만이 가진 "끝내주는 무언가" 떄문에 인기가 높아져 깡패들이나 뚜쟁이들, 또는 몇몇 비디오 슈팅 게임에 나오는 높은 지위의 인물들을 상징하는 무기가 되었습니다. 소문으로는 어떤 크로우바를 든 스토커가 이 총을 개조한 물건을 들고 존 안에서 서성거리고 있다고는 하지만, 단지 소문에 불과할 것입니다.</text>
 	</string>
 	<string id="st_wpn_desert_eagle_modern">
-		<text>Desert Eagle (현대화됨)</text>
+		<text>데저트 이글 (현대화됨)</text>
 	</string>
 	<string id="st_wpn_desert_eagle_nimble">
-		<text>Desert Eagle "Steppe Eagle"</text>
+		<text>데저트 이글 "스텝 이글"</text>
 	</string>
 	<string id="st_wpn_desert_eagle_nimble_descr">
-		<text>The IMI Desert Eagle is a semi-automatic handgun notable for chambering the largest centrefire cartridge of any magazine fed, self-loading pistol and also being the heaviest and blockiest gun of its type. No one knows why IMI thought shooting a calibre of this size out of a handgun was a good idea, even though there are plenty of rounds out there that can do the job without breaking your wrist; this one assumes because of a pissing contest between the .44 and .50 AE. This weapon was brought to the Zone by a stalker named Logan Williams. Disguised as a TIME photographer he managed to single-handedly enter the centre of Pripyat. His current whereabouts are unknown, but he is rumoured to work as an information broker specializing in all matters related to the Zone.\n \n
+		<text>IMI 데저트 이글 반자동 권총은 자동 급탄식 권총이 사용할 수 있는 가장 큰 구경의 센터파이어 탄약을 장전할 수 있다는 점과 동종 권총 중 가장 무겁고 묵직한 권총으로 유명합니다. 이미 누구도 손목을 부러뜨리지 않고도 쏠 수 있는 수많은 탄 구경들이 있는데도 불구하고 IMI가 어째서 이 정도의 구경을 가진 권총을 쏘는 걸 좋은 아이디어라고 생각했을지는 알 수 없지만, 이 권총은 .44 구경과 .50AE 구경 사이의 경합 결과로 만들어졌습니다. 이 무기는 로건 윌리엄스라는 한 스토커가 존 안으로 들고 온 것입니다. TIME 잡지의 사진기사로 변장한 그는 혼자의 힘으로 프리피야트의 중심지에 입성하는 데 성공하였습니다. 그가 현재 어디에 있는지는 알려지지 않았지만, 그가 존에 관한 정보를 주로 다루는 정보 거래상으로 일하고 있다는 소문이 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] DOCTER sight (일체형)</text>
+		%c[d_purple] • %c[ui_gray_2] DOCTER 조준경 (일체형)</text>
 	</string>
 	<string id="st_wpn_desert_eagle_worn">
-		<text>Desert Eagle (낡음)</text>
+		<text>데저트 이글 (낡음)</text>
 	</string>
 	
 	<string id="st_wpn_fn2000">
@@ -618,18 +618,18 @@
 		<text>FN F2000 (맞춤식 개조)</text>
 	</string>
 	<string id="st_wpn_fn2000_descr">
-		<text>From the late 1980s to early 1990s, FN Herstal began to develop a new rifle. The aim was to produce a modern and modular weapon resulting in the FN F2000 rifle, first displayed to the public in 2001. The F2000 offers all of the popular features of the modern assault rifle such as a compact bullpup layout, ambidextrous handling and a modular design with plenty of options and addons available. So far, the FN F2000 rifle has found only a few buyers, including the Armed Forces of Slovenia and Belgian Special Operations Forces.\n \n
+		<text>1980년대 후반에서 1990년대 초반까지의 기간 동안, FN 에르스탈은 새로운 총기를 개발하기 시작했습니다. 현대식 모듈러 총기를 목표로 개발한 결과, FN F2000 돌격소총은 2001년에 처음으로 대중에 공개되었습니다. F2000 소총은 컴팩트한 불펍 구조의 외형, 양손잡이 지원 및 수많은 옵션과 부착물을 붙일 수 있는 모듈러 디자인 등 현대 돌격소총이 가진 모든 인기있는 기능을 제공합니다. 지금까지는, FN F2000 돌격소총은 슬로베니아 내무군과 벨기에 특수부대를 포함한 일부 구매자들에게만 지급되었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] FN2000 scope (일체형)\n
+		%c[d_purple] • %c[ui_gray_2] FN2000 조준경 (일체형)\n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n \n</text>
 	</string>
 	<string id="st_wpn_fn2000_nimble">
-		<text>FN F2000 EOTech</text>
+		<text>FN F2000 이오텍</text>
 	</string>
 	<string id="st_wpn_fn2000_nimble_descr">
-		<text>From the late 1980s to early 1990s, FN Herstal began to develop a new rifle. The aim was to produce a modern and modular weapon resulting in the FN F2000 rifle, first displayed to the public in 2001. The F2000 offers all of the popular features of the modern assault rifle such as a compact bullpup layout, ambidextrous handling and a modular design with plenty of options and addons available. So far, the FN F2000 rifle has found only a few buyers, including the Armed Forces of Slovenia and Belgian Special Operations Forces. This model has an integrated EOTech scope, which results in slightly lower accuracy, but since this model was aimed for CQC, rate of fire was increased accordingly.\n \n
+		<text>1980년대 후반에서 1990년대 초반까지의 기간 동안, FN 에르스탈은 새로운 총기를 개발하기 시작했습니다. 현대식 모듈러 총기를 목표로 개발한 결과, FN F2000 돌격소총은 2001년에 처음으로 대중에 공개되었습니다. F2000 소총은 컴팩트한 불펍 구조의 외형, 양손잡이 지원 및 수많은 옵션과 부착물을 붙일 수 있는 모듈러 디자인 등 현대 돌격소총이 가진 모든 인기있는 기능을 제공합니다. 지금까지는, FN F2000 돌격소총은 슬로베니아 내무군과 벨기에 특수부대를 포함한 일부 구매자들에게만 지급되었습니다. 이 모델은 이오텍 조준경이 내장되어 있어 약간 낮아진 정확도를 보이지만, 근접전을 상정하여 제작되었기 때문에 시간당 사격 발수가 중가하였습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] EOTech sight (일체형)\n
+		%c[d_purple] • %c[ui_gray_2] 이오텍 조준기 (일체형)\n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n \n</text>
 	</string>
 	<string id="st_wpn_fn2000_worn">
@@ -637,10 +637,10 @@
 	</string>
 	
 	<string id="st_wpn_fn57">
-		<text>FN Five-seveN</text>
+		<text>FN 파이브-세븐</text>
 	</string>
 	<string id="st_wpn_fn57_descr">
-		<text>The Five-seveN is a delayed blowback operated, semi-automatic firearm. The Five-seveN pistol was designed by FN Herstal as a complimentary sidearm for the P90 submachine gun. The P90 and Five-seveN share the same ammunition, the 5.7x28mm SS190 cartridge. The idea behind the ammunition and weapon is to provide good penetration against targets protected by body armour, while keeping the weapon's weight, dimensions and recoil at reasonable levels.</text>
+		<text>파이브-세븐은 지연된 블로우백 방식의 반자동 화기입니다. 파이브-세븐 권총은 FN 에스트랄에서 P90 기관단총의 보조무기로서 설계되었습니다. P90과 파이브-세븐은 같은 탄약인 5.7x28mm SS190 탄을 공유합니다. 해당 탄약과 무기들은 방탄복을 잘 관통하면서, 무기의 무게를 줄이고, 무기의 치수와 반동 또한 적정한 수준으로 줄이는 것을 목적으로 개발되었습니다.</text>
 	</string>
 	
 	<string id="st_wpn_fnp45">
@@ -650,62 +650,62 @@
 		<text>FNP-45 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_fnp45_descr">
-		<text>The FN FNP pistol is a series of semi-automatic, polymer framed pistols manufactured in Columbia, South Carolina by FNH USA, a division of Fabrique Nationale de Herstal. Debuted in early 2006, the FNP series weapons are hammer fired weapons utilizing a Browning cam system with an external extractor. The trigger module is housed inside the polymer frame as an individual unit connected to the hammer. The magazine release button is held in place by a retention pin which can be removed to allow the button to be reversed.\n \n
+		<text>FN FNP 권총은 에르스탈 국립 조병장의 지부인 FNH USA의 사우스 캐롤라이나 주 컬럼비아 공장에서 생산된 폴리머 재질의 반자동 권총입니다. 2006년 초반에 데뷔한 이 FNP 계열 무기들은 외부 배출구가 달린 브라우닝 캠 장치를 사용하는 공이 격발식 무기입니다. 방아쇠 장치는 각각의 부품들이 공이와 연결되어 있는 폴리머 총몸 안에 위치합니다. 탄창멈치는 멈치를 반대쪽에 끼울 수 있도록 갈아끼울 수 있는 고정핀으로 제자리에 고정되어 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] GemTech suppressor</text>
+		%c[d_purple] • %c[ui_gray_2] 젬테크 소음기</text>
 	</string>
 	<string id="st_wpn_fnp45_worn">
 		<text>FNP-45 (낡음)</text>
 	</string>
 	
 	<string id="st_wpn_fnx45">
-		<text>FNX-45 Tactical</text>
+		<text>FNX-45 택티컬</text>
 	</string>
 	<string id="st_wpn_fnx45_alt">
-		<text>FNX-45 Tactical (대체품)</text>
+		<text>FNX-45 택티컬 (대체품)</text>
 	</string>
 	<string id="st_wpn_fnx45_custom">
-		<text>FNX-45 Tactical (주문 제작됨)</text>
+		<text>FNX-45 택티컬 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_fnx45_descr">
-		<text>The FNX line of pistols were introduced in 2009 by FNH USA, a US based subsidiary of the Belgian gun company FN Herstal. Originally developed to the requirements of the US Joint Combat Pistol Program, these pistols are manufactured in US and intended for military, law enforcement and civilian use. All FNX handguns are semi-automatic pistols with double/single action trigger and external hammer. Frame of the every FNX pistol is made from impact resistant polymer, with removable backstraps of different sizes. FNX-45 Tactical is a specialised variant of the basic FNX-45, that features extended threaded barrel and raised sights, to be used with detachable sound suppressor.\n \n
+		<text>FNX 계열의 권총은 벨기에 총기 제작사인 FN 에르스탈의 미국 지부인 FNH USA에서 발표되었습니다. 미국의 합동 전투 권총 프로그램의 요구조건을 충족하기 위해 개발된 이 권총들은 미국에서 군경과 민간에서의 사용을 목표로 생산되었습니다. 모든 FNX 권총들은 더블 또는 싱글 액션 방아쇠와 외부 공이가 있는 반자동 권총입니다. 모든 FNX 권총의 총몸은 다양한 크기의 탈착 가능한 혁대가 달린 충격 저항성 폴리머로 만들어졌습니다. FNX-45 택티컬 권총은 기본적인 FNX-45 권총을 특별히 개조한 것으로, 확장된 강선처리 총열과 조준기, 그리고 탈착 가능한 소음기가 달려있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] FNX Tactical sight (일체형)\n
-		%c[d_purple] • %c[ui_gray_2] GemTech suppressor (일체형)</text>
+		%c[d_purple] • %c[ui_gray_2] FNX 택티컬 조준경 (일체형)\n
+		%c[d_purple] • %c[ui_gray_2] 젬테크 소음기 (일체형)</text>
 	</string>
 	
 	<string id="st_wpn_fort">
-		<text>Fort-17</text>
+		<text>포트-17</text>
 	</string>
 	<string id="st_wpn_fort_descr">
-		<text>The Fort-17 pistol is the latest development of the Ukrainian state owned FORT factory. It is a polymer framed modification of the earlier Fort-12 pistol, and all the mechanisms and properties are almost identical between the two pistols. However, the Fort-17 is lighter than its predecessor and features a removable grip backstrap, which can be had in various sizes, to adapt the pistol for a particular shooter.\n \n
+		<text>포트-17 권총은 우크라이나 국가 소속 FORT 군수공장에서 개발한 최신식 권총입니다. 이 권총은 예전 포트-12 권총을 폴리머 총몸으로 개조한 것으로, 작동 방식이나 특성들은 거의 동일합니다. 하지만, 포트-17은 선배격 권총보다 가벼우며 탈착 가능한 그립 백스트랩을 사용하는데, 이는 다양한 크기로 준비되어 있어 권총을 특정한 사수에 알맞게 조정할 수 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 9x19 호환 소음기</text>
 	</string>
 	<string id="st_wpn_fort_rusty">
-		<text>Fort-17 (녹슬음)</text>
+		<text>포트-17 (녹슬음)</text>
 	</string>
 	<string id="st_wpn_fort_rusty_descr">
-		<text>The Fort-17 pistol is the latest development of the Ukrainian state owned FORT factory. It is a polymer framed modification of the earlier Fort-12 pistol, and all the mechanisms and properties are almost identical between the two pistols. However, the Fort-17 is lighter than its predecessor and features a removable grip backstrap, which can be had in various sizes, to adapt the pistol for a particular shooter. Because of its poor physical condition, this model can jam often. \n \n
+		<text>포트-17 권총은 우크라이나 국가 소속 FORT 군수공장에서 개발한 최신식 권총입니다. 이 권총은 예전 포트-12 권총을 폴리머 총몸으로 개조한 것으로, 작동 방식이나 특성들은 거의 동일합니다. 하지만, 포트-17은 선배격 권총보다 가벼우며 탈착 가능한 그립 백스트랩을 사용하는데, 이는 다양한 크기로 준비되어 있어 권총을 특정한 사수에 알맞게 조정할 수 있습니다. 이 모델은 좋지 못한 보존 상태로 인해, 탄이 자주 걸립니다. \n \n
 		%c[ui_gray_2]부착물: \n%c[d_red] • %c[d_red] 소음기 장착이 불가능함</text>
 	</string>
 	<string id="st_wpn_fort_snag">
-		<text>Fort-17 (주문 제작됨)</text>
+		<text>포트-17 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_fort_snag_descr">
-		<text>The Fort-17 pistol is the latest development of the Ukrainian state owned FORT factory. It is a polymer framed modification of the earlier Fort-12 pistol, and all the mechanisms and properties are almost identical between the two pistols. However, the Fort-17 is lighter than its predecessor and features a removable grip backstrap, which can be had in various sizes, to adapt the pistol for a particular shooter. This variant used to belong to Snag.\n \n
+		<text>포트-17 권총은 우크라이나 국가 소속 FORT 군수공장에서 개발한 최신식 권총입니다. 이 권총은 예전 포트-12 권총을 폴리머 총몸으로 개조한 것으로, 작동 방식이나 특성들은 거의 동일합니다. 하지만, 포트-17은 선배격 권총보다 가벼우며 탈착 가능한 그립 백스트랩을 사용하는데, 이는 다양한 크기로 준비되어 있어 권총을 특정한 사수에 알맞게 조정할 수 있습니다. 이 모델은 스내그가 쓰던 것입니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 9x19 호환 소음기</text>
 	</string>
 	<string id="st_wpn_fort_worn">
-		<text>Fort-17 (낡음)</text>
+		<text>포트-17 (낡음)</text>
 	</string>
 	
 	<string id="st_wpn_g3">
 		<text>G3A3</text>
 	</string>
 	<string id="st_wpn_g3_descr">
-		<text>The G3A3 is a battle rifle developed in the 1950s by the German arms manufacturer Heckler &amp; Koch GmbH in collaboration with the Spanish state owned design and development agency CETME (Centro de Estudios Tecnicos de Materiales Especiales). It is designed to use the 7.62x51mm NATO round, and uses a Roller-delayed blowback action. The rifle owes its design to the CETME mod. A, which was designed by the german engineer Dr. Ludwig Vorgrimler. In 1957, Heckler &amp; Koch bought the license to manufacture the rifle, where small modifications were made to the CETME design. Officially adopted into service in 1959, by the Bundeswehr as the G3, it remained in service until 1995 when it was replaced by the G36. Despite having been officially replaced by the German army, it is still in limited use.\n \n
+		<text>G3A3은 1950년대에 독일의 군수회사 헤클러 &amp; 코흐 GmbH 사에서 에스파냐 국영 설계 및 개발 회사인 CETME(Centro de Estudios Tecnicos de Materiales Especiales; 특수 재료 기술 연구 센터) 와의 합작으로 개발되었습니다. 이 총기는 7.62x51mm NATO 탄을 사용하도록 설계되었으며, 롤러 딜레이드 블로우백 방식을 사용합니다. 이 소총은 CETME 모델 A 소총의 디자인을 본따 독일의 기술자인 루드비히 포어그림러 박사에 의해 설계되었습니다. 1957년에, 헤클러 운트 코흐 사는 CETME 사의 설계에서 조금 수정을 가해서 총기를 제작하기 위한 라이선스를 구입했습니다. 1959년부터 독일 정부군에 G3이라는 이름으로 보급되기 시작된 이후로, 1995년에 G36이 대체하기 전까지 제식 소총으로 남아 있었습니다. 비록 독일군에서 공식적으로는 다른 소총으로 교체되었지만, 아직도 일부 사용되고 있는 중입니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, 이오텍 조준경\n \n</text>
@@ -718,7 +718,7 @@
 		<text>G36</text>
 	</string>
 	<string id="st_wpn_g36_descr">
-		<text>The H&amp;K G-36 was known as the HK-50 project in early 1990s. After the cancellation of the G11 and G41 projects, the Bundeswehr was left with outdated G3 rifles; Heckler &amp; Koch was set to develop a new assault rifle for both the German army and for export. The new 5.56x45mm assault rifle was adopted by the Bundeswehr in 1995 and also found its way into the hands of various law enforcement agencies worldwide, including British police and some US police departments. So far, there have been very few complaints about this rifle. The more common ones being the overheating of the handguards during sustained fire, and the loss of zero on the built in scope of G36KE rifles. Some German soldiers also complained about the position of the dual optical sights and it being easily fogged in bad weather. Otherwise, it is accurate, reliable and simple in maintenance.\n \n
+		<text>H&amp;K G-36 소총은 1990년대 초반의 HK-50 프로젝트로 알려졌습니다. G11과 G41 프로젝트가 취소된 이후, 독일군은 오래된 G3 소총을 계속 써야 했고, 헤클러 운트 코흐 사는 독일군과 수출용을 목표로 새로운 돌격소총 개발을 시작하였습니다. 새로운 이 5.56x45mm 돌격 소총은 1995년 독일군이 도입하였고 영국 경찰 및 일부 미국 경찰들을 포함한 세계 곳곳의 다양한 법집행기관에도 수출되었습니다. 지금까지, 이 소총에 대해 극히 적은 몇 가지의 문제점이 제기되었습니다. 가장 흔한 불만은 사격을 지속했을 때의 총열 손잡이 부분의 과열이 있다는 것고, G36KE 소총의 일체형 스코프의 영점이 계속 틀어진다는 것이 있었습니다. 몇몇 독일군 병사들은 이중 광학 조준경의 위치에 대한 불만 및 해당 조준경이 악천후 속에서 쉽게 김이 서린다는 불편함을 보고하기도 했습니다. 그러한 점들을 제외하면, G36 돌격소총은 정확하고, 신뢰성이 높으면서 유지보수가 용이한 총기라고 할 수 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n \n</text>
 	</string>
@@ -733,7 +733,7 @@
 		<text>G36K</text>
 	</string>
 	<string id="st_wpn_g36k_descr">
-		<text>A shortened variant of the G-36 rifle with a shorter barrel, fitted with an open type flash suppressor, a shorter forend and a bottom rail that can be used to attach tactical accessories, such as a UTL flashlight. The rifle's barrel lacks the ability to launch rifle grenades and will not support a bayonet. G36K in service with German special forces are issued with a 100 round C-Mag drum. There are two variants of the G-36K, first has 3x scope with carry handle attached to the top and the second is fitted with iron sights and rail.\n \n
+		<text>짧은 총열과 개방형 소염기, 짧아진 총열 손잡이와 UTL 손전등을 비롯한 택티컬 악세서리를 부착할 수 있는 하부 레일이 달린 짧아진 형태의 G-36 소총입니다. 소총의 총열은 총류탄을 발사할 능력이 없고 총검 장착 또한 지원하지 않습니다. 독일 특수부대에서 사용되는 G36K는 100발 들이 C형 드럼 탄창을 장착할 수 있습니다. G-36K에는 두 가지 형태가 있는데, 3배율 조준경과 운반 손잡이가 위에 달린 형태와 아이언 사이트와 레일이 달린 형태가 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] G36 scope (일체형)\n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n \n</text>
@@ -746,12 +746,12 @@
 		<text>G3SG1</text>
 	</string>
 	<string id="st_wpn_g3sg1_descr">
-		<text>A sniper variant of the G3. The "SG" stands for Scharfschutzengewehr, or "sharpshooting rifle". The rifles were individually selected from the production line for their accuracy and then modified. A Zeiss 1.5-6x variable power telescopic sight was added using a HK claw mount attached to the receiver. The stock was extended slightly and comes with a heavy, dual-stage buffer and adjustable cheek rest. A special set trigger group was added for a crisp trigger pull of 1 lb. Automatic fire was retained.\n \n
+		<text>G3의 저격용 바리에이션입니다. "SG"는 Scharfschutzengewehr, 즉 "저격용 소총" 이라는 뜻입니다. 이 소총은 정확도가 좋은 소총만을 생산라인에서 개별적으로 골라서 개조된 것입니다. 자이스제 1.5-6배율 가변형 동력 망원 조준경이 H&amp;K 클로 마운트에 거치되어 리시버에 부착되어 있습니다. 개머리판은 조금 확장되었고 무거운 이중 구조의 반동제어 장치와 위치를 조정 가능한 칙 레스트가 포함되어 있습니다. 특별히 제작된 방아쇠 부품이 1 파운드 정도의 단단한 방아쇠 압력을 위해 추가되었습니다. 자동사격 기능은 남아있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] G3 scope (일체형)\n \n</text>
 	</string>
 	<string id="st_wpn_g3sg1_modern_descr">
-		<text>A sniper variant of the G3. The "SG" stands for Scharfschutzengewehr, or "sharpshooting rifle". The rifles were individually selected from the production line for their accuracy and then modified. A Zeiss 1.5-6x variable power telescopic sight was added using a H&amp;K claw mount attached to the receiver. The stock was extended slightly and comes with a heavy, dual-stage buffer and adjustable cheek rest. A special set trigger group was added for a crisp trigger pull of 1lb. Automatic fire was retained.\n \n
+		<text>G3의 저격용 바리에이션입니다. "SG"는 Scharfschutzengewehr, 즉 "저격용 소총" 이라는 뜻입니다. 이 소총은 정확도가 좋은 소총만을 생산라인에서 개별적으로 골라서 개조된 것입니다. 자이스제 1.5-6배율 가변형 동력 망원 조준경이 H&amp;K 클로 마운트에 거치되어 리시버에 부착되어 있습니다. 개머리판은 조금 확장되었고 무거운 이중 구조의 반동제어 장치와 위치를 조정 가능한 칙 레스트가 포함되어 있습니다. 특별히 제작된 방아쇠 부품이 1 파운드 정도의 단단한 방아쇠 압력을 위해 추가되었습니다. 자동사격 기능은 남아있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] G3 scope (일체형)\n \n</text>
 	</string>
@@ -760,12 +760,12 @@
 	</string>
 	
 	<string id="st_wpn_g43">
-		<text>Karabiner 43</text>
+		<text>카라비너 43</text>
 	</string>
 	<string id="st_wpn_g43_descr">
-		<text>Adopting a simple gas-operated mechanism from Soviet SVT rifles, Nazi Germany developed the Gewehr 43 semi-automatic rifle. It was renamed Karabiner 43 in 1944. Equipped with the ZF 4 telescopic sight, it is an effective sniper rifle.\n \n
+		<text>나치 독일은 소비에트 연방의 SVT 소총의 단순한 가스 작동식 총기구조를 도입하여 게베어 43 반자동 소총을 개발하였습니다. 이 소총은 1944년에 카라비너 43으로 개명되었습니다. ZF 4 망원 조준경이 장착되어 있어 효과적인 저격 소총이 될 수 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] ZF-41 scope (일체형)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] ZF-41 조준경 (일체형)\n \n</text>
 	</string>
 	
     <string id="st_wpn_famas3"> <!-- NEW GUNS -->
@@ -815,7 +815,7 @@
 	<string id="st_wpn_glock_descr">
 		<text>The Glock 19 is a smaller version of the Glock 17. Its reduced size made the Glock 19 easier to conceal and carry by military and police forces. The pistol was debuted by Glock GbmH of Austria in 1988. When compared to the Glock 17, the Glock 19 retains the weight of its slide to keep the short recoil operation in check while at the same time shortening the grip and barrel. Many components of the Glock 19 were made interchangeable with the Glock 17, including the magazine. Simply put, the Glock 19 is a compact version of the 17.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] GemTech suppressor (개조 후 사용 가능)</text>
+		%c[d_purple] • %c[ui_gray_2] 젬테크 소음기 (개조 후 사용 가능)</text>
 	</string>
 	<string id="st_wpn_glock_modern">
 		<text>Glock 19 (대체품)</text>
@@ -823,7 +823,7 @@
 	<string id="st_wpn_glock_modern_descr">
 		<text>The Glock 19 is a smaller version of the Glock 17. Its reduced size made the Glock 19 easier to conceal and carry by military and police forces. The pistol was debuted by Glock GbmH of Austria in 1988. When compared to the Glock 17, the Glock 19 retains the weight of its slide to keep the short recoil operation in check while at the same time shortening the grip and barrel. Many components of the Glock 19 were made interchangeable with the Glock 17, including the magazine. Simply put, the Glock 19 is a compact version of the 17. This model has an optional automatic fire mode.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] GemTech suppressor (개조 후 사용 가능)</text>
+		%c[d_purple] • %c[ui_gray_2] 젬테크 소음기 (개조 후 사용 가능)</text>
 	</string>
 	<string id="st_wpn_glock_worn">
 		<text>Glock 19 (낡음)</text>
@@ -1189,7 +1189,7 @@
 		<text>A submachine gun prototype based on the excellent H&amp;K MP5A3 model. Designed as a next generation close quarter combat weapon, it benefits from a higher calibre, rate of fire and accuracy.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632 scopes\n
-		%c[d_purple] • %c[ui_gray_2] GemTech suppressor (개조 후 사용 가능)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] 젬테크 소음기 (개조 후 사용 가능)\n \n</text>
 	</string>
 	<string id="st_wpn_mp5_worn">
 		<text>MP5A3 (낡음)</text>
@@ -1808,7 +1808,7 @@
 	<string id="st_wpn_usp_descr">
 		<text>Originally designed for the American market, the USP, Universal Self loading Pistol, is known as an accurate and reliable handgun. U.S. law enforcement and military provided much of the design criteria for the USP. The controls are uniquely American, influenced by famous designs like the Government Model 1911 pistol. All USPs use a fibre-reinforced polymer frame stiffened by stainless steel inserts at areas subject to stress and friction. Incorporating several successful handgun design elements, the USP Compact .45 is a part of the USP family of handguns designed by H&amp;K. Able to withstand extreme punishment and adverse conditions, it is used by several countries' police and special forces units.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] .45 ACP suppressor (개조 후 사용 가능)</text>
+		%c[d_purple] • %c[ui_gray_2] .45 ACP 소음기 (개조 후 사용 가능)</text>
 	</string>
 	<string id="st_wpn_usp_match">
 		<text>USP Match</text>
@@ -1816,7 +1816,7 @@
 	<string id="st_wpn_usp_match_descr">
 		<text>An enhanced USP by HK with distinct characteristics that make it more attractive to the target shooter. With the O-Ring barrel first seen in the Mark 23, the Match includes compensator that helps reduce the relatively mild kick of the 9x19. The Match also features polygonal rifling, a trigger stop, and fully adjustable rear sight.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] GemTech suppressor (개조 후 사용 가능)</text>
+		%c[d_purple] • %c[ui_gray_2] 젬테크 소음기 (개조 후 사용 가능)</text>
 	</string>
 	<string id="st_wpn_usp_nimble">
 		<text>USP "March"</text>
@@ -1824,7 +1824,7 @@
 	<string id="st_wpn_usp_nimble_descr">
 		<text>A compact, large calibre pistol with short bolt movement and lightweight bolt assembly. Used to belong to a mercenary called Wolfhound. Appears to be a modified USP Compact pistol.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] GemTech suppressor (개조 후 사용 가능)</text>
+		%c[d_purple] • %c[ui_gray_2] 젬테크 소음기 (개조 후 사용 가능)</text>
 	</string>
 	<string id="st_wpn_usp_worn">
 		<text>USP45 (낡음)</text>
