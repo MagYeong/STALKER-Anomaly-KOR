@@ -1063,7 +1063,7 @@
 		<text>M4A1 RAS</text>
 	</string>
 	<string id="st_wpn_m4_descr">
-		<text>The M4 Carbine descends from a family of firearms tracing its lineage back to earlier carbine versions of the M16, all based on the original AR-15 made by ArmaLite. It is a shorter and lighter version of the M16 assault rifle, sharing 80% of its parts. The M4 fires 5.56x45mm NATO ammunition and are gas operated, air cooled, magazine fed, selective fire firearms with a 4 position telescoping stock. As with many carbines, the M4 is handy and more convenient to carry than a full length rifle. It has been adopted by United States Special Operations Command (USSOCOM) and is the preferred weapon of the U.S. Army Special Forces and Navy SEALs.\n \n
+		<text>M4 카빈 돌격소총은 아말라이트 사에 의해 제작된 AR-15를 원본으로 한 M16의 초기 카빈 소총 버전을 비롯한 일련의 총기 계열에서 기원을 찾아낼 수 있습니다. 이 총기는 M16 돌격 소총을 짧고 가벼운 형태로 만든 것으로, 부품의 80%  정도를 공유합니다. M4 돌격소총은 5.56x45mm NATO 탄을 사용하는 가스 작동식, 공랭식, 탄창 급탄식, 네 곳의 조준경 부착대를 가진 사격 방식 선택기능 등의 특징을 가진 총기입니다. 다른 카빈 소총들과 비슷하게, M4는 길이가 단축되지 않은 총기들보다 다루거나 들고 다니는 것이 더 편리합니다. 이 소총은 미국 특수 작전 사령부 (USSOCOM)에서 도입하였고 미 육군 특수부대와 네이비 씰에서 가장 선호되는 무기가 되었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, 이오텍 조준경\n
@@ -1083,14 +1083,14 @@
 		<text>M4A1 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_m4a1_descr">
-		<text>Ideal for CQC (Close Quarters Combat), the M4A1 carbine is a fully automatic variant of the M16A2 assault rifle. In military use, it has largely replaced the submachine guns firing pistol cartridges that are inadequate against modern body armour. The M4A1 is a modified variant of the M4 carbine able to fire automatic or semi-automatic.\n \n
+		<text>CQC(Close Quarters Combat, 근접전)에 최적화된 M4A1 카빈은 M16A2 돌격 소총을 완전 자동 사격 버전으로 개량한 소총입니다. 군에서 사용되었을 때, 이 소총은 현대적인 몸통 방어구에 부적합한 권총탄을 발사하는 기관단총들을 대부분 대체하였습니다. M4A1은 이러한 M4 카빈 소총을 자동 또는 반자동 사격 방식을 선택할 수 있도록 수정된 바리에이션입니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, 이오텍 조준경\n
 		%c[d_purple] • %c[ui_gray_2] M203 유탄 발사기 (개조 후 사용 가능)\n \n</text>
 	</string>
 	<string id="st_wpn_m4a1_freedom">
-		<text>M4A1 (Freedom camouflage)</text>
+		<text>M4A1 (프리덤식 위장)</text>
 	</string>
 	<string id="st_wpn_m4a1_worn">
 		<text>M4A1 (낡음)</text>
@@ -1100,45 +1100,45 @@
 		<text>M79</text>
 	</string>
 	<string id="st_wpn_m79_descr">
-		<text>The M79 grenade launcher is a single shot, shoulder-fired, break-action grenade launcher that fires a 40x46mm grenade, which uses what the US Army calls the High-Low Propulsion System to keep recoil low. First appeared during the Vietnam War.</text>
+		<text>M79 유탄 발사기는 단발식, 견착식, 중절식 유탄 발사기로 40x46mm 유탄을 발사하며, 반동을 줄이기 위해 미군에서 하이-로우 프로펄션 시스템이라 불리는 기능을 사용하였습니다. 베트남 전쟁에서 처음으로 등장하였습니다.</text>
 	</string>
 	
 	<string id="st_wpn_m98b">
-		<text>Barrett M98B "Bravo"</text>
+		<text>바렛 M98B "브라보"</text>
 	</string>
 	<string id="st_wpn_m98b_descr">
-		<text>The Barrett M98B is a bolt-action sniper rifle chambered in .338 Lapua Mag. Rather than modifying a hunting rifle, Barrett created an original design for the M98B. The M98B features an adjustable stock and cheek pad for comfort, an adjustable trigger for preferable trigger control, a rear monopod and a front bi-pod for stability. Users can further modify the rifle by attaching sights, lights and grips to its rails. The M98B has a simple design making it easy for users to disassemble and clean.\n \n
+		<text>바렛 M98B는 .338 라푸아 탄을 사용하는 볼트액션 저격소총입니다. 바렛은 기존의 사냥용 소총을 개조하지 않고, M98B를 위한 고유한 디자인을 만들어냈습니다. M98B 소총은 조절가능한 개머리판과 편의성을 위한 칙패드, 더 나은 방아쇠 컨트롤을 위한 조절가능한 방아쇠 장치, 그리고 안정성을 위한 후방 지지대와 전방 양각대가 장비되어 있습니다. 사용자들은 조준경을 장착하고, 레일에 전등이나 그립을 부착하는 등의 더 많은 개조를 할 수 있습니다. M98B는 분해 및 청소를 쉽게 할 수 있는 단순한 디자인으로 되어 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 레오폴드 마크 4 조준경 (일체형)\n
-		%c[d_purple] • %c[ui_gray_2] SR-25 suppressor(개조 후 사용 가능)</text>
+		%c[d_purple] • %c[ui_gray_2] SR-25 소음기(개조 후 사용 가능)</text>
 	</string>
 	
 	<string id="st_wpn_mosin">
-		<text>Mosin-Nagant</text>
+		<text>모신나강</text>
 	</string>
 	<string id="st_wpn_mosin_descr">
-		<text>A basic version of the Mosin-Nagant with slightly worn interiors. The M1891/30 was produced for standard issue to all Soviet infantry from 1930 to 1945. It was extremely successful in World War II as a sniper rifle when it was equipped with a 4x PE or a 3.5x PU scope.\n \n
-		%c[ui_gray_2]부착물: \n%c[d_purple]• %c[ui_gray_2] PU scope\n \n</text>
+		<text>조금 낡은 내부구조를 가진 모신나강의 기본형입니다. M1891/30 소총은 1930년부터 1945년까지 소련군 보병의 제식 소총으로 생산되었습니다. 이 소총은 제 2차 세계대전에서 4배율 PE 조준경 또는 3.5배율 PU 조준경을 장비할 수 있는 저격소총으로서 매우 성공적으로 사용되었습니다.\n \n
+		%c[ui_gray_2]부착물: \n%c[d_purple]• %c[ui_gray_2] PU 조준경\n \n</text>
 	</string>
 	<string id="st_wpn_mosin_worn">
-		<text>Mosin-Nagant (낡음)</text>
+		<text>모신나강 (낡음)</text>
 	</string>
 	
 	<string id="st_wpn_mossberg590">
-		<text>Mossberg 590A1</text>
+		<text>모스버그 590A1</text>
 	</string>
 	<string id="st_wpn_mossberg590_descr">
-		<text>Mossberg 590 was developed by O.F.Mossberg &amp; sons company during 1970s in US as a modification of the Mossberg model 500 shotgun for adoption by the US Military. Modifications included strengthening of the receiver, installation of the vented heatshield around the barrel, a bayonet lug and extended magazine and an aluminium trigger guard instead of plastic one. Standard finish is Parkerizing, and the gun is provided with replacement pistol grip, which allows easy conversion to 'Cruiser' modification. Since 1987, this was the standard shotgun of US Armed forces; officially replaced in US Army with Benelli M1014 semi-automatic shotgun, Mossberg 590 shotguns are still used by US Navy and US Marine Corp.\n \n</text>
+		<text>모스버그 590은 1970년대에 O.F.모스버그 &amp; 손즈 사에서 미군에 납품하기 위해 모스버그 모델 500 산탄총을 개량하여 개발되었습니다. 개조는 리시버 길이를 확장하고, 총열 주위에 방열판을 설치하고, 총검 부착용 돌출부와 확장된 관형 탄창, 그리고 플라스틱이 아닌 알루미늄 방아쇠울을 추가하는 형태로 이루어졌습니다. 마감 작업은 파커라이징으로 이루어졌고, '크루저' 형태로 변환하기 쉽도록 보조 피스톨 그립이 제공되었습니다. 1987년 이래로, 모스버그 590 산탄총은 베넬리 M1014 반자동 산탄총에 의해 대체되기 전까지 미 육군의 제식 산탄총이 되었고, 지금까지도 미 해군과 미 해병대에 의해 사용되고 있습니다.\n \n</text>
 	</string>
 	<string id="st_wpn_mossberg590_worn">
-		<text>Mossberg 590A1 (낡음)</text>
+		<text>모스버그 590A1 (낡음)</text>
 	</string>
 	
 	<string id="st_wpn_mp133">
 		<text>MP-133</text>
 	</string>
 	<string id="st_wpn_mp133_descr">
-		<text>The MP-133 is a product of the Izhevsk Mechanical Plant. This shotgun is an evolution of the earlier IZh-81 pump action shotgun, and is intended for civilian and security markets. It is produced in two basic versions: standard MP-133 with tubular magazine and MP-133K with detachable box magazine, both versions can be in various barrel lengths and styles, wood or polymer furniture, fixed or side folding polymer stock or pistol grip only. The MP-133 shotgun uses traditional pump action with sliding forend that has dual action bars. Locking is achieved by a tilting locking piece, installed in the bolt and engages the notch in the barrel extension when in battery. Feed is from tubular underbarrel magazine that holds 4 rounds, though capacity can be enhanced by installing magazine extension tubes.\n \n</text>
+		<text>MP-133은 이제브스크 군수 공장에서 제조되었습니다. 이 산탄총은 이전의 IZh-81 펌프 액션형 산탄총을 개량하여 만들어졌으며, 민간인과 보안업체를 겨냥하여 설계되었습니다. 이 산탄총은 관형 탄창을 사용하는 표준형인 MP-133과 탈착 가능한 박스형 탄창을 사용하는 MP-133K의 두 가지 기본 형태로 제조되었고, 두 가지 형식은 다양한 총열 길이와 스타일, 나무 또는 폴리머 재질 총몸, 고정식 또는 측면 접철식 폴리머 개머리판, 또는 권총 손잡이만 다는 등 다양한 개조 형태로 사용할 수 있습니다. MP-133 산탄총은 이중 액션 바가 있는 슬라이딩 총열 손잡이를 사용한 전통적인 펌프액션 형식으로 작동합니다. 총열 잠금은 노리쇠 안에 설치되어 있는 틸팅 잠금 장치가 발사 준비가 되었을 때 확장된 총열의 홈에 맞물리면서 이루어집니다. 급탄은 4발의 산탄이 장전되는 관형 총열하부 탄창에 의해 이루어지는데, 탄창의 용량은 확장 튜브 탄창을 설치함으로써 늘릴 수 있습니다.\n \n</text>
 	</string>
 	<string id="st_wpn_mp133_rusty">
 		<text>MP-133 (녹슬음)</text>
@@ -1151,7 +1151,7 @@
 		<text>MP-153</text>
 	</string>
 	<string id="st_wpn_mp153_descr">
-		<text>The MP-153 self-loading shotgun was the first semi-automatic shotgun designed and manufactured by Izhevsk Mechanical Plant. It was developed along with the pump action MP-133 shotgun and shares many parts and assemblies with it. The MP-153 is one of the most popular semi-automatic shotguns of Russian origin, and is widely used to hunt various games in Russia. It is also sold for export, it is known as Remington "Spartan" SPR-453 autoloader in US. MP-153 shotguns are known for solid but somewhat heavy construction and reliability.\n \n</text>
+		<text>MP-153 자동 급탄식 산탄총은 최초의 반자동 산탄총으로 이제브스크 군수공장에서 생산되었습니다. 이 총은 펌프액션식 MP-133 산탄총과 함께 제작되었으며 많은 부품과 조립방식을 공유합니다. MP-153은 러시아에서 유래한 가장 인기있는 반자동 산탄총들 중 하나이며, 러시아에서 다양한 사냥감들을 잡는 데 널리 사용되고 있습니다. 또한 이 총은 수출품으로도 널리 팔리게 되어, 미국에서는 레밍턴 "스파르탄" SPR-453 오토로더라는 이름으로 유명해졌습니다. MP-153 산탄총은 단단하지만 다소 무거운 구조와 신뢰성으로 유명합니다.\n \n</text>
 	</string>
 	<string id="st_wpn_mp153_rusty">
 		<text>MP-153 (녹슬음)</text>
@@ -1164,7 +1164,7 @@
 		<text>MP-412 Rex</text>
 	</string>
 	<string id="st_wpn_mp412_descr">
-		<text>The MP412 REX is a Russian double-action .357 magnum revolver with a break-action chamber and an automatic ejector. It was designed for export (REX, Revolver for EXport), but never put into full production due to lack of a market. The weapon was designed by IZHMECH, the state-owned Russian Izhevsk Mechanical Plant, which also designed and produced the Makarov PM semi-automatic pistol.</text>
+		<text>MP-412 REX는 브레이크 액션 방식의 약실과 자동 가스분출기를 사용하는 더블 액션식 .357 매그넘 리볼버입니다. 이 총기는 수출용(REX, Revolver for EXport)으로 제작되었지만, 시장에서 별로 선호되지 않아 완전 대량생산으로 들어가지는 못했습니다. 이 무기는 마카로프 PM 반자동 권총을 설계하고 제작했던 러시아 국영 이제브스크 군수공장(IZHMECH)에서 설계되었습니다.</text>
 	</string>
 	
 	<string id="st_wpn_mp5">
@@ -1177,18 +1177,18 @@
 		<text>MP5A3 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_mp5_descr">
-		<text>The MP5 is one of the most famous and wide spread firearms of its class. The MP5's compactness, accuracy and reliability have made it a favourite of numerous military, law enforcement, intelligence and security organisations the world over. The MP5A3 is fitted with a retractable metal stock. Not surprisingly, having flooded the global black markets, it eventually made its way to the Zone.\n \n
+		<text>MP5는 여러 동급 기관단총들 중에서 가장 유명하고 널리 퍼진 총기들 중 하나입니다. MP5의 작은 크기와 정확도, 그리고 신뢰성은 전 세계의 수많은 군경, 첩보기관 그리고 보안 업체들로부터 환영받았습니다. MP5A3에는 수납 가능한 금속 개머리판이 장비되었습니다. 그리 놀랄만한 사실은 아니지만, 이 총은 전 세계의 암시장에 널린 물건이기 때문에 결국 존 안에도 흘러들어오게 되었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632 scopes\n
+		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632 조준경\n
 		%c[d_purple] • %c[ui_gray_2] 9x19 호환 소음기 (개조 후 사용 가능)\n \n</text>
 	</string>
 	<string id="st_wpn_mp5_nimble">
-		<text>MP5A3 "Frasier"</text>
+		<text>MP5A3 "프레이저"</text>
 	</string>
 	<string id="st_wpn_mp5_nimble_descr">
-		<text>A submachine gun prototype based on the excellent H&amp;K MP5A3 model. Designed as a next generation close quarter combat weapon, it benefits from a higher calibre, rate of fire and accuracy.\n \n
+		<text>훌륭한 H&amp;K MP5A3 모델을 기반으로 한 기관단총 시제품입니다. 차세대의 접근전용 무기를 목표로 설계된 이 총은 더 높은 구경, 연사력과 정확도를 가집니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632 scopes\n
+		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632 조준경\n
 		%c[d_purple] • %c[ui_gray_2] 젬테크 소음기 (개조 후 사용 가능)\n \n</text>
 	</string>
 	<string id="st_wpn_mp5_worn">
@@ -1202,10 +1202,10 @@
 		<text>MP5SD6 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_mp5sd_descr">
-		<text>A variant of the MP5 with an integrated suppressor. In the Zone, mercenaries prefer this variant to the normal one.\n \n
+		<text>소음기가 내장된 MP5의 바리에이션입니다. 존 내부에서, 용병들은 일반적인 것들보다 이 형식을 더 선호합니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632 scopes, 이오텍 조준경\n
-		%c[d_purple] • %c[ui_gray_2] special MP5SD suppressor (일체형)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632 조준경, 이오텍 조준경\n
+		%c[d_purple] • %c[ui_gray_2] MP5SD 전용 소음기 (일체형)\n \n</text>
 	</string>
 	<string id="st_wpn_mp5sd_new">
 		<text>MP5SD6 (신형)</text>
@@ -1215,32 +1215,32 @@
 	</string>
 	
 	<string id="st_wpn_oc33">
-		<text>OTs-33 Pernach</text>
+		<text>OTs-33 페르나치</text>
 	</string>
 	<string id="st_wpn_oc33_descr">
-		<text>OTs-33 "Pernach" (Russian for multivaned mace) is a recent entry into the small class of Russian automatic pistols. The OTs-33 is a blowback-operated weapon firing the 9x18mm Makarov pistol cartridge in automatic and semi-automatic mode. The Pernach was developed in 1995 to replace the Stechkin APS pistol in special paramilitary units. Designed in 1995 by Igor Stechkin at the TSKIB SOO, Central Design Bureau for Sporting and Hunting arms, Tula, Russia, the same designer who developed the APS.\n \n
+		<text>OTs-33 "페르나치" (날개달린 메이스를 뜻하는 러시아어)는 최근 개발된 소형 러시아 자동권총입니다. OTs-33은 9x18mm 마카로프 권총탄을 자동사격 또는 반자동사격으로 발사할 수 있는 블로우백 방식 권총입니다. 페르나치는 특수 임무 공수부대에서 스테츠킨 APS 권총을 대체하기 위해 1995년에 개발되었습니다. 이 총은 APS를 개발했던 총기 디자이너인 러시아 툴라에 위치한 TsKIB SOO 사의 스포츠 및 사냥용 총기개발을 위한 중앙 설계 부서 소속의 이고르 스테츠킨이 1995년에 설계하였습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] APS 소음기 (개조 후 사용 가능)</text>
 	</string>
 	<string id="st_wpn_oc33_rusty">
-		<text>OTs-33 Pernach (녹슬음)</text>
+		<text>OTs-33 페르나치 (녹슬음)</text>
 	</string>
 	<string id="st_wpn_oc33_rusty_descr">
-		<text>OTs-33 "Pernach" (Russian for multivaned mace) is a recent entry into the small class of Russian automatic pistols. The OTs-33 is a blowback-operated weapon firing the 9x18mm Makarov pistol cartridge in automatic and semi-automatic mode. The Pernach was developed in 1995 to replace the Stechkin APS pistol in special paramilitary units. Designed in 1995 by Igor Stechkin at the TSKIB SOO, Central Design Bureau for Sporting and Hunting arms, Tula, Russia, the same designer who developed the APS. Poor safekeeping made this model unreliable.\n \n
+		<text>OTs-33 "페르나치" (날개달린 메이스를 뜻하는 러시아어)는 최근 개발된 소형 러시아 자동권총입니다. OTs-33은 9x18mm 마카로프 권총탄을 자동사격 또는 반자동사격으로 발사할 수 있는 블로우백 방식 권총입니다. 페르나치는 특수 임무 공수부대에서 스테츠킨 APS 권총을 대체하기 위해 1995년에 개발되었습니다. 이 총은 APS를 개발했던 총기 디자이너인 러시아 툴라에 위치한 TsKIB SOO 사의 스포츠 및 사냥용 총기개발을 위한 중앙 설계 부서 소속의 이고르 스테츠킨이 1995년에 설계하였습니다. 이 모델은 형편없는 유지보수로 인해 신뢰성이 낮아졌습니다.\n \n
 		%c[ui_gray_2]부착물: \n%c[d_red] • %c[d_red] 소음기 장착이 불가능함</text>
 	</string>
 	<string id="st_wpn_oc33_worn">
-		<text>OTs-33 Pernach (낡음)</text>
+		<text>OTs-33 페르나치 (낡음)</text>
 	</string>
 	
 	<string id="st_wpn_p90">
 		<text>FN P90</text>
 	</string>
 	<string id="st_wpn_p90_descr">
-		<text>The FN P90 submachine gun was developed in the late 1980s as a personal defence weapon for troops whose primary activities does not include small arms, such as vehicle and tank crew members, artillery crews etc. Standard pistols and submachine guns were proven ineffective against enemies wearing body armour. FN designers developed a new round, initially designated as SS90, to achieve high penetration while keeping recoil low FN used a small-bore approach, creating a round that looked like the scaled down 5.56 NATO round. The result was FN P90 personal defence weapon, introduced in 1990 along with improved 5.7x28 SS190 ammunition which replaced polymer cored bullets with heavier dual core, steel and aluminium, bullets for better penetration against body armour.\n \n
+		<text>FN P90 기관단총은 군용차량이나 전차 승무원, 또는 포병 등 우선순위 임무에 소총을 사용한 직접 교전이 포함되지 않은 군 부대의 개인 방어 화기를 목적으로 1980년대 후반에 개발되었습니다. 기존의 권총이나 기관단총은 방어구를 입은 적 상대로 효과적이지 않다는 것이 증명되었습니다. FN의 개발자들은 반동을 낮게 유지하면서 높은 관통력을 가지는 탄약을 만들기 위해, 새로운 탄약을 SS90이라는 명명하에 개발하기 시작하였습니다. FN 사는 소구경 탄약에 주목하여, 5.56mm NATO 탄을 축소한 듯한 새로운 탄종을 만들어냈습니다. 그 결과로 1990년에 기존의 폴리머 탄자를 가진 탄환을 대체하는 더 무거운 강철과 알루미늄으로 된 이중 탄자를 사용함으로써 방탄복에 대한 더욱 뛰어난 관통력을 가진 탄환인 5.7x28 SS190 탄을 사용하는 P90 개인방어화기가 등장하게 되었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, 이오텍 조준경\n
-		%c[d_purple] • %c[ui_gray_2] 5.7x28 compatible suppressor</text>
+		%c[d_purple] • %c[ui_gray_2] 5.7x28 호환 소음기</text>
 	</string>
 	
 	<string id="st_wpn_pb">
@@ -1250,50 +1250,50 @@
 		<text>PB (현대화됨)</text>
 	</string>
 	<string id="st_wpn_pb_descr">
-		<text>The PB (Pistolet Besshumnyj or Silent Pistol), also known in the Soviet army as 6P9, has been developed in 1967 for Spetsnaz units of the Soviet Army, as well as for KGB operatives. The pistol is based on a modified Makarov PM pistol and features an unique integral two part suppressor. Issued into service in 1967, the PB (GRAU index 6P9) is a Soviet silenced pistol based on the Makarov PM. It was intended for use by the KGB and army reconnaissance groups. The front part of the suppressor is detachable, so that the pistol can be broken down into two parts for convenient carry. The PB's integral suppressor also reduces the bullet velocity to below subsonic levels.\n \n
+		<text>PB (Pistolet Besshumnyj 또는 소음 권총), 또는 소련군에서 6P9로 알려진 이 권총은 소련군의 스페츠나츠 대원들 및 KGB 요원들을 위해 1967년에 개발되었습니다. 이 권총은 마카로프 PM 권총을 개조하여 만들어졌으며 특유의 일체형 이중 구조 소음기가 달려 있습니다. 소음기의 앞부분은 분리할 수 있어서, 편리한 운반을 위해 권총을 두 개의 부분으로 나눌 수 있었습니다. 또한 PB 권총의 일체형 소음기는 아음속 수준으로 탄자의 속도를 감소시켜 줍니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] 6P9 suppressor (일체형)</text>
+		%c[d_purple] • %c[ui_gray_2] 6P9 소음기 (일체형)</text>
 	</string>
 	<string id="st_wpn_pb_worn">
 		<text>PB (낡음)</text>
 	</string>
 	
 	<string id="st_wpn_pkm_zulus">
-		<text>Zulu's PKM</text>
+		<text>줄루의 PKM</text>
 	</string>
 	<string id="st_wpn_pkm_zulus_descr">
-		<text>This weapon was previously owned by Zulu. Its special features include an enlarged ammo box and a particularly reliable retracting mechanism design. The modifications meant an increase in the weapon's weight, but that wasn't a problem for the last owner.\n \n
+		<text>이 무기는 원래 줄루가 소유하고 있던 물건이었습니다. 이 총기는 확장된 탄약 상자와 상당한 신뢰성을 가진 후퇴전진 장치 설계가 포함되었다는 특징을 갖습니다. 이러한 개조로 인해 무기의 무게가 늘어나는 결과를 낳았지만, 무기의 원래 소유자에게는 그다지 문제가 되지 않았습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] EKP-1S-03 Kobra 조준경 (일체형)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] EKP-1S-03 코브라 조준경 (일체형)\n \n</text>
 	</string>
 	
 	<string id="st_wpn_pkp">
-		<text>PKP Pecheneg</text>
+		<text>PKP 페체네그</text>
 	</string>
 	<string id="st_wpn_pkp_descr">
-		<text>The PKP "Pecheneg" is a Russian light machine gun chambered for the 7.62x54mmR round. It is a modernised PKM machine gun. The Pecheneg is said to be more accurate than all its predecessors due to a heavier, non-removable, forced air cooling barrel with radial cooling ribs and a handle which eliminates the haze effect from hot gases and keeps the barrel cooler, making the weapon more reliable.\n \n</text>
+		<text>PKP "페체네그" 기관총은 7.62x54mmR 탄을 사용하는 러시아의 경기관총입니다. 이 총은 PKM 기관총을 현대화하여 만들어졌습니다. 페체네그 기관총은 전에 개발된 PK 계열 기관총보다 더욱 정확하다는 평가를 받는데 이는 방열판이 달린 더 무겁고, 제거 불가능한 강제적인 공랭 방식의 총열과 뜨거운 가스로부터 발생하는 헤이즈 현상을 제거하고 총열을 식혀서 무기의 신뢰성을 높이는 핸들이 장착되어 있기 때문입니다.\n \n</text>
 	</string>
 	
 	<string id="st_wpn_pm">
 		<text>PM</text>
 	</string>
 	<string id="st_wpn_pm_actor">
-		<text>Ceremonial Makarov PM</text>
+		<text>의장용 마카로프 PM</text>
 	</string>
 	<string id="st_wpn_pm_actor_descr">
-		<text>An ancient PM given to Degtyarev as a reward for "Successful execution of highly dangerous state orders, as well as valour and courage shown in the line of duty".</text>
+		<text>"임무 수행 중 보여주었던 용맹함과 함께, 국가가 내린 매우 위험한 명령을 성공적으로 수행한 것에 대한" 보상으로서 덱탸레프에게 지급된 오래된 PM 권총입니다.</text>
 	</string>
 	<string id="st_wpn_pm_custom">
 		<text>PM (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_pm_descr">
-		<text>This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defence handguns available. It is small, highly reliable, easy to use and maintain in working order. It also suffers from several drawbacks, including short range, low firing accuracy and poor stopping power, while also losing out to modern pistols in its class in terms of weight and magazine size. In 1951, the Pistol Makarova was selected because of its simplicity, easy manufacturing, accuracy, and reasonable stopping power.</text>
+		<text>이 소비에트가 남긴 유산은 존에서 가장 흔한 권총이며 가장 작은 자기방어용 권총들 중 하나로 사용할 수 있습니다. 이 권총은 작으며, 신뢰성이 매우 높고, 사용이 편리하며 유지보수가 쉽습니다. 하지만 이 권총은 짧은 사거리와 낮은 정확도, 그리고 형편없는 저지력같은 단점을 가지며 최신식 권총들과 무게 및 탄창 크기를 비교했을 때 상대적으로 낮은 평가를 받습니다. 그렇지만 1951년 당시에는, 마카로프 권총은 단순한 구조와, 쉬운 생산, 정확도, 그리고 괜찮은 저지력으로 채택되었었습니다.</text>
 	</string>
 	<string id="st_wpn_pm_rusty">
 		<text>PM (녹슬음)</text>
 	</string>
 	<string id="st_wpn_pm_rusty_descr">
-		<text>This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defence handguns available. It is small, highly reliable, easy to use and maintain in working order. It also suffers from several drawbacks, including short range, low firing accuracy and poor stopping power, while also losing out to modern pistols in its class in terms of weight and magazine size. In 1951, the Pistol Makarova was selected because of its simplicity, easy manufacturing, accuracy, and reasonable stopping power. Rust has made this model considerably less reliable</text>
+		<text>이 소비에트가 남긴 유산은 존에서 가장 흔한 권총이며 가장 작은 자기방어용 권총들 중 하나로 사용할 수 있습니다. 이 권총은 작으며, 신뢰성이 매우 높고, 사용이 편리하며 유지보수가 쉽습니다. 하지만 이 권총은 짧은 사거리와 낮은 정확도, 그리고 형편없는 저지력같은 단점을 가지며 최신식 권총들과 무게 및 탄창 크기를 비교했을 때 상대적으로 낮은 평가를 받습니다. 그렇지만 1951년 당시에는, 마카로프 권총은 단순한 구조와, 쉬운 생산, 정확도, 그리고 괜찮은 저지력으로 채택되었었습니다. 이 모델은 녹이 슬어 더욱 낮은 신뢰성을 가집니다.</text>
 	</string>
 	<string id="st_wpn_pm_worn">
 		<text>PM (낡음)</text>
@@ -1303,14 +1303,14 @@
 		<text>PMM</text>
 	</string>
 	<string id="st_wpn_pmm_descr">
-		<text>The most widely known variant, the Makarov PMM was a redesign of the original gun. In 1990 a group of engineers reworked the original Makarov, primarily by increasing the load for the cartridge. The result is 25% more gas pressure increasing in 포구 초속. The PMM magazine holds 12 rounds, compared to the PM's 8 rounds.</text>
+		<text>마카로프 PMM 권총은 기존의 PM 권총을 재설계한 것으로 가장 널리 알려진 바리에이션에 속합니다. 1990년에 한 기술자 집단이 탄창 용량의 증가를 최우선으로 하여 기존의 마카로프 권총을 재설계하였습니다. 그 결과 25%의 추가적인 가스 압력이 발생해 총구 초속이 더 빨라졌습니다. PM의 8발들이 탄창과 비교하면, PMM 권총의 탄창은 12발을 장전할 수 있습니다.</text>
 	</string>
 	
 	<string id="st_wpn_pp2000">
 		<text>PP-2000</text>
 	</string>
 	<string id="st_wpn_pp2000_descr">
-		<text>The PP-2000 is the latest development of the Instrument Design Bureau (KBP) from Tula, Russia. First displayed to the public in 2004, the patent for its layout has been filed in 2001 and was issued in 2003. The niche for the PP-2000 is a personal defence weapon for non-infantry military personnel, as well as close combat weapon for special forces and special law enforcement teams. As such, it is a compact weapon with few parts for reliability, simplified maintenance and low cost. Best suited for close combat.\n \n
+		<text>PP-2000 기관단총은 러시아 툴라 조병창의 무기 설계 부서 (KBP)의 최신 발명품입니다. 2004년에 처음으로 대중에게 공개되었고, 무기 외형의 특허권은 2001년에 신청되어 2003년에 등록되었습니다. PP-2000은 보병이 아닌 군인의 개인방어화기, 또는 특수부대나 경찰특공대의 근접전용 무기로서 설계되었습니다. 따라서, 이 총기는 신뢰성과 간단한 유지보수, 그리고 낮은 가격을 위해 몇 개 안되는 부품으로 제작된 작은 무기가 되었습니다. 근접전에 적합합니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, 이오텍 조준경\n
 		%c[d_purple] • %c[ui_gray_2] 9x19 호환 소음기\n \n</text>
@@ -1323,10 +1323,10 @@
 		<text>PPSh-41 (현대화됨)</text>
 	</string>
 	<string id="st_wpn_ppsh41_camo">
-		<text>PPSh-41 (camo)</text>
+		<text>PPSh-41 (위장됨)</text>
 	</string>
 	<string id="st_wpn_ppsh41_old">
-		<text>PPSh-41 (old)</text>
+		<text>PPSh-41 (오래됨)</text>
 	</string>
 	<string id="st_wpn_ppsh41_rusty">
 		<text>PPSh-41 (녹슬음)</text>
@@ -1335,47 +1335,47 @@
 		<text>PPsh-41 (낡음)</text>
 	</string>
 	<string id="st_wpn_ppsh41_descr">
-		<text>A major infantry weapon of the Soviet armed forces during World War II, the PPSh-41 was a durable, low-maintenance weapon made of cheap, easily-obtained components. They utilise 7.62x25mm cartridge.\n \n</text>
+		<text>제 2차 세계대전 때 소련군이 사용했던 보병의 주무기로서, PPSh-41은 값싸고, 쉽게 만들 수 있는 부품으로 만든 튼튼하고, 유지보수가 거의 필요없는 무기입니다. 7.62x25mm 탄을 사용합니다.\n \n</text>
 	</string>
 	
 	<string id="st_wpn_protecta">
-		<text>Armsel Protecta</text>
+		<text>암셀 프로텍타</text>
 	</string>
 	<string id="st_wpn_protecta_aim">
-		<text>Armsel Protecta (현대화됨)</text>
+		<text>암셀 프로텍타 (현대화됨)</text>
 	</string>
 	<string id="st_wpn_protecta_aim_descr">
-		<text>The uniquely designed Armsel Protecta is a rotating cylinder fed 12-gauge shotgun developed for riot control and combat. Antiquated now by the Russian Saiga-12 and the American AA-12, the Protecta was a revolutionary weapon created by the Apartheid government in the 1980s. This smoothbore combat revolver-type shotgun was intended to provide extreme firepower for militarised units. The weapon benefits from a large magazine and a high effective rate of fire, but its bulkiness and considerable weight, combined with a long 재장전 시간, are the price to be paid for these advantages. Rare in the Zone and used primarily to clear confined spaces of mutants. Specifically this variant is highly modernised, details inside are tightly fit to each other, muzzle energy is increased significantly thanks to higher pressure in the gun barrel. Sacrificing rate of fire, stopping power is increased. This model has Aimpoint AB collimator sight made by Swedish company.\n \n
+		<text>특유의 디자인으로 유명한 암셀 프로텍타 산탄총은 폭동 진압 및 전투용으로 개발된 회전 실린더 급탄방식의 12게이지 산탄총입니다. 이제는 러시아의 사이가-12나 미국의 AA-12 등의 무기들에 밀려 구시대의 유물이 되었지만, 프로텍타 산탄총은 1980년대에 남아공의 아파르트헤이트 정부에서 만들어낸 획기적인 물건이었습니다. 이 리볼버 형식의 활강식 전투용 산탄총은 군인의 화력을 극대화하기 위해 고안되었습니다. 이 총기는 큰 용량의 탄창과 높은 연사력으로 각광받았지만, 총기의 엄청난 크기와 상당한 무게와 긴 장전 시간이 겹쳐서 이러한 장점들이 모두 상쇄되었습니다. 존에서는 희귀한 무기이며 주로 좁은 공간에서 뮤턴트들을 쓸어버리기 위해 사용됩니다. 이 바리에이션은 현대화가 상당한 수준으로 진행되었으며, 내부 구조가 서로 단단히 맞물려 있고 좀 더 높은 압력을 버티도록 설계된 총열 덕에 총구에서의 화약 에너지가 상당히 증가하였습니다. 연사력을 희생한 대신, 저지력이 상승하였습니다. 이 모델은 스웨덴 회사에서 만든 에임포인트 AB 분광식 조준기를 사용합니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] "Aimpoint" sight (일체형)</text>
+		%c[d_purple] • %c[ui_gray_2] "에임포인트" 조준기 (일체형)</text>
 	</string>
 	<string id="st_wpn_protecta_camo">
-		<text>Armsel Protecta (위장됨)</text>
+		<text>암셀 프로텍타 (위장됨)</text>
 	</string>
 	<string id="st_wpn_protecta_custom">
-		<text>Armsel Protecta (맞춤식 개조)</text>
+		<text>암셀 프로텍타 (맞춤식 개조)</text>
 	</string>
 	<string id="st_wpn_protecta_descr">
-		<text>The uniquely designed Armsel Protecta is a rotating cylinder fed 12-gauge shotgun developed for riot control and combat. Antiquated now by the Russian Saiga-12 and the American AA-12, the Protecta was a revolutionary weapon created by the Apartheid government in the 1980s. This smoothbore combat revolver-type shotgun was intended to provide extreme firepower for militarised units. The weapon benefits from a large magazine and a high effective rate of fire, but its bulkiness and considerable weight, combined with a long 재장전 시간, are the price to be paid for these advantages. Rare in the Zone and used primarily to clear confined spaces of mutants.</text>
+		<text>특유의 디자인으로 유명한 암셀 프로텍타 산탄총은 폭동 진압 및 전투용으로 개발된 회전 실린더 급탄방식의 12게이지 산탄총입니다. 이제는 러시아의 사이가-12나 미국의 AA-12 등의 무기들에 밀려 구시대의 유물이 되었지만, 프로텍타 산탄총은 1980년대에 남아공의 아파르트헤이트 정부에서 만들어낸 획기적인 물건이었습니다. 이 리볼버 형식의 활강식 전투용 산탄총은 군인의 화력을 극대화하기 위해 고안되었습니다. 이 총기는 큰 용량의 탄창과 높은 연사력으로 각광받았지만, 총기의 엄청난 크기와 상당한 무게와 긴 장전 시간이 겹쳐서 이러한 장점들이 모두 상쇄되었습니다. 존에서는 희귀한 무기이며 주로 좁은 공간에서 뮤턴트들을 쓸어버리기 위해 사용됩니다.</text>
 	</string>
 	<string id="st_wpn_protecta_nimble">
-		<text>Armsel Protecta (주문 제작됨)</text>
+		<text>암셀 프로텍타 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_protecta_nimble_descr">
-		<text>The uniquely designed Armsel Protecta is a rotating cylinder fed 12-gauge shotgun developed for riot control and combat. Antiquated now by the Russian Saiga-12 and the American AA-12, the Protecta was a revolutionary weapon created by the Apartheid government in the 1980s. This smoothbore combat revolver-type shotgun was intended to provide extreme firepower for militarised units. The weapon benefits from a large magazine and a high effective rate of fire, but its bulkiness and considerable weight, combined with a long 재장전 시간, are the price to be paid for these advantages. Rare in the Zone and used primarily to clear confined spaces of mutants. According to certain sources, this model once belonged to Tank, but little is known about him.</text>
+		<text>특유의 디자인으로 유명한 암셀 프로텍타 산탄총은 폭동 진압 및 전투용으로 개발된 회전 실린더 급탄방식의 12게이지 산탄총입니다. 이제는 러시아의 사이가-12나 미국의 AA-12 등의 무기들에 밀려 구시대의 유물이 되었지만, 프로텍타 산탄총은 1980년대에 남아공의 아파르트헤이트 정부에서 만들어낸 획기적인 물건이었습니다. 이 리볼버 형식의 활강식 전투용 산탄총은 군인의 화력을 극대화하기 위해 고안되었습니다. 이 총기는 큰 용량의 탄창과 높은 연사력으로 각광받았지만, 총기의 엄청난 크기와 상당한 무게와 긴 장전 시간이 겹쳐서 이러한 장점들이 모두 상쇄되었습니다. 존에서는 희귀한 무기이며 주로 좁은 공간에서 뮤턴트들을 쓸어버리기 위해 사용됩니다. 정보원에 따르면, 이 모델은 한때 탱크라는 이름의 스토커에 의해 사용되었으나, 그에 대해 알려진 것은 거의 없습니다.</text>
 	</string>
 	<string id="st_wpn_protecta_rusty">
-		<text>Armsel Protecta (녹슬음)</text>
+		<text>암셀 프로텍타 (녹슬음)</text>
 	</string>
 	<string id="st_wpn_protecta_worn">
-		<text>Armsel Protecta (낡음)</text>
+		<text>암셀 프로텍타 (낡음)</text>
 	</string>
 	
 	<string id="st_wpn_rg6">
 		<text>RG-6</text>
 	</string>
 	<string id="st_wpn_rg6_descr">
-		<text>The RG-6 (index 6G30) was in development between 1993 and 1994 by the TSKIB SOO. The new stand-alone, rapid-firing multi-shot launcher was required to increase the firepower of the infantry during the urban combat, due to recent small scale conflicts, such as the Chechen Wars. The RG-6 entered limited production by mid-1990s and is now in use by various elements of the Russian Army and special forces, as well as by special forces in MVD (Internal Affairs Ministry). The RG-6 is designed to fire all standard 40mm caseless grenades, available for general issue underbarrel launchers, such as GP-25 and GP-30. These rounds include VOG-25 fragmentation grenade, VOG-25P bouncing fragmentation grenade and "Gvozd" (Nail) nonlethal tear gas grenade for riot control. The drum is also front-loaded. Widely used for rapid suppression of enemy firing positions and, when in the open, attacking defended fixed targets or fighting particularly tough mutants.</text>
+		<text>RG-6 (식별번호 6G30)은 1993년과 1994년 사이에 TsKIB SOO 사에 의해 개발되었습니다. 이 새로운 단일 사용 및 속사가 가능한 다발식 유탄발사기는 체첸 전쟁 등의 최근에 발생한 작은 규모의 군사적 충돌에 의해 시가전에서의 보병의 화력을 높일 필요성이 제기되는 상황에서 개발되었습니다. RG-6은 1990년대 중반에 제한적으로 생산되기 시작하였으며 현재 러시아군 및 특수부대, 그리고 MVD (러시아 내무부) 소속 특수부대원들을 포함한 다양한 영역에서 사용되고 있습니다. RG-6은 GP-25나 GP-30 같은 언더배럴 유탄발사기에서 주로 사용되는 40mm 무탄피 유탄을 발사하기 위해 설계되었습니다. 이러한 종류의 탄에는 VOG-25 파편류탄, VOG-25P 도약식 파편류탄, 그리고 폭동 진압을 위한 "그보즈드" (못) 비살상 가스 수류탄 등이 포함됩니다. 또한 탄창 드럼은 전장식으로 되어 있습니다. 적이 사격하는 장소에 대한 신속한 제압 능력이 필요할 때나, 야전에서 방비가 된 고정 목표물이나 특정한 몇몇 튼튼한 뮤턴트들을 잡는 데 사용합니다.</text>
 	</string>
 	
 	<string id="st_wpn_rp">
@@ -1950,7 +1950,7 @@
 		%c[d_purple] • %c[ui_gray_2] 9x19 호환 소음기 (개조 후 사용 가능)\n \n</text>
 	</string>
 	<string id="st_wpn_vz61_freedom">
-		<text>Skorpion vz.61 (Freedom camouflage)</text>
+		<text>Skorpion vz.61 (프리덤식 위장)</text>
 	</string>
 	<string id="st_wpn_vz61_rusty">
 		<text>Skorpion vz.61 (녹슬음)</text>
