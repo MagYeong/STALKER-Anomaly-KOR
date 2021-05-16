@@ -1382,28 +1382,28 @@
 		<text>PKM</text>
 	</string>
 	<string id="st_wpn_rp_descr">
-		<text>Fitted with a skeleton buttstock made from wood as well as a hinged buttplate and a wooden pistol grip. The rear part of the buttstock houses a cleaning kit, and a disassembled cleaning rod is stored in the right leg of the bipod. A very reliable machine gun.\n \n</text>
+		<text>접철과 목제 피스톨 그립이 달린 목제 스켈레톤식 개머리판이 장비되어 있습니다. 개머리판의 끝부분에는 총기 청소용 키트를 넣을 수 있고, 따로 분리된 청소용 막대가 양각대에 오른쪽 지지대 안에 수납되어 있습니다. 아주 신뢰성 있는 기관총입니다.\n \n</text>
 	</string>
 	
 	<string id="st_wpn_rpd">
 		<text>RPD</text>
 	</string>
 	<string id="st_wpn_rpd_descr">
-		<text>The RPD (Degtyaryov hand-held machine gun) is a light machine gun developed in the Soviet Union by Vasily Degtyaryov for the intermediate 7.62x39mm M43 cartridge.</text>
+		<text>RPD (덱탸료프 휴대용 기관총)은 소련의 바실리 덱탸료프에 의해 개발된 중간기의 7.62x39mm M43 탄을 사용하는 경기관총입니다.</text>
 	</string>
 	
 	<string id="st_wpn_rpg7">
 		<text>RPG-7</text>
 	</string>
 	<string id="st_wpn_rpg7_descr">
-		<text>The RPG-7 is a further development of the previous RPG-2 anti-tank grenade launcher. The RPG-7, in its first version, known as RPG-7V, has been adopted by the Soviet army in 1961, and is still fielded in Russia and at least 50 more countries. By far, RPG-7 can be considered as one of the most successful anti-tank grenade launchers ever made. Initially thought of as an anti-armour weapon, it was later adopted for other fire support missions with the introduction of other types of grenades, such as anti-infantry HE-FRAG and multi-purpose Thermobaric/FAE. The RPG-7 is a shoulder fired, single shot, smoothbore recoilless launcher, grenades are loaded from the front, and the rear of the barrel is fitted with venturi nozzle. Due to the recoilless design, the backblast is dangerous. The RPG-7 is usually issued with 2.7X fixed magnification optical sight, designated PGO-7. It is a simple and inexpensive, but possess a high threat to modern tanks and can also serve in a number of other roles, making it a flexible weapon.</text>
+		<text>RPG-7은 이전의 RPG-2 대전차용 유탄발사기를 더욱 개량한 물건입니다. 초기 단계에서 RPG-7V로 알려진 RPG-7는 1961년에 소련군에 보급되었으며, 아직도 러시아 및 최소 50여 곳이 넘는 국가에서 사용되고 있습니다. 지금까지, RPG-7은 현재 만들어지는 대전차용 유탄발사기들 가운데 가장 성공적인 물건들 중 하나로 알려져 있습니다. 초기에는 대장갑용 무기로서 개발되었으나, 대인살상용 고폭파편탄이나 다목적 열압력탄두 등의 새로운 종류의 탄두가 나오며 다른 형태의 화력 지원 임무에도 쓰이게 되었습니다. RPG-7은 견착식, 단발식, 활강식 무반동포이며, 유탄은 포구 앞쪽으로 장전되고, 총열의 뒷부분은 벤투리 노즐로 되어 있습니다. 무반동포 특유의 디자인으로 인해 이 무기가 내뿜는 후폭풍은 위험한 수준입니다. RPG-7은 보통 PGO-7을 개량한 형태의 2.7배율 확대 광학 조준경과 같이 사용합니다. 이 무기는 단순하고 저렴하지만, 여전히 현대 전차들에게 위협적인 무기이며 이외에도 다양한 역할을 수행할 수 있는 유연한 무기입니다.</text>
 	</string>
 	
 	<string id="st_wpn_rpk">
 		<text>RPK</text>
 	</string>
 	<string id="st_wpn_rpk_descr">
-		<text>The RPK is a Soviet light machine gun, developed by Mikhail Kalashnikov in 1961 based on the Kalashnikov assault rifle. Created as part of Soviet efforts to standardise the armoury of the Red Army, the RPK replaced the RPD and is still in use to present day.\n \n</text>
+		<text>RPK는 1961년에 미하일 칼라시니코프가 칼라시니코프 돌격소총을 기반으로 제작한 소련의 경기관총입니다. 붉은 군대의 무기 체계를 표준화하기 위한 소련의 시도 끝에 제작된 RPK는 RPD를 대체하였고 현재까지 사용되고 있습니다.\n \n</text>
 	</string>
 	<string id="st_wpn_rpk_worn">
 		<text>RPK (낡음)</text>
@@ -1413,7 +1413,7 @@
 		<text>RPK-74N</text>
 	</string>
 	<string id="st_wpn_rpk74_descr">
-		<text>The RPK (Ruchnoy Pulemyot Kalashnikova or Kalashnikov hand-held machine gun) is a 5.45x45mm light machine gun, developed by Mikhail Kalashnikov in the late 1950s. It was created as part of a program designed to standardise the small arms inventory of the Red Army, where it replaced the 7.62x39mm RPD light machine gun. Today, the RPK continues to be used by the armed forces of countries of the former Soviet Union and certain African and Asian nations. The Polish Army adopted the weapon in 1974, where it is used in airborne assault, reconnaissance and special operations units. The RPK was also manufactured under license in Bulgaria and Romania.\n \n
+		<text>RPK(Ruchnoy Pulemyot Kalashnikova 또는 칼라시니코프 휴대용 기관총)는 1950년대 후반에 미하일 칼라시니코프가 개발한 5.45x45mm 구경 경기관총입니다. 이 총기는 붉은 군대에서 사용되던 7.62x39mm 구경의 RPD 경기관총을 대체하고 개인화기를 표준화하려는 목적으로 만들어진 프로그램의 일부로서 설계되었습니다. 오늘날, RPK는 예전 소비에트 연방 소속 국가들 및 몇몇 아프리카, 아시아 국가의 무장단체에서 계속 사용되고 있습니다. 폴란드군은 이 무기를 1974년에 도입하여, 공수부대나 정찰부대, 그리고 특수부대에서 사용하였습니다. RPK는 불가리아와 루마니아에서도 라이센스를 얻어 생산되었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 코브라, 1P29, PSO-1 조준경 \n
 		%c[d_purple] • %c[ui_gray_2] TGP-A 소음기\n \n</text>
@@ -1423,16 +1423,16 @@
 	</string>
 	
 	<string id="st_wpn_saiga12s">
-		<text>Saiga-12S</text>
+		<text>사이가-12S</text>
 	</string>
 	<string id="st_wpn_saiga12s_descr">
-		<text>The Saiga-12 is a Kalashnikov pattern, 12 gauge combat shotgun, manufactured by Izhmash. The Saiga-12 is recognizable by its Kalashnikov design with the large lever safety on the right side of the receiver, the optic mounting rail on the left and the large top mounted dust cover held in place by the rear of the recoil spring assembly. Earning respect in the Zone for its lethality, it is intended for engaging targets at short range (50 metres or less) or in confined spaces.\n \n
+		<text>사이가-12는 이즈마쉬 조병창에서 생산된 칼라시니코프 형식의, 12게이지 전투용 산탄총입니다. 사이가-12S 산탄총은 칼라시니코프 소총과 유사한 디자인으로 알려져 있는데, 이는 리시버 오른편의 큰 조정간과, 왼쪽의 조준경 거치 레일 그리고 반동 조절용 스프링 구조 뒤쪽에 위치한 커다란 상부 먼지덮개 등의 부품을 포함합니다. 존 안에서는 이 총기의 살상력이 명성을 얻고 있으며, 단거리(50미터 이하)나 좁은 공간에 있는 목표물과 교전하는 데 최적화되어 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 코브라, 1P29, PSO-1 조준경\n
 		%c[d_purple] • %c[ui_gray_2] PBS-1\n \n</text>
 	</string>
 	<string id="st_wpn_saiga12s_worn">
-		<text>Saiga-12S (낡음)</text>
+		<text>사이가-12S (낡음)</text>
 	</string>
 	
 	<string id="st_wpn_scar">
@@ -1442,7 +1442,7 @@
 		<text>FN SCAR-H (위장됨)</text>
 	</string>
 	<string id="st_wpn_scar_descr">
-		<text>The Special Operations Forces Combat Assault Rifle (SCAR) is a modular rifle made by FN Herstal for SOCOM to satisfy the requirements of the SCAR competition. This family of rifle consist of two types, the SCAR-H and SCAR-L. The SCAR-H (Heavy) is chambered in 7.62x51mm NATO cartridge.\n \n
+		<text>특수임무부대용 전투 돌격소총 (the Special operations forces Combat Assault Rifle, SCAR)은 FN 에르스탈에서 SOCOM의 SCAR 프로젝트 경합에서의 요구사항을 맞추기 위해 개발한 모듈식 돌격 소총입니다. SCAR 형태의 소총은 SCAR-H와 SCAR-L의 두 가지 형태가 있습니다. SCAR-H (Heavy)는 7.62x51mm  NATO 탄을 사용합니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, 이오텍 조준경\n
@@ -1462,23 +1462,23 @@
 		<text>SIG P220 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_sig220_descr">
-		<text>The SIG-Sauer P220, manufactured in the late 1970s by J.P. Sauer &amp; Son Company, is often considered the best out of the box .45 calibre double action pistol. An instant success, the P220 was adopted by the Swiss and Japanese SDF and by many European police organisations. This pistol also found its way into the US, first through the Browning Arms Company of Utah and since the 1980s, through the SIGARMS Company of New Hampshire.\n \n
+		<text>1970년대에 J.P 자우어 &amp; 손 사에서 제조된 SIC-Sauer P220은 .45 구경의 더블 액션식 권총들 중 종종 최고로 손꼽히는 무기입니다. P220 권총은 스위스군과 일본 자위대, 그리고 많은 유럽 경찰 조직들에 의해 채용되는 등의 빠른 성공을 거두었습니다. 이 권총은 또한 미국에도 수출되었는데, 1980년대에 유타 주의 브라우닝 군수회사를 통해 수입된 것을 시작으로, 현재 뉴햄프셔 주의 SIGARMS 사에서 수입하고 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] .45 ACP Suppressor</text>
+		%c[d_purple] • %c[ui_gray_2] .45 ACP 소음기</text>
 	</string>
 	<string id="st_wpn_sig220_nimble">
-		<text>SIG P220 "Alpine"</text>
+		<text>SIG P220 "알파인"</text>
 	</string>
 	<string id="st_wpn_sig220_nimble_descr">
-		<text>A unique model of the SIG-Sauer P220 handgun. Part of a small limited edition made for an unidentified special forces unit. The model benefits from an increased magazine capacity, a high durability steel barrel and an ultra-durable polymer receiver.\n \n
+		<text>SIG-Sauer P220 권총의 유니크 모델입니다. 단 하나의 한정판만이 신원이 알려지지 않은 한 특수부대원을 위하여 생산되었습니다. 이 모델은 확장된 탄창 용량과 매우 견고한 강철 총열, 그리고 엄청나게 튼튼한 폴리머 총몸이 장착되어 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] .45 ACP Suppressor</text>
+		%c[d_purple] • %c[ui_gray_2] .45 ACP 소음기</text>
 	</string>
 	<string id="st_wpn_sig220_rusty">
 		<text>SIG P220 (녹슬음)</text>
 	</string>
 	<string id="st_wpn_sig220_rusty_descr">
-		<text>The SIG-Sauer P220, manufactured in the late 1970s by J.P. Sauer &amp; Son Company, is often considered the best out of the box .45 calibre double action pistol. An instant success, the P220 was adopted by the Swiss and Japanese SDF and by many European police organisations. This pistol also found its way into the US, first through the Browning Arms Company of Utah and since the 1980s, through the SIGARMS Company of New Hampshire. This model is covered in rust, resulting in lower combat effectiveness.\n \n
+		<text>1970년대에 J.P 자우어 &amp; 손 사에서 제조된 SIC-Sauer P220은 .45 구경의 더블 액션식 권총들 중 종종 최고로 손꼽히는 무기입니다. P220 권총은 스위스군과 일본 자위대, 그리고 많은 유럽 경찰 조직들에 의해 채용되는 등의 빠른 성공을 거두었습니다. 이 권총은 또한 미국에도 수출되었는데, 1980년대에 유타 주의 브라우닝 군수회사를 통해 수입된 것을 시작으로, 현재 뉴햄프셔 주의 SIGARMS 사에서 수입하고 있습니다. 이 모델은 녹으로 뒤덮여 있어, 낮은 전투 효율성을 보여줍니다.\n \n
 		%c[ui_gray_2]부착물: \n%c[d_red] • %c[d_red] 소음기 장착이 불가능함</text>
 	</string>
 	<string id="st_wpn_sig220_worn">
@@ -1495,7 +1495,7 @@
 		<text>SIG SG550 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_sig550_descr">
-		<text>Renowned for its high production quality and good performance, the SG 550 is often referred to as the finest 5.56 mm rifle ever made. It has a side-folding skeletonised buttstock and a lightweight aluminium bipod that folds into grooves in the lower handguard.\n \n
+		<text>높은 제조 품질과 좋은 성능으로 유명한 SG 550은 지금까지 만들어진 5.56mm 구경 소총들 중 가장 훌륭한 물건으로 평가받습니다. 이 총기는 옆으로 접히는 뼈대식 개머리판과 하부 손잡이 안에 수납되는 가벼운 알루미늄제 양각대가 달려 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, 이오텍 조준경\n
@@ -1505,25 +1505,25 @@
 		<text>SIG SG550 (녹슬음)</text>
 	</string>
 	<string id="st_wpn_sig550_rusty_descr">
-		<text>Renowned for its high production quality and good performance, the SG 550 is often referred to as the finest 5.56 mm rifle ever made. It has a side-folding skeletonised buttstock and a lightweight aluminium bipod that folds into grooves in the lower handguard. This model is covered in rust, resulting in lower combat effectiveness.\n \n
+		<text>높은 제조 품질과 좋은 성능으로 유명한 SG 550은 지금까지 만들어진 5.56mm 구경 소총들 중 가장 훌륭한 물건으로 평가받습니다. 이 총기는 옆으로 접히는 뼈대식 개머리판과 하부 손잡이 안에 수납되는 가벼운 알루미늄제 양각대가 달려 있습니다. 이 모델은 녹으로 뒤덮여 있어, 낮은 전투 효율성을 보여줍니다.\n \n
 		%c[ui_gray_2]부착물: \n%c[d_red] • %c[d_red] 소음기 장착이 불가능함\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, 이오텍 조준경\n
 		%c[d_purple] • %c[ui_gray_2] M203 유탄 발사기\n \n</text>
 	</string>
 	<string id="st_wpn_sig550_sniper">
-		<text>SIG SG550-1 Sniper</text>
+		<text>SIG SG550-1 스나이퍼</text>
 	</string>
 	<string id="st_wpn_sig550_sniper_descr">
-		<text>A marksman variant of a popular Swiss-made assault rifle, the SG 550-S constitutes a perfect middle ground between sniper and assault rifles, retaining the strong points of both types of weaponry. On the other hand, it suffers from certain drawbacks such as being somewhat lacking in stopping power and accuracy for a sniper rifle and lack of automatic fire. Still, it remains one of the best top-tier weapon systems available within the Exclusion Zone.\n \n
+		<text>인기있는 스위스제 돌격 소총의 저격용 바리에이션으로서, SG 550-S는 저격 소총과 돌격 소총들의 장점들을 유지하여, 둘 사이의 완벽한 중간 단계로서 자리잡았습니다. 하지만, 이는 저격 소총으로서는 다소 모자란 저지력과 정확도를 가지고 있으며, 자동사격 기능이 빠지게 되었다는 단점을 의미하기도 합니다. 그럼에도, 이 소총은 체르노빌 통제 구역 안에서 사용할 수 있는 가장 뛰어난 단계의 무기들 중 하나로 남아 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n
-		%c[d_purple] • %c[ui_gray_2] Kahles ZF95 scope (일체형)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] 칼레스 ZF95 조준경 (일체형)\n \n</text>
 	</string>
 	<string id="st_wpn_sig550_strelok">
-		<text>SIG SG550 Arrow</text>
+		<text>SIG SG550 애로우</text>
 	</string>
 	<string id="st_wpn_sig550_strelok_descr">
-		<text>A Swiss made SIG SG-550 assault rifle. Although it isn't new, it is clear that the previous owner took good care of it: the weapon has been taken apart and put back together with every component fine-tuned for optimum performance, increasing stopping power. The letter "S" has been carved into the stock, along with 16 small notches.\n \n
+		<text>스위스에서 만든 SIG SG550 돌격소총입니다. 새로 만들어진 제품은 아니지만, 이전에 사용했던 사람이 손질을 잘 해놓았다는 것은 확실합니다. 이 무기는 한번 분해된 뒤 모든 부품이 최적화된 성능을 가지도록 잘 조정되어, 저지력이 높아진 형태로 다시 조립되었습니다. 개머리판에는 "S"라는 글자가 16개의 작은 빗금들과 함께 새겨져 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, 이오텍 조준경\n
@@ -1534,24 +1534,24 @@
 	</string>
 	
 	<string id="st_wpn_sig552">
-		<text>SIG SG552 Commando</text>
+		<text>SIG SG552 코만도</text>
 	</string>
 	<string id="st_wpn_sig552_descr">
-		<text>The SG 552 Commando is designed for urban combat, making it the most compact member of SIG's renowned SG 550 family, which enhances its CQC capabilities.\n \n
+		<text>SG 552 코만도는 시가전을 위해 설계된 SIG의 SG 550 계열 소총들 중 가장 작은 종류로, 근접전 능력이 강화되었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, 이오텍 조준경\n \n</text>
 	</string>
 	<string id="st_wpn_sig552_worn">
-		<text>SIG SG552 Commando (낡음)</text>
+		<text>SIG SG552 코만도 (낡음)</text>
 	</string>
 	
 	<string id="st_wpn_sks">
 		<text>SKS</text>
 	</string>
 	<string id="st_wpn_sks_descr">
-		<text>The SKS is one of the first weapons chambered for the 7.62x39mm round. Replaced in Soviet front-line service by the AK-47 in the early 1950s, it remained in second-line service for decades and is still used as a ceremonial arm today.\n \n
-		%c[ui_gray_2]부착물: \n%c[d_purple]• %c[ui_gray_2] PU scope\n \n</text>
+		<text>SKS는 7.62x39mm 탄종을 사용하는 최초의 무기들 중 하나입니다. 소비에트 연방의 최전방 제식 소총의 자리를 1950년대 초반에 AK-47에 넘겨준 이후로도, 몇십 년에 가까운 시간 동안 후방 부대의 제식 소총으로 남아 있었고 오늘날까지 의장용 소총으로 사용되고 있습니다.\n \n
+		%c[ui_gray_2]부착물: \n%c[d_purple]• %c[ui_gray_2] PU 조준경\n \n</text>
 	</string>
 	<string id="st_wpn_sks_modern">
 		<text>SKS (현대화됨)</text>
@@ -1567,13 +1567,13 @@
 		<text>SPAS-12 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_spas12_descr">
-		<text>The SPAS-12 is a dual-mode shotgun, designed for combat and anti-riot measures. It is employed by many special military and police units around the world. With its distinctive heat shield and folding stock, the SPAS-12 is an iconic firearm. Notable for its reliability and tactical flexibility. Despite its heavy weight, complex mechanism and considerable cost, it is in demand in the Zone due to its effectiveness against mutants.\n \n</text>
+		<text>SPAS-12는 이중 작동방식 산탄총으로, 전투 또는 폭동진압 상황에 대처하기 위해 설계되었습니다. 이 총기는 전세계의 특수부대와 경찰들에 의해 채용되었습니다. 독특한 방열판과 개머리판으로 인해, SPAS-12는 상징적인 총기가 되었습니다. 신뢰성과 전략적 유연성으로 유명합니다. 묵직한 무게와 복잡한 작동구조, 그리고 상당히 높은 가격에도 불구하고, 존 내부에서는 뮤턴트에게 효과적인 성능으로 인해 수요가 높습니다.\n \n</text>
 	</string>
 	<string id="st_wpn_spas12_nimble">
 		<text>SPAS-12 (현대화됨)</text>
 	</string>
 	<string id="st_wpn_spas12_nimble_descr">
-		<text>An army shotgun designed specifically for assault units and created on the basis of the Franchi SPAS-12. Capable of automatic fire like its predecessor, but provides better recoil compensation thanks to a balanced shock free system. Capable of automatic fire like its predecessor, but provides better recoil compensation thanks to a balanced shock free system.\n \n</text>
+		<text>프랑키 SPAS-12 산탄총을 기초로 제작된 돌격부대 전용의 군용 산탄총입니다. 이전 총기와 같이 자동사격기능이 지원되지만, 이 총기는 균형잡힌 충격 방지 장치로 인해 더 좋은 반동 제어 능력을 가집니다.\n \n</text>
 	</string>
 	<string id="st_wpn_spas12_rusty">
 		<text>SPAS-12 (녹슬음)</text>
@@ -1586,9 +1586,9 @@
 		<text>SR-25</text>
 	</string>
 	<string id="st_wpn_sr25_descr">
-		<text>The SR-25, Stoner Rifle, model 25 was developed by Reed Knight, owner of Knights Armament Co. and Eugene Stoner. The SR-25 is an AR-15 rifle scaled up to shoot 7.62x51mm NATO or .308 ammunition. 60% of parts in the rifle is interchangeable with AR-15 components. This rifle sold well among civilian shooters who needed an accurate semi-automatic rifle in 7.62x51mm NATO or .308 calibre for hunting or target shooting. This rifle also found a favour in US Military. All rifles built on the SR-25 platform share the same basic action, the AR-15/M16 system. Because of AR-15 style recoil buffer, which extends rearwards from the receiver, SR-25 cannot be fitted with a folding stock instead it is fitted with telescoping stock.\n \n
+		<text>SR-25, 또는 스토너 라이플 25식은 나이트 조병창의 사장인 리드 나이트와 유진 스토너에 의해 개발되었습니다. SR-25는 AR-15 소총의 구경을 7.62x51mm NATO 탄이나 .308 탄으로 확장한 형태의 소총입니다. 이 소총의 부품들 중 60%는 AR-15의 부품들과 호환이 가능합니다. 이 소총은 사냥이나 사격 대회에서 사용하기 위한 7.62x51mm NATO 또는 .308 구경의 정확한 반자동 소총을 찾는 민간인 사수들에 의해 많이 구입되었습니다. 또한 이 소총은 미군이 관심을 가진 총기이기도 합니다. SR-25 소총의 형식을 따라 만들어진 총기들은 모두 AR-15 또는 M16에서 사용된 기본 작동방식을 공유합니다. 총몸 뒤쪽으로 확장된 형태의 AR-15 방식의 반동 제어장치로 인해, SR-25는 접철식 개머리판을 장착하지 못하는 대신 신축식 개머리판을 장착할 수 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] SR-25 special suppressor\n
+		%c[d_purple] • %c[ui_gray_2] SR-25 전용 소음기\n
 		%c[d_purple] • %c[ui_gray_2] 레오폴드 마크 4 조준경 (일체형)\n
 		%c[d_purple] • %c[ui_gray_2] M203 유탄 발사기\n \n</text>
 	</string>
@@ -1600,9 +1600,9 @@
 		<text>SV98 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_sv98_descr">
-		<text>The SV-98 (Snaiperskaya Vintovka Model 1998) is a Russian bolt action sniper rifle designed by Vladimir Stronskiy. In 2003 special operations troops were armed with the 7.62 mm 6S11 sniper system comprising the SV-98 sniper rifle (index 6V10) and 7N14 sniper enhanced penetration round. The rifle has been used in combat during operations in Chechnya.\n \n
+		<text>SV-98 (Snaiperskaya Vintovka 1998년형 모델)은 블라디미르 스트론스키가 설계한 러시아 볼트액션 저격소총입니다. 2003년에 일선 특수임무부대들은 SV-98 저격 소총 (식별번호 6V10)과 7N14 저격용 강화 관통탄이 포함된 7.62mm 6S11 저격용 장비로 무장되었습니다. 이 소총은 체첸에서 전투 임무를 수행하는 데 사용되었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] PKS-07 scope (일체형)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] PKS-07 조준경 (일체형)\n \n</text>
 	</string>
 	<string id="st_wpn_sv98_worn">
 		<text>SV98 (낡음)</text>
@@ -1615,25 +1615,25 @@
 		<text>SVD (맞춤식 개조)</text>
 	</string>
 	<string id="st_wpn_svd_descr">
-		<text>Originally intended for designated marksmen in every basic Soviet infantry unit, the Dragunov SVD was not designed for specialised sniper teams. Relatively light for a sniper rifle but well-balanced and having semiautomatic fire, its precision is good but not exceptional. It has an effective range of up to 800 metres.\n \n
+		<text>드라구노프 SVD는 모든 소련군 기본 보병 분대의 지정사수들을 위해 설계한 소총으로 특수한 저격수 부대를 위해 만들어진 물건은 아니었습니다. 저격 소총으로서는 상대적으로 가볍지만 균형잡혀 있고 반자동 기능을 사용하다는 특성으로 인해, 이 소총의 정밀도는 괜찮은 편이지만 훌륭하지는 않습니다. 이 소총은 800미터 정도의 유효 사거리를 갖습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 코브라, 1P29, PSO-1 조준경\n
-		%c[d_purple] • %c[ui_gray_2] KZRZP suppressor (개조 후 사용 가능)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] KZRZP 소음기 (개조 후 사용 가능)\n \n</text>
 	</string>
 	<string id="st_wpn_svd_nimble">
-		<text>SVD "Lynx"</text>
+		<text>SVD "링크스"</text>
 	</string>
 	<string id="st_wpn_svd_nimble_descr">
-		<text>A hand-assembled version of the SVDm-2 sniper rifle with improved mechanisms for increased flatness. Little difference in appearance, but provides an ideal combination of accuracy and stopping power.\n \n
+		<text>높은 탄자 평탄도를 위해 작동방식을 개선한 수제 SVDm-2 저격소총입니다. 외견상으로는 차이점이 별로 없지만, 기존 SVD 소총보다 더 이상적인 정확도와 저지력의 조합이 이루어졌습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] 1P59 "Hyperon" scope (일체형)\n
-		%c[d_purple] • %c[ui_gray_2] KZRZP suppressor\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] 1P59 "하이페론" 조준경 (일체형)\n
+		%c[d_purple] • %c[ui_gray_2] KZRZP 소음기\n \n</text>
 	</string>
 	<string id="st_wpn_svd_rusty">
 		<text>SVD (녹슬음)</text>
 	</string>
 	<string id="st_wpn_svd_rusty_descr">
-		<text>Originally intended for designated marksmen in every basic Soviet infantry unit, the Dragunov SVD was not designed for specialised sniper teams. Relatively light for a sniper rifle but well-balanced and having semiautomatic fire, its precision is good but not exceptional. It has an effective range of up to 800 metres. This variant is in bad condition, which results in higher misfire probability.\n \n
+		<text>드라구노프 SVD는 모든 소련군 기본 보병 분대의 지정사수들을 위해 설계한 소총으로 특수한 저격수 부대를 위해 만들어진 물건은 아니었습니다. 저격 소총으로서는 상대적으로 가볍지만 균형잡혀 있고 반자동 기능을 사용하다는 특성으로 인해, 이 소총의 정밀도는 괜찮은 편이지만 훌륭하지는 않습니다. 이 소총은 800미터 정도의 유효 사거리를 갖습니다. 이 총기는 상태가 좋지 않아서, 더 잦은 탄걸림이 발생할 수 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 코브라, 1P29, PSO-1 조준경\n%c[d_red] • %c[d_red] 소음기 장착이 불가능함\n \n</text>
 	</string>
@@ -1645,8 +1645,8 @@
 		<text>SVT-40</text>
 	</string>
 	<string id="st_wpn_svt40_descr">
-		<text>The SVT-40 is a surplus semi-automatic rifle chambered in the 7.62x54mmR round. It saw widespread use in the Red Army and Wehrmacht during WWII.\n \n
-		%c[ui_gray_2]부착물: \n%c[d_purple]• %c[ui_gray_2] PU special scope\n \n</text>
+		<text>SVT-40은 7.62x54mmR 탄을 사용하는 보급형 반자동 소총입니다. 제 2차 세계대전 동안 붉은 군대와 독일군 사이에서 널리 사용되었습니다.\n \n
+		%c[ui_gray_2]부착물: \n%c[d_purple]• %c[ui_gray_2] PU 전용 조준경\n \n</text>
 	</string>
 	<string id="st_wpn_svt40_modern">
 		<text>SVT-40 (현대화됨)</text>
@@ -1665,7 +1665,7 @@
 		<text>OTs-03 SVU (대체품)</text>
 	</string>
 	<string id="st_wpn_svu_descr">
-		<text>The OTs-03 SVU is a rare, compact version of the SVD sniper rifle, created for use by the airborne infantry, but later employed mainly by the Russian Ministry of Internal Affairs. The main difference between it and the SVD is it's compact size and thus improved handling, thanks to a bullpup configuration and shortened barrel, making it sought after by stalkers in the Zone.\n \n
+		<text>OTs-03 SVU 저격소총은 SVD 저격소총을 소형화한 형태의 희귀한 소총으로, 공수부대에 지급할 목적으로 생산되었으나 이후 러시아 내무부 소속 군인들에게 주로 지급되었습니다. 이 소총과 SVD와의 가장 큰 차이점은 불펍식 구조와 짧아진 총열을 바탕으로 한 작은 크기와 개선된 조작성으로, 이것이 존 내부의 스토커들이 이 총을 찾는 이유가 되었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 코브라, 1P29, PSO-1 조준경\n \n</text>
 	</string>
@@ -1673,7 +1673,7 @@
 		<text>OTs-03A SVU-A</text>
 	</string>
 	<string id="st_wpn_svu_nimble_descr">
-		<text>The SVU-A is a variant of the SVU rifle capable of automatic fire, designed on a request from the Russian Interior Ministry. Although the weapon is generally not suited for close-combat situations, the automatic fire has proven itself to be a reliable emergency solution for exposed marksmen. This particular model of SVU-A used to belong to Max, the legendary guardian of Freedom.\n \n
+		<text>SVU-A 소총은 러시아 내무부의 요청에 의해 설계된, 자동사격 기능이 지원되는 SVU 소총의 개조 형태입니다. 비록 이 소총은 근접전에 적합하지 않게 설계되었지만, 자동사격 기능은 위치가 노출된 사수가 신뢰할 수 있는 비상 수단으로서의 기능을 훌륭히 수행합니다. 이 특별 모델은 프리덤 세력의 전설적인 수호자인 맥스가 사용하던 것입니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 코브라, 1P29, PSO-1 조준경\n \n</text>
 	</string>
@@ -1685,7 +1685,7 @@
 		<text>TOZ-194</text>
 	</string>
 	<string id="st_wpn_toz194_descr">
-		<text>The TOZ-194 is a 12 Gauge, pump action shotgun manufactured by the Tula Arms Plant. Designed during the last years of the Soviet Union, the manufacture of this firearm has started after its collapse, and since then it has gained a certain popularity within civilian shooters in Russia and in Europe and is reported to be in use with some Russian Security forces.\n \n</text>
+		<text>TOZ-194 산탄총은 툴라 조병창에서 만들어진 12게이지 펌프액션 산탄총입니다. 소비에트 연방의 말기에 설계된 이 산탄총의 생산은 소련이 무너진 뒤에 시작되었으며, 이후 이 산탄총은 러시아와 유럽의 민간인 사수들에게 상당한 인기를 얻었으며 러시아의 치안유지군 일부에서도 사용된다는 보고가 있었습니다.\n \n</text>
 	</string>
 	<string id="st_wpn_toz194_rusty">
 		<text>TOZ-194 (녹슬음)</text>
@@ -1701,10 +1701,10 @@
 		<text>TOZ-34 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_toz34_decor">
-		<text>TOZ-34 (decorated)</text>
+		<text>TOZ-34 (장식됨)</text>
 	</string>
 	<string id="st_wpn_toz34_descr">
-		<text>Intended for professional and amateur hunting the TOZ-34 is an over/under shotgun. Though lacking in capacity, only 2 rounds, it compares well with high-grade shotguns due to its high accuracy of hits. The TOZ 34 was designed by N. I. Korovyakov and V. P. Ochnev in 1965. Affordable in price, with high damage output and its ability to unload both rounds instantly make it a popular weapon among rookies on the outskirts of the Zone. Especially useful against mutants thanks to its accuracy and stopping power.\n \n</text>
+		<text>TOZ-34는 프로나 아마추어 사냥꾼들을 겨냥하여 생산된 상하 연결식 이중 총열 산탄총입니다. 단지 2발밖에 들어가지 않는 부족한 장탄수에도 불구하고, 높은 사격 정확도로 인해 다른 높은 등급의 산탄총과도 견줄 수 있다는 특징을 갖습니다. TOZ 34는 1965년에 N.I. 코로브야코프와 V.P. 오치네프에 의해 설계되었습니다. 높은 피해량을 입히고 두 발의 탄환을 즉시 재장전할 수 있는 이 값싼 산탄총은 존의 외곽 지역에 있는 초짜들 사이에서 빠르게 인기를 끌었습니다. 정확도와 강한 저지력을 바탕으로 특히 뮤턴트를 상대할 때 효과가 좋습니다.\n \n</text>
 	</string>
 	<string id="st_wpn_toz34_bull">
 		<text>TOZ-34 "Bull"</text>
@@ -1716,7 +1716,7 @@
 		<text>TOZ-34 "Bizon"</text>
 	</string>
 	<string id="st_wpn_toz34_mark4_descr">
-		<text>Intended for professional and amateur hunting the TOZ-34 is an over/under shotgun. Though lacking in capacity, only 2 rounds, it compares well with high-grade shotguns due to its high accuracy of hits. The TOZ 34 was designed by N. I. Korovyakov and V. P. Ochnev in 1965. Affordable in price, with high damage output and its ability to unload both rounds instantly make it a popular weapon among rookies on the outskirts of the Zone. Especially useful against mutants thanks to its accuracy and stopping power. This model has a 레오폴드 마크 4 조준경 attached to it.\n \n
+		<text>TOZ-34는 프로나 아마추어 사냥꾼들을 겨냥하여 생산된 상하 연결식 이중 총열 산탄총입니다. 단지 2발밖에 들어가지 않는 부족한 장탄수에도 불구하고, 높은 사격 정확도로 인해 다른 높은 등급의 산탄총과도 견줄 수 있다는 특징을 갖습니다. TOZ 34는 1965년에 N.I. 코로브야코프와 V.P. 오치네프에 의해 설계되었습니다. 높은 피해량을 입히고 두 발의 탄환을 즉시 재장전할 수 있는 이 값싼 산탄총은 존의 외곽 지역에 있는 초짜들 사이에서 빠르게 인기를 끌었습니다. 정확도와 강한 저지력을 바탕으로 특히 뮤턴트를 상대할 때 효과가 좋습니다. This model has a 레오폴드 마크 4 조준경 attached to it.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 레오폴드 마크 4 조준경 (일체형)\n \n</text>
 	</string>
@@ -2048,7 +2048,7 @@
 	<string id="st_wpn_remington700_descr">
 		<text>There are many options for a different rifle cartridge. Standard cartridge - 7.62x51 mm NATO (.308 Win). Technically, it is a magazine rifle with a longitudinally sliding rotary bolt. Store capacity depends on the caliber and can be from 3 to 5. It is a top product from Remington Arms.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] KZRZP suppressor (개조 후 사용 가능)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] KZRZP 소음기 (개조 후 사용 가능)\n \n</text>
 	</string>
 	
 	<string id="st_wpn_remington870">
@@ -2066,7 +2066,7 @@
 	<string id="st_wpn_wa2000_descr">
 		<text>The Walther WA 2000 is a semi-automatic bullpup sniper rifle produced by the Carl Walther GmbH Sportwaffen company from 1982 until 1988. It was produced in three different calibers. Production of the rifle was limited and it was shortly stopped because it was too expensive to achieve widespread sales and not robust enough for military use as a sniper rifle. Only 176 were built due to its high cost, making it one of the rarest and most sought production firearms ever made.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] KZRZP suppressor (개조 후 사용 가능)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] KZRZP 소음기 (개조 후 사용 가능)\n \n</text>
 	</string>
 	
 	<string id="st_wpn_apb">
