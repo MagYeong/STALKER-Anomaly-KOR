@@ -1707,16 +1707,16 @@
 		<text>TOZ-34는 프로나 아마추어 사냥꾼들을 겨냥하여 생산된 상하 연결식 이중 총열 산탄총입니다. 단지 2발밖에 들어가지 않는 부족한 장탄수에도 불구하고, 높은 사격 정확도로 인해 다른 높은 등급의 산탄총과도 견줄 수 있다는 특징을 갖습니다. TOZ 34는 1965년에 N.I. 코로브야코프와 V.P. 오치네프에 의해 설계되었습니다. 높은 피해량을 입히고 두 발의 탄환을 즉시 재장전할 수 있는 이 값싼 산탄총은 존의 외곽 지역에 있는 초짜들 사이에서 빠르게 인기를 끌었습니다. 정확도와 강한 저지력을 바탕으로 특히 뮤턴트를 상대할 때 효과가 좋습니다.\n \n</text>
 	</string>
 	<string id="st_wpn_toz34_bull">
-		<text>TOZ-34 "Bull"</text>
+		<text>TOZ-34 "불"</text>
 	</string>
 	<string id="st_wpn_toz34_bull_descr">
-		<text>Hand made modification of TOZ-34 that uses only specially made "Bull" ammunition that could probably stop a tank. Modifications are mostly related to the strength of the gun, and at a first glance, it looks simply like a decorated TOZ-34. But when you take a closer look, you can see that barrel is made from a unique metal, betraying its non-standard origin, and the stock is also made from some type of carbon fibre, inscribed with the letter "F". It's hard to tell who made it and how it ended up in the Zone... \n \n%c[ui_gray_2]</text>
+		<text>탱크도 멈추게 할 수 있다는 특수제작된 "황소(Bull)" 탄환만을 사용하는 TOZ- 34의 수제 개조 형태의 산탄총입니다. 개조는 총의 위력에 주로 관여하는 형태로 이루어졌기 때문에, 처음 보았을 때는 그저 장식된 TOZ-34로밖에 보이지 않습니다. 하지만 자세히 살펴본다면, 총열이 기존 산탄총 사이의 암묵적인 동의를 어기고 특수한 합금으로 제작되었다는 것과, "F"라는 글자가 새겨진 개머리판도 마찬가지로 카본 합성 재질로 되어 있다는 차이를 발견할 수 있을 것입니다. 누가 이런 물건을 만들어냈으며 어떻게 존으로 흘러들어오게 되었는지는 거의 알 수 있는 방법이 없습니다... \n \n%c[ui_gray_2]</text>
 	</string>
 	<string id="st_wpn_toz34_mark4">
-		<text>TOZ-34 "Bizon"</text>
+		<text>TOZ-34 "비존"</text>
 	</string>
 	<string id="st_wpn_toz34_mark4_descr">
-		<text>TOZ-34는 프로나 아마추어 사냥꾼들을 겨냥하여 생산된 상하 연결식 이중 총열 산탄총입니다. 단지 2발밖에 들어가지 않는 부족한 장탄수에도 불구하고, 높은 사격 정확도로 인해 다른 높은 등급의 산탄총과도 견줄 수 있다는 특징을 갖습니다. TOZ 34는 1965년에 N.I. 코로브야코프와 V.P. 오치네프에 의해 설계되었습니다. 높은 피해량을 입히고 두 발의 탄환을 즉시 재장전할 수 있는 이 값싼 산탄총은 존의 외곽 지역에 있는 초짜들 사이에서 빠르게 인기를 끌었습니다. 정확도와 강한 저지력을 바탕으로 특히 뮤턴트를 상대할 때 효과가 좋습니다. This model has a 레오폴드 마크 4 조준경 attached to it.\n \n
+		<text>TOZ-34는 프로나 아마추어 사냥꾼들을 겨냥하여 생산된 상하 연결식 이중 총열 산탄총입니다. 단지 2발밖에 들어가지 않는 부족한 장탄수에도 불구하고, 높은 사격 정확도로 인해 다른 높은 등급의 산탄총과도 견줄 수 있다는 특징을 갖습니다. TOZ 34는 1965년에 N.I. 코로브야코프와 V.P. 오치네프에 의해 설계되었습니다. 높은 피해량을 입히고 두 발의 탄환을 즉시 재장전할 수 있는 이 값싼 산탄총은 존의 외곽 지역에 있는 초짜들 사이에서 빠르게 인기를 끌었습니다. 정확도와 강한 저지력을 바탕으로 특히 뮤턴트를 상대할 때 효과가 좋습니다. 이 모델에는 레오폴드 마크 4 조준경이 부착되어 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 레오폴드 마크 4 조준경 (일체형)\n \n</text>
 	</string>
@@ -1724,19 +1724,19 @@
 		<text>TOZ-34 (소드-오프)</text>
 	</string>
 	<string id="st_wpn_toz34_obrez_custom">
-		<text>TOZ-34 (custom sawn-off)</text>
+		<text>TOZ-34 (주문제작된 소드-오프)</text>
 	</string>
 	<string id="st_wpn_toz34_obrez_decor">
-		<text>TOZ-34 (decorated sawn-off)</text>
+		<text>TOZ-34 (장식된 소드-오프)</text>
 	</string>
 	<string id="st_wpn_toz34_obrez_descr">
-		<text>Intended for professional and amateur hunting the TOZ-34 is a over/under shotgun. Modifications made to this gun by removing much of the barrel and the stock makes this shotgun more compact and easier to carry. Popular among rookies and bandits as they can hide it easily in their trench coats.\n \n</text>
+		<text>TOZ-34는 프로나 아마추어 사냥꾼들을 겨냥하여 생산된 상하 연결식 이중 총열 산탄총입니다. 이 산탄총은 대부분의 총열과 개머리판이 제거된 형태로 개조되어 더 작고 다루기 편한 형태가 되었습니다. 외투 안에 쉽게 숨길 수 있어 초짜들이나 밴딧들에게 인기가 높습니다.\n \n</text>
 	</string>
 	<string id="st_wpn_toz34_obrez_rusty">
-		<text>TOZ-34 (rusty sawn-off) </text>
+		<text>TOZ-34 (녹슨 소드-오프) </text>
 	</string>
 	<string id="st_wpn_toz34_obrez_worn">
-		<text>TOZ-34 (worn sawn-off)</text>
+		<text>TOZ-34 (낡은 소드-오프)</text>
 	</string>
 	<string id="st_wpn_toz34_rusty">
 		<text>TOZ-34 (녹슬음)</text>
@@ -1746,9 +1746,9 @@
 	</string>
 	
 	<string id="st_wpn_trg_descr">
-		<text>The TRG-42 is not an accurised version of an existing rifle, but was developed from the very beginning as a sniper rifle. Its consistent high accuracy and reliability have made it popular both in long-range competitions and military sniper operations.\n \n
+		<text>TRG-42는 현존하는 소총 중 정밀한 형태라고는 말하기 어렵지만, 개발 단계의 극초기부터 저격 소총으로 설계되었습니다. 이 소총이 가진 높은 정확도와 신뢰성으로 인해 장거리 사격 대회나 군의 저격 작전 모두에서 인기가 높습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] FINDOT scope (일체형)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] FINDOT 조준경 (일체형)\n \n</text>
 	</string>
 	
 	<string id="st_wpn_tt33">
@@ -1765,12 +1765,12 @@
 	</string>
 	
 	<string id="st_wpn_type63">
-		<text>Type 63</text>
+		<text>63식 소총</text>
 	</string>
 	<string id="st_wpn_type63_descr">
-		<text>The Type 63, often incorrectly referred to as Type 68 by Western sources, is a Chinese-designed rifle with a resemblance to the SKS. However, the weapon uses a rotating bolt working system from the AK-47 rifle instead of the tilting bolt system of the SKS.\n \n
+		<text>서양 매체에서 종종 68식 소총으로 잘못 소개되는 63식 소총은 SKS와 유사한 형태로 중국에서 설계한 소총입니다. 하지만, 이 소총은 SKS에서 사용된 틸팅볼트식 노리쇠가 아닌 AK-47 소총에서 사용된 회전식 노리쇠를 사용합니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] PU scope\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] PU 조준경\n \n</text>
 	</string>
 	
 	<string id="st_wpn_ump45">
@@ -1780,10 +1780,10 @@
 		<text>UMP45 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_ump45_descr">
-		<text>The UMP was developed by H&amp;K in the 1990s, first appearing on the market in 1999. The idea behind the UMP was to create lightweight and powerful submachine gun, that was also cheaper than the MP5. The UMP, being targeted primarily for US law enforcement, appeared in .45ACP and .40SW chamberings, and later in 9mm. Providing greater stopping power than the MP5, the UMP45 also produces more recoil. This makes controlling full automatic fire more difficult. The UMP45's cyclic rate of fire was lowered significantly to combat this problem.\n \n
+		<text>UMP 기관단총은 1990년대에 H&amp;K 사에서 개발되어, 1999년에 시장에 처음으로 등장하였습니다. UMP 기관단총은 가볍고 강력하면서도 MP5보다 싼 가격의 기관단총을 목표로 제작되었습니다. UMP 기관단총은 미국의 법집행기관에서 채택되는 것을 목표로 .45 ACP 탄과 .40SW 탄, 그리고 이후 9mm 탄을 사용하는 형태들로 만들어졌습니다. UMP45 기관단총은 MP5보다 더 강한 저지력을 보여주지만, 그만큼 더 많은 반동을 만들어냅니다. 이러한 특징 때문에 완전 자동사격을 제어하는 것이 더 어려워졌습니다. 이 문제를 해결하기 위해 UMP45의 초당 연사 속도는 살짝 낮춰졌습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, 이오텍 조준경\n
-		%c[d_purple] • %c[ui_gray_2] Gemtech suppressor\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] 젬테크 소음기\n \n</text>
 	</string>
 	<string id="st_wpn_ump45_worn">
 		<text>UMP45 (낡음)</text>
@@ -1793,7 +1793,7 @@
 		<text>USAS-12</text>
 	</string>
 	<string id="st_wpn_usas12_descr">
-		<text>The Daewoo Precision Industries USAS-12 (Universal Sports Automatic Shotgun 12 gauge) is an automatic shotgun designed for combat manufactured in South Korea by Daewoo Precision Industries in 1980s. How a Korean gun made it into Ukraine is something stalkers would very much like to know. Maybe there's a K2 rifle out there.\n \n</text>
+		<text>대우 정밀 공업의 USAS-12 (12게이지 다목적 스포츠 자동 산탄총)는 1980년대에 대한민국의 대우 정밀 공업에서 만든 전투용 자동 산탄총입니다. 어떻게 한국에서 만들어진 총이 우크라이나에 흘러들어왔는지는 정말 궁금하지 않을 수 없습니다. 아마 어딘가에는 K2 소총이 있을지도 모르죠.\n \n</text>
 	</string>
 	
 	<string id="st_wpn_usp">
@@ -1806,23 +1806,23 @@
 		<text>USP45 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_usp_descr">
-		<text>Originally designed for the American market, the USP, Universal Self loading Pistol, is known as an accurate and reliable handgun. U.S. law enforcement and military provided much of the design criteria for the USP. The controls are uniquely American, influenced by famous designs like the Government Model 1911 pistol. All USPs use a fibre-reinforced polymer frame stiffened by stainless steel inserts at areas subject to stress and friction. Incorporating several successful handgun design elements, the USP Compact .45 is a part of the USP family of handguns designed by H&amp;K. Able to withstand extreme punishment and adverse conditions, it is used by several countries' police and special forces units.\n \n
+		<text>미국 시장을 목표로 설계된 USP 권총(다목적 셀프로딩 권총)은 정확하고 신뢰성있는 권총으로 알려져 있습니다. 미국의 군경은 USP에 대해 수많은 설계기준을 제시하였습니다. 미국의 제식 M1911 권총과 같은 유명한 설계방식에 영향을 받아, 총기 제어 방식은 완전한 미국식 방식과 다르지 않습니다. 모든 USP 권총은 스트레스와 마찰에 취약한 부위마다 스테인리스 스틸 부품으로 보강된, 합성섬유로 강화된 폴리머 프레임을 사용하였습니다. 몇몇 성공적인 권총 설계 요소들을 도입한 USP 컴팩트 .45 구경 권총은 H&amp;K 사에 의해 설계된 USP 계열 권총들 중 하나입니다. 극도로 가혹하고 불리한 조건에서도 견뎌낼 수 있는 능력 덕분에, 이 권총은 몇몇 국가의 경찰이나 특수부대 대원들에 의해 사용되고 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] .45 ACP 소음기 (개조 후 사용 가능)</text>
 	</string>
 	<string id="st_wpn_usp_match">
-		<text>USP Match</text>
+		<text>USP 매치</text>
 	</string>
 	<string id="st_wpn_usp_match_descr">
-		<text>An enhanced USP by HK with distinct characteristics that make it more attractive to the target shooter. With the O-Ring barrel first seen in the Mark 23, the Match includes compensator that helps reduce the relatively mild kick of the 9x19. The Match also features polygonal rifling, a trigger stop, and fully adjustable rear sight.\n \n
+		<text>HK 사에 의해 개선된 USP로 타켓 슈터에게 더 인기를 끌만한 차별화된 요소를 가지고 있습니다. 마크 23에서 처음 선보여진 O-링 총열과 함께, 매치 권총은 9x19 탄의 상대적으로 부드러운 반동을 더 줄여줄 수 있는 컴펜세이터가 포함되었습니다. 또한 매치 권총은 폴리고널 강선, 트리거 스톱, 그리고 완전히 조정가능한 가늠자가 장착되어 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 젬테크 소음기 (개조 후 사용 가능)</text>
 	</string>
 	<string id="st_wpn_usp_nimble">
-		<text>USP "March"</text>
+		<text>USP "마치"</text>
 	</string>
 	<string id="st_wpn_usp_nimble_descr">
-		<text>A compact, large calibre pistol with short bolt movement and lightweight bolt assembly. Used to belong to a mercenary called Wolfhound. Appears to be a modified USP Compact pistol.\n \n
+		<text>총기의 크기는 작지만 큰 구경을 가진, 숏볼트 작동방식의 가벼운 노리쇠 부품을 장착한 권총입니다. 울프하운드라고 불리는 한 용병이 가지고 있던 물건입니다.  개조된 USP 컴팩트 권총으로 보입니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 젬테크 소음기 (개조 후 사용 가능)</text>
 	</string>
@@ -1834,52 +1834,52 @@
 		<text>AS Val</text>
 	</string>
 	<string id="st_wpn_val_descr">
-		<text>The AS Val is widely used by Russian Army recon units, as well as by MVD (Internal Affairs Ministry) and FSB (Federal Security Bureau) Special Forces. The AS-VAL is a gas operated, integrally suppressed weapon. The receiver is machined from steel forging for improved strength. It has a standard side-mounted rail for optical, night vision or red dot scopes but has no provision for mounting a bayonet or a grenade launcher. The integral suppressor could be easily detached for maintenance, repair, or compact storage, but the rifle should not be fired with the suppressor removed due to safety and reliability issues.\n \n
+		<text>AS Val은 러시아군 정찰 부대 뿐만 아니라, MVD (러시아 내무부) 그리고 FSB (연방 보안부) 의 특수 부대에서 널리 사용되었습니다. AS-VAL은 가스작동식 총기이며, 소음 기능이 있는 무기입니다. 총몸은 내구성을 높이기 위해 단조된 강철로 만들어졌습니다. 이 총기에는 광학식 조준경, 야간 투시경 또는 레드닷 조준경을 달기 위한 표준 측면 거치식 레일이 있지만, 총검이나 유탄발사기를 달 수 있는 곳은 없습니다. 일체형 소음기는 유지보수나 보관을 위해 쉽게 분리될 수 있지만, 안전 및 신뢰성 문제를 고려하여 소음기가 제거된 상태에서는 사격할 수 없도록 만들어졌습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 코브라, 1P29,  PSO-1M2-1 조준경\n
-		%c[d_purple] • %c[ui_gray_2] VSS suppressor (일체형)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] VSS 소음기 (일체형)\n \n</text>
 	</string>
 	<string id="st_wpn_val_modern">
 		<text>AS Val (현대화됨)</text>
 	</string>
 	<string id="st_wpn_val_modern_descr">
-		<text>The AS Val is widely used by Russian Army recon units, as well as by MVD (Internal Affairs Ministry) and FSB (Federal Security Bureau) Special Forces. The AS-VAL is a gas operated, integrally suppressed weapon. The receiver is machined from steel forging for improved strength. It has a standard side-mounted rail for optical, night vision or red dot scopes but has no provision for mounting a bayonet or a grenade launcher. The integral suppressor could be easily detached for maintenance, repair, or compact storage, but the rifle should not be fired with the suppressor removed due to safety and reliability issues.\n \n
+		<text>AS Val은 러시아군 정찰 부대 뿐만 아니라, MVD (러시아 내무부) 그리고 FSB (연방 보안부) 의 특수 부대에서 널리 사용되었습니다. AS-VAL은 가스작동식 총기이며, 소음 기능이 있는 무기입니다. 총몸은 내구성을 높이기 위해 단조된 강철로 만들어졌습니다. 이 총기에는 광학식 조준경, 야간 투시경 또는 레드닷 조준경을 달기 위한 표준 측면 거치식 레일이 있지만, 총검이나 유탄발사기를 달 수 있는 곳은 없습니다. 일체형 소음기는 유지보수나 보관을 위해 쉽게 분리될 수 있지만, 안전 및 신뢰성 문제를 고려하여 소음기가 제거된 상태에서는 사격할 수 없도록 만들어졌습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 코브라, 1P29, PSO-1 조준경\n
-		%c[d_purple] • %c[ui_gray_2] VSS suppressor (일체형)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] VSS 소음기 (일체형)\n \n</text>
 	</string>
 	<string id="st_wpn_val_worn">
 		<text>AS Val (낡음)</text>
 	</string>
 	
 	<string id="st_wpn_vepr12">
-		<text>Vepr-12 "Hammer"</text>
+		<text>베프리-12 "해머"</text>
 	</string>
 	<string id="st_wpn_vepr12_descr">
-		<text>The Vepr-12 is a multi-purpose semi-automatic shotgun, created by Molot-Oruzhie Ltd. It is patterned after Kalashnikov rifles, and built on the heavy RPK light machine gun receiver. Like the Kalashnikov rifle, it is a rotating bolt, gas operated gun that feeds from a 10 round magazine.\n \n
+		<text>베프리-12 산탄총은 몰로트-오루지예 주식회사에서 만들어진 다목적 반자동 산탄총입니다. 이 총기는 칼라시니코프 소총의 형식을 따랐으며, RPK 경기관총의 총몸을 기반으로 만들어졌습니다. 칼라시니코프 소총과 유사하게, 이 총은 회전 노리쇠 방식의 가스작동식 총기로서 10발들이 탄창으로 급탄합니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 코브라, 1P29, PSO-1 조준경\n
 		%c[d_purple] • %c[ui_gray_2] PBS-1 소음기\n \n</text>
 	</string>
 	
 	<string id="st_wpn_vihr">
-		<text>SR-3M Vikhr</text>
+		<text>SR-3M 비효르</text>
 	</string>
 	<string id="st_wpn_vihr_descr">
-		<text>The SR-3 "Vikhr" ("Whirlwind") compact assault rifle was developed in CNIITochMash and manufactured by Tula Arms Plant. Initially known as "MA" (Malogabaritnyj Avtomat - small size assault rifle), it was based on the suppressed 9x39mm AS-Val assault rifle, and intended for concealed carry by special VIP protection teams and State Security operatives, SR3M Vikhr is result of combining the qualities of SR-3, AS VAL and VSS Vintorez. SR-3M also has a larger capacity of 30 rounds, which also provides more reliable feeding during automatic fire.\n \n
+		<text>SR-3 "비효르" ("돌풍")는 CNIITochMach 사에서 개발되고 툴라 조병창에서 생산된 단축형 돌격소총입니다. 처음에 "MA" (Malogabaritnyj Avtomat, 소형 돌격 소총)라는 이름으로 알려진 SR-3 돌격소총은 9x39mm 구경의 AS-Val 소음 돌격소총의 설계에 기반하여, VIP 경호팀과 국가 보안 요원들이 은닉한 상태로 휴대하기 위해 고안되었습니다. SR3M 비효르는 SR-3과 AS Val 그리고 VSS 빈토레스 소총의 장점들을 결합한 결과로서 만들어졌습니다. 또한 SR-3M은 보다 많은 용량의 30발들이 탄창을 사용해 자동사격 시 더 신뢰성있는 급탄이 이루어질 수 있었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 코브라, 1P29, PSO-1, PSO-1M2-1 조준경\n
-		%c[d_purple] • %c[ui_gray_2] SR-3M suppressor\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] SR-3M 소음기\n \n</text>
 	</string>
 	
 	<string id="st_wpn_vintorez">
-		<text>VSS Vintorez</text>
+		<text>VSS 빈토레즈</text>
 	</string>
 	<string id="st_wpn_vintorez_1pn93_descr">
 		<text>Designed at TsNIITochMash by Peter Serdyukov and his team, the new rifle was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm bullets. The effective range of the VSS is limited to 300-400 metres. Standard sighting equipment consists of side rail on the receiver, which usually accommodates the 4x  PSO-1M2-1 scope. Any other scope or night vision sight can be mounted on the appropriate mount. Backup iron sights consist of tangent rear and blade front. The rear sight is graduated for up to 400 metres.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 1PN93 "Tot" scope (일체형)\n
-		%c[d_purple] • %c[ui_gray_2] VSS suppressor (일체형)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] VSS 소음기 (일체형)\n \n</text>
 	</string>
 	<string id="st_wpn_vintorez_alt">
 		<text>VSS Vintorez (대체품)</text>
@@ -1888,7 +1888,7 @@
 		<text>Designed at TsNIITochMash by Peter Serdyukov and his team, the new rifle was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm bullets. The effective range of the VSS is limited to 300-400 metres. Standard sighting equipment consists of side rail on the receiver, which usually accommodates the 4x  PSO-1M2-1 scope. Any other scope or night vision sight can be mounted on the appropriate mount. Backup iron sights consist of tangent rear and blade front. The rear sight is graduated for up to 400 metres.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 코브라, 1P29, PSO-1M2-1 조준경\n
-		%c[d_purple] • %c[ui_gray_2] VSS suppressor (일체형)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] VSS 소음기 (일체형)\n \n</text>
 	</string>
 	<string id="st_wpn_vintorez_nimble">
 		<text>VSS Vintorez "Tide"</text>
@@ -1897,7 +1897,7 @@
 		<text>A special variant of the famous VSS sniper rifle. This model has been extensively customised. Its internal mechanism has been replaced with a better one, which results in increased 포구 초속 and accuracy. It has an effective range of up to 600 metres.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] PSO-1 scope (일체형)\n
-		%c[d_purple] • %c[ui_gray_2] VSS suppressor (일체형)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] VSS 소음기 (일체형)\n \n</text>
 	</string>
 	<string id="st_wpn_vintorez_worn">
 		<text>VSS Vintorez (낡음)</text>
