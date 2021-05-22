@@ -1876,38 +1876,38 @@
 		<text>VSS 빈토레즈</text>
 	</string>
 	<string id="st_wpn_vintorez_1pn93_descr">
-		<text>Designed at TsNIITochMash by Peter Serdyukov and his team, the new rifle was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm bullets. The effective range of the VSS is limited to 300-400 metres. Standard sighting equipment consists of side rail on the receiver, which usually accommodates the 4x  PSO-1M2-1 scope. Any other scope or night vision sight can be mounted on the appropriate mount. Backup iron sights consist of tangent rear and blade front. The rear sight is graduated for up to 400 metres.\n \n
+		<text>TsNIITochMash 사의 표트르 세르듀코프와 휘하 기술자들에 의해 개발된 이 새로운 소총은 소련군 내의 여러 스페츠나츠 부대들과 KGB, 그리고 MVD에서의 사용을 고려하여 만들어졌습니다. VSS는 소음 능력과 무거운 9x39mm 탄환의 강력한 살상력을 바탕으로 사용자들 사이에서 상당한 인기를 얻었습니다. VSS의 유효 사거리는 300에서 400미터 정도로 제한되었습니다. 표준 조준경 장비는 리시버의 사이드 레일쪽에 부착되며, 보통 4배율 PSO-1M2-1 조준경이 장착됩니다. 다른 조준경이나 야간 투시경도 적절한 부착대 위에 장착될 수 있습니다. 예비용 아이언 사이트는 탄젠트 가늠자와 앞부분의 가늠쇠로 구성되어 있습니다. 가늠자는 400미터까지 조절할 수 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] 1PN93 "Tot" scope (일체형)\n
+		%c[d_purple] • %c[ui_gray_2] 1PN93 "토트" 조준경 (일체형)\n
 		%c[d_purple] • %c[ui_gray_2] VSS 소음기 (일체형)\n \n</text>
 	</string>
 	<string id="st_wpn_vintorez_alt">
-		<text>VSS Vintorez (대체품)</text>
+		<text>VSS 빈토레즈 (대체품)</text>
 	</string>
 	<string id="st_wpn_vintorez_descr">
-		<text>Designed at TsNIITochMash by Peter Serdyukov and his team, the new rifle was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm bullets. The effective range of the VSS is limited to 300-400 metres. Standard sighting equipment consists of side rail on the receiver, which usually accommodates the 4x  PSO-1M2-1 scope. Any other scope or night vision sight can be mounted on the appropriate mount. Backup iron sights consist of tangent rear and blade front. The rear sight is graduated for up to 400 metres.\n \n
+		<text>TsNIITochMash 사의 표트르 세르듀코프와 휘하 기술자들에 의해 개발된 이 새로운 소총은 소련군 내의 여러 스페츠나츠 부대들과 KGB, 그리고 MVD에서의 사용을 고려하여 만들어졌습니다. VSS는 소음 능력과 무거운 9x39mm 탄환의 강력한 살상력을 바탕으로 사용자들 사이에서 상당한 인기를 얻었습니다. VSS의 유효 사거리는 300에서 400미터 정도로 제한되었습니다. 표준 조준경 장비는 리시버의 사이드 레일쪽에 부착되며, 보통 4배율 PSO-1M2-1 조준경이 장착됩니다. 다른 조준경이나 야간 투시경도 적절한 부착대 위에 장착될 수 있습니다. 예비용 아이언 사이트는 탄젠트 가늠자와 앞부분의 가늠쇠로 구성되어 있습니다. 가늠자는 400미터까지 조절할 수 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 코브라, 1P29, PSO-1M2-1 조준경\n
 		%c[d_purple] • %c[ui_gray_2] VSS 소음기 (일체형)\n \n</text>
 	</string>
 	<string id="st_wpn_vintorez_nimble">
-		<text>VSS Vintorez "Tide"</text>
+		<text>VSS 빈토레즈 "타이드"</text>
 	</string>
 	<string id="st_wpn_vintorez_nimble_descr">
-		<text>A special variant of the famous VSS sniper rifle. This model has been extensively customised. Its internal mechanism has been replaced with a better one, which results in increased 포구 초속 and accuracy. It has an effective range of up to 600 metres.\n \n
+		<text>유명한 VSS 저격 소총의 특별한 바리에이션입니다. 이 모델은 상당한 개조가 이루어졌습니다. 이 소총의 내부 메커니즘은 더욱 좋은 형태로 대체되었으며, 그 결과 총구 초속과 정확도가 향상되었습니다. 소총의 유효사거리는 600미터까지로 늘어났습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] PSO-1 scope (일체형)\n
+		%c[d_purple] • %c[ui_gray_2] PSO-1 조준경 (일체형)\n
 		%c[d_purple] • %c[ui_gray_2] VSS 소음기 (일체형)\n \n</text>
 	</string>
 	<string id="st_wpn_vintorez_worn">
-		<text>VSS Vintorez (낡음)</text>
+		<text>VSS 빈토레즈 (낡음)</text>
 	</string>
 	
 	<string id="st_wpn_vityaz">
-		<text>PP-19-01 Vityaz</text>
+		<text>PP-19-01 비탸지</text>
 	</string>
 	<string id="st_wpn_vityaz_descr">
-		<text>A variant of PP-19 with 30-round magazine chambered for 9x19mm, designed in 2004. It is used by patrol groups, Russian traffic police, Russian security police, and by units of the MVD.\n \n
+		<text>9x19mm 탄을 사용하는 30발들이 탄창을 장착하는 PP-19 기관단총의 변형으로, 2004년에 설계되었습니다. 이 기관단총은 순찰대, 러시아 교통경찰, 러시아 보안 경찰, 그리고 MVD의 요원들에 의해 사용됩니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, 이오텍 조준경\n
 		%c[d_purple] • %c[ui_gray_2] PBS-1 소음기\n \n</text>
@@ -1917,76 +1917,76 @@
 		<text>VSK-94</text>
 	</string>
 	<string id="st_wpn_vsk94_descr">
-		<text>The VSK-94 is a 9x39mm suppressed sniper rifle developed by the Russian KBP Instrument Design Bureau as a low-cost alternative to the VSS rifle. The rifle is based on the 9A-91 carbine. The VSK-94 was designed to accurately engage unarmoured targets at ranges up to 400m.\n \n
+		<text>VSK-94는 VSS 소총의 저가형 대체품으로 러시아 KBP 무기 설계 부서에서 개발된 소음 저격 소총입니다. 이 소총은 9A-91 카빈 소총을 기반으로 만들어졌습니다. VSK-94 소총은 400미터 안에 있는 방탄복을 걸치치 않은 목표물을 정확하게 사살하기 위해 설계되었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 코브라, 1P29, PSO-1M2-1 조준경\n
-		%c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94 suppressor (일체형)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94 소음기 (일체형)\n \n</text>
 	</string>
 	<string id="st_wpn_vsk94_worn">
 		<text>VSK-94 (낡음)</text>
 	</string>
 	
 	<string id="st_wpn_vssk">
-		<text>VSSK Vykhlop</text>
+		<text>VSSK 비흘로프</text>
 	</string>
 	<string id="st_wpn_vssk_descr">
-		<text>The VSSK is a Russian bullpup, straight-pull bolt-action sniper rifle chambered for the 12.7x55mm subsonic round. The weapon is also known by its other name, Vykhlop. It was developed in 2002 for special forces units of FSB.\n \n
+		<text>VSSK는 러시아의 불펍식, 스트레이트-풀 볼트액션 저격소총으로 12.7x55mm 아음속탄을 사용합니다. 이 총은 다른 이름인 비흘로프(Vykhlop)로도 잘 알려져 있습니다. 이 총은 러시아 연방 보안국 소속 특수부대(FSB)를 위해 2002년에 개발되었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] PKS-07 scope (일체형)</text>
+		%c[d_purple] • %c[ui_gray_2] PKS-07 조준경 (일체형)</text>
 	</string>
 	
 	<string id="st_wpn_vz61">
-		<text>Skorpion vz.61</text>
+		<text>스콜피온 vz.61</text>
 	</string>
 	<string id="st_wpn_vz61_alt">
-		<text>Skorpion vz.61 (대체품)</text>
+		<text>스콜피온 vz.61 (대체품)</text>
 	</string>
 	<string id="st_wpn_vz61_camo">
-		<text>Skorpion vz.61 (위장됨)</text>
+		<text>스콜피온 vz.61 (위장됨)</text>
 	</string>
 	<string id="st_wpn_vz61_descr">
-		<text>Originally chambered for .32 ACP when adopted by the Czechoslovak Army in 1961, mass production of the Skorpion vz. 68 never took place. Even so, a large number of pre-production vz. 68 models made their way into the Zone. \n \n
+		<text>1961년에 체코슬로바키아 군에서 채택된, 본래 .32 ACP 탄을 사용했던 스콜피온 vz.68은 대량생산이 이루어지지 않았습니다. 그렇지만, 선행 생산된 많은 수의 vz.68 기관단총은 존으로 흘러들어오는 데 성공했습니다. \n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 9x19 호환 소음기 (개조 후 사용 가능)\n \n</text>
 	</string>
 	<string id="st_wpn_vz61_freedom">
-		<text>Skorpion vz.61 (프리덤식 위장)</text>
+		<text>스콜피온 vz.61 (프리덤식 위장)</text>
 	</string>
 	<string id="st_wpn_vz61_rusty">
-		<text>Skorpion vz.61 (녹슬음)</text>
+		<text>스콜피온 vz.61 (녹슬음)</text>
 	</string>
 	<string id="st_wpn_vz61_rusty_descr">
-		<text>Originally chambered for .32 ACP when adopted by the Czechoslovak Army in 1961, mass production of the Skorpion vz. 68 never took place. Even so, a large number of pre-production vz. 68 models made their way into the Zone. This rusty model is less reliable and it's impossible to attach a suppressor to it.\n \n
+		<text>1961년에 체코슬로바키아 군에서 채택된, 본래 .32 ACP 탄을 사용했던 스콜피온 vz.68은 대량생산이 이루어지지 않았습니다. 그렇지만, 선행 생산된 많은 수의 vz.68 기관단총은 존으로 흘러들어오는 데 성공했습니다. 이 녹슨 총기는 신뢰성이 떨어지고 소음기를 장착할 수 없습니다.\n \n
 		%c[ui_gray_2]부착물: \n%c[d_red] • %c[d_red] 소음기 장착이 불가능함\n \n</text>
 	</string>
 	<string id="st_wpn_vz61_worn">
-		<text>Skorpion vz.61 (낡음)</text>
+		<text>스콜피온 vz.61 (낡음)</text>
 	</string>
 	
 	<string id="st_wpn_walther">
-		<text>Walther P99</text>
+		<text>발터 P99</text>
 	</string>
 	<string id="st_wpn_walther_custom">
-		<text>Walther P99 (주문 제작됨)</text>
+		<text>발터 P99 (주문 제작됨)</text>
 	</string>
 	<string id="st_wpn_walther_descr">
-		<text>Ergonomics being a key focus in its design, the Walther P99 is a recoil-operated pistol with a fibreglass polymer frame. Developed for law enforcement and the civilian shooting market, it's employed by police units in a number of countries.\n \n
+		<text>인체공학적 디자인을 최우선 목표로 하여 제작된 발터 P99는 유리섬유 합성 폴리머 총몸의 반동 이용식 권총입니다. 사법기관과 민간 총기 시장을 목표로 개발된 이 총기는 몇몇 국가들의 경찰조직에 의해 채용되었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 9x19 호환 소음기</text>
 	</string>
 	<string id="st_wpn_walther_worn">
-		<text>Walther P99 (낡음)</text>
+		<text>발터 P99 (낡음)</text>
 	</string>
 	
 	<string id="wpn_tt33_descr">
-		<text>The TT-33 is a Russian 7.62x25mm pistol. It was developed in the early 1930s by Fedor Tokarev as a service pistol for the Soviet military to replace the Nagant M1895 revolver. Many communist or Soviet bloc countries made a variation of the TT-33 pistol, until it was eventually replaced by 9x18mm Makarov PM in 1952. Production of the TT-33 in the USSR ended in 1954.</text>
+		<text>TT-33 권총은 러시아의 7.62x25mm 구경 권총입니다. 이 총은 소련군의 나강 M1985 리볼버를 대체하기 위해 1930년대 초반에 표도르 토카레프에 의해 개발되었습니다. 많은 공산주의 국가들과 소비에트 연방에 속한 국가들이 TT-33 권총의 다양한 복제품들을 만들어냈고, 이는 1952년 9x18mm 구경의 마카로프 PM이 토카레프 권총을 대체할 때까지 이루어졌습니다. 소련에서의 TT-33 권총 생산은 1954년에 종료되었습니다.</text>
 	</string>
 	
 	<string id="st_wpn_umirotvoritel">
-		<text>Unidentified weapon</text>
+		<text>미확인 무기</text>
 	</string>
 	<string id="st_wpn_umirotvoritel_descr">
-		<text>An unknown weapon, the firing mechanism of which has not been established. The weapon appears faulty - squeezing the trigger doesn't do anything. It's very heavy and definitely high-tech. Of note is that it appears not to fire bullets based on ignition. Most probably, the rounds are propelled by electro-magnetic forces. One can only suspect what kind of destructive potential it possesses.</text>
+		<text>발사방식이 아직 밝혀지지 않은 정체불명의 무기입니다. 무기는 고장난 것으로 보이는데, 방아쇠를 당겨도 아무런 일이 일어나지 않습니다. 무기는 아주 무겁고 높은 기술력으로 만들어진 것으로 추정됩니다. 특이한 점은 이 무기가 화약식 탄약을 발사하는 무기처럼 보이지는 않는다는 것입니다. 가장 가능성이 높은 추측으로는, 이 무기의 탄약이 전자기력에 의해 추진될 거라는 추측이 있습니다. 누군가는 이 무기에 어떠한 파괴적인 가능성이 숨겨져 있는지 알아낼 수 있을 것입니다.</text>
 	</string>
 	
 	<!-- New -->
@@ -1994,38 +1994,38 @@
 		<text>ASh-12.7</text>
 	</string>
 	<string id="st_wpn_ash12_descr">
-		<text>The ASh-12.7 (ÀØ-12.7, which stands for "Àâòîìàò øòóðìîâîé 12.7ìì" or "Automatic assault rifle, 12.7mm") battle rifle is a dedicated CQB/Urban Operations weapon, developed by TsKIB SOO ("Central Design and Research Bureau of Sporting and Hunting Arms"), a subsidiary of the KBP Instrument Design Bureau of Tula, Russia, by request from the Russian FSB (Federal Security Service). The weapon was designed with extreme short-range stopping power in mind because it is intended for special units of the FSB which operate in urban environments against heavily armed and organized gangsters and terrorists who need to be killed in one shot. According to the Russian press, the first batch of ASh-12.7 assault rifles was delivered to the FSB.\n \n
+		<text>ASh-12.7 ("Avtomat shturmovoy 12.7mm" 또는 "12.7mm 돌격소총") 전투 소총은 접근전 또는 시가전을 중점으로 하여 만들어진 무기로, 러시아 FSB (연방 보안국)의 요청에 의해 러시아 툴라 조병창의 KBP 장비 설계 부서의 자회사인 TsKIB SOO ("스포츠 및 사냥용 화기의 중앙 설계 및 연구 부서")에서 개발되었습니다. 이 무기는 FSB의 특수부대원들이 도심과 같은 환경에서 작전을 수행할 때 중무장을 하고 조직화된 갱 단원들이나 테러리스트들을 단발에 제압하기 위해 설계 당시에 극단거리에서의 저지력을 염두에 두었습니다. 러시아 언론에 의하면, ASh-12.7 돌격소총의 첫 시제품은 FSB에 공급되었다고 합니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more Railway Tactical, 이오텍 조준경\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more 레일웨이 택티컬, 이오텍 조준경\n \n</text>
 	</string>
 	
 	<string id="st_wpn_aug_a3">
-		<text>Steyr AUG A3</text>
+		<text>슈타이어 AUG A3</text>
 	</string>
 	<string id="st_wpn_aug_a3_descr">
-		<text>Steyr AUG (Armee Universal Gewehr - Army Universal Rifle) is an Austrian 5.56x45mm NATO bullpup assault rifle, designed in the 1960s by Steyr-Daimler-Puch and now manufactured by Steyr Mannlicher GmbH & Co KG. The Steyr AUG A3 differs from the base model in the presence of four Picatinny slats: the top one is used for attaching sights, a grenade launcher or a vertical front handle can be attached to the bottom, and a laser pointer or other necessary additional equipment is attached to the side.\n \n
+		<text>슈타이어 AUG (Armee Universal Gewehr - 군용 다목적 소총)는 오스트리아제 5.56x45mm NATO 불펍식 돌격소총으로, 슈타이어-다임러-푸흐 사에서 1960년 설계되었으며 현재는 슈타이어 만리허 GmbH & Co KG에서 생산되고 있습니다. 슈타이어 AUG A3는 네 개의 피카티니 레일의 존재로 인해 기본 모델과 차별성을 갖습니다. 상부에 있는 레일은 조준경을 부착하는 데 사용되며, 하단부에는 유탄 발사기나 수직 손잡이를 달 수 있으며, 레이저 포인터나 기타 필요한 추가 장비들을 양 옆에 부착할 수 있습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more Railway Tactical, 이오텍 조준경\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more 레일웨이 택티컬, 이오텍 조준경\n \n</text>
 	</string>
 	
 	<string id="st_wpn_mk14">
 		<text>Mk 14 EBR</text>
 	</string>
 	<string id="st_wpn_mk14_descr">
-		<text>United States Navy Mark 14 Enhanced Battle Rifle (Mk 14 Enhanced Battle Rifle, "improved combat rifle") - American Marksman rifle, created by special operations of the US Navy based on the M14 rifle. Used by a number of special units of the Navy, including SEAL.\n \n
+		<text>미 해군용 마크 14 개수형 전투소총 (Mk 14 Enhanced Battle Rifle, "개수형 전투 소총")은 미국의 지정사수용 소총으로, M14 소총을 기반으로 하여 미 해군의 특수부대에서 개발되었습니다. SEAL을 포함한 여러 해군 특수부대원들에 의해 사용됩니다.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more Railway Tactical, 이오텍 조준경\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more 레일웨이 택티컬, 이오텍 조준경\n \n</text>
 	</string>
 	
 	<string id="st_wpn_fal">
 		<text>FN FAL</text>
 	</string>
 	<string id="st_wpn_fal_descr">
-		<text>FN FAL is a NATO firearm produced in Belgium by Fabrique Nationale de Herstal. One of the most recognized and popular automatic rifles. The FN FAL was originally developed for an intermediate 7.92x33 mm cartridge used by the Germans during World War II, then prototypes for the .280 British cartridge appeared. It was later remade chambered for 7.62x51 mm NATO, adopted as a single patron for NATO countries. During the Cold War, it received the nickname "the right hand of the free world."\n \n
+		<text>FN FAL은 벨기에의 에르스탈 국립 제작소에서 생산된 NATO 소총입니다. 가장 널리 알려지고 인기있는 자동소총들 중 하나입니다. FN FAL은 원래 독일에서 제 2차 세계대전 당시 사용했던 전간기의7.92x33 mm 탄을 사용하도록 개발되었지만, 이후 .280 브리티쉬 탄의 시제품이 등장하게 되었습니다. FAL 소총은 이후 7.62x51 mm NATO 탄을 사용하는 형태로 다시 개발되어, NATO 가입국들을 유일한 고객으로 하여 채용되었습니다. 냉전 시기에, 이 소총은 "자유 진영의 오른팔" 이라는 별명을 얻었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more Railway Tactical, 이오텍 조준경\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more 레일웨이 택티컬, 이오텍 조준경\n \n</text>
 	</string>
 
 	<string id="st_wpn_fort500">
@@ -2057,7 +2057,7 @@
 	<string id="st_wpn_remington870_descr">
 		<text>Remington 870 is an American gun, first introduced in 1950 by Remington Arms. Due to its characteristic recharge is one of the most famous pump-action rifles in the world. Produced in various versions, it is suitable for both the military and the police, for hunters and athletes, as well as for self-defense.\n \n
 		%c[ui_gray_2]부착물: \n
-		%c[d_purple] • %c[ui_gray_2] 바르스카 ES AC10632, C-more Railway Tactical, 이오텍 조준경\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] 바르스카 ES AC10632, C-more 레일웨이 택티컬, 이오텍 조준경\n \n</text>
 	</string>
 	
 	<string id="st_wpn_wa2000">
@@ -2117,7 +2117,7 @@
 		<text>The Heckler & Koch MP7 (Maschinenpistole 7) is a German personal defence weapon (PDW) designed and manufactured by Heckler & Koch (H&K) and chambered for the HK 4.6x30mm cartridge. It was designed with the new cartridge to meet NATO requirements published in 1989, as these requirements call for a personal defense weapon (PDW) class firearm, with a greater ability to penetrate body armor than current weapons limited to conventional pistol cartridges. The MP7 went into production in 2001.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 9x19 호환 소음기\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more Railway Tactical, 이오텍 조준경\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more 레일웨이 택티컬, 이오텍 조준경\n \n</text>
 	</string>
 	
 	<string id="st_wpn_xm8">
@@ -2128,7 +2128,7 @@
 		The XM8 design was originally part of the Objective Individual Combat Weapon program (OICW), which was developing a "smart" grenade launcher system with an underslung carbine rifle. The system was unable to meet performance and weight requirements and was eventually cancelled. In the aftermath, the two portions of the OICW were separated, resulting in the XM8 and XM25 projects.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more Railway Tactical, 이오텍 조준경\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more 레일웨이 택티컬, 이오텍 조준경\n \n</text>
 	</string>
 	
 	
