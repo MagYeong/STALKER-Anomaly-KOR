@@ -2013,7 +2013,7 @@
 		<text>Mk 14 EBR</text>
 	</string>
 	<string id="st_wpn_mk14_descr">
-		<text>미 해군용 마크 14 개수형 전투소총 (Mk 14 Enhanced Battle Rifle, "개수형 전투 소총")은 미국의 지정사수용 소총으로, M14 소총을 기반으로 하여 미 해군의 특수부대에서 개발되었습니다. SEAL을 포함한 여러 해군 특수부대원들에 의해 사용됩니다.\n \n
+		<text>미 해군용 마크 14 개수형 전투소총 (Mk 14 Enhanced Battle Rifle)은 미국의 지정사수용 소총으로, M14 소총을 기반으로 하여 미 해군의 특수부대에서 개발되었습니다. SEAL을 포함한 여러 해군 특수부대원들에 의해 사용됩니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more 레일웨이 택티컬, 이오텍 조준경\n \n</text>
 	</string>
@@ -2022,17 +2022,17 @@
 		<text>FN FAL</text>
 	</string>
 	<string id="st_wpn_fal_descr">
-		<text>FN FAL은 벨기에의 에르스탈 국립 제작소에서 생산된 NATO 소총입니다. 가장 널리 알려지고 인기있는 자동소총들 중 하나입니다. FN FAL은 원래 독일에서 제 2차 세계대전 당시 사용했던 전간기의7.92x33 mm 탄을 사용하도록 개발되었지만, 이후 .280 브리티쉬 탄의 시제품이 등장하게 되었습니다. FAL 소총은 이후 7.62x51 mm NATO 탄을 사용하는 형태로 다시 개발되어, NATO 가입국들을 유일한 고객으로 하여 채용되었습니다. 냉전 시기에, 이 소총은 "자유 진영의 오른팔" 이라는 별명을 얻었습니다.\n \n
+		<text>FN FAL은 벨기에의 에르스탈 국립 제작소에서 생산된 NATO 소총입니다. 가장 널리 알려지고 인기있는 자동소총들 중 하나입니다. FN FAL은 원래 독일에서 제 2차 세계대전 당시 사용했던 전간기의 7.92x33 mm 탄을 사용하도록 개발되었지만, 이후 .280 브리티쉬 탄의 시제품이 등장하게 되었습니다. FAL 소총은 이후 7.62x51 mm NATO 탄을 사용하는 형태로 다시 개발되어, NATO 가입국들을 유일한 고객으로 하여 채용되었습니다. 냉전 시기에, 이 소총은 "자유 진영의 오른팔" 이라는 별명을 얻었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more 레일웨이 택티컬, 이오텍 조준경\n \n</text>
 	</string>
 
 	<string id="st_wpn_fort500">
-		<text>Fort-500</text>
+		<text>포트-500</text>
 	</string>
 	<string id="st_wpn_fort500_descr">
-		<text>The Fort-500 smoothbore rifle was developed by the Fort NGO of the Ministry of Internal Affairs of Ukraine in the late 1990s, and was intended to arm the staff of the Ministry of Internal Affairs and security services of Ukraine. At present, the FORT-500 rifle in limited quantities is in service with the special units of the Ministry of Internal Affairs of Ukraine, and is also sold to citizens of this country in a hunting variant.\n \n</text>
+		<text>포트-500 활강식 소총은 1990년대 후반에 우크라이나 내무부 소속의 포트 NGO에 의해 개발되었으며, 우크라이나의 내무부와 치안유지국의 직원들이 사용하는 무장으로 고안되었습니다. 현재, 포트-500 소총은 우크라이나 내무부의 특수부대원들에게 한정된 수량이 보급되어 있으며, 우크라이나 시민들에게 사냥용으로 팔리기도 하였습니다.\n \n</text>
 	</string>
 
 	<string id="st_wpn_m82">
