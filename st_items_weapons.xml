@@ -2036,10 +2036,10 @@
 	</string>
 
 	<string id="st_wpn_m82">
-		<text>Barrett M82</text>
+		<text>바렛 M82</text>
 	</string>
 	<string id="st_wpn_m82_descr">
-		<text>Barrett M82, in the documentation of the US Armed Forces M107 - American self-loading large-caliber sniper rifle, manufactured by Barrett Firearms Manufacturing and in service with several countries around the world. The automatics of this rifle are based on a butterfly valve. The rifle belongs to the class of "antimaterial", but is more often used as a weapon against enemy infantry.\n \n</text>
+		<text>미 육군 M107의 기록에 의하면, 바렛 M82는 미국산 자가급탄식 대구경 저격 소총으로, 바렛 파이어암즈 매뉴팩쳐링 사에서 생산되었으며 세계의 몇몇 국가에서 제식으로 사용되고 있습니다. 이 소총의 자동장전 기능은 버터플라이 밸브를 기반으로 하고 있습니다. 이 소총은 "대물 소총" 등급에 속해있지만, 그보다는 적 보병을 사격하는 무기로 더 자주 쓰입니다.\n \n</text>
 	</string>
 
 	<string id="st_wpn_remington700">
