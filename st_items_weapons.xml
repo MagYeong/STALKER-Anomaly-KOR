@@ -2043,51 +2043,51 @@
 	</string>
 
 	<string id="st_wpn_remington700">
-		<text>Remington 700</text>
+		<text>레밍턴 700</text>
 	</string>
 	<string id="st_wpn_remington700_descr">
-		<text>There are many options for a different rifle cartridge. Standard cartridge - 7.62x51 mm NATO (.308 Win). Technically, it is a magazine rifle with a longitudinally sliding rotary bolt. Store capacity depends on the caliber and can be from 3 to 5. It is a top product from Remington Arms.\n \n
+		<text>이 소총에는 다양한 소총 탄약을 위한 여러 가지 옵션들이 존재합니다. 기본 호환 탄약은 7.62x51 mm NATO (.308 윈체스터) 탄입니다. 기술적으로는, 이 소총은 종단 슬라이드식 회전 노리쇠로 작동하는 탄창 급탄식 소총입니다. 탄창 용량은 구경에 따라 3발에서 5발까지 들어갈 수 있습니다. 레밍턴 암즈 사의 최고 인기 상품입니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] KZRZP 소음기 (개조 후 사용 가능)\n \n</text>
 	</string>
 	
 	<string id="st_wpn_remington870">
-		<text>Remington 870</text>
+		<text>레밍턴 870</text>
 	</string>
 	<string id="st_wpn_remington870_descr">
-		<text>Remington 870 is an American gun, first introduced in 1950 by Remington Arms. Due to its characteristic recharge is one of the most famous pump-action rifles in the world. Produced in various versions, it is suitable for both the military and the police, for hunters and athletes, as well as for self-defense.\n \n
+		<text>레밍턴 870은 미국산 총기로, 레밍턴 암즈 사가 1950년에 처음 발표하였습니다. 이 총기만의 특색있는 재장전 방식으로 인해 세계에서 가장 인기있는 펌프 액션식 총기들 중 하나가 되었습니다. 다양한 형태로 생산되며, 군대나 경찰, 사냥꾼이나 사격 선수들 혹은 자기 방어를 하려는 사람들에게 모두 적합합니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 바르스카 ES AC10632, C-more 레일웨이 택티컬, 이오텍 조준경\n \n</text>
 	</string>
 	
 	<string id="st_wpn_wa2000">
-		<text>Walther WA 2000</text>
+		<text>발터 WA 2000</text>
 	</string>
 	<string id="st_wpn_wa2000_descr">
-		<text>The Walther WA 2000 is a semi-automatic bullpup sniper rifle produced by the Carl Walther GmbH Sportwaffen company from 1982 until 1988. It was produced in three different calibers. Production of the rifle was limited and it was shortly stopped because it was too expensive to achieve widespread sales and not robust enough for military use as a sniper rifle. Only 176 were built due to its high cost, making it one of the rarest and most sought production firearms ever made.\n \n
+		<text>발터 WA 2000 소총은 반자동 불펍식 저격 소총으로 카를 발터 GmbH 스포르트바펜 사에서 1982년부터 1988년까지 생산되었습니다. 이 소총은 세 가지의 구경으로 출시되었습니다. 이 소총의 생산은 한정되어 이루어졌고 널리 판매되기에는 너무 비싼 가격과 군용 저격 소총으로 사용하기에는 부족한 내구도 때문에 생산이 일찍 중단되었습니다. 높은 비용으로 인해 오직 176정만이 생산되었고, 따라서 지금까지 생산된 총기들 중에서 가장 희귀하고 인기있는 총기들 중 하나가 되었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] KZRZP 소음기 (개조 후 사용 가능)\n \n</text>
 	</string>
 	
 	<string id="st_wpn_apb">
-		<text>APB silenced</text>
+		<text>APB 소음 권총</text>
 	</string>
 	<string id="st_wpn_apb_descr">
-		<text>The APB (Avtomaticheskij Pistolet Besshumnyj – automatic silenced pistol) is a further development of the Stechkin APS automatic pistol. APB has been developed by 1972 for Soviet Spetsnaz and KGB units, and has been widely used in Afghanistan and later conflicts. All APB pistols were reworked from earlier Stechkin APS pistols. The APB, with the silencer fitted, is as loud as a non-silenced .22 caliber pistol, and is very accurate and controllable, especially with the shoulder stock fitted.\n \n</text>
+		<text>APB (Avtomaticheskij Pistolet Besshumnyj – 자동 소음 권총) 는 스테츠킨 APS 권총을 더욱 개량한 총기입니다. APB는 소련의 스페츠나츠와 KGB 대원들에게 지급하기 위해 1972년 개발되었으며, 아프가니스탄 및 이후 벌어진 군사적 충돌에서 널리 사용되었습니다. 모든 APB 권총은 이전의 스테츠킨 APS 계열 권총들을 개량하여 만들어졌습니다. 소음기가 장착된 APB 권총은 소음기가 달려있지 않은 .22 구경 권총과 유사한 강도의 소음을 내며, 매우 정확하고 다루기가 편하며 이는 특히 견착식 개머리판을 장착한 경우 두드러집니다.\n \n</text>
 	</string>
 	
 	<string id="st_wpn_cz52">
 		<text>CZ 52</text>
 	</string>
 	<string id="st_wpn_cz52_descr">
-		<text>The CZ 52 (also known by the Czechoslovak military designations vz. 52, for (vz. - vzor = model) "model of 1952", and CZ 482) is a semi-automatic pistol designed by two brothers, Jan and Jaroslav Kratochvil, in the early 1950s for the Czechoslovak military. Around 200,000 vz. 52s were made by Ceska Zbrojovka in Strakonice from 1952 to 1954. Before standardizing on the 7.62x25mm vz. 52, the Czechoslovak military used several domestic and foreign pistol models in three different calibers.\n \n</text>
+		<text>CZ 52 (체코슬로바키아 군용 명칭인 "1952년식 모델"을 의미하는 vz. 52 (vz. - vzor = 모델), 그리고 CZ 482 로도 알려짐) 는 체코슬로바키아군에서의 사용을 위해 1950년 초반에 형제인 얀 크라토츠빌과 야로슬라브 크라토츠빌이 설계한 반자동 권총입니다. 대략 200,000 정의 vz. 52 권총이 1952년에서 1954년 사이에 스트라코니체에 있는 체코 조병창에서 만들어졌습니다. 체코슬로바키아군은 7.62x25mm 탄을 vz. 52의 제식 탄환으로 만들기 전에는, 세 가지의 다른 구경을 사용하는 몇 가지의 내수품 및 수입품 권총들을 사용하였습니다.\n \n</text>
 	</string>
 	
 	<string id="st_wpn_fnc">
 		<text>FN FNC</text>
 	</string>
 	<string id="st_wpn_fnc_descr">
-		<text>The FNC (Fabrique Nationale Carabine) is a 5.56x45mm NATO assault rifle developed by the Belgian arms manufacturer FN Herstal and introduced in the late 1970s.\n \n
+		<text>FNC (Fabrique Nationale Carabine) 는 5.56x45mm NATO 돌격 소총으로 벨기에의 군수업체 FN 에르스탈에서 생산되었으며 1970년 후반에 처음으로 선보여졌습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n \n
 		</text>
@@ -2097,7 +2097,7 @@
 		<text>HK417</text>
 	</string>
 	<string id="st_wpn_hk417_descr">
-		<text>The Heckler & Koch HK417 is a battle rifle designed and manufactured by Heckler & Koch in Germany. It is the larger caliber version of the HK416, and chambered for the full-power 7.62x51mm NATO rifle cartridge. It is a gas-operated, selective fire rifle with a rotating bolt. The HK417 is intended for use in roles where the greater penetrative power, stopping power, and range of the 7.62x51mm cartridge are required. It has been adopted for service by a number of armed forces, special forces, and police organizations.\n \n
+		<text>헤클러 & 코흐 HK417 소총은 독일의 헤클러 & 코흐 사에서 생산된 전투 소총입니다. HK416의 대구경 형태로, 강한 위력의 7.62x51mm NATO 소총탄을 사용합니다. 이 소총은 가스 작동식 회전 노리쇠 점사 선택 방식을 채택한 소총입니다. HK417은 강력한 관통력과 저지력, 그리고 7.62x51mm 탄의 사거리가 필요한 상황에서 사용하도록 만들어졌습니다. 여러 무장 단체, 특수 부대, 그리고 경찰 조직들에서 채용되어 왔습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 이오텍 조준경\n \n</text>
@@ -2107,14 +2107,14 @@
 		<text>M60</text>
 	</string>
 	<string id="st_wpn_m60_descr">
-		<text>The M60, officially the United States Machine Gun, Caliber 7.62 mm, M60, is a family of American general-purpose machine guns firing 7.62x51mm NATO cartridges from a disintegrating belt of M13 links. There are several types of ammunition approved for use in the M60, including ball, tracer, and armor-piercing rounds.\n \n</text>
+		<text>M60은 공식적으로는 7.62 mm 탄을 사용하는 미국산 기관총으로, 7.62x51mm 나토 탄을 해체식 M13 탄띠에 연결하여 발사하는 미국의 다목적 기관총 계열에 속합니다. M60에 사용하도록 승인된 탄약에는 여러 종류가 있는데, 볼, 예광탄, 그리고 장갑 관통탄 등이 있습니다.\n \n</text>
 	</string>
 	
 	<string id="st_wpn_mp7">
 		<text>MP7</text>
 	</string>
 	<string id="st_wpn_mp7_descr">
-		<text>The Heckler & Koch MP7 (Maschinenpistole 7) is a German personal defence weapon (PDW) designed and manufactured by Heckler & Koch (H&K) and chambered for the HK 4.6x30mm cartridge. It was designed with the new cartridge to meet NATO requirements published in 1989, as these requirements call for a personal defense weapon (PDW) class firearm, with a greater ability to penetrate body armor than current weapons limited to conventional pistol cartridges. The MP7 went into production in 2001.\n \n
+		<text>헤클러 & 코흐 MP7 (Maschinenpistole 7) 은 헤클러 & 코흐 (H&K) 사에서 설계 및 생산된 독일의 개인방어화기 (PDW)로 HK 4.6x30mm 탄을 사용합니다. 1989년 제정된 NATO의 요구사항을 맞추기 위한 새로운 탄약을 사용하도록 설계되었으며, 이러한 요구사항은 바로 개인방어화기 (PDW) 등급의 총기를 뜻하는 것으로, 권총탄을 사용하는 데 한정된 기존의 무기들보다 방탄복을 관통하는 데 더욱 뛰어난 성능을 내기 위해 고안되었습니다. MP7은 2001년부터 생산되기 시작했습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 9x19 호환 소음기\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more 레일웨이 택티컬, 이오텍 조준경\n \n</text>
@@ -2124,8 +2124,8 @@
 		<text>XM8</text>
 	</string>
 	<string id="st_wpn_xm8_descr">
-		<text>The XM8 is a lightweight assault rifle system from the late 1990s to early 2000s. The rifle was designed by German small arms manufacturer Heckler & Koch (H&K), and shares design and engineering with their G36 rifle.\n
-		The XM8 design was originally part of the Objective Individual Combat Weapon program (OICW), which was developing a "smart" grenade launcher system with an underslung carbine rifle. The system was unable to meet performance and weight requirements and was eventually cancelled. In the aftermath, the two portions of the OICW were separated, resulting in the XM8 and XM25 projects.\n \n
+		<text>XM8은 1990년대 후반부터 2000년대 초반까지 생산된 경량 돌격소총 체제를 일컫습니다. 이 소총은 독일의 개인화기 제조회사인 헤클러 & 코흐 (H&K) 사에서 설계되었고, 같은 회사에서 제조된 G36 소총의 설계와 공학적 특성을 공유했습니다.\n
+		XM8의 디자인은 원래 개인 복합형 소총 프로그램 (OICW), 즉 "스마트" 유탄 발사 체계를 하단부 카빈 소총과 결합하는 개발 프로그램에서 유래하였습니다. 이러한 체제는 성능과 무게제한을 충족시키지 못하게 되어 결국 취소되고 말았습니다. 그 결과로, OICW 계획의 두 부분이 분리되면서, XM8과 XM25 프로젝트가 탄생하게 되었습니다.\n \n
 		%c[ui_gray_2]부착물: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45mm 전용 소음기\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, 바르스카 ES AC10632, C-more 레일웨이 택티컬, 이오텍 조준경\n \n</text>
