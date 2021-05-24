@@ -2136,133 +2136,133 @@
 Grenades 
 -->
 	<string id="st_grenade_f1">
-		<text>F1 grenade</text>
+		<text>F1 수류탄</text>
 	</string>
 	<string id="st_grenade_f1_descr">
-		<text>A defensive hand grenade, with fragments capable of piercing medium level body armour. The grenade has an approximately 4 metre kill radius. Stalkers get F1 grenades from trading with the military, who write them off as having been used for fighting mutants.\n \n
-		%c[d_purple] • %c[ui_gray_2] Blast power: %c[ui_gray_1]high\n
-		%c[d_purple] • %c[ui_gray_2] Blast radius: %c[ui_gray_1]4.2 m\n
-		%c[d_purple] • %c[ui_gray_2] Fragments' radius: %c[ui_gray_1]48 m\n
-		%c[d_purple] • %c[ui_gray_2] Av. number of fragments: %c[ui_gray_1]380 (small shrapnels)\n
-		%c[d_purple] • %c[ui_gray_2] Explosion delay: %c[ui_gray_1]~4 seconds</text>
+		<text>파편으로 중간 단계의 방탄복을 관통할 수 있는 방어용 수류탄입니다. 이 수류탄은 4미터 정도의 살상반경을 지닙니다. 스토커들은 내무군과의 거래를 통해 F1 수류탄을 습득하는데, 이에 대해 군에서는 수류탄을 뮤턴트들과 싸우는 데 사용했다고 기록하였습니다.\n \n
+		%c[d_purple] • %c[ui_gray_2] 폭발력: %c[ui_gray_1]높음\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 반경: %c[ui_gray_1]4.2 m\n
+		%c[d_purple] • %c[ui_gray_2] 파편 사거리: %c[ui_gray_1]48 m\n
+		%c[d_purple] • %c[ui_gray_2] 평균적인 파편 개수: %c[ui_gray_1]380 (작은 파편)\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 지연 시간: %c[ui_gray_1]~4 초</text>
 	</string>
 	
 	<string id="st_grenade_rgd5">
-		<text>RGD-5 grenade</text>
+		<text>RGD-5 수류탄</text>
 	</string>
 	<string id="st_grenade_rgd5_descr">
-		<text>An offensive hand grenade with a small kill zone of about 3 metres. Often used by stalkers to "smoke out" mutants due to its relatively low cost.\n \n
-		%c[d_purple] • %c[ui_gray_2] Blast power: %c[ui_gray_1]medium\n
-		%c[d_purple] • %c[ui_gray_2] Blast radius: %c[ui_gray_1]3,2 m\n
-		%c[d_purple] • %c[ui_gray_2] Fragments' radius: %c[ui_gray_1]43 m\n
-		%c[d_purple] • %c[ui_gray_2] Av. number of fragments: %c[ui_gray_1]240 (small shrapnels)\n
-		%c[d_purple] • %c[ui_gray_2] Explosion delay: %c[ui_gray_1]~4 seconds</text>
+		<text3미터 정도의 작은 살상반경을 가진 공격형 수류탄입니다. 상당히 싼 가격 때문에 뮤턴트들을 "훈제하려는" 스토커들이 종종 사용합니다.\n \n
+		%c[d_purple] • %c[ui_gray_2] 폭발력: %c[ui_gray_1]중간\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 반경: %c[ui_gray_1]3,2 m\n
+		%c[d_purple] • %c[ui_gray_2] 파편 사거리: %c[ui_gray_1]43 m\n
+		%c[d_purple] • %c[ui_gray_2] 평균적인 파편 개수: %c[ui_gray_1]240 (작은 파편)\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 지연 시간: %c[ui_gray_1]~4 초</text>
 	</string>
 	
 	<string id="st_grenade_smoke">
-		<text>Smoke grenade</text>
+		<text>연막탄</text>
 	</string>
 	<string id="st_grenade_smoke_descr">
-		<text>A hand smoke grenade. Used to put up smoke screens. Once the grenade is thrown it takes 10 seconds for the smoke screen to expand.</text>
+		<text>휴대용 연막탄입니다. 시야를 연기로 가리는 데 사용합니다. 수류탄을 던진 뒤 10초 뒤에 연기가 퍼지게 됩니다.</text>
 	</string>
 	
 	<string id="st_grenade_thermite">
-		<text>Thermite grenade</text>
+		<text>소이 수류탄</text>
 	</string>
 	<string id="st_grenade_thermite_descr">
-		<text>An incendiary grenade (or thermite grenade) that produces intense heat (2,200 °C or 3,992 °F) by means of a chemical reaction in which powdered aluminium and iron oxide react to produce a stream of molten iron and aluminium oxide. Filled with 600 to 800 grams of thermite.\n \n
-		%c[d_purple] • %c[ui_gray_2] Blast power: %c[ui_gray_1]medium (thermal damage)\n
-		%c[d_purple] • %c[ui_gray_2] Blast radius: %c[ui_gray_1]4.6 m\n
-		%c[d_purple] • %c[ui_gray_2] Fragments' radius: %c[ui_gray_1]none\n
-		%c[d_purple] • %c[ui_gray_2] Av. number of fragments: %c[ui_gray_1]none\n
-		%c[d_purple] • %c[ui_gray_2] Explosion delay: %c[ui_gray_1]~4 seconds</text>
+		<text>소이 수류탄 (또는 테르밋 수류탄)은 알루미늄 가루와 산화철이 화학적으로 반응하여 많은 양의 녹은 철과 산화알루미늄을 만들어내며 생기는 엄청난 열을 (2,200 °C 또는 3,992 °F 정도) 이용합니다. 600에서 800그램의 테르밋으로 채워져 있습니다.\n \n
+		%c[d_purple] • %c[ui_gray_2] 폭발력: %c[ui_gray_1]중간 (열 피해)\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 반경: %c[ui_gray_1]4.6 m\n
+		%c[d_purple] • %c[ui_gray_2] 파편 사거리: %c[ui_gray_1]없음\n
+		%c[d_purple] • %c[ui_gray_2] 평균적인 파편 개수: %c[ui_gray_1]없음\n
+		%c[d_purple] • %c[ui_gray_2] 폭발 지연 시간: %c[ui_gray_1]~4 초</text>
 	</string>
 	
 <!--
 	Melee 
 -->
 	<string id="st_knife_combat">
-		<text>M9 bayonet</text>
+		<text>M9 총검</text>
 	</string>
 	<string id="st_knife_combat_descr">
-		<text>\n \n%c[ui_gray_1]A large multi-purpose knife with a rugged rubber handle, commonly used by US soldiers since 1986. Sharp and well maintained. Although it's inconvenienced when facing heavily protected opponents, its toothed blade is ideal for causing massive, bleeding wounds to softer targets. This is makes it a perfect choice for finishing off wounded animals, or silently getting the drop on light infantry.</text>
+		<text>\n \n%c[ui_gray_1]닳은 고무 손잡이가 달린 큰 다목적 나이프로, 1986년부터 미군에 의해 주로 사용되었습니다. 날카롭고 잘 손질되어 있습니다. 중갑을 걸친 적을 상대하는 데는 효과가 좋지 못하지만 톱니가 나 있는 칼날이 있어 얇은 방어구를 걸쳤거나 맨살의 목표물에 크고, 출혈을 일으키는 상처를 만들어내는 데 적합합니다. 따라서 부상입은 동물들의 숨통을 끊거나, 경보병을 조용히 처리하는 데는 완벽한 선택이 될 수 있습니다.</text>
 	</string>
 	
 	<string id="st_knife_6x4">
-		<text>6H4 bayonet</text>
+		<text>6H4 총검</text>
 	</string>
 	<string id="st_knife_6x4_descr">
-		<text>\n \n%c[ui_gray_1]Soviet-Polish bayonet first adopted in 1972 for use with AK rifles. Although highly durable, it is much better at thrusting than it is at chopping or slashing.\n \n
-		%c[d_red] • %c[d_red] unsuitable for chopping thick-skinned mutants</text>
+		<text>\n \n%c[ui_gray_1]소련 치하 폴란드의 총검으로 1972년에 AK 소총과 같이 사용하기 위해 처음으로 도입되었습니다. 매우 튼튼하지만, 썰거나 긋는 것보다는 찌르는 방식으로 사용하는 것이 좋습니다.\n \n
+		%c[d_red] • %c[d_red] 두꺼운 가죽의 뮤턴트를 도축하는 데 부적합합니다</text>
 	</string>
 	
 	<string id="st_knife_hunting">
-		<text>Hunting knife</text>
+		<text>사냥용 칼</text>
 	</string>
 	<string id="st_knife_hunting_descr">
-		<text>\n \n%c[ui_gray_1]A modern, highly durable hunting knife with a large blade of stainless steel. Ideal for field dressing the meat off larger animals with thick hides. It is also able to cause massive, bleeding wounds to exposed flesh. As it wasn't intended for use in battle, it struggles against combat armours.</text>
+		<text>\n \n%c[ui_gray_1]스테인리스 강철로 만들어진 커다란 칼날이 달린 세련되고, 매우 튼튼한 사냥용 칼입니다. 두꺼운 가죽을 지닌 큰 동물의 고기를 발라내는 데 적합합니다. 또한 맨살에 큼직하고, 출혈이 일어나는 상처를 낼 수 있는 능력이 있습니다. 전투에 사용하도록 만들어진 무기는 아니므로, 전투용 장갑복을 상대하는 것은 어렵습니다.</text>
 	</string>
 	
 	<string id="st_knife_m">
-		<text>Military knife</text>
+		<text>군용 나이프</text>
 	</string>
 	<string id="st_knife_m_descr">
 		<text>\n \n%c[ui_gray_1]NOT IN GAME. Standard issue military knife.</text>
 	</string>
 	
 	<string id="st_knife_needle">
-		<text>NR-40 scout's knife</text>
+		<text>NR-40 정찰용 나이프</text>
 	</string>
 	<string id="st_knife_needle_descr">
-		<text>\n \n%c[ui_gray_1]A combat knife, based on designs first adopted by the Soviet Army in WWII. It is technically surplus, and isn't officially used by any modern army.\n \nThis weapon consists of a 152 mm blade with a clip point, a large choil, a black wooden handle, and an S-shaped guard. The guard is "inverted" because standard Soviet Army grips frequently called for holding the knife with the edge facing upwards. The handle is enforced with rugged fabric for a good grip.\n \nAlthough a good combat knife for its time, in the Zone its cutting power is suitable only for utility purposes or for finishing off already helpless opponents. Its piercing power, however, is something to be feared: it is easy to angle this blade's deadly point between the gaps of even modern combat armours.\n \n
-		%c[d_red] • %c[d_red] unsuitable for chopping thick-skinned mutants.</text>
+		<text>\n \n%c[ui_gray_1]전투용 나이프로, 제 2차 세계대전 당시 소련군이 처음으로 도입했던 디자인을 기반으로 제작되었습니다. 기술적 관점에서 볼 때 뒤처진 물건으로, 현대의 어떤 군대에서도 공식적으로는 사용하지 않습니다.\n \n이 칼에는 152mm 크기의 칼날과 클립 걸쇠와, 넓은 초일, 검은색 목제 손잡이, 그리고 S모양의 가드가 달려 있습니다. 가드는 "반대로" 되어 있는데 당시 소비에트 군의 표준 대검 파지법은 칼날을 위쪽으로 향하도록 잡는 것이기 때문이었습니다. 손잡이는 좋은 그립감을 위해 천으로 된 두루마리로 감겨져 있습니다.\n \n비록 예전에는 괜찮은 전투용 나이프였을지 몰라도, 존에서 이 나이프의 절삭력은 도구로서의 목적이나 이미 가망없는 목표물의 숨통을 끊는 목적으로밖에 적합하지 않습니다. 하지만, 관통력만큼은 주의할 만한 수준으로, 이 나이프의 치명적인 칼날을 들이댄다면 최신형 전투용 방어구의 틈을 어렵지 않게 관통할 수 있습니다.\n \n
+		%c[d_red] • %c[d_red] 두꺼운 가죽의 뮤턴트를 도축하는 데 부적합합니다.</text>
 	</string>
 	
 	<string id="st_knife_nr40">
-		<text>NR-40 scout's knife (heirloom)</text>
+		<text>NR-40 정찰용 나이프 (가보)</text>
 	</string>
 	<string id="st_knife_nr40_descr">
 		<text>\n \n%c[ui_gray_1]NOT IN GAME. A rare Soviet military knife of high historic and symbolic value. Decorated with the iron emblem of a certain World War II parachute division on the wooden handle. Possession of such a blade is usually a mark of honour, especially among factions with a proud military tradition. Usually offered to stalkers only after exceptional displays of loyal, competent service to a given faction or group of traders.</text>
 	</string>
 	
 	<string id="st_knife_swat">
-		<text>Spetsnaz switchblade</text>
+		<text>스페츠나츠 스위치블레이드</text>
 	</string>
 	<string id="st_knife_swat_descr">
-		<text>A well-kept blade, ideal for special forces operators participating in surgical strikes. Rumoured to have averted several nuclear incidents during the Cold War. It is a deadly weapon and the only knife in the Zone that is relatively good at both piercing armours and dealing massive tissue damage. The ultimate combat cutlery.</text>
+		<text>정밀 타격 작전에 참가하는 특수부대 대원들을 위해 제작된 잘 보존된 군용 나이프입니다. 냉전 시기에 일어났던 몇몇 원자력 사고를 막는 데 관여되었다는 소문이 있습니다. 이 무기는 치명적이며 존에서 사용하는 나이프들 중 갑옷을 관통하고 심각한 신체조직 피해를 입히는 두 가지 기능이 모두 뛰어난 유일한 나이프입니다. 그야말로 궁극의 전투용 날붙이라 할 만합니다.</text>
 	</string>
 	
 	<string id="st_axe">
-		<text>Axe</text>
+		<text>도끼</text>
 	</string>
 	<string id="st_axe_descr">
-		<text>An axe (or ax) is an implement that has been used for millennia to shape, split and cut wood, to harvest timber, as a weapon, and as a ceremonial or heraldic symbol. The axe has many forms but generally consists of an axe head with a handle, or helve. In the Zone, the axe can ensure your survival thanks to its versatility.\n \n
-		%c[ui_gray_1]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] melee weapon\n
-		%c[d_cyan] • %c[ui_gray_2] has greater reach compared to knives\n
-		%c[d_cyan] • %c[ui_gray_2] everyday item</text>
+		<text>도끼는 수천년 동안 나무를 다듬고, 자르고 베거나, 목재를 수확하거나, 무기로 쓰이거나, 의식용 또는 왕가의 상징으로 쓰이는 등 다양한 영역에서 사용된 도구입니다. 도끼는 다양한 형태로 존재하지만 보통 도끼 머리와 손잡이, 또는 자루라고 불리는 부품으로 구성되어 있습니다. 존 안에서, 도끼는 다재다능하다는 특성 덕분에 스토커들의 생존을 담보해 줄 수 있습니다.\n \n
+		%c[ui_gray_1]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 근접 무기\n
+		%c[d_cyan] • %c[ui_gray_2] 나이프류보다 긴 사거리를 가짐\n
+		%c[d_cyan] • %c[ui_gray_2] 일상 용품</text>
 	</string>
 	
 	<string id="st_axe2">
-		<text>Fire axe</text>
+		<text>소방 도끼</text>
 	</string>
 	<string id="st_axe2_descr">
-		<text>Most commonly employed by firefighters, this heavy axe is often used by stalkers for felling trees, or, like all great things, repurposed for hacking apart one's enemies, living or dead. Thus, it can serve as a formidable weapon in the hands of a skilled stalker.\n \n
-		%c[ui_gray_1]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] melee weapon\n
-		%c[d_cyan] • %c[ui_gray_2] has greater reach compared to knives\n
-		%c[d_cyan] • %c[ui_gray_2] everyday item</text>
+		<text>소방관들이 주로 사용하는 이 무거운 도끼는 스토커들이 나무를 베거나, 다른 무기들과 비슷하게, 적을 살아있거나 죽어있는 상태에서 산산조각내는 데 사용됩니다. 따라서, 이 도끼는 숙련된 스토커들의 손에서 무시무시한 무기로 사용될 수 있습니다.\n \n
+		%c[ui_gray_1]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 근접 무기\n
+		%c[d_cyan] • %c[ui_gray_2] 나이프류보다 긴 사거리를 가짐\n
+		%c[d_cyan] • %c[ui_gray_2] 일상 용품</text>
 	</string>
 	
 	<string id="st_axe3">
-		<text>Hunting axe</text>
+		<text>사냥용 도끼</text>
 	</string>
 	<string id="st_axe3_descr">
-		<text>Used for thousands of years for cutting wood, hacking flesh, and even as a ceremonial object, this convenient axe comes in many shapes, though always consisting of a cleaver and handle. In a place like the Zone, this axe can mean both life and death.\n \n
-		%c[ui_gray_1]PROPERTIES:\n
-		%c[d_cyan] • %c[ui_gray_2] melee weapon\n
-		%c[d_cyan] • %c[ui_gray_2] has greater reach compared to knives\n
-		%c[d_cyan] • %c[ui_gray_2] everyday item</text>
+		<text>수천년 동안 나무를 베거나, 살점을 잘라내거나, 의식용 도구로도 사용된 이 편리한 도끼는 많은 형태로 제작되었지만, 언제나 도끼날과 손잡이가 포함되어 있었습니다. 존과 같은 장소에서, 이 도끼는 삶과 죽음 모두를 의미할 수 있습니다.\n \n
+		%c[ui_gray_1]특징:\n
+		%c[d_cyan] • %c[ui_gray_2] 근접 무기\n
+		%c[d_cyan] • %c[ui_gray_2] 나이프류보다 긴 사거리를 가짐\n
+		%c[d_cyan] • %c[ui_gray_2] 일상 용품</text>
 	</string>
 	
 	<string id="st_grenade_light">
