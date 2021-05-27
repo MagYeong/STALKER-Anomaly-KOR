@@ -2266,16 +2266,16 @@ Grenades
 	</string>
 	
 	<string id="st_grenade_light">
-		<text>M68 grenade</text>
+		<text>M68 수류탄</text>
 	</string>
 	<string id="st_grenade_light_descr">
-		<text>The M68 lightweight grenade packs a considerable amount of shrapnel and is popular among paratroopers, marines and special NATO forces. Fitted with the M213 fuse, it can be worn and rapidly deployed by hooking the trigger lever to the equipment belt.</text>
+		<text>M68 경량 수류탄은 상당한 양의 파편을 품고 있으며 공수부대나 해병대, 그리고 NATO 특수부대원들에게 인기가 높습니다. 이 수류탄에는 M213 신관이 장착되어 있어, 탄띠에 안전 손잡이를 걸어 착용 및 빠른 투척이 가능합니다.</text>
 	</string>
 	
 	<string id="st_wpn_flamewerfer">
-		<text>Flamethrower</text>
+		<text>화염방사기</text>
 	</string>
 	<string id="st_wpn_flamewerfer_descr">
-		<text>A home-made flamethrower, prone to jamming and having poor range. Its haphazard design suggests it was made in the zone by a disturbed stalker.</text>
+		<text>수제 화염방사기로, 고장에 취약하고 형편없는 사거리를 가집니다. 이 무기의 조잡한 디자인을 볼 때 존 내부에서 정신에 문제가 있는 스토커에 의해 만들어진 것이 틀림없어 보입니다.</text>
 	</string>
 </string_table>
