@@ -10,7 +10,7 @@
 		<text>PSO-1M 조준경</text>
 	</string>
 	<string id="st_addon_scope_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 모든 바르사야 조약 기구 소총\n \n%c[ui_gray_1]PSO (Pritsel Snaipersky Optichesky, "광학식 저격용 조준경") 은 소비에트 연방의 노보시비르스크 군수공장 (NPZ 국립 광학 공장)에서 만든 광학식 조준경 계열입니다. 이 조준경은 1964년에 SVD 저격 소총의 표준 망원 조준경으로 채택되면서 널리 사용되었습니다. 이 조준경은 이후 AK-74나 AN-94와 같은 돌격 소총에도 채용되었습니다. 튼튼한 내구성과 다재다능함 그리고 편리한 거리측정 기능이 있는 잘 디자인된 레티큘 패턴으로 유명합니다. 이 특정한 모델은 4배율 확대를 사용하여, 장거리에서의 전투에서 주로 사용됩니다. 이 조준경은 바르샤바 조약 기구 소속 국가의 제식인 도브테일 조준경 거치대가 달린 무기들에 장착하여 사용됩니다.\n \n
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 모든 바르샤바 조약 기구 소총\n \n%c[ui_gray_1]PSO (Pritsel Snaipersky Optichesky, "광학식 저격용 조준경") 은 소비에트 연방의 노보시비르스크 군수공장 (NPZ 국립 광학 공장)에서 만든 광학식 조준경 계열입니다. 이 조준경은 1964년에 SVD 저격 소총의 표준 망원 조준경으로 채택되면서 널리 사용되었습니다. 이 조준경은 이후 AK-74나 AN-94와 같은 돌격 소총에도 채용되었습니다. 튼튼한 내구성과 다재다능함 그리고 편리한 거리측정 기능이 있는 잘 디자인된 레티큘 패턴으로 유명합니다. 이 특정한 모델은 4배율 확대를 사용하여, 장거리에서의 전투에서 주로 사용됩니다. 이 조준경은 바르샤바 조약 기구 소속 국가의 제식인 도브테일 조준경 거치대가 달린 무기들에 장착하여 사용됩니다.\n \n
 		%c[d_purple] • %c[ui_gray_2] 배율: %c[ui_gray_1]4.0x\n
 		%c[d_purple] • %c[ui_gray_2] 상태: %c[ui_gray_1]좋음\n
 		%c[d_purple] • %c[ui_gray_2] 레티큘 패턴: %c[ui_gray_1]PSO-1</text>
@@ -20,9 +20,9 @@
 		<text>1P29 "튤립" 조준경</text>
 	</string>
 	<string id="st_addon_scope_1p29_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 모든 바르사야 조약 기구 소총\n \n%c[ui_gray_1]The USP-1 sight (index 1P29) has an optical arrangement with a prism-erecting system. Sighting angles are set mechanically by turning the sight body relative to the weapon mounting bracket. Requires no batteries as it is tritium illuminated. The ranging scale at the edge of the sight's field of view provides a means to find visually the range of up to 1200 m of a target 1.5 m high.\n \n
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 모든 바르샤바 조약 기구 소총\n \n%c[ui_gray_1]USP-1 조준경 (식별번호 1P29)은 프리즘 직립 방식의 광학 배열이 되어 있습니다. 시야각은 무기의 조준경 거치대에 따라 조준경의 몸체를 돌림으로써 기계적으로 맞출 수 있습니다. 트리튬 광원을 사용해 배터리를 요구하지 않습니다. 조준경 시야각 구석에 있는 거리 배율 눈금으로 1200미터 밖에 있는 1.5미터 크기의 표적을 눈으로 찾을 수 있습니다.\n \n
 		%c[d_purple] • %c[ui_gray_2] 배율: %c[ui_gray_1]4.0x\n
-		%c[d_purple] • %c[ui_gray_2] 상태: %c[ui_gray_1]good\n
+		%c[d_purple] • %c[ui_gray_2] 상태: %c[ui_gray_1]좋음\n
 		%c[d_purple] • %c[ui_gray_2] 레티큘 패턴: %c[ui_gray_1]PSU-1</text>
 	</string>
 	
@@ -71,7 +71,7 @@
 		<text>EKP 1S-03 "Kobra"</text>
 	</string>
 	<string id="st_addon_scope_kobra_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 모든 바르사야 조약 기구 소총\n \n%c[ui_gray_1]The Kobra sight is an open collimator combat optic using a laser generated HUD to superimpose a reticle pattern onto a filtered lens. It is designed for engaging fast moving targets and targets appearing for a short period of time in close quarters and urban combat in various light conditions. It provides clear targeting from 104 lx to 10-2 lx (daylight, twilight and moonlight), one or two eye targeting. Effective when shooting from moving vehicles.\n \n
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 모든 바르샤바 조약 기구 소총\n \n%c[ui_gray_1]The Kobra sight is an open collimator combat optic using a laser generated HUD to superimpose a reticle pattern onto a filtered lens. It is designed for engaging fast moving targets and targets appearing for a short period of time in close quarters and urban combat in various light conditions. It provides clear targeting from 104 lx to 10-2 lx (daylight, twilight and moonlight), one or two eye targeting. Effective when shooting from moving vehicles.\n \n
 		%c[d_purple] • %c[ui_gray_2] 배율: %c[ui_gray_1] none (collimator)\n
 		%c[d_purple] • %c[ui_gray_2] 상태: %c[ui_gray_1]very good</text>
 	</string>
@@ -90,7 +90,7 @@
 		<text>PSO-1M2-1 scope</text>
 	</string>
 	<string id="st_addon_scope_pso-1m2-01_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 모든 바르사야 조약 기구 소총\n \n%c[ui_gray_1]The PSO-1M2-O1 features an extremely effective and useful height-based rangefinder for dual use, with graduated scales for both standing and prone figure estimation. The 400 meter Simonov height based gradient (choke style) rangefinder has a chevron for use with the 9x39 calibre rifles.\n \n
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 모든 바르샤바 조약 기구 소총\n \n%c[ui_gray_1]The PSO-1M2-O1 features an extremely effective and useful height-based rangefinder for dual use, with graduated scales for both standing and prone figure estimation. The 400 meter Simonov height based gradient (choke style) rangefinder has a chevron for use with the 9x39 calibre rifles.\n \n
 		%c[d_purple] • %c[ui_gray_2] 배율: %c[ui_gray_1]4.0x\n
 		%c[d_purple] • %c[ui_gray_2] 상태: %c[ui_gray_1]very good\n
 		%c[d_purple] • %c[ui_gray_2] 레티큘 패턴: %c[ui_gray_1]PSO-1-1</text>
