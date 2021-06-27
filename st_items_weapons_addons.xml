@@ -100,162 +100,162 @@
 		<text>PU 조준경</text>
 	</string>
 	<string id="st_addon_scope_pu_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 역사적 가치가 있는 러시아 소총\n \n%c[ui_gray_1]Standard-issue telescopic sight of the Red Army in World War II and years after it, designed to fit infantry and precision rifles such as Mosin-Nagant or SVT-40. It features a fixed 3.5x zoom making it a good choice for long-distance combat. Like all Soviet designs, it is durable and effective, remaining in production and use to this day.\n \n
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 역사적 가치가 있는 러시아 소총\n \n%c[ui_gray_1]모신나강이나 SVT-40과 같은 보병용 또는 저격용 소총에 장착하기 위해 붉은 군대에서 제 2차 세계 대전과 그 이후까지 사용된 제식 망원 조준경입니다. 이 조준경은 3.5배율을 사용하여 장거리 교전을 위한 좋은 선택이 될 수 있습니다. 다른 소비에트제 물건들과 마찬가지로, 이 조준경은 견고하고 효과적이며 오늘날까지 생산 및 사용되고 있습니다.\n \n
 		%c[d_purple] • %c[ui_gray_2] 배율: %c[ui_gray_1]3.5x\n
-		%c[d_purple] • %c[ui_gray_2] 상태: %c[ui_gray_1]average\n
+		%c[d_purple] • %c[ui_gray_2] 상태: %c[ui_gray_1]보통\n
 		%c[d_purple] • %c[ui_gray_2] 레티큘 패턴: %c[ui_gray_1]PU</text>
 	</string>
 	
 	<string id="st_addon_scope_zf4">
-		<text>ZF-4 scope</text>
+		<text>ZF-4 조준경</text>
 	</string>
 	<string id="st_addon_scope_zf4_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] historic German rifles\n \n%c[ui_gray_1]ZF-4 is one of the first telescopic sights ever created. Designed and manufactured in Germany during World War II, it was intended to provide regular infantry with the ability to fight at long distances. In the end, due to insufficient numbers produced, it has been primarily used by German snipers and elite combat squads. The scope is still in use since weapons it has been designed for are commonly available, hence it remains a relatively popular model in the Zone as well.\n \n
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 역사적 가치가 있는 독일 소총\n \n%c[ui_gray_1]ZF-4는 인류가 만들어낸 가장 최초의 조준경 중 하나입니다. 제 2차 세계 대전 동안 독일에서 설계 및 제작된 이 조준경은 일반 보병들이 먼 거리에서 전투할 수 있도록 하기 위해 고안되었습니다. 하지만 불충분한 숫자만 생산된 관계로, 주로 독일군 저격수나 정예 전투부대들 위주로 지급되었습니다. 이 조준경이 사용되는 무기들은 아직도 널리 쓰이고 있기 때문에, 존에서도 아직까지 상당히 인기있는 물건으로 남아 있습니다.\n \n
 		%c[d_purple] • %c[ui_gray_2] 배율: %c[ui_gray_1]2.0x\n
-		%c[d_purple] • %c[ui_gray_2] 상태: %c[ui_gray_1]good\n
+		%c[d_purple] • %c[ui_gray_2] 상태: %c[ui_gray_1]좋음\n
 		%c[d_purple] • %c[ui_gray_2] 레티큘 패턴: %c[ui_gray_1]ZF-41</text>
 	</string>
 	
 	<string id="st_addon_scope_cmore">
-        <text>C-MORE Tactical Sight</text>
+        <text>C-MORE 전술 조준기</text>
     </string>
     <string id="st_addon_scope_cmore_descr">
-        <text>High performance red dot sight that provides an unlimited field of view, while eliminating obstruction and tunnel vision common to tube style scopes. The Railway series has a standard rail base pre-installed to allow the sight to be attached to most Weaver or Picatinny rail mounts or receivers.\n\n
+        <text>일반적인 튜브 형태의 조준기에서 나타나는 시야 차단이나 터널 비전 효과를 제거한, 거의 무한대의 가시 영역을 자랑하는 고성능 레드닷 조준기입니다. 레일웨이 계열 조준기는 대부분의 위버나 피카티니 레일 거치대 또는 총몸에 부착할 수 있는 표준형 레일 베이스가 장착되어 있습니다.\n\n
 		%c[d_purple] • %c[ui_gray_2] 배율: %c[ui_gray_1]없음 (조준기)\n
-		%c[d_purple] • %c[ui_gray_2] 상태: %c[ui_gray_1]good\n</text>
+		%c[d_purple] • %c[ui_gray_2] 상태: %c[ui_gray_1]좋음\n</text>
     </string>
 	
 	<string id="st_addon_scope_ac11090">
-        <text>AC11090 Red Dot Sight</text>
+        <text>AC11090 레드닷 조준경</text>
     </string>
     <string id="st_addon_scope_ac11090_descr">
-        <text>Cheap 2x magnification red dot sight for NATO assault rifles, submachine guns and on AK-12.</text>
+        <text>NATO 돌격소총, 기관단총 그리고 AK-12에 사용되는 저렴한 2배율 레드닷 조준경입니다.</text>
     </string>
 	
 	<string id="st_addon_sil_45">
-		<text>.45 ACP suppressor</text>
+		<text>.45 ACP 소음기</text>
 	</string>
 	<string id="st_addon_sil_45_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] .45 calibre weapons\n \n%c[ui_gray_1]Suppressor for .45 ACP pistols and submachine guns.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]very high (pistol)</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] .45 구경 무기들\n \n%c[ui_gray_1].45 ACP 탄을 사용하는 권총이나 기관단총에 장착하는 소음기입니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]매우 높음 (권총)</text>
 	</string>
 	
 	<string id="st_addon_sil_57">
-		<text>5.7x28 suppressor</text>
+		<text>5.7x28 소음기</text>
 	</string>
 	<string id="st_addon_sil_57_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 5.7 mm calibre weapons\n \n%c[ui_gray_1]Suppressor for the FN-P90 PDW.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]high</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 5.7 mm 구경 무기들\n \n%c[ui_gray_1]FN-P90 개인방어화기의 소음기입니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]높음</text>
 	</string>
 	
 	<string id="st_addon_sil_6p9">
-		<text>6P9 suppressor</text>
+		<text>6P9 소음기</text>
 	</string>
 	<string id="st_addon_sil_6p9_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 9 mm calibre weapons\n \n%c[ui_gray_1]Suppressor for the PB pistol.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]매우 좋음</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 9 mm 구경 무기들\n \n%c[ui_gray_1]PB 권총에 장착하는 소음기입니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]매우 좋음</text>
 	</string>
 	
 	<string id="st_addon_sil_9a91">
-		<text>9A-91/VSK-94 suppressor</text>
+		<text>9A-91/VSK-94 소음기</text>
 	</string>
 	<string id="st_addon_sil_9a91_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 9x39 calibre weapons\n \n%c[ui_gray_1]Suppressor for the 9A-91 carbine and VSK-94.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]very high</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 9x39 구경 무기들\n \n%c[ui_gray_1]9A-91 카빈 소총과 VSK-94 소총에 장착하는 소음기입니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]매우 높음</text>
 	</string>
 	
 	<string id="st_addon_sil_9mm">
-		<text>9mm suppressor</text>
+		<text>9mm 소음기</text>
 	</string>
 	<string id="st_addon_sil_9mm_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 9 mm calibre weapons\n \n%c[ui_gray_1]Suppressor for 9mm pistols and submachine guns. An effective sound suppressor for calibre 9x18 weapons. It is very archaic and yet quite effective. Its body contains a tightly-packed roll of fine brass mesh. The front of the unit comprises a set of rubber wipes with calibre-sized holes for the bullet to pass through. Normally used for close-combat engagements against lightly-armoured enemies and for assassinations.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]very high</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 9 mm 구경 무기들\n \n%c[ui_gray_1]9mm 권총이나 기관단총에 장착하는 소음기입니다. 9x18mm 구경의 무기에 사용되는 효율적인 발사음 억제기입니다. 역사가 아주 오래되었지만 아직 효과는 확실합니다. 소음기 몸체 안에는 세밀하게 뽑아낸 청동제 철망이 단단하게 말아져 있습니다. 소음기의 앞부분은 9mm 구경 크기의 구멍이 뚫린 고무 마개로 구성되어 있어 총알이 통과할 수 있습니다. 주로 경장갑을 걸친 적과의 근접전이나 암살에 사용됩니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]매우 높음</text>
 	</string>
 	
 	<string id="st_addon_sil_aps">
-		<text>APS suppressor</text>
+		<text>APS 소음기</text>
 	</string>
 	<string id="st_addon_sil_aps_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 9 mm calibre weapons\n \n%c[ui_gray_1]Suppressor for the OTs-33 "Pernach" pistol.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 9 mm 구경 무기들\n \n%c[ui_gray_1]OTs-33 "페르나치" 권총에 장착하는 소음기입니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]중간</text>
 	</string>
 	
 	<string id="st_addon_sil_atg">
-		<text>ATG suppressor</text>
+		<text>ATG 소음기</text>
 	</string>
 	<string id="st_addon_sil_atg_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 5.56, 7.62 calibre weapons\n \n%c[ui_gray_1]Suppressor for the AK-102, AK-103 and AK-104.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 5.56, 7.62 구경 무기들\n \n%c[ui_gray_1]AK-102, AK-103 그리고 AK-104에 장착하는 소음기입니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]중간</text>
 	</string>
 	
 	<string id="st_addon_sil_gemtech">
-		<text>Gemtech suppressor</text>
+		<text>젬테크 소음기</text>
 	</string>
 	<string id="st_addon_sil_gemtech_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 9 mm, .45 calibre weapons\n \n%c[ui_gray_1]Suppressor for the Glock and the FN-FNP.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]high</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 9 mm, .45 구경 무기들\n \n%c[ui_gray_1]글록과 FN-FNP에 사용되는 소음기입니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]높음</text>
 	</string>
 	
 	<string id="st_addon_sil_kzrzp">
-		<text>KZRZP suppressor</text>
+		<text>KZRZP 소음기</text>
 	</string>
 	<string id="st_addon_sil_kzrzp_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 7.62 calibre weapons\n \n%c[ui_gray_1]Suppressor for the SVD sniper rifle.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 7.62 구경 무기들\n \n%c[ui_gray_1]SVD 저격소총에 사용되는 소음기입니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]중간</text>
 	</string>
 	
 	<string id="st_addon_sil_nato">
-		<text>NATO suppressor</text>
+		<text>NATO 소음기</text>
 	</string>
 	<string id="st_addon_sil_nato_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] .45, 5.56, 7.62 calibre weapons\n \n%c[ui_gray_1]Suppressor for the standard NATO 5.56x45mm calibre rifles.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]high</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] .45, 5.56, 7.62 구경 무기들\n \n%c[ui_gray_1]표준 NATO 5.56mm 구경 소총에 사용되는 소음기입니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]높음</text>
 	</string>
 	
 	<string id="st_addon_sil_pbs1">
-		<text>PBS-1 suppressor</text>
+		<text>PBS-1 소음기</text>
 	</string>
 	<string id="st_addon_sil_pbs1_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 7.62 calibre weapons\n \n%c[ui_gray_1]Suppressor for noiseless and flameless firing from Kalashnikov 7.62mm.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 7.62 구경 무기들\n \n%c[ui_gray_1]칼라시니코프 7.62mm 소총에 소음과 소염 기능을 추가하기 위해 사용되는 소음기입니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]중간</text>
 	</string>
 	
 	<string id="st_addon_sil_pbs4">
-		<text>PBS-4 suppressor</text>
+		<text>PBS-4 소음기</text>
 	</string>
 	<string id="st_addon_sil_pbs4_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 5.45 calibre weapons\n \n%c[ui_gray_1]Suppressor for AKS-74U rifle.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 5.45 구경 무기들\n \n%c[ui_gray_1]AKS-74U 소총에 장착되는 소음기입니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]중간</text>
 	</string>
 	
 	<string id="st_addon_sil_sr25">
-		<text>SR-25 suppressor</text>
+		<text>SR-25 소음기</text>
 	</string>
 	<string id="st_addon_sil_sr25_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 7.62 mm calibre weapons\n \n%c[ui_gray_1]Suppressor for the SR-25\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]high</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 7.62 mm 구경 무기들\n \n%c[ui_gray_1]SR-25 소총에 사용되는 소음기입니다\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]높음</text>
 	</string>
 	
 	<string id="st_addon_sil_tgp-a">
-		<text>TGP-A suppressor</text>
+		<text>TGP-A 소음기</text>
 	</string>
 	<string id="st_addon_sil_tgp-a_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 5.45 calibre weapons\n \n%c[ui_gray_1]Suppressor for AK rifle series and RPK-74 machine guns.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 5.45 구경 무기들\n \n%c[ui_gray_1]AK 소총 계열과 RPK-74 경기관총에 사용되는 소음기입니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]중간</text>
 	</string>
 	
 	<string id="st_addon_sil_vihr">
-		<text>SR-3M suppressor</text>
+		<text>SR-3M 소음기</text>
 	</string>
 	<string id="st_addon_sil_vihr_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 9x39 calibre weapons\n \n%c[ui_gray_1]Suppressor for the SR-3M rifle.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]very high</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 9x39 구경 무기들\n \n%c[ui_gray_1]SR-3M 소총에 사용되는 소음기입니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]매우 높음</text>
 	</string>
 	
 	<string id="st_addon_silencer">
-		<text>US Army smallbore rifle suppressor</text>
+		<text>미 군용 소구경 소총 소음기</text>
 	</string>
 	<string id="st_addon_silencer_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 5.56x45 calibre weapons \n \n%c[ui_gray_1]Advanced rifle suppressor of US design and manufacture, which has apparently 'disappeared' from one of the US Army supply containers. It consists of hi-grade steel body filled with four extension chambers, followed by a series of Z-type titanium baffles. The unit almost completely reduces muzzle flash and considerably suppresses sound emitted when firing. It also requires minimum maintenance. Suppressors of this and similar types are commonly used on all smallbore Western-made rifles and remain in active service in Western armed forces.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]medium</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 5.56x45 구경 무기들 \n \n%c[ui_gray_1]미국에서 설계 및 생산된 진보된 형태의 소총 소음기이며, 미군 보급상자들 중 하나로부터 우연히 '사라진' 물건입니다. 이 소음기는 고품질 강철로 된 몸체와 Z형 티타늄 칸막이로 구분된 네 곳의 확장 챔버로 구성되어 있습니다. 발사 시 이 소음기는 총구 화염을 거의 완벽한 수준으로 억제하고 상당한 소음 억제 효과를 제공합니다. 또한 최소한의 유지보수만을 필요로 합니다. 이 소음기 및 유사한 형태의 소음기들은 서구권에서 만들어진 모든 소구경 소총들에 널리 사용되고 있으며 아직까지 서구권의 무장 단체에서 현역으로 사용되고 있습니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]중간</text>
 	</string>
 	
 	<string id="st_addon_silencer_svu">
-		<text>SVU suppressor</text>
+		<text>SVU 소음기</text>
 	</string>
 	<string id="st_addon_silencer_svu_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] SVU rifles\n \n%c[ui_gray_1]This specially designed three-chambered suppressor is not intended to completely silence the SVU rifle since the soldier would not be using subsonic ammunition. Its main purpose is to quiet and diffuse the noise enough to make detection by the enemy difficult. Its special feature is a very effective muzzle break placed on end of suppressor, capable of reducing recoil by about 40%. Above capabilities come at the cost of reduced muzzle velocity and thus significantly lower the weapon's damage output.\n \n%c[d_purple] • %c[ui_gray_2] Sound suppression: %c[ui_gray_1]low\n \n%c[ui_gray_1]SPECIAL:\n \n%c[d_red] • %c[ui_gray_2] enhanced recoil reduction</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] SVU 계열 소총들\n \n%c[ui_gray_1]이 특별히 설계된 세 칸막이로 이루어진 소음기는 이 소음기를 사용하는 병사가 아음속탄을 쓰지 않기 때문에 SVU 소총에게 완벽한 소음 효과를 주기 위해 고안된 물건은 아닙니다. 이 소음기의 주된 목적은 적이 탐지하기 어려울 정도로만 소음을 조용하게 만드는 것입니다. 이 소음기의 특별한 기능은 소음기 끝부분에 있는 매우 효과적인 반동 억제기로, 반동을 40% 가까이 감소해 줍니다. 이러한 특성들은 총구 초속을 감소시켜 무기의 피해량을 상당히 감소시킨다는 단점이 있습니다.\n \n%c[d_purple] • %c[ui_gray_2] 소음 성능: %c[ui_gray_1]낮음\n \n%c[ui_gray_1]SPECIAL:\n \n%c[d_red] • %c[ui_gray_2] 개선된 반동 감소 효과</text>
 	</string>
 	
 	<string id="st_addon_trijicon_acog">
-		<text>ACOG Scope</text>
+		<text>ACOG 조준경</text>
 	</string>
 	<string id="st_addon_trijicon_acog_descr">
-		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] selected NATO rifles\n \n%c[ui_gray_1]Detachable optical scope made specifically for NATO rifles. ACOG stands for Advanced Combat Optical Gunsights and refers to a family of firearm scopes produced by the Trijicon company. Scopes of this type are usually of high quality and have an internal tritium-based reticule illumination. This particular type has a modern 'trijicon' reticule pattern and fixed magnification of 2.0x.\n \n%c[d_purple] • %c[ui_gray_2] 배율: %c[ui_gray_1]2.0x\n%c[d_purple] • %c[ui_gray_2] 상태: %c[ui_gray_1]매우 좋음\n%c[d_purple] • %c[ui_gray_2] 레티큘 패턴: %c[ui_gray_1]trijicon</text>
+		<text>\n \n%c[ui_gray_2]호환성:\n \n%c[d_cyan] • %c[ui_gray_2] 특정 NATO 소총들\n \n%c[ui_gray_1]NATO 소총들에 장착하기 위해 만들어진 탈착 가능한 광학식 조준경입니다. ACOG (개선된 전투용 광학식 총기 조준경)은 트리지콘 사에서 제작된 일련의 총기 조준경을 뜻합니다. 이 방식의 조준경들은 대체적으로 높은 품질을 가지고 있고 트리튬 기반의 레티큘 광원이 내장되어 있습니다. 이 특별한 형식의 조준경은 현대적인 '트리지콘' 레티큘 패턴을 사용하며 2.0배율 고정 확대기능이 있습니다.\n \n%c[d_purple] • %c[ui_gray_2] 배율: %c[ui_gray_1]2.0x\n%c[d_purple] • %c[ui_gray_2] 상태: %c[ui_gray_1]매우 좋음\n%c[d_purple] • %c[ui_gray_2] 레티큘 패턴: %c[ui_gray_1]트리지콘</text>
 	</string>
 	
 </string_table>
