@@ -6,217 +6,217 @@
 
 <string_table>
 	<string id="st_upgr_required_materials">
-		<text>Necessary materials</text>
+		<text>필요한 재료</text>
 	</string>
 	<string id="st_upgr_enough_materials">
-		<text>Insufficient materials</text>
+		<text>부족한 재료</text>
 	</string>
 	<string id="st_prop_bullet_speed">
-		<text>Flatness</text>
+		<text>평탄도</text>
 	</string>
 	<string id="st_prop_calibre">
-		<text>Calibre</text>
+		<text>구경</text>
 	</string>
 	<string id="st_prop_recoil">
-		<text>Recoil</text>
+		<text>반동</text>
 	</string>
 	<string id="st_prop_reliability">
-		<text>Reliability</text>
+		<text>신뢰성</text>
 	</string>
 	<string id="st_prop_scope_1.6x">
-		<text>1.6x reflex sight</text>
+		<text>1.6배율 반사 조준경</text>
 	</string>
 	<string id="st_prop_scope_4x">
-		<text>4x optical scope</text>
+		<text>4배율 광학 조준경</text>
 	</string>
 	<string id="st_prop_silencer">
-		<text>Silencer affinity</text>
+		<text>소음기 부착 기능</text>
 	</string>
 	<string id="st_prop_underbarrel_slot">
-		<text>underbarrel mount</text>
+		<text>언더배럴 마운트</text>
 	</string>
 	<string id="st_prop_weight">
-		<text>Weight</text>
+		<text>무게</text>
 	</string>
 	<string id="st_up_add_a1_descr">
-		<text>External threading allows a silencer to be installed.</text>
+		<text>총열 외부에 홈을 파 소음기를 장착할 수 있게 합니다.</text>
 	</string>
 	<string id="st_up_add_a1_name">
-		<text>External threading of the barrel</text>
+		<text>총열 외부 스레딩</text>
 	</string>
 	<string id="st_up_add_a2_descr">
-		<text>Installation of a mount for attachment of an optical scope.</text>
+		<text>광학 조준경을 부착할 거치대를 설치합니다.</text>
 	</string>
 	<string id="st_up_add_a2_name">
-		<text>Optical mount</text>
+		<text>조준경 거치대</text>
 	</string>
 	<string id="st_up_add_a3_descr">
-		<text>Installation of a mount for attachment of an underbarrel grenade launcher.</text>
+		<text>언더배럴 유탄 발사기를 부착할 거치대를 설치합니다.</text>
 	</string>
 	<string id="st_up_add_a3_name">
-		<text>Underbarrel grenade launcher mount</text>
+		<text>언더배럴 유탄 발사기 거치대</text>
 	</string>
 	<string id="st_up_add_a4_descr">
-		<text>Replacing a standard magazine with a bigger one.</text>
+		<text>기본 탄창을 더 용량이 큰 것으로 교체합니다.</text>
 	</string>
 	<string id="st_up_add_a4_name">
-		<text>Increased magazine capacity</text>
+		<text>탄창 용량 증가</text>
 	</string>
 	<string id="st_up_add_b1_descr">
-		<text>A complex, integrated alteration of the weapon's mechanical and automated parts, which allows its calibre to be changed at the cost of reliability.</text>
+		<text>신뢰성을 희생하여 총기의 구경을 바꾸기 위해, 무기의 기계 구조 및 자동화 부품들에 대한 복잡하고 일괄적인 개조를 시행합니다.</text>
 	</string>
 	<string id="st_up_add_b1_name">
-		<text>Change of calibre to 5.45x39</text>
+		<text>5.45x39mm 구경으로 전환</text>
 	</string>
 	<string id="st_up_add_b2_descr">
-		<text>A complex, integrated alteration of the weapon's mechanical and automated parts, which allows its calibre to be changed at the cost of reliability.</text>
+		<text>신뢰성을 희생하여 총기의 구경을 바꾸기 위해, 무기의 기계 구조 및 자동화 부품들에 대한 복잡하고 일괄적인 개조를 시행합니다.</text>
 	</string>
 	<string id="st_up_add_b2_name">
-		<text>Change of calibre to 5.56x45</text>
+		<text>5.56x45mm 구경으로 전환</text>
 	</string>
 	<string id="st_up_add_b3_descr">
-		<text>A complex, integrated alteration of the weapon's mechanical and automated parts, which allows its calibre to be changed at the cost of reliability.</text>
+		<text>신뢰성을 희생하여 총기의 구경을 바꾸기 위해, 무기의 기계 구조 및 자동화 부품들에 대한 복잡하고 일괄적인 개조를 시행합니다.</text>
 	</string>
 	<string id="st_up_add_b3_name">
-		<text>Change of calibre to 9x18</text>
+		<text>9x18mm 구경으로 전환</text>
 	</string>
 	<string id="st_up_add_b4_descr">
-		<text>A complex, integrated alteration of the weapon's mechanical and automated parts, which allows its calibre to be changed at the cost of reliability.</text>
+		<text>신뢰성을 희생하여 총기의 구경을 바꾸기 위해, 무기의 기계 구조 및 자동화 부품들에 대한 복잡하고 일괄적인 개조를 시행합니다.</text>
 	</string>
 	<string id="st_up_add_b4_name">
-		<text>Change of calibre to 9x19</text>
+		<text>9x19mm 구경으로 전환</text>
 	</string>
 	<string id="st_up_add_b5_descr">
-		<text>A complex, integrated alteration of the weapon's mechanical and automated parts, which allows its calibre to be changed at the cost of reliability.</text>
+		<text>신뢰성을 희생하여 총기의 구경을 바꾸기 위해, 무기의 기계 구조 및 자동화 부품들에 대한 복잡하고 일괄적인 개조를 시행합니다.</text>
 	</string>
 	<string id="st_up_add_b5_name">
-		<text>Change of calibre to 7.62x39</text>
+		<text>7.62x39mm 구경으로 전환</text>
 	</string>
 	<string id="st_up_add_b6_descr">
-		<text>A complex, integrated alteration of the weapon's mechanical and automated parts, which allows its calibre to be changed at the cost of reliability.</text>
+		<text>신뢰성을 희생하여 총기의 구경을 바꾸기 위해, 무기의 기계 구조 및 자동화 부품들에 대한 복잡하고 일괄적인 개조를 시행합니다.</text>
 	</string>
 	<string id="st_up_add_b6_name">
-		<text>Change of calibre to 7.62x51</text>
+		<text>7.62x51mm 구경으로 전환</text>
 	</string>
 	<string id="st_up_add_b7_descr">
-		<text>A complex, integrated alteration of the weapon's mechanical and automated parts, which allows its calibre to be changed at the cost of reliability.</text>
+		<text>신뢰성을 희생하여 총기의 구경을 바꾸기 위해, 무기의 기계 구조 및 자동화 부품들에 대한 복잡하고 일괄적인 개조를 시행합니다.</text>
 	</string>
 	<string id="st_up_add_b7_name">
-		<text>Change of calibre to 7.62x54</text>
+		<text>7.62x54mm 구경으로 전환</text>
 	</string>
 	<string id="st_up_addd_a1_descr">
-		<text>Magazine capacity increase without increasing weapon part length.</text>
+		<text>무기 부품의 길이를 늘리지 않고 탄창 용량을 늘립니다.</text>
 	</string>
 	<string id="st_up_addd_a1_name">
-		<text>Magazine capacity increase</text>
+		<text>탄창 용량 증가</text>
 	</string>
 	<string id="st_up_addh_a1_descr">
-		<text>A lighter yet higher-capacity polycarbonate box magazine, which offsets some of the weight increase.</text>
+		<text>가볍지만 더 많은 용량을 가진 폴리카보네이트 박스 탄창을 사용하여, 용량 증가로 인한 무게 증가를 상쇄합니다.</text>
 	</string>
 	<string id="st_up_addh_a1_name">
-		<text>Increased box magazine capacity</text>
+		<text>박스형 탄창 용량 증가</text>
 	</string>
 	<string id="st_up_autd_a1_descr">
-		<text>Adjustment of components allows the weapon to last longer without jamming.</text>
+		<text>무기 부품들을 교정하여 탄이 걸리지 않은 상태가 좀 더 오래 유지됩니다.</text>
 	</string>
 	<string id="st_up_autd_a1_name">
-		<text>Component adjustment</text>
+		<text>무기 부품 교정</text>
 	</string>
 	<string id="st_up_autd_a2_descr">
-		<text>The fashion for plastic components has not only paid off, but it has also become quite a popular upgrade.</text>
+		<text>플라스틱 부품의 유행은 잘 팔릴 뿐 아니라 상당히 인기있는 개조 방식을 만들었습니다.</text>
 	</string>
 	<string id="st_up_autd_a2_name">
-		<text>Poly-material components</text>
+		<text>플라스틱 소재 부품</text>
 	</string>
 	<string id="st_up_autd_b1_descr">
-		<text>A low impulse firing mechanism ensures less recoil than older versions.</text>
+		<text>충격이 감소된 발사 방식으로 인해 이전에 비해 반동이 줄어듭니다.</text>
 	</string>
 	<string id="st_up_autd_b1_name">
-		<text>Low impulse firing mechanism</text>
+		<text>저반동 발사 메커니즘</text>
 	</string>
 	<string id="st_up_autd_b2_descr">
-		<text>Thanks to firm positioning of the round as it is fired, the bullet continues on a straight path and hits the target.</text>
+		<text>탄환이 발사되기 전에 확실히 맞물리게 된 결과, 탄자가 더 곧은 직선을 따라 목표물에 명중합니다.</text>
 	</string>
 	<string id="st_up_autd_b2_name">
-		<text>Installation of a round positioning unit</text>
+		<text>탄약 위치 교정 부품 설치</text>
 	</string>
 	<string id="st_up_autd_b3_descr">
-		<text>Often used in weaponry, a roller locking system reduces recoil and improves groupings.</text>
+		<text>무기에 자주 사용되는 롤러 고정 방식은 반동을 줄이고 탄착군을 개선합니다.</text>
 	</string>
 	<string id="st_up_autd_b3_name">
-		<text>Semifree bolt with a roller system</text>
+		<text>롤러 방식의 세미프리형 노리쇠</text>
 	</string>
 	<string id="st_up_autd_b4_descr">
-		<text>Installation of an additional gas cylinder reduces weapon load, which allows the rate of fire to be increased significantly.</text>
+		<text>추가 가스 실린더를 설치하여 무기가 받는 부담을 경감하여, 연사력을 상당히 증가시킵니다.</text>
 	</string>
 	<string id="st_up_autd_b4_name">
-		<text>Installation of an additional gas cylinder</text>
+		<text>추가 가스 실린더 설치</text>
 	</string>
 	<string id="st_up_autd_b5_descr">
-		<text>A gas motor is used in self-cocking shotguns for semi-automatic fire.</text>
+		<text>가스 모터는 반자동 방식의 셀프코킹 산탄총에서 사용됩니다.</text>
 	</string>
 	<string id="st_up_autd_b5_name">
-		<text>Gas motor installation</text>
+		<text>가스 모터 설치</text>
 	</string>
 	<string id="st_up_autd_c1_descr">
-		<text>Protective sputter makes misfiring due to mechanism malfunction impossible.</text>
+		<text>견고한 스퍼터는 총기의 오작동으로 인한 오발을 막아줍니다.</text>
 	</string>
 	<string id="st_up_autd_c1_name">
-		<text>Protective component sputter</text>
+		<text>견고한 부품 스퍼터</text>
 	</string>
 	<string id="st_up_autd_c2_descr">
-		<text>When a shot is fired, a component opens a path into the barrel and returns to the closed position by means of a lengthwise sliding movement of the foregrip.</text>
+		<text>탄이 발사될 때, 장전손잡이의 충분한 길이의 움직임을 통해 한 부품이 총열 안으로 들어가는 통로를 연 뒤 다시 폐쇄된 위치로 돌아갑니다.</text>
 	</string>
 	<string id="st_up_autd_c2_name">
-		<text>Barrel closing system</text>
+		<text>총열 폐쇄 장치</text>
 	</string>
 	<string id="st_up_autd_c3_descr">
-		<text>An inertial automatic system allows the pump-action mechanism on regular shotguns to be converted into a self-cocking one.</text>
+		<text>관성에 의한 자동 장전 시스템은 일반적인 산탄총의 펌프액션 작동방식을 셀프코킹 방식으로 변환합니다.</text>
 	</string>
 	<string id="st_up_autd_c3_name">
-		<text>Installation of an inertial automatic system</text>
+		<text>관성형 자동 장전 시스템 설치</text>
 	</string>
 	<string id="st_up_autd_c4_descr">
-		<text>A unified blowback module is one of the best technological solutions for reducing recoil.</text>
+		<text>통합형 블로우백 모듈은 반동을 줄이는 데 사용되는 가장 뛰어난 기술적인 해결법들 중 하나입니다.</text>
 	</string>
 	<string id="st_up_autd_c4_name">
-		<text>Unified blowback module</text>
+		<text>통합형 블로우백 모듈</text>
 	</string>
 	<string id="st_up_autd_c5_descr">
-		<text>An automatic driving rod improves a weapon's precision.</text>
+		<text>자동 드라이빙 로드는 무기의 정밀함을 개선해 줍니다.</text>
 	</string>
 	<string id="st_up_autd_c5_name">
-		<text>Installation of an automatic driving rod</text>
+		<text>자동 드라이빙 로드 설치</text>
 	</string>
 	<string id="st_up_auth_a1_descr">
-		<text>An active counter-weight moves from the bolt frame, partially compensating for recoil.</text>
+		<text>동적 무게 상쇄 장치는 노리쇠 뭉치에서 작동하여, 반동을 일부 상쇄합니다.</text>
 	</string>
 	<string id="st_up_auth_a1_name">
-		<text>Addition of an active counter-weight</text>
+		<text>동적 무게 상쇄 장치 추가</text>
 	</string>
 	<string id="st_up_auth_b1_descr">
-		<text>Installation of additional roller parts reduces recoil.</text>
+		<text>추가 롤러 부품을 설치하여 반동을 줄입니다.</text>
 	</string>
 	<string id="st_up_auth_b1_name">
-		<text>Installation of a blowback roller compensation system</text>
+		<text>블로우백 롤러 보조 시스템 설치</text>
 	</string>
 	<string id="st_up_auth_c1_descr">
-		<text>Replacement of the weapon's bolt mechanism with a more suitable design, which improves the rate of fire.</text>
+		<text>무기의 노리쇠 작동방식을 좀 더 적합한 디자인으로 교체하여, 연사력을 높입니다.</text>
 	</string>
 	<string id="st_up_auth_c1_name">
-		<text>Open bolt firing systems</text>
+		<text>개방형 노리쇠 사격 시스템</text>
 	</string>
 	<string id="st_up_auth_c2_descr">
-		<text>When the weapon is fired, the bolt frame counter-weight moves in the opposite direction to the bolt, which allows for more comfortable firing of the machine gun.</text>
+		<text>무기를 발사할 때, 노리쇠 뭉치의 무게 상쇄 장치가 노리쇠의 반대 방향으로 이동하여, 기관총의 사격을 좀 더 안정적으로 만듭니다.</text>
 	</string>
 	<string id="st_up_auth_c2_name">
-		<text>Installation of a self-regulating counter-weight</text>
+		<text>셀프-레귤레이팅 무게 상쇄 장치 설치</text>
 	</string>
 	<string id="st_up_auto_a1_descr">
-		<text>A counter-weight is installed as an additional component into the receiver to reduce recoil by means of counter force.</text>
+		<text>무게 상쇄 장치는 리시버 안의 추가 부품으로 설치되어 반발력을 이용해 반동을 줄입니다.</text>
 	</string>
 	<string id="st_up_auto_a1_name">
-		<text>Addition of a mobile counter-weight</text>
+		<text>이동식 무게 상쇄 장치 추가</text>
 	</string>
 	<string id="st_up_auto_a2_descr">
 		<text>The fashion for polymer components has not only paid off, but it has also become quite a popular upgrade.</text>
@@ -459,7 +459,7 @@
 		<text>Addition of an active counter-weight to the barrel jacket</text>
 	</string>
 	<string id="st_up_bard_c6_descr">
-		<text>A complex, integrated alteration of the weapon's mechanical and automated parts, which allows its calibre to be changed at the cost of reliability.</text>
+		<text>신뢰성을 희생하여 총기의 구경을 바꾸기 위해, 무기의 기계 구조 및 자동화 부품들에 대한 복잡하고 일괄적인 개조를 시행합니다.</text>
 	</string>
 	<string id="st_up_bard_c6_name">
 		<text>Change of calibre to 7.62x54</text>
@@ -1928,7 +1928,7 @@
 	</string>
 	
 	<string id="st_up_resp_a1_descr">
-		<text>Standard-issue 1PN93-1 Russian Military Forces night-vision device. This modified version can be mounted on a combat helmet. Offers generation 2+ image intensification, especially useful for operations at night or in low-light conditions. After removing the battery compartment and replacing it with UPD input, total weight was reduced to bearable ~1,5 kg. Purchased and delivered as a complete set, it also features a mounting interface, which enables to install better devices in the future. Depletes UPD at a high rate.\n \n%c[d_cyan] � %c[default] high UPD consumption</text>
+		<text>Standard-issue 1PN93-1 Russian Military Forces night-vision device. This modified version can be mounted on a combat helmet. Offers generation 2+ image intensification, especially useful for operations at night or in low-light conditions. After removing the battery compartment and replacing it with UPD input, total weight was reduced to bearable ~1,5 kg. Purchased and delivered as a complete set, it also features a mounting interface, which enables to install better devices in the future. Depletes UPD at a high rate.\n \n%c[d_cyan]  %c[default] high UPD consumption</text>
 	</string>
 	<string id="st_up_resp_a1_name">
 		<text>1PN93-1 night vision device</text>
@@ -1943,7 +1943,7 @@
 		<text>Steam purification & respiration mask</text>
 	</string>
 	<string id="st_up_resp_b1_descr">
-		<text>Modern-day, IIT generation PN21KL night-vision device produced by Novosibirsk Instrument-Making Plant. Head-mounted, greatly enhances vision in low-light conditions. Features advanced image-processing software which displays images in shades of grey. Requires base mounting grid to be installed. With weight of about 270 grams, it is significantly lighter than other helmets. Can be upgraded with better lenses and more sophisticated image-processing software by means of an upgrade kit.\n \n%c[d_cyan] � %c[default] high UPD consumption</text>
+		<text>Modern-day, IIT generation PN21KL night-vision device produced by Novosibirsk Instrument-Making Plant. Head-mounted, greatly enhances vision in low-light conditions. Features advanced image-processing software which displays images in shades of grey. Requires base mounting grid to be installed. With weight of about 270 grams, it is significantly lighter than other helmets. Can be upgraded with better lenses and more sophisticated image-processing software by means of an upgrade kit.\n \n%c[d_cyan]  %c[default] high UPD consumption</text>
 	</string>
 	<string id="st_up_resp_b1_name">
 		<text>PN21KL night vision device</text>
